@@ -1,23 +1,11 @@
 
 [[links]]
 title = "web-work.tools"
-url = "/posts/web-work.tools/"
+url = "http://web-work.tools"
 
 [[links]]
-title = "Services"
-url = "/posts/services/"
-
-[[links]]
-title = "Mostly Free SEO Tools"
-url = "/posts/seo-tools/"
-
-[[links]]
-title = "GitHub Pages Starter Pack"
-url = "/posts/github-pages-starter-pack/"
-
-[[links]]
-title = "Practical Public Key Crypto"
-url = "/posts/practical-public-key-crypto/"
+title = "InfoMine"
+url = "http://infominer.id/"
 
 [[links]]
 title = "IndieWeb Resources"
@@ -28,7 +16,11 @@ title = "IndieWeb Github Repos"
 url = "/posts/indieweb-github-repos/"
 
 [[links]]
-title = "InfoMine"
-url = "http://infominer.id/"
+title = "GitHub Pages Starter Pack"
+url = "http://web-work.tools/github-pages-starter-pack/"
+
+[[links]]
+title = "Practical Public Key Crypto"
+url = "http://web-work.tools/practical-public-key-crypto/"
 
 

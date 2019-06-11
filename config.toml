@@ -6,12 +6,12 @@ title = "Static Sites for an Indieweb"
 copyright = "⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉"
 languageCode = "en-gb"
 theme = "indigo"
-paginate = 11
+paginate = 5
 
 [params]
   Author = "Infominer"
-  description = "Resources for Independent Webworkers: Web-Publishing, SEO, Static Site Generators, Ubuntu, Git, Practical Crypto."
-  Subtitle = "Independent Web-Work and Skyscraper Publishing"
+  description = "Resources for Indieweb Principles, Practice and Design"
+  Subtitle = "An exploration of the Indiewebiverse."
   Avatar = "images/infominer.svg"
   Biography = "Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, Indieweb ⧉ her/him"
   ShowBio = true
