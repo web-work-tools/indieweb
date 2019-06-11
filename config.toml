@@ -1,7 +1,7 @@
 publishdir = "docs"
 enableEmoji = true
   
-baseurl = "https://web-work.tools/indieweb"
+baseurl = "https://web-work.tools/indieweb/"
 title = "Static Sites for an Indieweb"
 copyright = "⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉"
 languageCode = "en-gb"
