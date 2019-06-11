@@ -33,7 +33,7 @@ I cover most anything you'd need to get started with GitHub Pages in:
 ## Taking Back Your Content
 
 <div class="h-card">
-	<img src="https://web-work.tools/images/info.png" class="u-photo" width="40">
+	<img src="https://web-work.tools/indieweb/images/info.png" class="u-photo" width="40">
   <a href="https://infominer.id" class="u-url p-name">InfoMine ⧉</a>
 </div>	
 
@@ -42,7 +42,7 @@ I cover most anything you'd need to get started with GitHub Pages in:
 
   <p class="e-content"><iframe width="560" height="315" src="https://www.youtube.com/embed/y9FSPcmybT8" frameborder="0" allow="encrypted-media" allowfullscreen></iframe><br/><br/>At the end of that video, we are directed to <a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">Your First Webmention</a>. </p>
 
-  <a href="https://web-work.tools/indieweb-resources/" class="u-url">
+  <a href="https://web-work.tools/indieweb/indieweb-resources/" class="u-url">
   <time class="dt-published" datetime="2019-05-19">May 05, 2019</time></a>
 </div>
 
@@ -140,7 +140,7 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 * [tokens.indieauth.com/](https://tokens.indieauth.com/)
 * [indieauth.spec.indieweb.org/](https://indieauth.spec.indieweb.org/)
 * [https://indieweb.org/token-endpoint#Creating_a_token_endpoint](https://indieweb.org/token-endpoint#Creating_a_token_endpoint)
-* [Freenode #indieweb-dev on DIDs\Indieauth](https://web-work.tools/indieweb-dev-on-did/)
+* [Freenode #indieweb-dev on DIDs\Indieauth](https://web-work.tools/indieweb/indieweb-dev-on-did/)
 
 
 ### Install IndieAuth Server
