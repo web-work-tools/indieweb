@@ -1,15 +1,15 @@
-# web-work.tools
-Apparently github won't publish this from the docs, so I moved the project to GitLab, and will keep it mirrored.
+---
+type: post
+title: "web-work.tools"
+description: "All your web-work.tools are Belong to Us!"
+date: 2019-05-24
+aliases: /web-work.tools/
+slug: /web-work.tools/
+share: true
+menu: "main"
+---
 
-https://gitlab.com/infominer33/website
-
-Please see >>>>>>
-
-# [Webwork.tools](https://web-work.tools)
-
-
-![](https://web-work.tools/images/webwork-tools.png)
-
+![](https://web-work.tools/images/power-words.png)
 
 This blog is where I document my journey as an independent web-worker, and will grow to include contributions from other independent workers of the web.
 
@@ -17,7 +17,7 @@ This page has some samples of content that I've created for others, as well as g
 
 Originally it wasn't in blog form... but I just looked on github, to see when I started, and chose the date that way, for each. 
 
-
+![](https://imgur.com/j1TZ1Zf.png)
 
 ## Articles by Infominer
 
@@ -27,7 +27,8 @@ Originally it wasn't in blog form... but I just looked on github, to see when I 
 * <a href="https://www.csbtechemporium.com/types-of-computer-programming/" target="_blank">How Many Types of Software Development are there?</a>
 * <a href="https://www.csbtechemporium.com/digital-age-small-business/" target="_blank">Small Business in the Digital Age.</a>
 
-![](https://imgur.com/j1TZ1Zf.png)
+
+![](https://web-work.tools/images/webwork-tools.png)
 
 ## Site Index
 
@@ -59,18 +60,9 @@ Eventually this will live along in the same site with web-work.. though I'm not 
 
 ### SEO
 
-<<<<<<< HEAD
 * [Learn-SEO](https://web-work.tools/learn-seo/)
   * [Getting Started with Adwords Keyword Planner](https://web-work.tools/getting-started-adwords-keyword-planner/)
 * [100s of free SEO Tools](https://web-work.tools/seo-tools/)
-=======
-![](https://web-work.tools/images/power-words.png)
-
-
-* [Learn-SEO](https://webwork.tools/learn-seo/)
-  * [Getting Started with Adwords Keyword Planner](https://webwork.tools/getting-started-adwords-keyword-planner/)
-* [100s of free SEO Tools](https://webwork.tools/seo-tools/)
->>>>>>> 12f33e341de9cef3c4b15da9259e41d37436e69e
 
 
 ## Off-Site Resources
@@ -101,4 +93,3 @@ The following are "Top Level" web-work resources that do not yet have their own 
 ### Devops
 
 * [Leo-G/DevopsWiki](https://github.com/Leo-G/DevopsWiki)
-
