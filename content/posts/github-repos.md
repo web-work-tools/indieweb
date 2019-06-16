@@ -9,9 +9,10 @@ categories: ["resources"]
 aliases:
   - /posts/github/
   - /github/
+  - /github-repos/
   - /indieweb-github-repos/
   - /posts/indieweb-github-repos/
-slug: /indieweb-github-repos/
+slug: /github-repos/
 summary: "A start at exploring Indieweb Topics"
 ---
 
