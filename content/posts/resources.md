@@ -11,7 +11,6 @@ aliases:
   - /posts/indieweb-resources
   - /indieweb-resources/
   - /posts/resources/
-  - /resources
 summary: "When you post something on the web, it should belong to you, not a corporation. Too many companies have gone out of business and lost all of their users’ data. By joining the IndieWeb, your content stays yours and in your control."
 ---
 
