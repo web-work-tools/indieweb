@@ -5,7 +5,7 @@ description: "A Growing Collection of Indieweb GitHub Repositories."
 date: "2019-05-19"
 tags: [indieweb, github-pages, resources, github, jekyll, static-sites]
 subtitle: "A Growing Collection of Indieweb GitHub Repositories."
-category: indieweb
+categories: ["resources"]
 aliases:
   - /posts/github/
   - /github/

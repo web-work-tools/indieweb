@@ -2,15 +2,16 @@
 type: post
 title: Indieweb Resources
 date: "2019-05-19"
-category: indieweb
+categories: ["resources"]
 tags: [indieweb, github-pages, resources, jekyll static-sites]
 subtitle: To Become An Extensive Collection
-slug: /indieweb-resources/
+slug: /resources/
 aliases:
   - /posts/indieweb-resources/
+  - /posts/indieweb-resources
   - /indieweb-resources/
   - /posts/resources/
-  - /resources/
+  - /resources
 summary: "When you post something on the web, it should belong to you, not a corporation. Too many companies have gone out of business and lost all of their users’ data. By joining the IndieWeb, your content stays yours and in your control."
 ---
 

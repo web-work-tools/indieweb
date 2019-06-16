@@ -14,12 +14,18 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/categories/did/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/indieweb-dev-on-did/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/indigo-authors-indieweb/</loc>
+    <loc>https://web-work.tools/indieweb/indigo-authors/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -102,12 +108,12 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/indieweb-github-repos/</loc>
+    <loc>https://web-work.tools/indieweb/github-repos/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/indieweb-resources/</loc>
+    <loc>https://web-work.tools/indieweb/resources/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -131,6 +137,12 @@
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/jekyll-static-sites/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/categories/resources/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

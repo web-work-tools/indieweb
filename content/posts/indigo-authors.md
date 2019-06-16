@@ -4,8 +4,11 @@ title: "Indigo Authors - Indiweb Features"
 date: 2019-06-03
 categories: ["meta"]
 tags: ["options", "indieweb","hugo","front matter"]
-slug: /indigo-authors-indieweb/
+slug: /indigo-authors/
 aliases:
+  - /indigo-authors
+  - /indigo-authors/
+  - /indigo-authors-indieweb
   - /indigo-authors-indieweb/
   - /posts/indigo-authors-indieweb/
 

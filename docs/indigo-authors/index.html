@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     
-    <title>meta</title>
+    <title>Indigo Authors - Indiweb Features</title>
     <meta name="description" content="Resources for Indieweb Principles, Practice and Design">
     <meta name="author" content="Infominer">
     
@@ -124,38 +124,148 @@
     </div>
 </nav>
         
-        <div id="site-header">
-            <h1>Static Sites for an Indieweb</h1>
-            
-            <p>
-              An exploration of the Indiewebiverse.
-            </p>
-            
-        </div>
-        
     </header>
 
-<h2>meta</h2>
+
+
+
 <div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">Indigo Authors - Indiweb Features</h1>
+            
+            <p class="post-date">Posted on
+                <time class="dt-published" datetime="2019-06-03T00:00:00Z">
+                3 June, 2019 at 00:00 UTC
+                </time>  by <a href="https://web-work.tools/indieweb/" class="p-author h-card" rel="author">Infominer</a>
+            </p>
+            
+            
+            <p class="post-tag">Category: 
+                
+                <a href="https://web-work.tools/indieweb/categories/meta" class="post-tag p-category">meta</a>
+                
+            </p>
+            <hr class="post-underline">
+            
+        </header>
+        <section class="content e-content">
+            
 
+<h2 id="notes-from-the-editor">Notes from the Editor</h2>
 
-    <article>
-      <header>
-        
-        <h2 class="list-title"><a href="https://web-work.tools/indieweb/indigo-authors/">Indigo Authors - Indiweb Features</a></h2>
-        
-        <p class="list-post-date">
-          <time datetime="2019-06-03T00:00:00Z">
-            3 June, 2019 at 00:00 UTC
-          </time>
-        </p>
-      </header>
-      <div>
-        The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note. I&rsquo;ll be exploring these classes more thoroughly, soon.
-      </div>
-      
+<p>I&rsquo;m noticing that the repository hasn&rsquo;t been recently updated by it&rsquo;s owner, however, I can find some helpful contributions from the community:</p>
+
+<ul>
+<li><a href="https://github.com/AngeloStavrow/indigo/pulls">https://github.com/AngeloStavrow/indigo/pulls</a></li>
+</ul>
+
+<p>*note, I changed the date so it would bump to the top.</p>
+
+<h2 id="indigo-authors">Indigo Authors</h2>
+
+<p>The bottom of every page in the theme can optionally show a short biography of the site author, including a profile picture, email link, and location.</p>
+
+<h2 id="setting-up-the-author-bio">Setting up the author bio</h2>
+
+<p>A set of configuration options are used for displaying the biography.</p>
+
+<pre><code>[params]
+  Author = &quot;Author Name&quot;
+  Avatar = &quot;images/site-logo.svg&quot;
+  Biography = &quot;A short description, a few sentences describing the author. Set
+               the 'ShowBio' parameter to false to hide this.&quot;
+  ShowBio = true        
+
+[params.indieWeb]  
+    EmailAddress = &quot;email.address@example.com&quot;
+    Country = &quot;CountryName&quot;
+    City = &quot;CityName&quot;
+</code></pre>
+
+<p>Specifics on each setting item are as follows:</p>
+
+<ul>
+<li><code>Author</code>: Your name; this is the site author name.</li>
+<li><code>Avatar</code>: The path to your profile picture. By default, it will show the theme&rsquo;s logo (<code>/static/images/site-logo.svg</code>).</li>
+<li><code>Biography</code>: Hopefully the placeholder text here is self-explanatory; add a couple of short sentences about yourself here.</li>
+<li><code>ShowBio</code>: If you prefer not to show the author bio, set this to <code>false</code>. By default, it&rsquo;s set to <code>true</code>.</li>
+<li><code>EmailAddress</code>: The email address at which you can be contacted.</li>
+<li><code>Country</code>: The name of the country in which you live.</li>
+<li><code>City</code>: The name of the city in which you live.</li>
+</ul>
+
+<h2 id="indieweb-features">IndieWeb features</h2>
+
+<p>The following classes are used to mark up the author bio for <a href="https://indieweb.org/">IndieWeb</a> parsing:</p>
+
+<table>
+<thead>
+<tr>
+<th align="left">Element</th>
+<th align="left">Class</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left">The author card</td>
+<td align="left"><code>h-card</code></td>
+</tr>
+
+<tr>
+<td align="left">Profile picture</td>
+<td align="left"><code>u-photo</code></td>
+</tr>
+
+<tr>
+<td align="left">Author URL*</td>
+<td align="left"><code>p-name</code>, <code>u-url</code>, <code>rel=me</code></td>
+</tr>
+
+<tr>
+<td align="left">City</td>
+<td align="left"><code>p-locality</code></td>
+</tr>
+
+<tr>
+<td align="left">Country</td>
+<td align="left"><code>p-country-name</code></td>
+</tr>
+
+<tr>
+<td align="left">Email address</td>
+<td align="left"><code>u-email</code></td>
+</tr>
+
+<tr>
+<td align="left">Biography</td>
+<td align="left"><code>p-note</code></td>
+</tr>
+</tbody>
+</table>
+
+<p>*Author URL is set to the site&rsquo;s base URL.</p>
+
+        </section>
+        <footer>
+            <a class="permalink u-url" href="https://web-work.tools/indieweb/indigo-authors/">🔗</a>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Tags for this post: 
+            
+                <a href="https://web-work.tools/indieweb/tags/options" class="post-tag p-category">options</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/indieweb" class="post-tag p-category">indieweb</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/hugo" class="post-tag p-category">hugo</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/front-matter" class="post-tag p-category">front matter</a>
+            
+            </p>
+            
+        </footer>
     </article>
-
 </div>
 
     
@@ -173,6 +283,22 @@
     </div>
     
     <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="prev">
+          
+          <a alt="Newer article" href="https://web-work.tools/indieweb/github-repos/">&larr; Newer</a>
+          
+        </div>
+        <div class="top">
+          <a alt="Top of page" href="#">Top</a>
+        </div>
+        <div class="next">
+          
+          <a alt="Older article" href="https://web-work.tools/indieweb/indieweb-dev-on-did/">Older &rarr;</a>
+          
+        </div>
+      </nav>
       
       <aside id="social">
   <div id="social-icons">
