@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Mon, 03 Jun 2019 11:22:33 -2300</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 01:22:33 -2300</lastBuildDate>
     
         <atom:link href="https://web-work.tools/indieweb/index.xml" rel="self" type="application/rss+xml" />
     
@@ -92,6 +92,440 @@
 
 &lt;p&gt;&lt;strong&gt;I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.&lt;/strong&gt;
 {: .notice&amp;ndash;warning}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indigo - A Hugo Indiweb Theme - Features</title>
+      <link>https://web-work.tools/indieweb/indigo-indieweb-features/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indigo-indieweb-features/</guid>
+      <description>
+
+&lt;p&gt;Hey!!! So I&amp;rsquo;ve been meaning to do this for a while.. and now &lt;a href=&#34;https://indieweb.org/2019&#34;&gt;Indieweb Summit&lt;/a&gt; is right around the corner. I&amp;rsquo;ve been hustling away on some related projects just so I could have something really nice prepared for the event.&lt;/p&gt;
+
+&lt;p&gt;I would encourage you to follow along with the associated links. I&amp;rsquo;m going to try and keep this compact, but convey essential information as an overview.&lt;/p&gt;
+
+&lt;h2 id=&#34;setting-up-the-author-bio&#34;&gt;Setting up the author bio&lt;/h2&gt;
+
+&lt;p&gt;A set of configuration options are used for displaying the biography.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[params]
+  Author = &amp;quot;Author Name&amp;quot;
+  Avatar = &amp;quot;images/site-logo.svg&amp;quot;
+  Biography = &amp;quot;A short description, a few sentences describing the author. Set
+               the &#39;ShowBio&#39; parameter to false to hide this.&amp;quot;
+  ShowBio = true        
+
+[params.indieWeb]  
+    EmailAddress = &amp;quot;email.address@example.com&amp;quot;
+    Country = &amp;quot;CountryName&amp;quot;
+    City = &amp;quot;CityName&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Specifics on each setting item are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Author&lt;/code&gt;: Your name; this is the site author name.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Avatar&lt;/code&gt;: The path to your profile picture. By default, it will show the theme&amp;rsquo;s logo (&lt;code&gt;/static/images/site-logo.svg&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Biography&lt;/code&gt;: Hopefully the placeholder text here is self-explanatory; add a couple of short sentences about yourself here.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ShowBio&lt;/code&gt;: If you prefer not to show the author bio, set this to &lt;code&gt;false&lt;/code&gt;. By default, it&amp;rsquo;s set to &lt;code&gt;true&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;EmailAddress&lt;/code&gt;: The email address at which you can be contacted.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Country&lt;/code&gt;: The name of the country in which you live.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;City&lt;/code&gt;: The name of the city in which you live.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/GO6ub1u.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;indieweb-features&#34;&gt;IndieWeb features&lt;/h2&gt;
+
+&lt;p&gt;Filling out these settings makes your site more machine readable, and to communicate specific items of information to other sites you wish to interact with.&lt;/p&gt;
+
+&lt;p&gt;As you can see above, the following microformats are related to who we are. These are simple way of identifying ourselves to other sites. This way, when we want to communicate, there&amp;rsquo;s no need to think about sending over our avatar, it&amp;rsquo;s already prepared in our web-site.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The following classes are used to mark up the author bio for &lt;a href=&#34;https://indieweb.org&#34;&gt;IndieWeb&lt;/a&gt; parsing:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Element&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Class&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;The author card&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;h-card&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Profile picture&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;u-photo&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Author URL*&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;p-name&lt;/code&gt;, &lt;code&gt;u-url&lt;/code&gt;, &lt;code&gt;rel=me&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;City&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;p-locality&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Country&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;p-country-name&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Email address&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;u-email&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Biography&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;p-note&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;*Author URL is set to the site&amp;rsquo;s base URL.&lt;/p&gt;
+
+&lt;p&gt;Lets explore each of these, and what it does.&lt;/p&gt;
+
+&lt;h2 id=&#34;h-card-http-microformats-org-wiki-h-card&#34;&gt;&lt;a href=&#34;http://microformats.org/wiki/h-card&#34;&gt;h-card&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;h-card is a simple, open format for publishing people and organisations on the web. h-card is one of several open microformat draft standards suitable for embedding data in HTML.&lt;/p&gt;
+
+&lt;p&gt;h-card is the microformats2 update to hCard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://microformats.org/wiki/h-card&#34;&gt;microformats.org/wiki/h-card&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yay! Structured Data! These are the bits that add flavor and context, for the machines we communicate through, to otherwise indistinguishable code.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The class h-card is a root class name that indicates the presence of an h-card.&lt;/p&gt;
+
+&lt;p&gt;For minimal examples where at most p-name, u-url and u-photo are required (such as the first given above), only the root class name is needed — see &lt;a href=&#34;http://microformats.org/wiki/microformats-2-implied-properties&#34;&gt;implied properties&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Basically, it seems that the h-card is the root for the rest of the data-structure&amp;rsquo;s we&amp;rsquo;re reviewing.&lt;/p&gt;
+
+&lt;p&gt;If find one in the wild, an h-card will b nearby.&lt;/p&gt;
+
+&lt;h3 id=&#34;h-card-properties&#34;&gt;h-card properties&lt;/h3&gt;
+
+&lt;p&gt;So you can see, the idea is to give people and organizations a variety of ways to identify themselves.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;h-card properties, inside an element with class h-card:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;p-name - The full/formatted name of the person or organization&lt;/li&gt;
+&lt;li&gt;p-honorific-prefix - e.g. Mrs., Mr. or Dr.&lt;/li&gt;
+&lt;li&gt;p-given-name - given (often first) name&lt;/li&gt;
+&lt;li&gt;p-additional-name - other (e.g. middle) name&lt;/li&gt;
+&lt;li&gt;p-family-name - family (often last) name&lt;/li&gt;
+&lt;li&gt;p-sort-string - string to sort by&lt;/li&gt;
+&lt;li&gt;p-honorific-suffix - e.g. Ph.D, Esq.&lt;/li&gt;
+&lt;li&gt;p-nickname - nickname/alias/handle&lt;/li&gt;
+&lt;li&gt;u-email - email address&lt;/li&gt;
+&lt;li&gt;u-logo - a logo representing the person or organization (e.g. a face icon)&lt;/li&gt;
+&lt;li&gt;u-photo - a photo of the person or organization&lt;/li&gt;
+&lt;li&gt;u-url - home page or other URL representing the person or organization&lt;/li&gt;
+&lt;li&gt;u-uid - universally unique identifier, preferably canonical URL&lt;/li&gt;
+&lt;li&gt;p-category - category/tag&lt;/li&gt;
+&lt;li&gt;p-adr - postal address, optionally embed an h-adr&lt;/li&gt;
+&lt;li&gt;Main article: h-adr&lt;/li&gt;
+&lt;li&gt;p-post-office-box - post office box description if any&lt;/li&gt;
+&lt;li&gt;p-extended-address - apartment/suite/room name/number if any&lt;/li&gt;
+&lt;li&gt;p-street-address - street number + name&lt;/li&gt;
+&lt;li&gt;p-locality - city/town/village&lt;/li&gt;
+&lt;li&gt;p-region - state/county/province&lt;/li&gt;
+&lt;li&gt;p-postal-code - postal code, e.g. US ZIP&lt;/li&gt;
+&lt;li&gt;p-country-name - country name&lt;/li&gt;
+&lt;li&gt;p-label&lt;/li&gt;
+&lt;li&gt;p-geo or u-geo, optionally embed an h-geo&lt;/li&gt;
+&lt;li&gt;Main article: h-geo&lt;/li&gt;
+&lt;li&gt;p-latitude - decimal latitude&lt;/li&gt;
+&lt;li&gt;p-longitude - decimal longitude&lt;/li&gt;
+&lt;li&gt;p-altitude - decimal altitude&lt;/li&gt;
+&lt;li&gt;p-tel - telephone number&lt;/li&gt;
+&lt;li&gt;p-note - additional notes&lt;/li&gt;
+&lt;li&gt;dt-bday - birth date&lt;/li&gt;
+&lt;li&gt;u-key - cryptographic public key e.g. SSH or GPG&lt;/li&gt;
+&lt;li&gt;p-org - affiliated organization, optionally embed an h-card&lt;/li&gt;
+&lt;li&gt;p-job-title - job title, previously &amp;lsquo;title&amp;rsquo; in hCard, disambiguated.&lt;/li&gt;
+&lt;li&gt;p-role - description of role&lt;/li&gt;
+&lt;li&gt;u-impp per RFC4770, new in vCard4 (RFC 6350)&lt;/li&gt;
+&lt;li&gt;p-sex - biological sex, new in vCard4 (RFC 6350)&lt;/li&gt;
+&lt;li&gt;p-gender-identity - gender identity, new in vCard4 (RFC 6350)&lt;/li&gt;
+&lt;li&gt;dt-anniversary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;indigo-h-card&#34;&gt;Indigo h-card&lt;/h3&gt;
+
+&lt;p&gt;The author card - &lt;code&gt;h-card&lt;/code&gt;
+Profile picture - &lt;code&gt;u-photo&lt;/code&gt;
+City            - &lt;code&gt;p-locality&lt;/code&gt;
+Country         - &lt;code&gt;p-country-name&lt;/code&gt;
+Email address   - &lt;code&gt;u-email&lt;/code&gt;
+Biography       - &lt;code&gt;p-note&lt;/code&gt; - additional notes
+Author URL:
+  - &lt;code&gt;p-name&lt;/code&gt; - The full/formatted name of the person or organization
+  - &lt;code&gt;u-url&lt;/code&gt; - home page or other URL representing the person or organization
+  - &lt;code&gt;rel=me&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;rel-me&#34;&gt;rel=me&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://microformats.org/wiki/rel-me&#34;&gt;microformats.org/wiki/rel-me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;XFN 1.1 introduced the &amp;ldquo;me&amp;rdquo; rel value which is used to indicate profile equivalence and for &lt;a href=&#34;http://microformats.org/wiki/identity-consolidation&#34;&gt;identity-consolidation&lt;/a&gt;.
+Identity consolidation is the ability for a user to indicate that one or more identities, profiles, URLs across different sites all represent that same user. Also known as: profile aggregation, profile equivalency.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is how we state &amp;ldquo;this is me&amp;rdquo;. If your website has a series of social media icons that connect people to you on different platforms, I would drop a rel=me into each of those links..&lt;/p&gt;
+
+&lt;p&gt;This is how I did it on another site:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{ link.url }}&amp;quot; rel=&amp;quot;me&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;{{ link.icon | default: &#39;fas fa-link&#39; }}&amp;quot; aria-hidden=&amp;quot;true&amp;quot;&amp;gt;&amp;lt;/i&amp;gt; {{ link.label }}&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All I had to do was put the &lt;code&gt;rel=&amp;quot;me&amp;quot;&lt;/code&gt; into the url like so &lt;code&gt;&amp;lt;a href=&amp;quot;{{ link.url }} rel=&amp;quot;me&amp;quot;&amp;gt;link txt&amp;lt;/a&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t mind the scripting language&amp;hellip; if that bothers you.. think of it like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;a href=&amp;quot;https://infominer.id&amp;quot; rel=&amp;quot;me&amp;quot;&amp;gt;infominer.id&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now I set that in my template, I&amp;rsquo;ve identified all of the social profiles (and e-mail) that I link to as belonging to me :D&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But wait!&lt;/strong&gt; You say&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Yes, even though you&amp;rsquo;ve used &amp;lsquo;u=email&amp;rsquo; to identify your e-mail address, it&amp;rsquo;s the links with rel=me that sites will look to for authentication. You might notice, if you follow a number of &amp;ldquo;getting started&amp;rdquo; guides that you&amp;rsquo;ve been placing various properties everywhere, and it can seem a bit redundant at times.&lt;/p&gt;
+
+&lt;p&gt;However, each has its own purpose&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;indieauth&#34;&gt;Indieauth&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://indieauth.com&#34;&gt;&lt;img src=&#34;https://imgur.com/MsoJqzp.png&#34; alt=&#34;IndieAuth.com provides an IndieAuth server for your website that authenticates you using your existing social accounts. First you link from your website to one or more authentication providers such as GitHub or a PGP key, then when you enter your domain name in the web sign-in form on websites that support IndieAuth, you can sign in without using a password.&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve got the rel=me in there, Indieauth.com will check to see if it has verification methods available.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://indieauth.com/img/code-sample.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If it does, then an automated system will take you through, much like logging into any web-service.&lt;/p&gt;
+
+&lt;h2 id=&#34;indigo-source-deployed&#34;&gt;Indigo-Source Deployed&lt;/h2&gt;
+
+&lt;p&gt;Now I&amp;rsquo;ve done some basic configuration and have a few blog, posts up&amp;hellip; lets examine the source of a single blog post, to see it in action.&lt;/p&gt;
+
+&lt;h3 id=&#34;endpoints&#34;&gt;Endpoints&lt;/h3&gt;
+
+&lt;p&gt;Here we see a few links identified as &amp;lsquo;me&amp;rsquo;, and an authorization end-point:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/MJXJtFn.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;From &lt;code&gt;config.toml&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#https://github.com/kisik21/indigo/commit/e168672487b78bef5070cc0eb70bc5d4e748c707
+  [params.endpoints]
+  Auth = &amp;quot;https://indieauth.com/auth&amp;quot;
+  # To get webmention support, just register at webmention.io and paste the link for endpoint here.
+  Webmention = &amp;quot;https://webmention.io/web-work.tools_indieweb_/webmention&amp;quot;
+  # To get micropub support, you&#39;ll need to install a Micropub endpoint at your site and put its link there.
+  # To get an endpoint with Hugo support, use nanopub: https://github.com/dg01d/nanopub
+  # It will probably require some PHP hackery though, as it&#39;s fairly basic.
+  #Micropub = &amp;quot;&amp;quot;
+  # To get microsub support, you can use Aperture from p3k. Either go to https://aperture.p3k.io or self-host it (it&#39;s open source!)
+  #Microsub = &amp;quot;&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For the authorization endpoin, that&amp;rsquo;s simple enough. If you&amp;rsquo;ve set up your h-card paramaters in the config file, and deployed the site, it should walk you right through, and even guide you if anything is missing.&lt;/p&gt;
+
+&lt;h3 id=&#34;h-entry&#34;&gt;h-entry&lt;/h3&gt;
+
+&lt;p&gt;Ahaaa! Now we&amp;rsquo;re getting to it.  I remember that there was some indieweb code not strictly defined in the documentation for this theme.  Let&amp;rsquo;s check it out!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/h-entry&#34;&gt;indieweb.org/h-entry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;h-entry is the microformats2 vocabulary for marking up blog posts on web sites. It can also be used to mark-up any other episodic or time series based content.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Adding h-entry to your post pages enables post information &lt;a href=&#34;https://indieweb.org/discovery&#34;&gt;discovery&lt;/a&gt; on your permalinks, which is useful for a variety of things, including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/reply&#34;&gt;reply&lt;/a&gt; context syndication&lt;/li&gt;
+&lt;li&gt;syndication of your &lt;a href=&#34;https://indieweb.org/replies&#34;&gt;replies&lt;/a&gt; from your site as comments on the permalinks of the sites that you reply to.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Adding h-entry to your home page enables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;subscribing to your posts directly from your home page (no separate feed needed).&lt;/li&gt;
+&lt;li&gt;A building block for adding &lt;a href=&#34;https://indieweb.org/PuSH&#34;&gt;PuSH&lt;/a&gt; 0.4 support for real time subscribers of your updates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Any page with an explicit author and publication date can use h-entry and enables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nicer &lt;a href=&#34;https://indieweb.org/link-preview&#34;&gt;link-previews&lt;/a&gt;, especially with an optional &lt;a href=&#34;https://indieweb.org/u-featured&#34;&gt;u-featured&lt;/a&gt; image&lt;/li&gt;
+&lt;li&gt;For example: W3C specs like &lt;a href=&#34;https://w3.org/TR/webmention&#34;&gt;Webmention&lt;/a&gt; and &lt;a href=&#34;https://w3.org/TR/micropub&#34;&gt;Micropub&lt;/a&gt; have their name, editors, publication date all marked up with h-entry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;h-entry-http-microformats-org-wiki-h-entry-properties&#34;&gt;&lt;a href=&#34;http://microformats.org/wiki/h-entry&#34;&gt;h-entry&lt;/a&gt; properties&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;The following core h-entry properties have broad consensus and are broadly interoperably published and consumed:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;p-name&lt;/code&gt; - entry name/title&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;p-summary&lt;/code&gt; - short entry summary&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;e-content&lt;/code&gt; - full content of the entry&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;dt-published&lt;/code&gt; - when the entry was published&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;dt-updated&lt;/code&gt; - when the entry was updated&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;p-author&lt;/code&gt; - who wrote the entry, optionally embedded h-card(s)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;p-category&lt;/code&gt; - entry categories/tags&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;u-url&lt;/code&gt; - entry permalink URL&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;u-uid&lt;/code&gt; - universally unique identifier, typically canonical entry URL&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;p-location&lt;/code&gt; - location the entry was posted from, optionally embed h-card, h-adr, or h-geo&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;u-syndication&lt;/code&gt; - URL(s) of syndicated copies of this post. The property equivalent of rel-syndication (example)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;u-in-reply-to&lt;/code&gt; - the URL which the h-entry is considered reply to (i.e. doesn’t make sense without context, could show up in comment thread), optionally an embedded h-cite (reply-context) (example)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;p-rsvp&lt;/code&gt; (enum, use &lt;code&gt;&amp;lt;data&amp;gt;&lt;/code&gt; element or value-class-pattern)
+&amp;ldquo;yes&amp;rdquo;, &amp;ldquo;no&amp;rdquo;, &amp;ldquo;maybe&amp;rdquo;, &amp;ldquo;interested&amp;rdquo;. Case-insensitive values, normalized to lowercase. Examples:
+&amp;hellip; &lt;code&gt;&amp;lt;data class=&amp;quot;p-rsvp&amp;quot; value=&amp;quot;yes&amp;quot;&amp;gt;is going&amp;lt;/data&amp;gt;&lt;/code&gt; to &amp;hellip;, or
+&amp;hellip; &lt;code&gt;&amp;lt;data class=&amp;quot;p-rsvp&amp;quot; value=&amp;quot;maybe&amp;quot;&amp;gt;might go&amp;lt;/data&amp;gt;&lt;/code&gt; to &amp;hellip;
+&amp;hellip; &lt;code&gt;&amp;lt;data class=&amp;quot;p-rsvp&amp;quot; value=&amp;quot;no&amp;quot;&amp;gt;unable to go&amp;lt;/data&amp;gt;&lt;/code&gt; to &amp;hellip;
+&amp;hellip; &lt;code&gt;&amp;lt;data class=&amp;quot;p-rsvp&amp;quot; value=&amp;quot;interested&amp;quot;&amp;gt;am interested/tracking/watching&amp;lt;/data&amp;gt;&lt;/code&gt; &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;u-like-of&lt;/code&gt; - the URL which the h-entry is considered a “like” (favorite, star) of. Optionally an embedded h-cite&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;u-repost-of&lt;/code&gt; - the URL which the h-entry is considered a “repost” of. Optionally an embedded h-cite.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;indigo-article-source&#34;&gt;Indigo Article Source&lt;/h3&gt;
+
+&lt;p&gt;Similar to h-card, our h-entry has a number of potential properties.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;article class=&amp;quot;h-entry&amp;quot;&amp;gt;
+  &amp;lt;header&amp;gt;
+      &amp;lt;h1 class=&amp;quot;post-title p-name&amp;quot;&amp;gt;FreeNode IRC #indieweb-dev on IIW RWoT and DID&amp;amp;#39;s&amp;lt;/h1&amp;gt;
+           
+      &amp;lt;p class=&amp;quot;post-date&amp;quot;&amp;gt;Posted on
+          &amp;lt;time class=&amp;quot;dt-published&amp;quot; datetime=&amp;quot;2019-06-03T11:22:33-23:00&amp;quot;&amp;gt;
+          3 June, 2019 at 11:22 -2300
+          &amp;lt;/time&amp;gt;  by &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/&amp;quot; class=&amp;quot;p-author h-card&amp;quot; rel=&amp;quot;author&amp;quot;&amp;gt;Infominer&amp;lt;/a&amp;gt;
+      &amp;lt;/p&amp;gt;
+            
+      &amp;lt;p class=&amp;quot;post-tag&amp;quot;&amp;gt;Category: 
+                
+        &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/categories/decentralized-identity&amp;quot; class=&amp;quot;post-tag p-category&amp;quot;&amp;gt;decentralized-identity&amp;lt;/a&amp;gt;
+                
+        &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/categories/resources&amp;quot; class=&amp;quot;post-tag p-category&amp;quot;&amp;gt;resources&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+      &amp;lt;hr class=&amp;quot;post-underline&amp;quot;&amp;gt;
+          
+  &amp;lt;/header&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The article is marked with the &lt;code&gt;h-entry&lt;/code&gt; class, and then we have:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;p-name&lt;/code&gt; - entry name/title&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;dt-published&lt;/code&gt; - when the entry was published&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;p-category&lt;/code&gt; - entry categories/tags&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;p-author h-card rel=&amp;quot;author&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That last combo is interesting. Like mentioned earlier, the p-author is found as part of the h-card class.&lt;/p&gt;
+
+&lt;p&gt;Perhaps its significant that this &lt;code&gt;h-card&lt;/code&gt; is found within the &lt;code&gt;h-entry&lt;/code&gt;&amp;hellip; I&amp;rsquo;m just figuring this out as we go along.&lt;/p&gt;
+
+&lt;h3 id=&#34;e-content&#34;&gt;e-content&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;e-content - full content of the entry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code&gt;  &amp;lt;section class=&amp;quot;content e-content&amp;quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;{{ content }} (not copyin the whole post here :)&lt;/p&gt;
+
+&lt;p&gt;All our tags marked with p-category:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  &amp;lt;/section&amp;gt;
+  &amp;lt;footer&amp;gt;
+    &amp;lt;a class=&amp;quot;permalink u-url&amp;quot; href=&amp;quot;https://web-work.tools/indieweb/indieweb-dev-on-did/&amp;quot;&amp;gt;🔗&amp;lt;/a&amp;gt;
+            
+    &amp;lt;hr class=&amp;quot;post-underline&amp;quot;&amp;gt;
+    &amp;lt;p class=&amp;quot;post-tag&amp;quot;&amp;gt;Tags for this post: 
+            
+    &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/tags/indieweb&amp;quot; class=&amp;quot;post-tag p-category&amp;quot;&amp;gt;indieweb&amp;lt;/a&amp;gt;
+            
+    &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/tags/did&amp;quot; class=&amp;quot;post-tag p-category&amp;quot;&amp;gt;did&amp;lt;/a&amp;gt;
+            
+    &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/tags/rwot&amp;quot; class=&amp;quot;post-tag p-category&amp;quot;&amp;gt;rwot&amp;lt;/a&amp;gt;
+            
+    &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/tags/indieweb-dev&amp;quot; class=&amp;quot;post-tag p-category&amp;quot;&amp;gt;indieweb-dev&amp;lt;/a&amp;gt;
+            
+    &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/tags/freenode&amp;quot; class=&amp;quot;post-tag p-category&amp;quot;&amp;gt;freenode&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+            
+  &amp;lt;/footer&amp;gt;
+    &amp;lt;/article&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Finally the &lt;code&gt;h-card&lt;/code&gt;, in our footer, Lovely.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    &amp;lt;div class=&amp;quot;h-card&amp;quot;&amp;gt;
+      &amp;lt;img class=&amp;quot;u-photo&amp;quot; src=&amp;quot;https://web-work.tools/indieweb/images/infominer.svg&amp;quot; /&amp;gt;
+      &amp;lt;div class=&amp;quot;card-content&amp;quot;&amp;gt;
+        &amp;lt;h2 class=&amp;quot;card-name&amp;quot;&amp;gt;&amp;lt;a class=&amp;quot;p-name u-url&amp;quot; href=&amp;quot;https://web-work.tools/indieweb/&amp;quot; rel=&amp;quot;me&amp;quot;&amp;gt;Infominer&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+        &amp;lt;p class=&amp;quot;card-subhead&amp;quot;&amp;gt;
+          &amp;lt;span class=&amp;quot;p-locality&amp;quot;&amp;gt;Mehtab Bagh&amp;lt;/span&amp;gt;,
+          &amp;lt;span class=&amp;quot;p-country-name&amp;quot;&amp;gt;49 6e 64 75 73&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;
+          &amp;lt;a class=&amp;quot;u-email&amp;quot; href=&amp;quot;mailto:infominer@protonmail.com&amp;quot;&amp;gt;Email me&amp;lt;/a&amp;gt;
+        &amp;lt;/p&amp;gt;
+      &amp;lt;/div&amp;gt;
+      &amp;lt;p class=&amp;quot;p-note&amp;quot;&amp;gt;Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, Indieweb ⧉ her/him&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Check out &lt;a href=&#34;https://github.com/AngeloStavrow/indigo/blob/master/layouts/_default/single.html&#34;&gt;layouts/_default/single.html&lt;/a&gt; to see what it looks like before its built.&lt;/p&gt;
+
+&lt;h2 id=&#34;be-back-soon&#34;&gt;Be Back Soon&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ll have more on this and everything else, shortly.&lt;/p&gt;
 </description>
     </item>
     
@@ -422,6 +856,213 @@
 &lt;li&gt;17:23 &lt;a href=&#34;https://indieweb.org/User:Aaronparecki.com&#34;&gt;[aaronpk]&lt;/a&gt; - zorg omg&lt;/li&gt;
 &lt;li&gt;17:24 &lt;a href=&#34;https://indieweb.org/User:Tantek.com&#34;&gt;[tantek]&lt;/a&gt; - YES&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indieweb Github Repositories</title>
+      <link>https://web-work.tools/indieweb/github-repos/</link>
+      <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/github-repos/</guid>
+      <description>
+
+&lt;h2 id=&#34;github-com-microformats-https-github-com-microformats-microformats-org-http-microformats-org&#34;&gt;&lt;a href=&#34;https://github.com/microformats&#34;&gt;github.com/microformats&lt;/a&gt; - &lt;a href=&#34;http://microformats.org&#34;&gt;microformats.org&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/php-mf2&#34;&gt;microformats/php-mf2&lt;/a&gt; -php-mf2 is a pure, generic microformats-2 parser for PHP. It makes HTML as easy to consume as JSON.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/microformats-ruby&#34;&gt;microformats/microformats-ruby&lt;/a&gt; -Ruby gem that parse HTML containing microformats/microformats2 and returns Ruby objects, a Ruby hash or a JSON hash&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/mf2py&#34;&gt;microformats/mf2py&lt;/a&gt; - Microformats2 parser written in Python&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/microformats.io&#34;&gt;microformats/microformats.io&lt;/a&gt; -Simple explainer site about Microformats.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/mediawiki-entry-title-override&#34;&gt;microformats/mediawiki-entry-title-override&lt;/a&gt; - Forked from &lt;a href=&#34;https://github.com/BenWard/mediawiki-entry-title-override&#34;&gt;BenWard/mediawiki-entry-title-override&lt;/a&gt; - Simple extension to allow overriding of MediaWiki page titles using document mark-up.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/microformats-parser-website-go&#34;&gt;microformats/microformats-parser-website-go&lt;/a&gt; -Website for Microformats Go parser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/tests&#34;&gt;microformats/tests&lt;/a&gt; -Microformats test suite&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/microformats-parser-website-php&#34;&gt;microformats/microformats-parser-website-php&lt;/a&gt; -Small web page for displaying parsed microformats2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/microformats-parser-website-python&#34;&gt;microformats/microformats-parser-website-python&lt;/a&gt; -Website for Microformats Python parser (mf2py &amp;amp; mf2util)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/microformat-node&#34;&gt;microformat-node&lt;/a&gt; - Forked from &lt;a href=&#34;https://github.com/glennjones/microformat-node&#34;&gt;glennjones/microformat-node&lt;/a&gt; -Microformats parser for node.js&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/microformats-parser-website-ruby&#34;&gt;microformats/microformats-parser-website-ruby&lt;/a&gt;
+Website for Microformats Ruby parser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/h2vx.com&#34;&gt;microformats/h2vx.com&lt;/a&gt;
+H2VX microformats to vCard/iCalendar converter, test dev.h2vx.com for issues&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/h-entry&#34;&gt;microformats/h-entry&lt;/a&gt;
+For collecting and handling issues with the h-entry vocabulary specification: &lt;a href=&#34;http://microformats.org/wiki/h-entry&#34;&gt;http://microformats.org/wiki/h-entry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/h-event&#34;&gt;microformats/h-event&lt;/a&gt;
+This repository is for tracking and resolving issues related to the h-event specification &lt;a href=&#34;http://microformats.org/wiki/h-event&#34;&gt;http://microformats.org/wiki/h-event&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/microformats2-parsing&#34;&gt;microformats/microformats2-parsing&lt;/a&gt;
+For collecting and handling issues with the microformats2 parsing specification: &lt;a href=&#34;http://microformats.org/wiki/microformats2-parsing&#34;&gt;http://microformats.org/wiki/microformats2-parsing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/mf2tojf2.py&#34;&gt;microformats/mf2tojf2.py&lt;/a&gt;
+convert mf2 to jf2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/fragmentions&#34;&gt;microformats/fragmentions&lt;/a&gt;
+Forked from chapmanu/fragmentions
+A proposal and polyfill to use # fragments with spaces in as links to phrases in a document.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/xoxo&#34;&gt;microformats/xoxo&lt;/a&gt;
+Code to transform back and forth between JSON and HTML outlines&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/LinkAttributes&#34;&gt;microformats/LinkAttributes&lt;/a&gt;
+Forked from rotsee/LinkAttributes
+A MediaWiki extension which extends the link syntax to allow custom attributes, such as rel=&amp;ldquo;author&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microformats/mediawiki-semantic-html&#34;&gt;microformats/mediawiki-semantic-html&lt;/a&gt;
+Forked from BenWard/mediawiki-semantic-html
+A MediaWiki extension to restore support for the HTML4 phrase elements used in wiki mark-up.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;github-com-w3c-https-github-com-w3c&#34;&gt;&lt;a href=&#34;https://github.com/w3c/&#34;&gt;github.com/w3c&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/w3c/webmention&#34;&gt;w3c/webmention&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/w3c/Micropub&#34;&gt;w3c/Micropub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/w3c/websub&#34;&gt;w3c/websub&lt;/a&gt; -WebSub Spec in Social Web Working Group &lt;a href=&#34;https://w3c.github.io/websub/]&#34;&gt;https://w3c.github.io/websub/]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;aaronpk-https-github-com-aaronpk&#34;&gt;&lt;a href=&#34;https://github.com/aaronpk&#34;&gt;AaronPK&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/indielogin.com&#34;&gt;aaronpk/indielogin.com&lt;/a&gt; -Sign in with your domain name&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/Monocle&#34;&gt;aaronpk/Monocle&lt;/a&gt; Monocle is a reader app that talks to a Microsub server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/webmention.io&#34;&gt;aaronpk/webmention.io&lt;/a&gt; Easily enable webmentions and pingbacks on any web page&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/XRay&#34;&gt;aaronpk/XRay&lt;/a&gt; -X-Ray returns structured data from any URL&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/Aperture&#34;&gt;aaronpk/Aperture&lt;/a&gt; -Aperture is a Microsub server. Currently in beta.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/microsub.rocks&#34;&gt;aaronpk/microsub.rocks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/OwnYourGram&#34;&gt;aaronpk/OwnYourGram&lt;/a&gt; - camera Save your Instagram photos to your own site in real time!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/aperture-wordpress&#34;&gt;aaronpk/aperture-wordpress&lt;/a&gt; -A WordPress plugin to use Aperture as your Microsub endpoint&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/IndieNews&#34;&gt;aaronpk/IndieNews&lt;/a&gt;- newspaper News aggregator for IndieWeb-related posts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/indieauth.rocks&#34;&gt;aaronpk/indieauth.rocks&lt;/a&gt; -IndieAuth test suite - in progress&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/websub.rocks&#34;&gt;aaronpk/websub.rocks&lt;/a&gt; - Test suite and debug utilities for W3C WebSub&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/mediawiki-mf2-dfn&#34;&gt;aaronpk/mediawiki-mf2-dfn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/Squash-Reports&#34;&gt;aaronpk/Squash-Reports&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/micropub.rocks&#34;&gt;aaronpk/micropub.rocks&lt;/a&gt;
+Micropub test suite and debugging utility&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/strong-authentication-and-identity-workshop&#34;&gt;aaronpk/strong-authentication-and-identity-workshop&lt;/a&gt;
+Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/php-mf2&#34;&gt;aaronpk/php-mf2&lt;/a&gt; -Forked from &lt;a href=&#34;https://github.com/microformats/php-mf2&#34;&gt;microformats/php-mf2&lt;/a&gt; -A pure (generic parsing) microformats-2 parser for PHP&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/mention-client-php&#34;&gt;aaronpk/mention-client-php&lt;/a&gt; Forked from &lt;a href=&#34;https://github.com/indieweb/mention-client-php&#34;&gt;indieweb/mention-client-php&lt;/a&gt; - Client library for sending webmention and pingback notifications&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/example-indieauth-server&#34;&gt;aaronpk/example-indieauth-server&lt;/a&gt; -a prototype IndieAuth server to demonstrate what is required to build an IndieAuth server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/p3k-micropub&#34;&gt;aaronpk/p3k-micropub&lt;/a&gt; -Utilities to help handle Micropub requests when building servers and clients&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/Teacup&#34;&gt;aaronpk/Teacup&lt;/a&gt; - coffee Teacup is a simple Micropub app for tracking what you eat and drink&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/IndieWeb-Development&#34;&gt;aaronpk/IndieWeb-Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/webmention.rocks&#34;&gt;aaronpk/webmention.rocks&lt;/a&gt; -a webmention validator and test suite - &lt;a href=&#34;https://webmention.rocks&#34;&gt;webmention.rocks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/xmlrpc-micropub-bridge&#34;&gt;aaronpk/xmlrpc-micropub-bridge&lt;/a&gt; -XML-RPC to Micropub Bridge - &lt;a href=&#34;https://aaronparecki.com/2018/04/09/5/&#34;&gt;aaronparecki.com/2018/04/09/5/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aaronpk/IndieAuth-Token-Endpoint&#34;&gt;aaronpk/IndieAuth-Token-Endpoint&lt;/a&gt; - [tokens.indieauth.com[(&lt;a href=&#34;https://tokens.indieauth.com/&#34;&gt;https://tokens.indieauth.com/&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;github-com-voxpelli-https-github-com-voxpelli&#34;&gt;&lt;a href=&#34;https://github.com/voxpelli&#34;&gt;github.com/voxpelli&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/voxpelli/indie-action-component&#34;&gt;voxpelli/indie-action-component&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/voxpelli/webpage-micropub-to-github&#34;&gt;voxpelli/webpage-micropub-to-github&lt;/a&gt; - Self-hosteable Micropub endpoint that publishes to Jekyll by committing to GitHub&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/voxpelli/webpage-webmentions&#34;&gt;voxpelli/webpage-webmentions&lt;/a&gt; - A hosted Disqus-like comment service that enables WebMention receiving on any kind of site&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/voxpelli/node-webmention-testpinger&#34;&gt;voxpelli/node-webmention-testpinger&lt;/a&gt; - A tool to ping your site with a variety of real world WebMentions&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/voxpelli/node-micropub-express&#34;&gt;voxpelli/node-micropub-express&lt;/a&gt; - Provides a Micropub route for Express 4.x&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/voxpelli/node-format-microformat&#34;&gt;voxpelli/node-format-microformat&lt;/a&gt; -Formats a Microformat JSON representation into eg. a Jekyll post&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/voxpelli/voxpelli/microformat-node&#34;&gt;voxpelli/microformat-node&lt;/a&gt; - My personal blog, based on Jekyll &lt;a href=&#34;https://voxpelli.com/&#34;&gt;https://voxpelli.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;github-com-miklb-https-github-com-miklb&#34;&gt;&lt;a href=&#34;https://github.com/miklb&#34;&gt;github.com/miklb&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/webpage-micropub-to-github&#34;&gt;miklb/webpage-micropub-to-github&lt;/a&gt; -forked from &lt;a href=&#34;https://github.com/voxpelli/webpage-micropub-to-github&#34;&gt;voxpelli/webpage-micropub-to-github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/jekyll-indieweb&#34;&gt;miklb/jekyll-indieweb&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://forked.yannick.io/miklb/jekyll-indieweb&#34;&gt;forked.yannick.io/miklb/jekyll-indieweb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/node-micropub-express&#34;&gt;miklb/node-micropub-express&lt;/a&gt;- forked from &lt;a href=&#34;https://github.com/voxpelli/node-micropub-express&#34;&gt;voxpelli/node-micropub-express&lt;/a&gt; - Provides a Micropub route for Express 4.x&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/mf2_s&#34;&gt;miklb/mf2_s&lt;/a&gt;- Microformats 2 Version of Underscores Starter Theme with Indieweb Support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/hubot-github-issue-lookup&#34;&gt;miklb/hubot-github-issue-lookup&lt;/a&gt;
+-forked from &lt;a href=&#34;https://github.com/Simplybuilt/hubot-github-issue-lookup&#34;&gt;SimplyBuilt/hubot-github-issue-lookup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;miklb-https-github-com-miklb-wordpress&#34;&gt;&lt;a href=&#34;https://github.com/miklb&#34;&gt;miklb&lt;/a&gt; - WordPress&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/wordpress-indieweb-press-this&#34;&gt;miklb/wordpress-indieweb-press-this&lt;/a&gt;- from &lt;a href=&#34;https://github.com/miklb/wordpress-indieweb-press-this&#34;&gt;indieweb/wordpress-indieweb-press-this&lt;/a&gt;.
+
+&lt;ul&gt;
+&lt;li&gt;some IndieWeb &lt;a href=&#34;https://snarfed.org/indieweb-press-this-bookmarklets-for-wordpress&#34;&gt;magic for WordPress&amp;rsquo; &amp;ldquo;press this&amp;rdquo; bookmarklet&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/wordpress-indieweb&#34;&gt;miklb/wordpress-indieweb&lt;/a&gt;- Microformats 2 Version of Underscores Starter Theme with Indieweb Support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;github-com-indieweb-https-github-com-indieweb&#34;&gt;&lt;a href=&#34;https://github.com/indieweb&#34;&gt;github.com/indieweb&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;101&#34;&gt;101&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.comindieweb/indieweb.github.io&#34;&gt;indieweb/indieweb.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wiki&#34;&gt;indieweb/wiki&lt;/a&gt; - Wiki backup and issue tracking for indieweb.org&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/blank-gh-site&#34;&gt;indieweb/blank-gh-site&lt;/a&gt; - Setup a simple new indieweb site on a domain name in mere minutes with this project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indiewebify-me&#34;&gt;indieweb/indiewebify-me&lt;/a&gt; - Tools to help you get the best out of your indieweb site
+indieweb&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;indieweb-assorted&#34;&gt;IndieWeb Assorted&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieweb-chat-archive&#34;&gt;indieweb/indieweb-chat-archive&lt;/a&gt; -  Full archive of IndieWeb chat log data files&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/branding&#34;&gt;indieweb/branding&lt;/a&gt; - Source files for the IndieWebCamp logo and branding materials&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/this-week&#34;&gt;indieweb/this-week&lt;/a&gt; - Weekly digest of IndieWebCamp activity&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieauth-client-php&#34;&gt;indieweb/indieauth-client-php&lt;/a&gt; - Sample implementation and helper methods for an IndieAuth client.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieweb-endpoints-ruby&#34;&gt;indieweb/indieweb-endpoints-ruby&lt;/a&gt; - A Ruby gem for discovering a URL&amp;rsquo;s IndieAuth, Micropub, and Webmention endpoints.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indiewebweek&#34;&gt;indieweb/indiewebweek&lt;/a&gt; - Website for IndieWeb Week&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/newBase60py&#34;&gt;indieweb/newBase60py&lt;/a&gt; - Python implementation of &lt;a href=&#34;http://tantek.pbworks.com/w/page/19402946/NewBase60&#34;&gt;http://tantek.pbworks.com/w/page/19402946/NewBase60&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/jf2-validator&#34;&gt;indieweb/jf2-validator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rel-me-verify-me&#34;&gt;rel-me \ verify-me&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/link-rel-parser-php&#34;&gt;indieweb/link-rel-parser-php&lt;/a&gt; - Parse HTTP &lt;code&gt;Link&lt;/code&gt; rel headers into a structured format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/rel-me&#34;&gt;indieweb/rel-me&lt;/a&gt; - A set of PHP functions for discovering, consuming and verifying the rel-me microformat.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/verify-me&#34;&gt;indieweb/verify-me&lt;/a&gt; - A plugin that checks all rel=&amp;ldquo;me&amp;rdquo; links are reciprocal, doing distributed verification&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/link_rel_parser-ruby&#34;&gt;indieweb/link_rel_parser-ruby&lt;/a&gt; - Parse HTTP &lt;code&gt;Link&lt;/code&gt; headers into a structured format
+Ruby&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;webmention-clients&#34;&gt;Webmention - Clients&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/webmention-client-ruby&#34;&gt;indieweb/webmention-client-ruby&lt;/a&gt; - A Ruby gem for sending Webmention and Pingback notifications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/mention-client-php&#34;&gt;indieweb/mention-client-php&lt;/a&gt; - Client library for sending webmention and pingback notifications&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;extensions&#34;&gt;Extensions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/mediawiki-extensions&#34;&gt;indieweb/mediawiki-extensions&lt;/a&gt; - A collection of small MediaWiki extensions in use on our wiki&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/micropub-extensions&#34;&gt;indieweb/micropub-extensions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-comments&#34;&gt;indieweb/php-comments&lt;/a&gt; - Helper for parsing and presenting comments from external sites&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-mf2-shim&#34;&gt;indieweb/php-mf2-shim&lt;/a&gt; - A parsing library for parsing pages from a few common non-mf2 sites into the mf2 structure&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/representative-h-card-php&#34;&gt;indieweb/representative-h-card-php&lt;/a&gt; - Given a parsed mf2 document, return the representative h-card for the page&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/date-formatter-php&#34;&gt;indieweb/date-formatter-php&lt;/a&gt; - Render dates and date ranges in a human-readable format, including proper microformats-2 markup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-original-post-discovery&#34;&gt;indieweb/php-original-post-discovery&lt;/a&gt; - A set of PHP functions for determining the canonical URL for a post, given a POSSEd copy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wordpress-feature-requests&#34;&gt;indieweb/wordpress-feature-requests&lt;/a&gt; - An issue tracker for general requests for the WordPress IndieWeb plugin ecosystem.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb&#34;&gt;indieweb/wordpress-indieweb&lt;/a&gt; - Helps you establish your IndieWeb identity by extending the user profile to provide rel-me and h-card fields. It also includes a bundled installer for a core set of&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieauth&#34;&gt;indieweb/wordpress-indieauth&lt;/a&gt; - IndieAuth for WordPress&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-micropub&#34;&gt;indieweb/wordpress-micropub&lt;/a&gt; - A Micropub Endpoint plugin for WordPress&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-mf2-feed&#34;&gt;indieweb/wordpress-mf2-feed&lt;/a&gt; - Microformats2 Feed for WordPress URLs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-uf2&#34;&gt;indieweb/wordpress-uf2&lt;/a&gt; - add &amp;ldquo;Microformats 2&amp;rdquo; classes to your WordPress theme&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb-press-this&#34;&gt;indieweb/wordpress-indieweb-press-this&lt;/a&gt; - some IndieWeb magic for WordPress&amp;rsquo; &amp;ldquo;press this&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microsub&#34;&gt;indieweb/microsub&lt;/a&gt; - For tracking issues on the Microsub specification
+indieweb&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/spec.indieweb.org&#34;&gt;indieweb/spec.indieweb.org&lt;/a&gt; - indieauth
+IndieAuth Specification&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/salmention&#34;&gt;indieweb/salmention&lt;/a&gt; - Salmention specification - &lt;a href=&#34;https://indieweb.org/Salmention&#34;&gt;https://indieweb.org/Salmention&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/vouch&#34;&gt;indieweb/vouch&lt;/a&gt; - Vouch Specification - &lt;a href=&#34;https://indieweb.org/Vouch&#34;&gt;https://indieweb.org/Vouch&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

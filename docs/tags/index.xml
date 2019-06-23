@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Mon, 03 Jun 2019 11:22:33 -2300</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 01:22:33 -2300</lastBuildDate>
     
 	<atom:link href="https://web-work.tools/indieweb/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>features</title>
+      <link>https://web-work.tools/indieweb/tags/features/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>front matter</title>
+      <link>https://web-work.tools/indieweb/tags/front-matter/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/front-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>h-card</title>
+      <link>https://web-work.tools/indieweb/tags/h-card/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/h-card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://web-work.tools/indieweb/tags/hugo/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo-indieweb-theme</title>
+      <link>https://web-work.tools/indieweb/tags/hugo-indieweb-theme/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/hugo-indieweb-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indieweb</title>
+      <link>https://web-work.tools/indieweb/tags/indieweb/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/indieweb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>did</title>
@@ -27,15 +81,6 @@
       <pubDate>Mon, 03 Jun 2019 11:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/freenode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>indieweb</title>
-      <link>https://web-work.tools/indieweb/tags/indieweb/</link>
-      <pubDate>Mon, 03 Jun 2019 11:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/indieweb/</guid>
       <description></description>
     </item>
     
@@ -58,11 +103,29 @@
     </item>
     
     <item>
+      <title>github</title>
+      <link>https://web-work.tools/indieweb/tags/github/</link>
+      <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>github-pages</title>
       <link>https://web-work.tools/indieweb/tags/github-pages/</link>
       <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll</title>
+      <link>https://web-work.tools/indieweb/tags/jekyll/</link>
+      <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/jekyll/</guid>
       <description></description>
     </item>
     
@@ -85,11 +148,11 @@
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://web-work.tools/indieweb/tags/hugo/</link>
-      <pubDate>Mon, 01 Oct 2018 11:22:33 -2300</pubDate>
+      <title>static-sites</title>
+      <link>https://web-work.tools/indieweb/tags/static-sites/</link>
+      <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/tags/hugo/</guid>
+      <guid>https://web-work.tools/indieweb/tags/static-sites/</guid>
       <description></description>
     </item>
     

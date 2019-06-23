@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Mon, 03 Jun 2019 11:22:33 -2300</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 01:22:33 -2300</lastBuildDate>
     
 	<atom:link href="https://web-work.tools/indieweb/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Indigo - A Hugo Indiweb Theme - Features</title>
+      <link>https://web-work.tools/indieweb/indigo-indieweb-features/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indigo-indieweb-features/</guid>
+      <description>The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note. I&amp;rsquo;ll be exploring these classes more thoroughly, soon.</description>
+    </item>
     
     <item>
       <title>FreeNode IRC #indieweb-dev on IIW RWoT and DID&#39;s</title>
@@ -19,6 +28,15 @@
       
       <guid>https://web-work.tools/indieweb/indieweb-dev-on-did/</guid>
       <description>What I&amp;rsquo;m hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.</description>
+    </item>
+    
+    <item>
+      <title>Indieweb Github Repositories</title>
+      <link>https://web-work.tools/indieweb/github-repos/</link>
+      <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/github-repos/</guid>
+      <description>A start at exploring Indieweb Topics</description>
     </item>
     
     <item>
