@@ -12,90 +12,6 @@
     
     
     <item>
-      <title>⧉Info⧉</title>
-      <link>https://web-work.tools/indieweb/about/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/about/</guid>
-      <description>
-
-&lt;p&gt;Right now using the Indigo Hugo theme, that supports indieweb features.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;AngeloStravrow/indigo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As you can see, I&amp;rsquo;ve been busy. That&amp;rsquo;s 8 different websites, all published to the same domain.&lt;/p&gt;
-
-&lt;p&gt;What is likly to happen, is there will be a split among domains, and eventually I&amp;rsquo;ll find some CMS that I want to publish a few of the repositories together, with.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id/about&#34;&gt;About Me&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I know it&amp;rsquo;s better seo value to keep everything on one domain, but I intend to create a lot of content on a variety of subjects, some of which are only tangentally related.&lt;/p&gt;
-
-&lt;p&gt;But you can see, eventually this will be 5 domains with infominer.id becoming the home page for all of it, web-work.tools, didecentral.com, SourceCrypto (don&amp;rsquo;t remember if I have one for that), learncryptotrading.co.&lt;/p&gt;
-
-&lt;p&gt;I should probably hoook each of those domains up with a re-direct right now&amp;hellip; I&amp;rsquo;ve just been pre-occupied with other things. That way I could still gain some promotional benefit of using the domain, while retaining the SEO value of having them live together for the time being.&lt;/p&gt;
-
-&lt;p&gt;WebWork will be a mix of traditional web-technologies, and practical application of new web-tech such as ipfs and blockchain. It&amp;rsquo;s also where any practical data-science experiments would live.&lt;/p&gt;
-
-&lt;p&gt;Ok, thanks for having this chat with me!&lt;/p&gt;
-
-&lt;h2 id=&#34;github-repository-portfolio&#34;&gt;GitHub Repository Portfolio&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id/github-portfolio&#34;&gt;@infominer33&amp;rsquo;s Github Repository Portfolio&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/infominer33&#34;&gt;&lt;img src=&#34;https://imgur.com/NgEKu1x.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;web-work&#34;&gt;Web Work&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://infomienr.id/web-work&#34;&gt;Web Work&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;decentralized-identity&#34;&gt;Decentralized Identity&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id/DIDecentralized&#34;&gt;DIDecentralized&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I already have purchased DIDecentral.com, but for now, the SEO value is better to keep tied to infominer.id.&lt;/p&gt;
-
-&lt;h2 id=&#34;source-crypto&#34;&gt;Source Crypto&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id&#34;&gt;InfoMine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id/SourceCrypto&#34;&gt;Source Crypto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id/bitcoin-history&#34;&gt;Bitcoin History&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://infomienr.id/transcripts&#34;&gt;Transcripts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;learn-crypto-trading&#34;&gt;Learn Crypto Trading&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id/learn-crypto-trading&#34;&gt;Learn Crypto Trading&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;information-dense-content&#34;&gt;Information Dense Content&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;m not a fast writer, or even particularly good at it. However, I love to learn. I value reliable sources and am a patient editor.&lt;/p&gt;
-
-&lt;p&gt;When working with a client, especially new clients, I ask plenty of questions, and show my progress, to ensure that I&amp;rsquo;m headed in the right direction.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m primarily interested in Webwork, Bitcoin, &lt;em&gt;decentralized identity&lt;/em&gt;, cryptocurrencies, development, and tech trends.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m also quite interested in &lt;a href=&#34;https://www.csbtechemporium.com/deep-learning-revolution/&#34;&gt;data science&lt;/a&gt;, although not nearly as much as I am crypto.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I aim to create content of the highest quality - relating complex subjects in a clear and concise fashion - supplying essential details, with quality sources for further study.&lt;/strong&gt;
-{: .notice&amp;ndash;warning}&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Indigo - A Hugo Indiweb Theme - Features</title>
       <link>https://web-work.tools/indieweb/indigo-indieweb-features/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
@@ -872,7 +788,64 @@ Identity consolidation is the ability for a user to indicate that one or more id
     </item>
     
     <item>
-      <title>Indieweb Github Repositories</title>
+      <title>⧉Info⧉</title>
+      <link>https://web-work.tools/indieweb/about/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/about/</guid>
+      <description>
+
+&lt;p&gt;Right now using the Indigo Hugo theme, that supports indieweb features.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;AngeloStravrow/indigo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://infominer.id/about&#34;&gt;About Me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;you can see, eventually this will be 5 domains with infominer.id becoming the home page for all of it, web-work.tools, didecentral.com \ decentralized-id.com, SourceCrypto.pub, learncryptotrading.co.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now its true.&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href=&#34;https://sourcecrypto.pub&#34;&gt;https://sourcecrypto.pub&lt;/a&gt; for all of my crypto related content, &lt;a href=&#34;https://learncryptotrading.co&#34;&gt;https://learncryptotrading.co&lt;/a&gt; for my trading content, &lt;a href=&#34;https://decentralized-id.com&#34;&gt;https://decentralized-id.com&lt;/a&gt; is currently the decentralized-id site, but I like DIDecentral better&amp;hellip; when its ready. And yes&amp;hellip; &lt;a href=&#34;https://web-work.tools&#34;&gt;https://web-work.tools&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have ambitious plans&amp;hellip; but I think those domains should keep me busy for the time-being.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-github-organizations-to-rule-them&#34;&gt;4 GitHub Organizations to Rule Them&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/infominer33&#34;&gt;https://github.com/infominer33&lt;/a&gt;  - &lt;a href=&#34;https://infominer.id&#34;&gt;infominer.id&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/didecentral&#34;&gt;https://github.com/didecentral&lt;/a&gt; - &lt;a href=&#34;https://decentralized-id.com&#34;&gt;decentralized-id.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcecrypto&#34;&gt;https://github.com/sourcecrypto&lt;/a&gt; - &lt;a href=&#34;https://sourcecrypto.pub&#34;&gt;sourcecrypto.pub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcecrypto/bitcoin-history&#34;&gt;https://github.com/sourcecrypto/bitcoin-history&lt;/a&gt; - &lt;a href=&#34;https://sourcecrypto.pub/bitcoin-history&#34;&gt;sourcecrypto.pub/bitcoin-history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcecrypto/transcripts&#34;&gt;https://github.com/sourcecrypto/transcripts&lt;/a&gt; - &lt;a href=&#34;https://sourcecrypto.pub/transcripts&#34;&gt;sourcecrypto.pub/transcripts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcecrypto/decentralized-web&#34;&gt;https://github.com/sourcecrypto/decentralized-web&lt;/a&gt; - &lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;sourcecrypto.pub/decentralized-web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/learn-crypto-trading&#34;&gt;https://github.com/learn-crypto-trading&lt;/a&gt; - &lt;a href=&#34;https://learncryptotrading.co&#34;&gt;learncryptotrading.co&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/web-work-tools&#34;&gt;https://github.com/web-work-tools&lt;/a&gt; - &lt;a href=&#34;https://web-work.tools&#34;&gt;web-work.tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Everything I personally publish is public-domain informational resources. Ideally they will grow to include enough participants to become self-sustaining, after a while.&lt;/p&gt;
+
+&lt;p&gt;Mainly, I&amp;rsquo;m just using these spaces as my classroom and playground. A copule more years of this and I&amp;rsquo;ll have more than enough valuable skills and knowledge, and the world will be better for it.&lt;/p&gt;
+
+&lt;p&gt;One nice feature of having so many organizations is I can for a repository into the appropriate one, and make it easier for folk to browse through. I&amp;rsquo;ll have a post about all that soon enough.&lt;/p&gt;
+
+&lt;h2 id=&#34;github-repository-portfolio&#34;&gt;GitHub Repository Portfolio&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://infominer.id/github-portfolio&#34;&gt;@infominer33&amp;rsquo;s Github Repository Portfolio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/infominer33&#34;&gt;&lt;img src=&#34;https://imgur.com/NgEKu1x.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indieweb Repo Index</title>
       <link>https://web-work.tools/indieweb/github-repos/</link>
       <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
       

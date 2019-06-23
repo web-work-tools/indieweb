@@ -1,11 +1,12 @@
 ---
-type: post
-title: "Indieweb Github Repositories"
+type: page
+title: "Indieweb Repo Index"
 description: "A Growing Collection of Indieweb GitHub Repositories."
 summary: "A start at exploring Indieweb Topics"
 date: "2019-05-19T11:22:33-23:00"
 categories: ["resources"]
 tags: [github-pages, indieweb, github, jekyll, static-sites]
+menu: main
 aliases:
   - /posts/github/
   - /github/
