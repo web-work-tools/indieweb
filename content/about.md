@@ -37,9 +37,4 @@ Mainly, I'm just using these spaces as my classroom and playground. A copule mor
 
 One nice feature of having so many organizations is I can for a repository into the appropriate one, and make it easier for folk to browse through. I'll have a post about all that soon enough.
 
-## GitHub Repository Portfolio
-
-* [@infominer33's Github Repository Portfolio](https://infominer.id/github-portfolio)
-
-[![](https://imgur.com/NgEKu1x.png)](https://github.com/infominer33)
-
+[![](https://imgur.com/XRI9izx.png)](https://github.com/infominer33)
