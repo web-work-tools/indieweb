@@ -1,7 +1,7 @@
 ---
 type: post
 title: "Indigo - A Hugo Indiweb Theme - Features"
-date: 2019-06-23T11:22:33-23:00
+date: 2019-06-22T11:22:33-23:00
 draft: false
 categories: ["indigo"]
 tags: ["hugo-indieweb-theme", "indieweb", "hugo","front matter","features","h-card"]

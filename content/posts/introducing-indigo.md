@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Introducing Indigo"
 date: 2018-10-01T11:22:33-23:00
 draft: false

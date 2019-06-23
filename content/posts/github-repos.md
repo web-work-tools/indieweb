@@ -2,10 +2,10 @@
 type: post
 title: "Indieweb Github Repositories"
 description: "A Growing Collection of Indieweb GitHub Repositories."
+summary: "A start at exploring Indieweb Topics"
 date: "2019-06-23T11:22:33-23:00"
-tags: [github-pages, indieweb, github, jekyll, static-sites]
-subtitle: "A Growing Collection of Indieweb GitHub Repositories."
 categories: ["resources"]
+tags: [github-pages, indieweb, github, jekyll, static-sites]
 aliases:
   - /posts/github/
   - /github/
@@ -13,7 +13,7 @@ aliases:
   - /indieweb-github-repos/
   - /posts/indieweb-github-repos/
 slug: /github-repos/
-summary: "A start at exploring Indieweb Topics"
+draft: false
 ---
 
 ## [github.com/microformats](https://github.com/microformats) - [microformats.org](http://microformats.org)

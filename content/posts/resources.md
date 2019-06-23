@@ -1,11 +1,12 @@
 ---
 type: post
 title: Indieweb Resources
-date: "2019-05-19"
+date: "2019-05-19T11:22:33-23:00"
 categories: ["resources"]
 tags: [indieweb, github-pages, resources, jekyll static-sites]
 subtitle: To Become An Extensive Collection
 slug: /resources/
+draft: false
 aliases:
   - /posts/indieweb-resources/
   - /posts/indieweb-resources

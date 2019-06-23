@@ -1,16 +1,16 @@
 ---
 type: post
 title: "FreeNode IRC #indieweb-dev on IIW RWoT and DID's"
-date: "2019-06-03T11:22:33-23:00"
 description: "Conversation about RWoT and DIDs at #indieweb-dev on Freenode"
-tags: [indieweb, did, rwot, indieweb-dev, freenode]
+summary: What I'm hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.
+date: "2019-06-03T11:22:33-23:00"
 categories: ["decentralized-identity", "resources"]
+tags: [indieweb, did, rwot, indieweb-dev, freenode]
 aliases:
   - /posts/indieweb-dev-on-did/
   - /indieweb-dev-on-did/
 slugs: /indieweb-dev-on-did/
-summary: What I'm hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.
-
+draft: false
 ---
 
 What I'm hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.
