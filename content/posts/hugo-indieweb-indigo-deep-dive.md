@@ -1,7 +1,7 @@
 ---
 type: post
 title: "Indigo - A Hugo Indiweb Theme - Features"
-date: 2019-06-22T11:22:33-23:00
+date: 2019-06-23T11:22:33-23:00
 draft: false
 categories: ["indigo"]
 tags: ["hugo-indieweb-theme", "indieweb", "hugo","front matter","features","h-card"]
@@ -68,7 +68,7 @@ As you can see above, the following microformats are related to who we are. Thes
 
 Lets explore each of these, and what it does.
 
-### [h-card](http://microformats.org/wiki/h-card)
+## [h-card](http://microformats.org/wiki/h-card)
 
 >h-card is a simple, open format for publishing people and organisations on the web. h-card is one of several open microformat draft standards suitable for embedding data in HTML.
 >
@@ -135,7 +135,7 @@ So you can see, the idea is to give people and organizations a variety of ways t
 >* dt-anniversary
 
 
-### Built In Features:
+### Indigo h-card
 
 The author card - `h-card`
 Profile picture - `u-photo` 
@@ -149,7 +149,7 @@ Author URL:
   - `rel=me`
 
 
-## rel=me
+### rel=me
 
 * [microformats.org/wiki/rel-me](http://microformats.org/wiki/rel-me)
 
@@ -188,7 +188,7 @@ Yes, even though you've used 'u=email' to identify your e-mail address, it's the
 However, each has its own purpose... 
 
 
-## Indieauth
+### Indieauth
 
 <a href="https://indieauth.com"><img src="https://imgur.com/MsoJqzp.png" alt="IndieAuth.com provides an IndieAuth server for your website that authenticates you using your existing social accounts. First you link from your website to one or more authentication providers such as GitHub or a PGP key, then when you enter your domain name in the web sign-in form on websites that support IndieAuth, you can sign in without using a password."></a>
 
@@ -197,6 +197,175 @@ Once you've got the rel=me in there, Indieauth.com will check to see if it has v
 ![](https://indieauth.com/img/code-sample.png)
 
 If it does, then an automated system will take you through, much like logging into any web-service.
+
+## Indigo-Source Deployed
+
+Now I've done some basic configuration and have a few blog, posts up... lets examine the source of a single blog post, to see it in action.
+
+### Endpoints
+
+Here we see a few links identified as 'me', and an authorization end-point:
+
+![](https://imgur.com/MJXJtFn.png)
+
+*From `config.toml`*
+```
+#https://github.com/kisik21/indigo/commit/e168672487b78bef5070cc0eb70bc5d4e748c707
+  [params.endpoints]
+  Auth = "https://indieauth.com/auth"
+  # To get webmention support, just register at webmention.io and paste the link for endpoint here.
+  Webmention = "https://webmention.io/web-work.tools_indieweb_/webmention"
+  # To get micropub support, you'll need to install a Micropub endpoint at your site and put its link there.
+  # To get an endpoint with Hugo support, use nanopub: https://github.com/dg01d/nanopub
+  # It will probably require some PHP hackery though, as it's fairly basic.
+  #Micropub = ""
+  # To get microsub support, you can use Aperture from p3k. Either go to https://aperture.p3k.io or self-host it (it's open source!)
+  #Microsub = ""
+```
+
+For the authorization endpoin, that's simple enough. If you've set up your h-card paramaters in the config file, and deployed the site, it should walk you right through, and even guide you if anything is missing.
+
+
+### h-entry
+
+Ahaaa! Now we're getting to it.  I remember that there was some indieweb code not strictly defined in the documentation for this theme.  Let's check it out!
+
+* [indieweb.org/h-entry](https://indieweb.org/h-entry)
+
+  >h-entry is the microformats2 vocabulary for marking up blog posts on web sites. It can also be used to mark-up any other episodic or time series based content. 
+
+...
+
+  >Adding h-entry to your post pages enables post information [discovery](https://indieweb.org/discovery) on your permalinks, which is useful for a variety of things, including:
+  >
+  >  - [reply](https://indieweb.org/reply) context syndication
+  >  - syndication of your [replies](https://indieweb.org/replies) from your site as comments on the permalinks of the sites that you reply to.
+  >
+  >Adding h-entry to your home page enables:
+  >
+  >  - subscribing to your posts directly from your home page (no separate feed needed).
+  >  - A building block for adding [PuSH](https://indieweb.org/PuSH) 0.4 support for real time subscribers of your updates
+  >
+  >Any page with an explicit author and publication date can use h-entry and enables:
+  >
+  >  - Nicer [link-previews](https://indieweb.org/link-preview), especially with an optional [u-featured](https://indieweb.org/u-featured) image
+  >  - For example: W3C specs like [Webmention](https://w3.org/TR/webmention) and [Micropub](https://w3.org/TR/micropub) have their name, editors, publication date all marked up with h-entry.
+
+### [h-entry](http://microformats.org/wiki/h-entry) properties
+
+**The following core h-entry properties have broad consensus and are broadly interoperably published and consumed:**
+
+>* `p-name` - entry name/title
+>* `p-summary` - short entry summary
+>* `e-content` - full content of the entry
+>* `dt-published` - when the entry was published
+>* `dt-updated` - when the entry was updated
+>* `p-author` - who wrote the entry, optionally embedded h-card(s)
+>* `p-category` - entry categories/tags
+>* `u-url` - entry permalink URL
+>* `u-uid` - universally unique identifier, typically canonical entry URL
+>* `p-location` - location the entry was posted from, optionally embed h-card, h-adr, or h-geo
+>* `u-syndication` - URL(s) of syndicated copies of this post. The property equivalent of rel-syndication (example)
+>* `u-in-reply-to` - the URL which the h-entry is considered reply to (i.e. doesn’t make sense without context, could show up in comment thread), optionally an embedded h-cite (reply-context) (example)
+>* `p-rsvp` (enum, use `<data>` element or value-class-pattern)
+  > "yes", "no", "maybe", "interested". Case-insensitive values, normalized to lowercase. Examples:
+  > ... `<data class="p-rsvp" value="yes">is going</data>` to ..., or
+  > ... `<data class="p-rsvp" value="maybe">might go</data>` to ...
+  > ... `<data class="p-rsvp" value="no">unable to go</data>` to ...
+  > ... `<data class="p-rsvp" value="interested">am interested/tracking/watching</data>` ... 
+>* `u-like-of` - the URL which the h-entry is considered a “like” (favorite, star) of. Optionally an embedded h-cite
+>* `u-repost-of` - the URL which the h-entry is considered a “repost” of. Optionally an embedded h-cite. 
+
+
+### Indigo Article Source
+
+Similar to h-card, our h-entry has a number of potential properties.
+
+```
+<article class="h-entry">
+  <header>
+      <h1 class="post-title p-name">FreeNode IRC #indieweb-dev on IIW RWoT and DID&#39;s</h1>
+           
+      <p class="post-date">Posted on
+          <time class="dt-published" datetime="2019-06-03T11:22:33-23:00">
+          3 June, 2019 at 11:22 -2300
+          </time>  by <a href="https://web-work.tools/indieweb/" class="p-author h-card" rel="author">Infominer</a>
+      </p>
+            
+      <p class="post-tag">Category: 
+                
+        <a href="https://web-work.tools/indieweb/categories/decentralized-identity" class="post-tag p-category">decentralized-identity</a>
+                
+        <a href="https://web-work.tools/indieweb/categories/resources" class="post-tag p-category">resources</a></p>
+
+      <hr class="post-underline">
+          
+  </header>
+```
+
+The article is marked with the `h-entry` class, and then we have:
+
+>* `p-name` - entry name/title
+>* `dt-published` - when the entry was published
+>* `p-category` - entry categories/tags
+>* `p-author h-card rel="author"`
+
+That last combo is interesting. Like mentioned earlier, the p-author is found as part of the h-card class. 
+
+Perhaps its significant that this `h-card` is found within the `h-entry`... I'm just figuring this out as we go along.
+
+### e-content
+
+>* e-content - full content of the entry 
+
+```  
+  <section class="content e-content">
+```
+
+{{ content }} (not copyin the whole post here :)
+
+All our tags marked with p-category:
+
+```
+  </section>
+  <footer>
+    <a class="permalink u-url" href="https://web-work.tools/indieweb/indieweb-dev-on-did/">🔗</a>
+            
+    <hr class="post-underline">
+    <p class="post-tag">Tags for this post: 
+            
+    <a href="https://web-work.tools/indieweb/tags/indieweb" class="post-tag p-category">indieweb</a>
+            
+    <a href="https://web-work.tools/indieweb/tags/did" class="post-tag p-category">did</a>
+            
+    <a href="https://web-work.tools/indieweb/tags/rwot" class="post-tag p-category">rwot</a>
+            
+    <a href="https://web-work.tools/indieweb/tags/indieweb-dev" class="post-tag p-category">indieweb-dev</a>
+            
+    <a href="https://web-work.tools/indieweb/tags/freenode" class="post-tag p-category">freenode</a></p>
+            
+  </footer>
+    </article>
+</div>
+```
+
+Finally the `h-card`, in our footer, Lovely.
+
+```    
+    <div class="h-card">
+      <img class="u-photo" src="https://web-work.tools/indieweb/images/infominer.svg" />
+      <div class="card-content">
+        <h2 class="card-name"><a class="p-name u-url" href="https://web-work.tools/indieweb/" rel="me">Infominer</a></h2>
+        <p class="card-subhead">
+          <span class="p-locality">Mehtab Bagh</span>,
+          <span class="p-country-name">49 6e 64 75 73</span><br />
+          <a class="u-email" href="mailto:infominer@protonmail.com">Email me</a>
+        </p>
+      </div>
+      <p class="p-note">Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, Indieweb ⧉ her/him</p>
+    </div>
+```
+
 
 ## Be Back Soon
 

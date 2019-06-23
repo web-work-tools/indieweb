@@ -79,37 +79,14 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/github-repos/</loc>
-    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/github/</loc>
-    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
-    <priority>0</priority>
+    <loc>https://web-work.tools/indieweb/resources/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/github-pages/</loc>
-    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/jekyll/</loc>
-    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/static-sites/</loc>
-    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/resources/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
