@@ -366,6 +366,8 @@ Finally the `h-card`, in our footer, Lovely.
     </div>
 ```
 
+Check out [layouts/_default/single.html](https://github.com/AngeloStavrow/indigo/blob/master/layouts/_default/single.html) to see what it looks like before its built.
+
 
 ## Be Back Soon
 
