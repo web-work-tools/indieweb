@@ -9,107 +9,102 @@
   
   <url>
     <loc>https://web-work.tools/indieweb/categories/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/categories/did/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/indieweb-dev-on-did/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/indigo-authors/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/posts/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/tags/chat-log/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <loc>https://web-work.tools/indieweb/categories/decentralized-identity/</loc>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/did/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/freenode/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/front-matter/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/hugo/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/indieweb/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/indieweb-dev/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/categories/meta/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/options/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <loc>https://web-work.tools/indieweb/categories/resources/</loc>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/rwot/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/github-repos/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/github/</loc>
+    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/github-pages/</loc>
+    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/jekyll/</loc>
+    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/static-sites/</loc>
+    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -118,31 +113,7 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/tags/github/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/github-pages/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/jekyll/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://web-work.tools/indieweb/tags/jekyll-static-sites/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/categories/resources/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -154,8 +125,25 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/tags/static-sites/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <loc>https://web-work.tools/indieweb/introducing-indigo/</loc>
+    <lastmod>2018-10-01T11:22:33-23:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/hugo/</loc>
+    <lastmod>2018-10-01T11:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/categories/indigo/</loc>
+    <lastmod>2018-10-01T11:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/indigo-theme/</loc>
+    <lastmod>2018-10-01T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   

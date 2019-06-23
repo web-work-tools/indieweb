@@ -2,8 +2,8 @@
 type: post
 title: "Indieweb Github Repositories"
 description: "A Growing Collection of Indieweb GitHub Repositories."
-date: "2019-05-19"
-tags: [indieweb, github-pages, resources, github, jekyll, static-sites]
+date: "2019-05-19T11:22:33-23:00"
+tags: [github-pages, indieweb, github, jekyll, static-sites]
 subtitle: "A Growing Collection of Indieweb GitHub Repositories."
 categories: ["resources"]
 aliases:
@@ -15,6 +15,88 @@ aliases:
 slug: /github-repos/
 summary: "A start at exploring Indieweb Topics"
 ---
+
+## [github.com/microformats](https://github.com/microformats) - [microformats.org](http://microformats.org)
+
+* [microformats/php-mf2](https://github.com/microformats/php-mf2) -php-mf2 is a pure, generic microformats-2 parser for PHP. It makes HTML as easy to consume as JSON.
+* [microformats/microformats-ruby](https://github.com/microformats/microformats-ruby) -Ruby gem that parse HTML containing microformats/microformats2 and returns Ruby objects, a Ruby hash or a JSON hash
+* [microformats/mf2py](https://github.com/microformats/mf2py) - Microformats2 parser written in Python
+* [microformats/microformats.io](https://github.com/microformats/microformats.io) -Simple explainer site about Microformats.
+* [microformats/mediawiki-entry-title-override](https://github.com/microformats/mediawiki-entry-title-override) - Forked from [BenWard/mediawiki-entry-title-override](https://github.com/BenWard/mediawiki-entry-title-override) - Simple extension to allow overriding of MediaWiki page titles using document mark-up.
+* [microformats/microformats-parser-website-go](https://github.com/microformats/microformats-parser-website-go) -Website for Microformats Go parser
+* [microformats/tests](https://github.com/microformats/tests) -Microformats test suite
+* [microformats/microformats-parser-website-php](https://github.com/microformats/microformats-parser-website-php) -Small web page for displaying parsed microformats2
+* [microformats/microformats-parser-website-python](https://github.com/microformats/microformats-parser-website-python) -Website for Microformats Python parser (mf2py & mf2util)
+* [microformat-node](https://github.com/microformats/microformat-node) - Forked from [glennjones/microformat-node](https://github.com/glennjones/microformat-node) -Microformats parser for node.js
+* [microformats/microformats-parser-website-ruby](https://github.com/microformats/microformats-parser-website-ruby)
+Website for Microformats Ruby parser
+* [microformats/h2vx.com](https://github.com/microformats/h2vx.com)
+H2VX microformats to vCard/iCalendar converter, test dev.h2vx.com for issues
+* [microformats/h-entry](https://github.com/microformats/h-entry)
+For collecting and handling issues with the h-entry vocabulary specification: http://microformats.org/wiki/h-entry
+* [microformats/h-event](https://github.com/microformats/h-event)
+This repository is for tracking and resolving issues related to the h-event specification http://microformats.org/wiki/h-event
+* [microformats/microformats2-parsing](https://github.com/microformats/microformats2-parsing)
+For collecting and handling issues with the microformats2 parsing specification: http://microformats.org/wiki/microformats2-parsing
+* [microformats/mf2tojf2.py](https://github.com/microformats/mf2tojf2.py)
+convert mf2 to jf2
+* [microformats/fragmentions](https://github.com/microformats/fragmentions)
+Forked from chapmanu/fragmentions
+A proposal and polyfill to use # fragments with spaces in as links to phrases in a document.
+* [microformats/xoxo](https://github.com/microformats/xoxo)
+Code to transform back and forth between JSON and HTML outlines
+* [microformats/LinkAttributes](https://github.com/microformats/LinkAttributes)
+Forked from rotsee/LinkAttributes
+A MediaWiki extension which extends the link syntax to allow custom attributes, such as rel="author".
+* [microformats/mediawiki-semantic-html](https://github.com/microformats/mediawiki-semantic-html)
+Forked from BenWard/mediawiki-semantic-html
+A MediaWiki extension to restore support for the HTML4 phrase elements used in wiki mark-up.
+
+
+## [github.com/w3c](https://github.com/w3c/)
+
+* [w3c/webmention](https://github.com/w3c/webmention)
+* [w3c/Micropub](https://github.com/w3c/Micropub)
+* [w3c/websub](https://github.com/w3c/websub) -WebSub Spec in Social Web Working Group https://w3c.github.io/websub/]
+
+## [AaronPK](https://github.com/aaronpk)
+
+* [aaronpk/indielogin.com](https://github.com/aaronpk/indielogin.com) -Sign in with your domain name
+* [aaronpk/Monocle](https://github.com/aaronpk/Monocle) Monocle is a reader app that talks to a Microsub server
+* [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) Easily enable webmentions and pingbacks on any web page
+* [aaronpk/XRay](https://github.com/aaronpk/XRay) -X-Ray returns structured data from any URL
+* [aaronpk/Aperture](https://github.com/aaronpk/Aperture) -Aperture is a Microsub server. Currently in beta.
+* [aaronpk/microsub.rocks](https://github.com/aaronpk/microsub.rocks)
+* [aaronpk/OwnYourGram](https://github.com/aaronpk/OwnYourGram) - camera Save your Instagram photos to your own site in real time!
+* [aaronpk/aperture-wordpress](https://github.com/aaronpk/aperture-wordpress) -A WordPress plugin to use Aperture as your Microsub endpoint
+* [aaronpk/IndieNews](https://github.com/aaronpk/IndieNews)- newspaper News aggregator for IndieWeb-related posts
+* [aaronpk/indieauth.rocks](https://github.com/aaronpk/indieauth.rocks) -IndieAuth test suite - in progress
+* [aaronpk/websub.rocks](https://github.com/aaronpk/websub.rocks) - Test suite and debug utilities for W3C WebSub
+* [aaronpk/mediawiki-mf2-dfn](https://github.com/aaronpk/mediawiki-mf2-dfn)
+* [aaronpk/Squash-Reports](https://github.com/aaronpk/Squash-Reports)
+* [aaronpk/micropub.rocks](https://github.com/aaronpk/micropub.rocks)
+Micropub test suite and debugging utility
+* [aaronpk/strong-authentication-and-identity-workshop](https://github.com/aaronpk/strong-authentication-and-identity-workshop)
+Forked from w3c/strong-authentication-and-identity-workshop
+* [aaronpk/php-mf2](https://github.com/aaronpk/php-mf2) -Forked from [microformats/php-mf2](https://github.com/microformats/php-mf2) -A pure (generic parsing) microformats-2 parser for PHP
+* [aaronpk/mention-client-php](https://github.com/aaronpk/mention-client-php) Forked from [indieweb/mention-client-php](https://github.com/indieweb/mention-client-php) - Client library for sending webmention and pingback notifications
+* [aaronpk/example-indieauth-server](https://github.com/aaronpk/example-indieauth-server) -a prototype IndieAuth server to demonstrate what is required to build an IndieAuth server
+* [aaronpk/p3k-micropub](https://github.com/aaronpk/p3k-micropub) -Utilities to help handle Micropub requests when building servers and clients
+* [aaronpk/Teacup](https://github.com/aaronpk/Teacup) - coffee Teacup is a simple Micropub app for tracking what you eat and drink
+* [aaronpk/IndieWeb-Development](https://github.com/aaronpk/IndieWeb-Development)
+* [aaronpk/webmention.rocks](https://github.com/aaronpk/webmention.rocks) -a webmention validator and test suite - [webmention.rocks](https://webmention.rocks)
+* [aaronpk/xmlrpc-micropub-bridge](https://github.com/aaronpk/xmlrpc-micropub-bridge) -XML-RPC to Micropub Bridge - [aaronparecki.com/2018/04/09/5/](https://aaronparecki.com/2018/04/09/5/)
+* [aaronpk/IndieAuth-Token-Endpoint](https://github.com/aaronpk/IndieAuth-Token-Endpoint) - [tokens.indieauth.com[(https://tokens.indieauth.com/)
+
+## [github.com/voxpelli](https://github.com/voxpelli)
+
+* [voxpelli/indie-action-component](https://github.com/voxpelli/indie-action-component)
+* [voxpelli/webpage-micropub-to-github](https://github.com/voxpelli/webpage-micropub-to-github) - Self-hosteable Micropub endpoint that publishes to Jekyll by committing to GitHub
+* [voxpelli/webpage-webmentions](https://github.com/voxpelli/webpage-webmentions) - A hosted Disqus-like comment service that enables WebMention receiving on any kind of site
+* [voxpelli/node-webmention-testpinger](https://github.com/voxpelli/node-webmention-testpinger) - A tool to ping your site with a variety of real world WebMentions
+* [voxpelli/node-micropub-express](https://github.com/voxpelli/node-micropub-express) - Provides a Micropub route for Express 4.x
+* [voxpelli/node-format-microformat](https://github.com/voxpelli/node-format-microformat) -Formats a Microformat JSON representation into eg. a Jekyll post
+* [voxpelli/microformat-node](https://github.com/voxpelli/voxpelli/microformat-node) - My personal blog, based on Jekyll https://voxpelli.com/
 
 
 ## [github.com/miklb](https://github.com/miklb)
