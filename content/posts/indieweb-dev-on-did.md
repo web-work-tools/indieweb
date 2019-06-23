@@ -9,7 +9,7 @@ tags: [indieweb, did, rwot, indieweb-dev, freenode]
 aliases:
   - /posts/indieweb-dev-on-did/
   - /indieweb-dev-on-did/
-slugs: /indieweb-dev-on-did/
+slug: /indieweb-dev-on-did/
 draft: false
 ---
 

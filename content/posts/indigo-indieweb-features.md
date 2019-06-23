@@ -1,12 +1,13 @@
 ---
 type: post
 title: "Indigo - A Hugo Indiweb Theme - Features"
-date: 2019-06-22T11:22:33-23:00
-draft: false
+description: "A Growing Collection of Indieweb GitHub Repositories"
+summary: "The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note. I'll be exploring these classes more thoroughly, soon."
 categories: ["indigo"]
 tags: ["hugo-indieweb-theme", "indieweb", "hugo","front matter","features","h-card"]
-slug: /indigo-authors/
-summary: "The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note. I'll be exploring these classes more thoroughly, soon."
+date: "2019-06-22T01:22:33-23:00"
+draft: false
+slug: /indigo-indieweb-features/
 
 ---
 

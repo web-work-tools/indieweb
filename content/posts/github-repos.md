@@ -3,7 +3,7 @@ type: post
 title: "Indieweb Github Repositories"
 description: "A Growing Collection of Indieweb GitHub Repositories."
 summary: "A start at exploring Indieweb Topics"
-date: "2019-06-23T11:22:33-23:00"
+date: "2019-05-19T11:22:33-23:00"
 categories: ["resources"]
 tags: [github-pages, indieweb, github, jekyll, static-sites]
 aliases:
