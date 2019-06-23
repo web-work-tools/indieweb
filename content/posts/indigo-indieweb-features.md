@@ -22,7 +22,7 @@ I would encourage you to follow along with the associated links. I'm trying to k
 * [indieweb.org](https://indieweb.org/)
 * [indieauth.com](https://indieauth.com/)
 
-Those links are plent to get started :)
+Those links are plenty to get started :)
 
 ## Setting up the author bio
 
@@ -86,7 +86,7 @@ Lets explore each of these, and what it does.
 
 * [microformats.org/wiki/h-card](http://microformats.org/wiki/h-card)
 
-Yay! Structured Data! These are the bits that add flavor and context, for the machines we communicate through, to otherwise indistinguishable code.
+Yay! Structured Data! These are the bits that add flavor and context, for the machines we communicate through, to otherwise indistinguishable (to a machine) info.
 
 > The class h-card is a root class name that indicates the presence of an h-card.
 >
@@ -233,7 +233,7 @@ Here we see a few links identified as 'me', and an authorization end-point:
   #Microsub = ""
 ```
 
-For the authorization endpoin, that's simple enough. If you've set up your h-card paramaters in the config file, and deployed the site, it should walk you right through, and even guide you if anything is missing.
+For the authorization endpoint, that's simple enough. If you've set up your h-card paramaters in the config file, and deployed the site, it should walk you right through, and even guide you if anything is missing.
 
 
 ### h-entry
@@ -286,10 +286,9 @@ Ahaaa! Now we're getting to it.  I remember that there was some indieweb code no
 >* `u-like-of` - the URL which the h-entry is considered a “like” (favorite, star) of. Optionally an embedded h-cite
 >* `u-repost-of` - the URL which the h-entry is considered a “repost” of. Optionally an embedded h-cite. 
 
+Similar to h-card, our h-entry has a number of potential properties.
 
 ### Indigo Article Source
-
-Similar to h-card, our h-entry has a number of potential properties.
 
 ```
 <article class="h-entry">

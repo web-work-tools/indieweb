@@ -116,7 +116,7 @@
 &lt;li&gt;&lt;a href=&#34;https://indieauth.com/&#34;&gt;indieauth.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Those links are plent to get started :)&lt;/p&gt;
+&lt;p&gt;Those links are plenty to get started :)&lt;/p&gt;
 
 &lt;h2 id=&#34;setting-up-the-author-bio&#34;&gt;Setting up the author bio&lt;/h2&gt;
 
@@ -221,7 +221,7 @@
 &lt;li&gt;&lt;a href=&#34;http://microformats.org/wiki/h-card&#34;&gt;microformats.org/wiki/h-card&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Yay! Structured Data! These are the bits that add flavor and context, for the machines we communicate through, to otherwise indistinguishable code.&lt;/p&gt;
+&lt;p&gt;Yay! Structured Data! These are the bits that add flavor and context, for the machines we communicate through, to otherwise indistinguishable (to a machine) info.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The class h-card is a root class name that indicates the presence of an h-card.&lt;/p&gt;
@@ -371,7 +371,7 @@ Identity consolidation is the ability for a user to indicate that one or more id
   #Microsub = &amp;quot;&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;For the authorization endpoin, that&amp;rsquo;s simple enough. If you&amp;rsquo;ve set up your h-card paramaters in the config file, and deployed the site, it should walk you right through, and even guide you if anything is missing.&lt;/p&gt;
+&lt;p&gt;For the authorization endpoint, that&amp;rsquo;s simple enough. If you&amp;rsquo;ve set up your h-card paramaters in the config file, and deployed the site, it should walk you right through, and even guide you if anything is missing.&lt;/p&gt;
 
 &lt;h3 id=&#34;h-entry&#34;&gt;h-entry&lt;/h3&gt;
 
@@ -439,9 +439,9 @@ Identity consolidation is the ability for a user to indicate that one or more id
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;indigo-article-source&#34;&gt;Indigo Article Source&lt;/h3&gt;
-
 &lt;p&gt;Similar to h-card, our h-entry has a number of potential properties.&lt;/p&gt;
+
+&lt;h3 id=&#34;indigo-article-source&#34;&gt;Indigo Article Source&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code&gt;&amp;lt;article class=&amp;quot;h-entry&amp;quot;&amp;gt;
   &amp;lt;header&amp;gt;
