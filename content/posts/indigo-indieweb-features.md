@@ -13,7 +13,16 @@ slug: /indigo-indieweb-features/
 
 Hey!!! So I've been meaning to do this for a while.. and now [Indieweb Summit](https://indieweb.org/2019) is right around the corner. I've been hustling away on some related projects just so I could have something really nice prepared for the event.
 
-I would encourage you to follow along with the associated links. I'm going to try and keep this compact, but convey essential information as an overview.
+I would encourage you to follow along with the associated links. I'm trying to keep this compact, while conveying essential information.
+
+![](https://imgur.com/ZCC07f3.png)
+
+* [AngeloStavrow/indigo](https://github.com/AngeloStavrow/indigo) - The theme of this web-site's home repository.
+* [microformats.org](http://microformats.org/)
+* [indieweb.org](https://indieweb.org/)
+* [indieauth.com](https://indieauth.com/)
+
+Those links are plent to get started :)
 
 ## Setting up the author bio
 
