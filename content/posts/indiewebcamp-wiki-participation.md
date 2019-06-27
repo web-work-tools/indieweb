@@ -2,7 +2,7 @@
 type: post
 title: "Indiewebcamp - Participating with the Wiki"
 description: "To grow more familiar with how to work on the wiki."
-summary: ""
+summary: "When you join the wiki you help our community grow and also provide documentation of your journey. This helps the next person who, like you, wants to control their data in the place that they own."
 categories: ["participation", "wiki"]
 tags: ["indiewebcamp"]
 date: "2019-06-26T01:13:33-23:00"
