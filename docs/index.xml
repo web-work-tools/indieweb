@@ -116,6 +116,74 @@ Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes o
     </item>
     
     <item>
+      <title>Indiewebcamp - Specifications</title>
+      <link>https://web-work.tools/indieweb/indiewebcamp-specifications/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indiewebcamp-specifications/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-are-indiewebcamp-specifications-https-indieweb-org-faq-what-are-indiewebcamp-specifications&#34;&gt;&lt;a href=&#34;https://indieweb.org/FAQ#What_are_IndieWebCamp_specifications&#34;&gt;What are IndieWebCamp specifications&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Q: What specs does IndieWebCamp handle?&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A: The IndieWebCamp community develops several widely implemented specifications, including &lt;a href=&#34;https://indieweb.org/IndieAuth&#34;&gt;IndieAuth&lt;/a&gt;, &lt;a href=&#34;https://indieweb.org/Webmention&#34;&gt;Webmention&lt;/a&gt;, and &lt;a href=&#34;https://indieweb.org/Micropub&#34;&gt;Micropub&lt;/a&gt;. Additional specifications (like &lt;a href=&#34;https://indieweb.org/Vouch&#34;&gt;Vouch&lt;/a&gt;) are in development. Lastly, IndieWebCamp also makes heavy (re-)use of &lt;a href=&#34;https://indieweb.org/microformats&#34;&gt;microformats&lt;/a&gt; specifications.&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&#34;https://indieweb.org/specifications&#34;&gt;specifications&lt;/a&gt; for a longer list of essential IndieWebCamp specifications, both developed here in the community, and heavily (re-)used from other communities.&lt;/p&gt;
+
+&lt;h2 id=&#34;indieweb-specifications-https-indieweb-org-specifications&#34;&gt;&lt;a href=&#34;https://indieweb.org/specifications&#34;&gt;Indieweb Specifications&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The following specifications are used for dependable interoperability by the IndieWebCamp community.&lt;/p&gt;
+
+&lt;p&gt;Broadly implemented: These standards are interoperably implemented by the overwhelming majority of indieweb software, services, and websites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IndieAuth (W3C Note)&lt;/li&gt;
+&lt;li&gt;microformats2
+
+&lt;ul&gt;
+&lt;li&gt;h-card&lt;/li&gt;
+&lt;li&gt;h-entry&lt;/li&gt;
+&lt;li&gt;h-feed&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Micropub (W3C Recommendation)&lt;/li&gt;
+&lt;li&gt;rel-me&lt;/li&gt;
+&lt;li&gt;Webmention (W3C Recommendation)&lt;/li&gt;
+&lt;li&gt;WebSub (W3C Recommendation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Numerous implementations: These standards have several implementations that interoperate, enough to consider the specifications fairly stable:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;authorship&lt;/li&gt;
+&lt;li&gt;h-cite&lt;/li&gt;
+&lt;li&gt;h-event&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Being implemented / in development: These standards are undergoing active development and evolution as they are being implemented, tested in actual products with users, and then iterated for improvement:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;fragmentions&lt;/li&gt;
+&lt;li&gt;Microsub&lt;/li&gt;
+&lt;li&gt;original-post-discovery&lt;/li&gt;
+&lt;li&gt;post-type-discovery (W3C Note)&lt;/li&gt;
+&lt;li&gt;salmentions&lt;/li&gt;
+&lt;li&gt;vouch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stable with some support: These standards are stable (few or no changes in quite some time), yet only have some support, or are only supported by publishers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;XFN (beyond rel=me) - many sites publish, no known consuming applications&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Per IndieWebCamp principles, microformats specifications are (re-)used heavily as essential simple building block extensions to HTML.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Indiweb Principles: Unpacked</title>
       <link>https://web-work.tools/indieweb/indieweb-principles/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
@@ -125,9 +193,11 @@ Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes o
 
 &lt;p&gt;I thought it would be nice to &amp;ldquo;un-pack&amp;rdquo; the indieweb principles, in order to become more familiar with their associated ideas.&lt;/p&gt;
 
-&lt;p&gt;This page is an attempt to reproduce the main topics related to indieweb principles found in the &lt;a href=&#34;https://indieweb.org&#34;&gt;Indieweb Wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This page is an attempt to reproduce the main topics related to indieweb principles, found in the &lt;a href=&#34;https://indieweb.org&#34;&gt;Indieweb Wiki&lt;/a&gt;, on a single page.&lt;/p&gt;
 
-&lt;p&gt;The reader is advised to visit the wiki, and not to count on this as the last final word on any of these topics, which are likely to become updated more frequently on their homepage.&lt;/p&gt;
+&lt;p&gt;This saves myself from jumping around the wiki, and wondering which links I already visited.&lt;/p&gt;
+
+&lt;p&gt;The reader is advised to visit the wiki, and not to count on this as authoritative in any way. Found on indieweb.org, these resources will generally be more up to date, and accurate.&lt;/p&gt;
 
 &lt;h2 id=&#34;indieweb-org-principles-https-indieweb-org-principles&#34;&gt;&lt;a href=&#34;https://indieweb.org/principles&#34;&gt;Indieweb.org/principles&lt;/a&gt;&lt;/h2&gt;
 

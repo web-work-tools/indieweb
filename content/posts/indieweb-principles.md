@@ -12,9 +12,11 @@ slug: /indiewebcamp/principles-unpacked/
 
 I thought it would be nice to "un-pack" the indieweb principles, in order to become more familiar with their associated ideas.
 
-This page is an attempt to reproduce the main topics related to indieweb principles found in the [Indieweb Wiki](https://indieweb.org).
+This page is an attempt to reproduce the main topics related to indieweb principles, found in the [Indieweb Wiki](https://indieweb.org), on a single page.
 
-The reader is advised to visit the wiki, and not to count on this as the last final word on any of these topics, which are likely to become updated more frequently on their homepage. 
+This saves myself from jumping around the wiki, and wondering which links I already visited.
+
+The reader is advised to visit the wiki, and not to count on this as authoritative in any way. Found on indieweb.org, these resources will generally be more up to date, and accurate.
 
 ## [Indieweb.org/principles](https://indieweb.org/principles)
 
