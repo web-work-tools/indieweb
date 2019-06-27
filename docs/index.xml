@@ -6,17 +6,455 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Sat, 22 Jun 2019 01:22:33 -2300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 01:13:33 -2300</lastBuildDate>
     
         <atom:link href="https://web-work.tools/indieweb/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Indiewebcamp - Code of Conduct</title>
+      <link>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</guid>
+      <description>
+
+&lt;h2 id=&#34;indieweb-code-of-conduct-tl-dr&#34;&gt;IndieWeb code of conduct tl;dr:&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can&#39;t resolve an issue, contact staff. If you are being a problem, it will be apparent and you&#39;ll be asked to leave.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Based on previous &lt;a href=&#34;https://indieweb.org/code-of-conduct-examples&#34;&gt;excellent work by others&lt;/a&gt;, this is a living code of conduct. This code of conduct applies to all IndieWeb spaces both online and off, including our events, IRC channel, and wiki.&lt;/p&gt;
+
+&lt;h2 id=&#34;respect&#34;&gt;Respect&lt;/h2&gt;
+
+&lt;p&gt;IndieWeb is an intentionally positive community that recognizes and celebrates the creativity and collaboration of independent creators (and independence) and the diversity of people, cultures, and opinions that they bring to IndieWeb.&lt;/p&gt;
+
+&lt;p&gt;IndieWeb spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender (including transgender status), sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, politics, ideology (real world or tech), or software preferences.&lt;/p&gt;
+
+&lt;p&gt;We value respectful behavior above individual opinions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Respectful behavior includes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Be considerate, kind, constructive, and helpful.
+Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
+If you&#39;re not sure, ask someone instead of assuming.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;resolve-peacefully&#34;&gt;Resolve Peacefully&lt;/h2&gt;
+
+&lt;p&gt;We believe peer to peer discussions, feedback, corrections can help build a stronger, safer, and more welcoming community.&lt;/p&gt;
+
+&lt;p&gt;If you see someone behaving disrespectfully, you are encouraged to respectfully discourage them from such behavior. Expect that others in the community wish to help keep the community respectful and welcome your input in doing so.&lt;/p&gt;
+
+&lt;p&gt;If you experience disrespectful behavior and feel in any way unable to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an organizer. We want to hear from you about anything that you feel is disrespectful, threatening, or just icky in any way. We will listen and work to resolve the matter.
+Apologize for Mistakes&lt;/p&gt;
+
+&lt;p&gt;Should you catch yourself behaving disrespectfully, or be confronted as such, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them, and avoiding repeating them in the future.&lt;/p&gt;
+
+&lt;h2 id=&#34;consequences&#34;&gt;Consequences&lt;/h2&gt;
+
+&lt;p&gt;If the organizers determine that an event participant is behaving disrespectfully, the organizers may take any action they deem appropriate, up to and including expulsion and exclusion from the event without warning or refund.&lt;/p&gt;
+
+&lt;p&gt;As organizers, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. We can&amp;rsquo;t foresee every situation however, and thus if in the organizers&amp;rsquo; judgment the best thing to do is to ask a disrespectful individual to leave, we will do so. We&amp;rsquo;ve never had to do so; please don&amp;rsquo;t be the first.
+Resolving an Issue&lt;/p&gt;
+
+&lt;p&gt;If you believe you’re experiencing practices at an IndieWeb event which doesn’t meet the policies below, or if you feel you are being harassed in any way, please immediately contact the event organizer.&lt;/p&gt;
+
+&lt;p&gt;If you believe you’re experiencing practices in chat or at an event which don’t meet the policies above, please immediately contact any ally you may know. Anyone in the community should feel empowered to resolve issues and uphold our high standards.&lt;/p&gt;
+
+&lt;p&gt;However if you feel the issue requires escalation to a community organizer please contact:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Martymcgui.re&#34;&gt;Marty McGuire&lt;/a&gt; US/Eastern
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;schmarty&lt;/code&gt; in &lt;a href=&#34;https://indieweb.org/discuss&#34;&gt;chat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Aaronparecki.com&#34;&gt;Aaron Parecki&lt;/a&gt; US/Pacific
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;aaronpk&lt;/code&gt; in &lt;a href=&#34;https://indieweb.org/discuss&#34;&gt;chat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;imessage/email: aaron@parecki.com&lt;/li&gt;
+&lt;li&gt;sms/voice: 503-567-8642&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Vanderven.se_martijn&#34;&gt;Martijn van der Ven&lt;/a&gt; Central European Time
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Zegnat&lt;/code&gt; in &lt;a href=&#34;https://indieweb.org/discuss&#34;&gt;chat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Feel free to contact me out of the blue, even over email or any other way available to you listed on my personal website.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Gregorlove.com&#34;&gt;gRegor Morrill&lt;/a&gt; US/Pacific
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;gRegorLove&lt;/code&gt; in &lt;a href=&#34;https://indieweb.org/discuss&#34;&gt;chat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;or contact through &lt;a href=&#34;https://gregorlove.com/contact/&#34;&gt;https://gregorlove.com/contact/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Calumryan.com&#34;&gt;Calum Ryan&lt;/a&gt; UK
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;calumryan&lt;/code&gt; in chat or contact through &lt;a href=&#34;https://calumryan.com/enquire&#34;&gt;https://calumryan.com/enquire&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Like everything else posted on IndieWeb.org, this Code of Conduct is released to the public domain according to CC0 (see the wiki&amp;rsquo;s copyright page for details).&lt;/p&gt;
+
+&lt;h2 id=&#34;open-code-of-conduct&#34;&gt;Open Code of Conduct&lt;/h2&gt;
+
+&lt;p&gt;You can re-use the IndieWeb code-of-conduct for your own community by:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Copy/paste the whole thing (the CC0 license lets you do this)
+Replace &amp;quot;IndieWeb&amp;quot; with the name of your organization
+Make any organization-specific customizations you think are needed
+You may attribute indieweb.org/code-of-conduct as a source if you wish
+Consider also licensing your Code of Conduct with the CC0 license so others may easily re-use it as well
+Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes of conduct, and see what improvements you&#39;ve made.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indiweb Principles: Unpacked</title>
+      <link>https://web-work.tools/indieweb/indieweb-principles/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indieweb-principles/</guid>
+      <description>
+
+&lt;p&gt;I thought it would be nice to &amp;ldquo;un-pack&amp;rdquo; the indieweb principles, in order to become more familiar with their associated ideas.&lt;/p&gt;
+
+&lt;p&gt;This page is an attempt to reproduce the main topics related to indieweb principles found in the &lt;a href=&#34;https://indieweb.org&#34;&gt;Indieweb Wiki&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The reader is advised to visit the wiki, and not to count on this as the last final word on any of these topics, which are likely to become updated more frequently on their homepage.&lt;/p&gt;
+
+&lt;h2 id=&#34;indieweb-org-principles-https-indieweb-org-principles&#34;&gt;&lt;a href=&#34;https://indieweb.org/principles&#34;&gt;Indieweb.org/principles&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This article was quoted nearly verbatim in WIRED in 2013&lt;/p&gt;
+
+&lt;p&gt;2013-12-01 &lt;a href=&#34;http://www.wired.com/2013/12/indieweb-principles/&#34;&gt;WIRED/Bruce Sterling Indieweb principles&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;principles&#34;&gt;Principles&lt;/h2&gt;
+
+&lt;p&gt;The IndieWeb Community is largely based on principles (AKA tenets) such as &lt;a href=&#34;https://indieweb.org/own_your_data&#34;&gt;own your data&lt;/a&gt;, scratch your own itches, build tools for yourself, &lt;a href=&#34;https://indieweb.org/selfdogfood&#34;&gt;selfdogfood&lt;/a&gt;, document your stuff, open source your stuff, &lt;a href=&#34;https://indieweb.org/UX&#34;&gt;UX&lt;/a&gt; &lt;a href=&#34;https://indieweb.org/design&#34;&gt;design&lt;/a&gt; is more important than protocols, visible data for humans first and machines second, platform agnostic platforms, &lt;a href=&#34;https://indieweb.org/plurality&#34;&gt;plurality&lt;/a&gt; over monoculture, &lt;a href=&#34;https://indieweb.org/longevity&#34;&gt;longevity&lt;/a&gt;, and remember to have &lt;a href=&#34;https://indieweb.org/fun&#34;&gt;fun&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h3&gt;
+
+&lt;p&gt;The IndieWeb community has a &lt;a href=&#34;https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/&#34;&gt;code-of-conduct&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;IndieWeb is an intentionally positive community that recognizes and celebrates the creativity and collaboration of independent creators (and independence) and the diversity of people, cultures, and opinions that they bring to IndieWeb.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;IndieWeb spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender (including transgender status), sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, politics, ideology (real world or tech), or software preferences.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We value respectful behavior above individual opinions.&lt;/p&gt;
+
+&lt;p&gt;Respectful behavior includes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Be considerate, kind, constructive, and helpful.&lt;/li&gt;
+&lt;li&gt;Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.&lt;/li&gt;
+&lt;li&gt;If you&amp;rsquo;re not sure, ask someone instead of assuming.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;key-principles&#34;&gt;Key Principles&lt;/h3&gt;
+
+&lt;p&gt;Key principles of building on the indie web, numbered for reference, not necessarily for any kind of priority.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✊ &lt;a href=&#34;https://indieweb.org/own-your-data&#34;&gt;&lt;strong&gt;Own your data&lt;/strong&gt;&lt;/a&gt;. Your content, your metadata, your identity.&lt;/li&gt;
+&lt;li&gt;🔍 &lt;strong&gt;Use &amp;amp; publish visible data&lt;/strong&gt; for humans first, machines second. See also &lt;a href=&#34;https://indieweb.org/DRY&#34;&gt;DRY&lt;/a&gt; (&lt;em&gt;Don&amp;rsquo;t Repeat Yourself&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;💪 &lt;strong&gt;Make what you need&lt;/strong&gt;. Make tools, templates, etc. for yourself first, not for all of your friends or ”everyone“. If you design for some hypothetical user, they may not actually exist; if you make for yourself, you actually do exist. Make something that satisfies your needs (also known as &lt;a href=&#34;https://indieweb.org/scratch_your_own_itch&#34;&gt;scratch your own itch&lt;/a&gt;), and is compatible for others, e.g. by practicing &lt;a href=&#34;https://indieweb.org/POSSE&#34;&gt;POSSE&lt;/a&gt;, you benefit immediately, while staying connected to friends, without having to convince anyone. If and when others join the indieweb, you all benefit.&lt;/li&gt;
+&lt;li&gt;😋 &lt;strong&gt;Use what you make!&lt;/strong&gt; Whatever you build you should actively use. If you aren&amp;rsquo;t depending on it, why should anybody else? We call that &lt;a href=&#34;https://indieweb.org/selfdogfood&#34;&gt;selfdogfooding&lt;/a&gt;. Personal use helps focus your efforts on building the indieweb around your needs and consistently solving immediate real world problems. AKA eat your own &lt;a href=&#34;https://indieweb.org/dogfood&#34;&gt;dogfood&lt;/a&gt;. &lt;a href=&#34;https://indieweb.org/selfdogfooding&#34;&gt;&lt;strong&gt;selfdogfooding&lt;/strong&gt;&lt;/a&gt; is also a form of &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/Proof-of-work_system&#34;&gt;proof of work&lt;/a&gt;&amp;rdquo; to help focus on productive interactions.&lt;/li&gt;
+&lt;li&gt;📓 &lt;strong&gt;Document your stuff&lt;/strong&gt;. You&amp;rsquo;ve made a place to speak your mind, use it to document your processes, ideas, designs and code. Help others benefit from your journey, including your future self!&lt;/li&gt;
+&lt;li&gt;💞 &lt;strong&gt;Open source your stuff!&lt;/strong&gt; You don&amp;rsquo;t have to, of course, but if you like the existence of the indie web, making your code open source means other people can get on the indie web quicker and easier.&lt;/li&gt;
+&lt;li&gt;📐 &lt;strong&gt;&lt;a href=&#34;https://indieweb.org/UX&#34;&gt;UX&lt;/a&gt; and &lt;a href=&#34;https://indieweb.org/design&#34;&gt;design&lt;/a&gt; is more important&lt;/strong&gt; than protocols, formats, data models, schema etc. We focus on UX first, and then as we figure that out we build/develop/subset the absolutely simplest, easiest, and most minimal protocols &amp;amp; formats sufficient to support that UX, and nothing more. AKA UX before plumbing.&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;&lt;a href=&#34;https://indieweb.org/modularity&#34;&gt;Modularity&lt;/a&gt;. Build platform agnostic platforms.&lt;/strong&gt; The more your code is modular and composed of pieces you can swap out, the less dependent you are on a particular device, UI, templating language, API, backend language, storage model, database, platform. Modularity increases the chance that at least some of it can and will be re-used, improved, which you can then reincorporate. AKA building-blocks. AKA &amp;ldquo;small pieces loosely joined&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;🗿 &lt;a href=&#34;https://indieweb.org/Longevity&#34;&gt;&lt;strong&gt;Longevity&lt;/strong&gt;&lt;/a&gt;. Build for the &lt;a href=&#34;http://adactio.com/articles/1522/&#34;&gt;&lt;strong&gt;long web&lt;/strong&gt;&lt;/a&gt;. If human society is able to preserve ancient papyrus, Victorian photographs and dinosaur bones, we should be able to build web technology that doesn&amp;rsquo;t require us to destroy everything we&amp;rsquo;ve done every few years in the name of progress.&lt;/li&gt;
+&lt;li&gt;✨ &lt;a href=&#34;https://indieweb.org/plurality&#34;&gt;&lt;strong&gt;Plurality&lt;/strong&gt;&lt;/a&gt;. With IndieWebCamp we&amp;rsquo;ve specifically chosen to encourage and embrace a diversity of approaches &amp;amp; implementations. This background makes the IndieWeb stronger and more resilient than any one (often monoculture) approach.&lt;/li&gt;
+&lt;li&gt;🎉 Have &lt;a href=&#34;https://indieweb.org/fun&#34;&gt;fun&lt;/a&gt;. When the web took off in the 90&amp;rsquo;s people began designing personal sites with tools such as GeoCities. These spaces had Java applets, garish green background and seventeen animated GIFs. It may have been ugly and badly coded but it was fun. Keep the web weird and interesting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;principles-expanded&#34;&gt;Principles Expanded&lt;/h2&gt;
+
+&lt;h2 id=&#34;own-your-data-https-indieweb-org-own-your-data&#34;&gt;&lt;a href=&#34;https://indieweb.org/own_your_data&#34;&gt;Own your Data&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;own your data is an IndieWeb principle with two key parts: 1) your data lives primarily on your own &lt;a href=&#34;https://indieweb.org/domain&#34;&gt;domain&lt;/a&gt;, and 2) you maintain usable &lt;a href=&#34;https://indieweb.org/export&#34;&gt;access&lt;/a&gt; to it over time.
+Why&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A personal domain is a domain name that you personally own, control, and use to represent yourself on the internet. Getting a personal domain is the first step towards getting on the indieweb, and is therefore a requirement for IndieMark Level 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;First, using your own domain gives you &lt;a href=&#34;https://indieweb.org/why#Control_and_agency&#34;&gt;control&lt;/a&gt; over where people find and interact with you online. When you migrate to a new &lt;a href=&#34;https://indieweb.org/web_hosting&#34;&gt;hosting provider&lt;/a&gt; or &lt;a href=&#34;https://indieweb.org/CMS&#34;&gt;CMS&lt;/a&gt;, if your site stays on the same domain, everyone will still find you, regardless of whether they follow your site in a &lt;a href=&#34;https://indieweb.org/reader&#34;&gt;reader&lt;/a&gt;, land directly on your &lt;a href=&#34;https://indieweb.org/permalinks&#34;&gt;permalinks&lt;/a&gt; from other sites or search engines, or even type your domain directly into a browser.&lt;/p&gt;
+
+&lt;p&gt;Second, they say that change is the only constant, and web sites are no exception. Whether you stick with a &lt;a href=&#34;https://indieweb.org/web_hosting&#34;&gt;host&lt;/a&gt; or CMS for a year, a decade, or a century, you&amp;rsquo;re likely to change something eventually. When you do, you&amp;rsquo;ll need usable access to all of your existing data. This includes &lt;a href=&#34;https://indieweb.org/export&#34;&gt;export&lt;/a&gt; and &lt;a href=&#34;https://indieweb.org/import&#34;&gt;import&lt;/a&gt;, data &lt;a href=&#34;https://indieweb.org/formats&#34;&gt;formats&lt;/a&gt; and &lt;a href=&#34;https://indieweb.org/standards&#34;&gt;standards&lt;/a&gt;, &lt;a href=&#34;https://indieweb.org/projects&#34;&gt;tools&lt;/a&gt;, &lt;a href=&#34;https://indieweb.org/protocols&#34;&gt;protocols&lt;/a&gt;, permissions, rate limits, and more.&lt;/p&gt;
+
+&lt;h3 id=&#34;why-https-indieweb-org-why&#34;&gt;&lt;a href=&#34;https://indieweb.org/why&#34;&gt;Why&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This is another page that is really long, you should &lt;a href=&#34;https://indieweb.org/why&#34;&gt;&lt;strong&gt;visit the wiki&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;You&amp;rsquo;re here because you know something. What you know you can&amp;rsquo;t explain, but you feel it. You&amp;rsquo;ve felt it your entire life, that there&amp;rsquo;s something wrong with the world [wide web].&amp;rdquo; — &lt;a href=&#34;https://secure.wikimedia.org/wikiquote/en/wiki/The_Matrix&#34;&gt;Morpheus, The Matrix&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Whatever the reason, you&amp;rsquo;re done with others owning your content, your identity, and your self.&lt;/p&gt;
+
+&lt;p&gt;Our online content and identities are becoming more important and sometimes even critical to our lives. Neither are secure in the hands of random &lt;a href=&#34;https://indieweb.org/site-deaths&#34;&gt;ephemeral&lt;/a&gt; startups or big &lt;a href=&#34;https://indieweb.org/silos&#34;&gt;silos&lt;/a&gt;. We should be the holders of our online presence.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Note: Perhaps at the &lt;a href=&#34;https://indieweb.org/next-iwc&#34;&gt;next IndieWebcamp&lt;/a&gt; we can reframe the above definition and summary in a primarily positive way. We need a good writer to attempt to integrate and cleverly summarize the most potent of the existing positive why reasons.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dan Gillmor: &lt;a href=&#34;http://dangillmor.com/2014/04/25/indie-web-important/&#34;&gt;&lt;strong&gt;Why the Indie Web movement is so important&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;dogfooding-https-indieweb-org-dogfood&#34;&gt;&lt;a href=&#34;https://indieweb.org/dogfood&#34;&gt;Dogfooding&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;dogfood in the context of the indieweb, refers to the software practice of &amp;ldquo;eating your own dog food&amp;rdquo; but in particular with using your own creations on your own personal site that you depend on, day to day.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Selfdogfooding in particular is one of several indieweb principles.&lt;/p&gt;
+
+&lt;p&gt;Since colloquial usage is a bit broader and (mis)biased toward a &amp;ldquo;a company [using] its own product&amp;rdquo;, thereby implying people using work creations on work sites (rather than their own individual/personal sites), and not necessarily depending on them, it&amp;rsquo;s helpful to have a more specific, more meaningful term to use in broader contexts:&lt;/p&gt;
+
+&lt;h3 id=&#34;self-dog-food-https-indieweb-org-selfdogfood&#34;&gt;&lt;a href=&#34;https://indieweb.org/selfdogfood&#34;&gt;Self Dog Food&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;😋 selfdogfood is the act of using your own creations and depending on them personally yourself, beyond just self-testing or dogfooding a work project; on the IndieWeb, it means using your creations on your personal site as an aspect of your primary online identity, day to day.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Build what you need. Use what you build.
+   John Seely Brown quoted at eLearning 2015[1]&lt;/p&gt;
+
+&lt;p&gt;Metaphorically speaking, a person&amp;rsquo;s ideas must be the building he lives in - otherwise there is something terribly wrong.
+   Søren Kierkegaard, introduction to Provocations&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Get started faster&lt;/strong&gt;. What do you really need? Selfdogfooding helps you better understand what you really need rather than just what you think you need.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;By building what you need, it constrains what you think you need with the practical limits of time, ability, and cost, thus forcing you to come up with a more efficient design than you likely thought you needed originally.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Prioritization&lt;/strong&gt;. Fix more important problems first. Selfdogfooding helps you empathize as a user and fix the important problems first.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;By using what you build, you see and feel the impact of problems in what you have built, and in particular feel the difference between minor problems and major problems, thus helping you prioritize fixing the more important problems.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Faster iteration&lt;/strong&gt;. Fix the more important problems faster. Selfdogfooding helps motivate you to fix the important problems faster.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;By using what you build as your personal identity on the public web, when there are visible problems, you will feel self-conscious about it, and strongly motivated to fix them quickly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t build it, you&amp;rsquo;re &lt;strong&gt;just talking theory&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you design/architect etc. without building, you&amp;rsquo;ll likely come up with ever higher level abstractions, AKA the architecture astronomy anti-pattern. That being said, it&amp;rsquo;s helpful to publicly brainstorm what you&amp;rsquo;re thinking of building because others can review, provide feedback, help you simplify, etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;if-not-you-then-who&#34;&gt;If not you, then who?&lt;/h3&gt;
+
+&lt;p&gt;[should bother using your stuff]&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you&amp;rsquo;re not willing to use your creation on your own primary personal website, why should anyone else use it on their primary personal website?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Creations tend to break (stay broken), when their creators don&amp;rsquo;t use them.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In general it is a good idea to use code that the author is using themselves. Those are less likely to be broken.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;scratch-your-own-itch-https-indieweb-org-scratch-your-own-itch&#34;&gt;&lt;a href=&#34;https://indieweb.org/scratch_your_own_itch&#34;&gt;Scratch your Own Itch&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Scratch your own itch is a key indieweb principle that helps everyone focus on working on things that make a difference to their own lives.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Make tools for yourself first, not for all of your friends or ”everyone“. If you design tools for some hypothetical user, they may not actually exist; if you make tools for yourself, you actually do exist. It&amp;rsquo;s extremely hard to fight Metcalfe&amp;rsquo;s law: you won&amp;rsquo;t be able to convince all your friends to join the independent web. By making something that satisfies your needs, and is backwards compatible for others, e.g. by practicing POSSE, you benefit immediately, without having to convince anyone else. If and when others join, you all benefit. This principle is also known as scratch your own itch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;brainstorming&#34;&gt;Brainstorming&lt;/h3&gt;
+
+&lt;p&gt;There may be more broadly appealing ways of saying &amp;ldquo;Scratch your own itch&amp;rdquo;. It&amp;rsquo;s worth brainstorming about such potential replacements.&lt;/p&gt;
+
+&lt;h3 id=&#34;make-what-you-need&#34;&gt;Make What You Need&lt;/h3&gt;
+
+&lt;p&gt;More direct than a metaphor, make what you need, expresses a method of focusing that parallels well with another principle, use what you make. In addition as a metaphor, we could use &amp;ldquo;cook what you want&amp;rdquo; or &amp;ldquo;cook what you hunger&amp;rdquo;.    +1 Tantek Çelik proposed&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Or variant &amp;ldquo;make what you want&amp;rdquo;. Not sure about need vs want as a focusing framing. Which is more similar to &amp;ldquo;itch&amp;rdquo;? Which is more broadly appealing?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;be-the-change&#34;&gt;Be The Change&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;scratch your own itch&amp;rdquo; is as much as admonition to actually do the &amp;ldquo;scratching&amp;rdquo; yourself, as well as prioritizing &amp;ldquo;your own itch&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In this regard it is expressing the &amp;ldquo;Be the change&amp;rdquo; expression common in forms like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Be the change you want to see in the world&amp;rdquo; (misattributed to Gandhi)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Change yourself and you have done your part in the changing the the world. Every individual must change [their] own life if they want to live in a peaceful world&amp;rdquo;, from &amp;ldquo;Para-gram&amp;rdquo; by Paramahansa Yogananda&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;If you want to make the world a better place, Take a look at yourself, and then make a change&amp;rdquo; - Michael Jackson, &amp;ldquo;Man In The Mirror&amp;rdquo; (all profits from that single went to charity apparently, per &lt;a href=&#34;http://enwp.org/Michael_Jackson&#34;&gt;http://enwp.org/Michael_Jackson&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;posse-https-indieweb-org-posse&#34;&gt;&lt;a href=&#34;https://indieweb.org/POSSE&#34;&gt;POSSE&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This page is quite full, with plenty of live examples. You&amp;rsquo;ll want to &lt;a href=&#34;https://indieweb.org/POSSE&#34;&gt;&lt;strong&gt;visit the wiki&lt;/strong&gt;&lt;/a&gt; for the full piece!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, a content publishing model that starts with posting content on your own domain first, then syndicating out copies to 3rd party services with permashortlinks back to the original on your site.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;why-1&#34;&gt;Why&lt;/h3&gt;
+
+&lt;p&gt;Let your friends read your posts, their way. POSSE lets your friends keep using whatever they use to read your stuff (e.g. silo aggregators like Facebook, Tumblr, Twitter, etc.).&lt;/p&gt;
+
+&lt;p&gt;Stay in touch with friends now, not some theoretical future. POSSE is about staying in touch with current friends now, rather than the potential of staying in touch with friends in the future.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Friends are more important than federation. By focusing on actual social relationships that matter to people rather than architectural ideals, from a human perspective, POSSE is more important than federation. Additionally, if federated approaches take a POSSE approach first, they will likely get better adoption (everyone wants to stay in touch with their friends), and thereby more rapidly approach that federated future.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;POSSE is beyond blogging. It&amp;rsquo;s a key part of why and how the IndieWeb movement is different from just &amp;ldquo;everyone blog on their own site&amp;rdquo;, and also different from &amp;ldquo;everyone just install and run (YourFavoriteSocialSoftware)&amp;rdquo; etc. &lt;a href=&#34;https://indieweb.org/monoculture&#34;&gt;monoculture&lt;/a&gt; solutions.&lt;/p&gt;
+
+&lt;h2 id=&#34;monoculture-https-indieweb-org-monoculture&#34;&gt;&lt;a href=&#34;https://indieweb.org/monoculture&#34;&gt;Monoculture&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Monoculture refers to the antipattern of one piece of software dominating (or trying to dominate) its field, often by being limited to communicating with other instances of the same codebase. A monoculture (same software running on servers run by different people) is one step above a silo (same software running on servers run by the same people or organization).&lt;/p&gt;
+
+&lt;h2 id=&#34;user-experience-https-indieweb-org-user-experience&#34;&gt;&lt;a href=&#34;https://indieweb.org/user-experience&#34;&gt;User-Experience&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;(Redirected from UX)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;User experience, often abbreviated as UX, refers to the total experience a user has with a tool, or even an entire company, across all methods of communication and interaction with that tool, including both direct interactions using a tool UI and indirect interactions via other tools such as email, SMS, phone calls, in-person human representatives of the tool or company, etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;why-2&#34;&gt;Why&lt;/h3&gt;
+
+&lt;p&gt;Why UX? A good UX should/will make you more productive, more in control (user agency), while minimizing frustration.&lt;/p&gt;
+
+&lt;h3 id=&#34;how&#34;&gt;How&lt;/h3&gt;
+
+&lt;p&gt;Iterating with your own use-cases (scratching your own itches, per principles) helps you at least build a good UX for yourself, as long as you do use it yourself (selfdogfood).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Then if/when you have a second user, watch &lt;em&gt;how&lt;/em&gt; they use your software, and take notes. Watch where they get stuck, or frustrated. Listen to them verbalize &lt;em&gt;what&lt;/em&gt; they want to get down, but be very ware of anything they say about &lt;em&gt;how&lt;/em&gt; they want to do it, or any opinions about tools etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;beware-of&#34;&gt;Beware of&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Beware of just &amp;ldquo;asking&amp;rdquo; users what they want. They&amp;rsquo;re usually wrong (they don&amp;rsquo;t have sufficient self-cognition plus design skills to do so, not their fault) and you&amp;rsquo;ll usually get bad outcomes if you try to build accordingly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/Cls5pMzWgAAWV--.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;design-https-indieweb-org-design&#34;&gt;&lt;a href=&#34;https://indieweb.org/design&#34;&gt;Design&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Design is a catchall term used to refer to everything that affects users about a page/site including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Graphic design (including site icon)&lt;/li&gt;
+&lt;li&gt;User interface design (UI design)&lt;/li&gt;
+&lt;li&gt;User experience (UX)&lt;/li&gt;
+&lt;li&gt;Information architecture (IA)
+
+&lt;ul&gt;
+&lt;li&gt;URL design&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;IndieWeb Examples&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#IndieWeb_Examples&#34;&gt;IndieWeb Examples&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Kicks_Condor&#34;&gt;1 Kicks Condor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Ines_Montani&#34;&gt;2 Ines Montani&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Ana&#34;&gt;3 Ana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Andy_Bell&#34;&gt;4 Andy Bell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Mina_Markham&#34;&gt;5 Mina Markham&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Andy_Barefoot&#34;&gt;6 Andy Barefoot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Tatiana_Mac&#34;&gt;7 Tatiana Mac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Thoughts&#34;&gt;Thoughts&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Minimalism&#34;&gt;1 Minimalism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Prioritize_Through_Use&#34;&gt;2 Prioritize Through Use&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#Incremental&#34;&gt;3 Incremental&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#UX_Before_Infrastructure&#34;&gt;4 UX Before Infrastructure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/design#UX_Before_Protocols&#34;&gt;5 UX Before Protocols&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;modularity-https-indieweb-org-modularity&#34;&gt;&lt;a href=&#34;https://indieweb.org/modularity&#34;&gt;Modularity&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;modularity is one of the IndieWeb principles, sometimes expressed as “Build platform agnostic platforms”, that advocates designing and building modular code and services composed of pieces that can be swapped to reduce dependencies on a particular device, language, API, storage model, or platform.&lt;/p&gt;
+
+&lt;p&gt;Modularity increases the chance that at least some of it can and will be re-used, improved, which you can then reincorporate. AKA building-blocks. AKA &amp;ldquo;small pieces loosely joined&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;plurality-https-indieweb-org-plurality&#34;&gt;&lt;a href=&#34;https://indieweb.org/plurality&#34;&gt;Plurality&lt;/a&gt;&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Encouraging a plurality of projects with a self-motivated incentive to interoperate is a key principle of the indie web, in contrast to monoculture efforts which require or even encourage everyone to install the same software, or use the same online service, in order to interoperate.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Project diversity over monoculture&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With IndieWebCamp we&amp;rsquo;ve specifically chosen to encourage and embrace a diversity of approaches &amp;amp; implementations. This background makes the IndieWeb stronger and more resilient than any one (often monoculture) approach.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;One of the key things we recognize with IndieWebCamp is that no one project is likely to be the answer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Simultaneous exploration and evolution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We&amp;rsquo;re much more likely to advance the state of the art by encouraging everyone to build what works for them, and then figure out how to interoperate between different coding/implementation approaches. This is what makes IndieWebCamp different (more inclusive) than all other such &amp;ldquo;open source&amp;rdquo; efforts out there.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Multiple implementation efforts help to simultaneously explore different parts of the indieweb problem space as we&amp;rsquo;re all choosing to focus on building the particular aspects of what&amp;rsquo;s important in an indie web site for ourselves. Additionally, multiple approaches to the same problems in essence A/B(/C/D/&amp;hellip;) test different approaches simultaneously, each of which can then learn from and evolve in response to the others.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This parallel diversity both produces better indie web solutions faster, and allows for the incorporation of new approaches to address new problems, adapting as the needs of an indie web site change over time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;longevity-https-indieweb-org-longevity&#34;&gt;&lt;a href=&#34;https://indieweb.org/longevity&#34;&gt;Longevity&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Longevity is the goal of keeping your data as future-friendly and future-proof as possible; it is one of the indieweb principles.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;If human society is able to preserve ancient papyrus, Victorian photographs and dinosaur bones, we should be able to build web technology that doesn&#39;t require us to destroy everything we&#39;ve done every few years in the name of progress. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;fun-https-indieweb-org-fun&#34;&gt;&lt;a href=&#34;https://indieweb.org/fun&#34;&gt;Fun&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/hzdFjso.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Indigo - A Hugo Indiweb Theme - Features</title>
-      <link>https://web-work.tools/indieweb/indigo-indieweb-features/</link>
+      <link>https://web-work.tools/indieweb/indigo-theme-features/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indigo-indieweb-features/</guid>
+      <guid>https://web-work.tools/indieweb/indigo-theme-features/</guid>
       <description>
 
 &lt;p&gt;Hey!!! So I&amp;rsquo;ve been meaning to do this for a while.. and now &lt;a href=&#34;https://indieweb.org/2019&#34;&gt;Indieweb Summit&lt;/a&gt; is right around the corner. I&amp;rsquo;ve been hustling away on some related projects just so I could have something really nice prepared for the event.&lt;/p&gt;
@@ -839,11 +1277,11 @@ Identity consolidation is the ability for a user to indicate that one or more id
     </item>
     
     <item>
-      <title>Indieweb Repo Index</title>
-      <link>https://web-work.tools/indieweb/github-repos/</link>
+      <title>Git Repositories</title>
+      <link>https://web-work.tools/indieweb/git-repositories/</link>
       <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/github-repos/</guid>
+      <guid>https://web-work.tools/indieweb/git-repositories/</guid>
       <description>
 
 &lt;h2 id=&#34;github-com-microformats-https-github-com-microformats-microformats-org-http-microformats-org&#34;&gt;&lt;a href=&#34;https://github.com/microformats&#34;&gt;github.com/microformats&lt;/a&gt; - &lt;a href=&#34;http://microformats.org&#34;&gt;microformats.org&lt;/a&gt;&lt;/h2&gt;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>specifications on Static Sites for an Indieweb</title>
+    <link>https://web-work.tools/indieweb/categories/specifications/</link>
+    <description>Recent content in specifications on Static Sites for an Indieweb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
+    <lastBuildDate>Wed, 26 Jun 2019 01:13:33 -2300</lastBuildDate>
+    
+	<atom:link href="https://web-work.tools/indieweb/categories/specifications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indiewebcamp - Code of Conduct</title>
+      <link>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</guid>
+      <description>Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can&amp;rsquo;t resolve an issue, contact staff. If you are being a problem, it will be apparent and you&amp;rsquo;ll be asked to leave.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,11 +1,12 @@
 ---
 type: page
-title: "Indieweb Repo Index"
+title: "Git Repositories"
 description: "A Growing Collection of Indieweb GitHub Repositories."
 summary: "A start at exploring Indieweb Topics"
 date: "2019-05-19T11:22:33-23:00"
 categories: ["resources"]
 tags: [github-pages, indieweb, github, jekyll, static-sites]
+draft: false
 menu: main
 aliases:
   - /posts/github/
@@ -13,8 +14,7 @@ aliases:
   - /github-repos/
   - /indieweb-github-repos/
   - /posts/indieweb-github-repos/
-slug: /github-repos/
-draft: false
+slug: /git-repositories/
 ---
 
 ## [github.com/microformats](https://github.com/microformats) - [microformats.org](http://microformats.org)

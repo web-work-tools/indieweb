@@ -14,10 +14,10 @@
     
     <item>
       <title>Indigo - A Hugo Indiweb Theme - Features</title>
-      <link>https://web-work.tools/indieweb/indigo-indieweb-features/</link>
+      <link>https://web-work.tools/indieweb/indigo-theme-features/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indigo-indieweb-features/</guid>
+      <guid>https://web-work.tools/indieweb/indigo-theme-features/</guid>
       <description>The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note. I&amp;rsquo;ll be exploring these classes more thoroughly, soon.</description>
     </item>
     
@@ -31,11 +31,11 @@
     </item>
     
     <item>
-      <title>Indieweb Repo Index</title>
-      <link>https://web-work.tools/indieweb/github-repos/</link>
+      <title>Git Repositories</title>
+      <link>https://web-work.tools/indieweb/git-repositories/</link>
       <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/github-repos/</guid>
+      <guid>https://web-work.tools/indieweb/git-repositories/</guid>
       <description>A start at exploring Indieweb Topics</description>
     </item>
     

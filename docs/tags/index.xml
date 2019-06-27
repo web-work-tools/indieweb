@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Sat, 22 Jun 2019 01:22:33 -2300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 01:13:33 -2300</lastBuildDate>
     
 	<atom:link href="https://web-work.tools/indieweb/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>indiewebcamp</title>
+      <link>https://web-work.tools/indieweb/tags/indiewebcamp/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/indiewebcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>principles</title>
+      <link>https://web-work.tools/indieweb/tags/principles/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wiki</title>
+      <link>https://web-work.tools/indieweb/tags/wiki/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration</title>
+      <link>https://web-work.tools/indieweb/tags/configuration/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/configuration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>features</title>
@@ -18,15 +54,6 @@
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>front matter</title>
-      <link>https://web-work.tools/indieweb/tags/front-matter/</link>
-      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/front-matter/</guid>
       <description></description>
     </item>
     
@@ -40,6 +67,15 @@
     </item>
     
     <item>
+      <title>h-entry</title>
+      <link>https://web-work.tools/indieweb/tags/h-entry/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/h-entry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hugo</title>
       <link>https://web-work.tools/indieweb/tags/hugo/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
@@ -49,11 +85,11 @@
     </item>
     
     <item>
-      <title>hugo-indieweb-theme</title>
-      <link>https://web-work.tools/indieweb/tags/hugo-indieweb-theme/</link>
+      <title>hugo-theme</title>
+      <link>https://web-work.tools/indieweb/tags/hugo-theme/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/tags/hugo-indieweb-theme/</guid>
+      <guid>https://web-work.tools/indieweb/tags/hugo-theme/</guid>
       <description></description>
     </item>
     
@@ -63,6 +99,15 @@
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/indieweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rel=me</title>
+      <link>https://web-work.tools/indieweb/tags/relme/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/relme/</guid>
       <description></description>
     </item>
     
@@ -153,15 +198,6 @@
       <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/static-sites/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>indigo-theme</title>
-      <link>https://web-work.tools/indieweb/tags/indigo-theme/</link>
-      <pubDate>Mon, 01 Oct 2018 11:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/indigo-theme/</guid>
       <description></description>
     </item>
     

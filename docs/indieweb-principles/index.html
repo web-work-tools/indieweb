@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+    <meta charset="utf-8">
+
+    
+    <title>Indiweb Principles: Unpacked</title>
+    <meta name="description" content="To grow more familiar with the principles of Indieweb, I present the Indieweb Principles, as found on indiweb.org/principles/">
+    <meta name="author" content="Infominer">
+    
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#00416a">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    <link rel="me" href="mailto:infominer@protonmail.com">
+    <link rel="me" href="https://github.com/infominer33">
+    <link rel="me" href="https://twitter.com/infominer33">
+    <link rel="me" href="https://micro.blog/infominer">
+    
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+    
+    <style type="text/css">@font-face{
+    font-family: 'Fira Code';
+    src: url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.ttf') format('truetype');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-weight: bold;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Book.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Book.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.ttf') format('truetype');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-display: optional;
+}
+</style>
+    <link rel="stylesheet" href="https://web-work.tools/indieweb/css/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132558656-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132558656-7');
+</script>
+
+</head>
+<body>
+    <div id="sitelogo">
+        <a class="glyph" alt="Home" href="https://web-work.tools/indieweb/"><img src="https://web-work.tools/indieweb/images/site-logo.svg" alt="Site Logo" height="64px" width="64px"></a>
+    </div>
+    <header>
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://web-work.tools/indieweb/">Home</a>
+        </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/git-repositories/">
+                    
+                    <span>Git Repositories</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/about/">
+                    
+                    <span>⧉Info⧉</span>
+                </a>
+            </div>
+        
+    </div>
+</nav>
+        
+    </header>
+
+
+
+
+<div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">Indiweb Principles: Unpacked</h1>
+            
+            <p class="post-date">Posted on
+                <time class="dt-published" datetime="2019-06-26T01:13:33-23:00">
+                26 June, 2019 at 01:13 -2300
+                </time>  by <a href="https://web-work.tools/indieweb/" class="p-author h-card" rel="author">Infominer</a>
+            </p>
+            
+            
+            <p class="post-tag">Category: 
+                
+                <a href="https://web-work.tools/indieweb/categories/indiewebcamp" class="post-tag p-category">indiewebcamp</a>
+                
+            </p>
+            <hr class="post-underline">
+            
+        </header>
+        <section class="content e-content">
+            
+
+<p>I thought it would be nice to &ldquo;un-pack&rdquo; the indieweb principles, in order to become more familiar with their associated ideas.</p>
+
+<p>This page is an attempt to reproduce the main topics related to indieweb principles found in the <a href="https://indieweb.org">Indieweb Wiki</a>.</p>
+
+<p>The reader is advised to visit the wiki, and not to count on this as the last final word on any of these topics, which are likely to become updated more frequently on their homepage.</p>
+
+<h2 id="indieweb-org-principles-https-indieweb-org-principles"><a href="https://indieweb.org/principles">Indieweb.org/principles</a></h2>
+
+<blockquote>
+<p>This article was quoted nearly verbatim in WIRED in 2013</p>
+
+<p>2013-12-01 <a href="http://www.wired.com/2013/12/indieweb-principles/">WIRED/Bruce Sterling Indieweb principles</a></p>
+</blockquote>
+
+<h2 id="principles">Principles</h2>
+
+<p>The IndieWeb Community is largely based on principles (AKA tenets) such as <a href="https://indieweb.org/own_your_data">own your data</a>, scratch your own itches, build tools for yourself, <a href="https://indieweb.org/selfdogfood">selfdogfood</a>, document your stuff, open source your stuff, <a href="https://indieweb.org/UX">UX</a> <a href="https://indieweb.org/design">design</a> is more important than protocols, visible data for humans first and machines second, platform agnostic platforms, <a href="https://indieweb.org/plurality">plurality</a> over monoculture, <a href="https://indieweb.org/longevity">longevity</a>, and remember to have <a href="https://indieweb.org/fun">fun</a>!</p>
+
+<h3 id="code-of-conduct">Code of Conduct</h3>
+
+<p>The IndieWeb community has a <a href="/indiewebcamp/code-of-conduct/">code-of-conduct</a>.</p>
+
+<p>IndieWeb is an intentionally positive community that recognizes and celebrates the creativity and collaboration of independent creators (and independence) and the diversity of people, cultures, and opinions that they bring to IndieWeb.</p>
+
+<blockquote>
+<p>IndieWeb spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender (including transgender status), sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, politics, ideology (real world or tech), or software preferences.</p>
+</blockquote>
+
+<p>We value respectful behavior above individual opinions.</p>
+
+<p>Respectful behavior includes:</p>
+
+<ul>
+<li>Be considerate, kind, constructive, and helpful.</li>
+<li>Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.</li>
+<li>If you&rsquo;re not sure, ask someone instead of assuming.</li>
+</ul>
+
+<h3 id="key-principles">Key Principles</h3>
+
+<p>Key principles of building on the indie web, numbered for reference, not necessarily for any kind of priority.</p>
+
+<ul>
+<li>✊ <a href="https://indieweb.org/own-your-data"><strong>Own your data</strong></a>. Your content, your metadata, your identity.</li>
+<li>🔍 <strong>Use &amp; publish visible data</strong> for humans first, machines second. See also <a href="https://indieweb.org/DRY">DRY</a> (<em>Don&rsquo;t Repeat Yourself</em>).</li>
+<li>💪 <strong>Make what you need</strong>. Make tools, templates, etc. for yourself first, not for all of your friends or ”everyone“. If you design for some hypothetical user, they may not actually exist; if you make for yourself, you actually do exist. Make something that satisfies your needs (also known as <a href="https://indieweb.org/scratch_your_own_itch">scratch your own itch</a>), and is compatible for others, e.g. by practicing <a href="https://indieweb.org/POSSE">POSSE</a>, you benefit immediately, while staying connected to friends, without having to convince anyone. If and when others join the indieweb, you all benefit.</li>
+<li>😋 <strong>Use what you make!</strong> Whatever you build you should actively use. If you aren&rsquo;t depending on it, why should anybody else? We call that <a href="https://indieweb.org/selfdogfood">selfdogfooding</a>. Personal use helps focus your efforts on building the indieweb around your needs and consistently solving immediate real world problems. AKA eat your own <a href="https://indieweb.org/dogfood">dogfood</a>. <a href="https://indieweb.org/selfdogfooding"><strong>selfdogfooding</strong></a> is also a form of &ldquo;<a href="http://en.wikipedia.org/wiki/Proof-of-work_system">proof of work</a>&rdquo; to help focus on productive interactions.</li>
+<li>📓 <strong>Document your stuff</strong>. You&rsquo;ve made a place to speak your mind, use it to document your processes, ideas, designs and code. Help others benefit from your journey, including your future self!</li>
+<li>💞 <strong>Open source your stuff!</strong> You don&rsquo;t have to, of course, but if you like the existence of the indie web, making your code open source means other people can get on the indie web quicker and easier.</li>
+<li>📐 <strong><a href="https://indieweb.org/UX">UX</a> and <a href="https://indieweb.org/design">design</a> is more important</strong> than protocols, formats, data models, schema etc. We focus on UX first, and then as we figure that out we build/develop/subset the absolutely simplest, easiest, and most minimal protocols &amp; formats sufficient to support that UX, and nothing more. AKA UX before plumbing.</li>
+<li>🌐 <strong><a href="https://indieweb.org/modularity">Modularity</a>. Build platform agnostic platforms.</strong> The more your code is modular and composed of pieces you can swap out, the less dependent you are on a particular device, UI, templating language, API, backend language, storage model, database, platform. Modularity increases the chance that at least some of it can and will be re-used, improved, which you can then reincorporate. AKA building-blocks. AKA &ldquo;small pieces loosely joined&rdquo;.</li>
+<li>🗿 <a href="https://indieweb.org/Longevity"><strong>Longevity</strong></a>. Build for the <a href="http://adactio.com/articles/1522/"><strong>long web</strong></a>. If human society is able to preserve ancient papyrus, Victorian photographs and dinosaur bones, we should be able to build web technology that doesn&rsquo;t require us to destroy everything we&rsquo;ve done every few years in the name of progress.</li>
+<li>✨ <a href="https://indieweb.org/plurality"><strong>Plurality</strong></a>. With IndieWebCamp we&rsquo;ve specifically chosen to encourage and embrace a diversity of approaches &amp; implementations. This background makes the IndieWeb stronger and more resilient than any one (often monoculture) approach.</li>
+<li>🎉 Have <a href="https://indieweb.org/fun">fun</a>. When the web took off in the 90&rsquo;s people began designing personal sites with tools such as GeoCities. These spaces had Java applets, garish green background and seventeen animated GIFs. It may have been ugly and badly coded but it was fun. Keep the web weird and interesting.</li>
+</ul>
+
+<h2 id="principles-expanded">Principles Expanded</h2>
+
+<h2 id="own-your-data-https-indieweb-org-own-your-data"><a href="https://indieweb.org/own_your_data">Own your Data</a></h2>
+
+<p>own your data is an IndieWeb principle with two key parts: 1) your data lives primarily on your own <a href="https://indieweb.org/domain">domain</a>, and 2) you maintain usable <a href="https://indieweb.org/export">access</a> to it over time.
+Why</p>
+
+<blockquote>
+<p>A personal domain is a domain name that you personally own, control, and use to represent yourself on the internet. Getting a personal domain is the first step towards getting on the indieweb, and is therefore a requirement for IndieMark Level 1.</p>
+</blockquote>
+
+<p>First, using your own domain gives you <a href="https://indieweb.org/why#Control_and_agency">control</a> over where people find and interact with you online. When you migrate to a new <a href="https://indieweb.org/web_hosting">hosting provider</a> or <a href="https://indieweb.org/CMS">CMS</a>, if your site stays on the same domain, everyone will still find you, regardless of whether they follow your site in a <a href="https://indieweb.org/reader">reader</a>, land directly on your <a href="https://indieweb.org/permalinks">permalinks</a> from other sites or search engines, or even type your domain directly into a browser.</p>
+
+<p>Second, they say that change is the only constant, and web sites are no exception. Whether you stick with a <a href="https://indieweb.org/web_hosting">host</a> or CMS for a year, a decade, or a century, you&rsquo;re likely to change something eventually. When you do, you&rsquo;ll need usable access to all of your existing data. This includes <a href="https://indieweb.org/export">export</a> and <a href="https://indieweb.org/import">import</a>, data <a href="https://indieweb.org/formats">formats</a> and <a href="https://indieweb.org/standards">standards</a>, <a href="https://indieweb.org/projects">tools</a>, <a href="https://indieweb.org/protocols">protocols</a>, permissions, rate limits, and more.</p>
+
+<h3 id="why-https-indieweb-org-why"><a href="https://indieweb.org/why">Why</a></h3>
+
+<p>This is another page that is really long, you should <a href="https://indieweb.org/why"><strong>visit the wiki</strong></a>.</p>
+
+<blockquote>
+<p>&ldquo;You&rsquo;re here because you know something. What you know you can&rsquo;t explain, but you feel it. You&rsquo;ve felt it your entire life, that there&rsquo;s something wrong with the world [wide web].&rdquo; — <a href="https://secure.wikimedia.org/wikiquote/en/wiki/The_Matrix">Morpheus, The Matrix</a></p>
+</blockquote>
+
+<p>Whatever the reason, you&rsquo;re done with others owning your content, your identity, and your self.</p>
+
+<p>Our online content and identities are becoming more important and sometimes even critical to our lives. Neither are secure in the hands of random <a href="https://indieweb.org/site-deaths">ephemeral</a> startups or big <a href="https://indieweb.org/silos">silos</a>. We should be the holders of our online presence.</p>
+
+<blockquote>
+<p>Note: Perhaps at the <a href="https://indieweb.org/next-iwc">next IndieWebcamp</a> we can reframe the above definition and summary in a primarily positive way. We need a good writer to attempt to integrate and cleverly summarize the most potent of the existing positive why reasons.</p>
+</blockquote>
+
+<ul>
+<li>Dan Gillmor: <a href="http://dangillmor.com/2014/04/25/indie-web-important/"><strong>Why the Indie Web movement is so important</strong></a></li>
+</ul>
+
+<h2 id="dogfooding-https-indieweb-org-dogfood"><a href="https://indieweb.org/dogfood">Dogfooding</a></h2>
+
+<blockquote>
+<p>dogfood in the context of the indieweb, refers to the software practice of &ldquo;eating your own dog food&rdquo; but in particular with using your own creations on your own personal site that you depend on, day to day.</p>
+</blockquote>
+
+<p>Selfdogfooding in particular is one of several indieweb principles.</p>
+
+<p>Since colloquial usage is a bit broader and (mis)biased toward a &ldquo;a company [using] its own product&rdquo;, thereby implying people using work creations on work sites (rather than their own individual/personal sites), and not necessarily depending on them, it&rsquo;s helpful to have a more specific, more meaningful term to use in broader contexts:</p>
+
+<h3 id="self-dog-food-https-indieweb-org-selfdogfood"><a href="https://indieweb.org/selfdogfood">Self Dog Food</a></h3>
+
+<p>😋 selfdogfood is the act of using your own creations and depending on them personally yourself, beyond just self-testing or dogfooding a work project; on the IndieWeb, it means using your creations on your personal site as an aspect of your primary online identity, day to day.</p>
+
+<blockquote>
+<p>Build what you need. Use what you build.
+   John Seely Brown quoted at eLearning 2015[1]</p>
+
+<p>Metaphorically speaking, a person&rsquo;s ideas must be the building he lives in - otherwise there is something terribly wrong.
+   Søren Kierkegaard, introduction to Provocations</p>
+</blockquote>
+
+<h3 id="why">Why</h3>
+
+<p><strong>Get started faster</strong>. What do you really need? Selfdogfooding helps you better understand what you really need rather than just what you think you need.</p>
+
+<blockquote>
+<p>By building what you need, it constrains what you think you need with the practical limits of time, ability, and cost, thus forcing you to come up with a more efficient design than you likely thought you needed originally.</p>
+</blockquote>
+
+<p><strong>Prioritization</strong>. Fix more important problems first. Selfdogfooding helps you empathize as a user and fix the important problems first.</p>
+
+<blockquote>
+<p>By using what you build, you see and feel the impact of problems in what you have built, and in particular feel the difference between minor problems and major problems, thus helping you prioritize fixing the more important problems.</p>
+</blockquote>
+
+<p><strong>Faster iteration</strong>. Fix the more important problems faster. Selfdogfooding helps motivate you to fix the important problems faster.</p>
+
+<blockquote>
+<p>By using what you build as your personal identity on the public web, when there are visible problems, you will feel self-conscious about it, and strongly motivated to fix them quickly.</p>
+</blockquote>
+
+<p>If you don&rsquo;t build it, you&rsquo;re <strong>just talking theory</strong>.</p>
+
+<blockquote>
+<p>If you design/architect etc. without building, you&rsquo;ll likely come up with ever higher level abstractions, AKA the architecture astronomy anti-pattern. That being said, it&rsquo;s helpful to publicly brainstorm what you&rsquo;re thinking of building because others can review, provide feedback, help you simplify, etc.</p>
+</blockquote>
+
+<h3 id="if-not-you-then-who">If not you, then who?</h3>
+
+<p>[should bother using your stuff]</p>
+
+<blockquote>
+<p>If you&rsquo;re not willing to use your creation on your own primary personal website, why should anyone else use it on their primary personal website?</p>
+</blockquote>
+
+<p>Creations tend to break (stay broken), when their creators don&rsquo;t use them.</p>
+
+<blockquote>
+<p>In general it is a good idea to use code that the author is using themselves. Those are less likely to be broken.</p>
+</blockquote>
+
+<h3 id="scratch-your-own-itch-https-indieweb-org-scratch-your-own-itch"><a href="https://indieweb.org/scratch_your_own_itch">Scratch your Own Itch</a></h3>
+
+<p>Scratch your own itch is a key indieweb principle that helps everyone focus on working on things that make a difference to their own lives.</p>
+
+<blockquote>
+<p>Make tools for yourself first, not for all of your friends or ”everyone“. If you design tools for some hypothetical user, they may not actually exist; if you make tools for yourself, you actually do exist. It&rsquo;s extremely hard to fight Metcalfe&rsquo;s law: you won&rsquo;t be able to convince all your friends to join the independent web. By making something that satisfies your needs, and is backwards compatible for others, e.g. by practicing POSSE, you benefit immediately, without having to convince anyone else. If and when others join, you all benefit. This principle is also known as scratch your own itch.</p>
+</blockquote>
+
+<h3 id="brainstorming">Brainstorming</h3>
+
+<p>There may be more broadly appealing ways of saying &ldquo;Scratch your own itch&rdquo;. It&rsquo;s worth brainstorming about such potential replacements.</p>
+
+<h3 id="make-what-you-need">Make What You Need</h3>
+
+<p>More direct than a metaphor, make what you need, expresses a method of focusing that parallels well with another principle, use what you make. In addition as a metaphor, we could use &ldquo;cook what you want&rdquo; or &ldquo;cook what you hunger&rdquo;.    +1 Tantek Çelik proposed</p>
+
+<blockquote>
+<p>Or variant &ldquo;make what you want&rdquo;. Not sure about need vs want as a focusing framing. Which is more similar to &ldquo;itch&rdquo;? Which is more broadly appealing?</p>
+</blockquote>
+
+<h3 id="be-the-change">Be The Change</h3>
+
+<blockquote>
+<p>&ldquo;scratch your own itch&rdquo; is as much as admonition to actually do the &ldquo;scratching&rdquo; yourself, as well as prioritizing &ldquo;your own itch&rdquo;.</p>
+</blockquote>
+
+<p>In this regard it is expressing the &ldquo;Be the change&rdquo; expression common in forms like:</p>
+
+<ul>
+<li>&ldquo;Be the change you want to see in the world&rdquo; (misattributed to Gandhi)</li>
+<li>&ldquo;Change yourself and you have done your part in the changing the the world. Every individual must change [their] own life if they want to live in a peaceful world&rdquo;, from &ldquo;Para-gram&rdquo; by Paramahansa Yogananda</li>
+<li>&ldquo;If you want to make the world a better place, Take a look at yourself, and then make a change&rdquo; - Michael Jackson, &ldquo;Man In The Mirror&rdquo; (all profits from that single went to charity apparently, per <a href="http://enwp.org/Michael_Jackson">http://enwp.org/Michael_Jackson</a>)</li>
+</ul>
+
+<h3 id="posse-https-indieweb-org-posse"><a href="https://indieweb.org/POSSE">POSSE</a></h3>
+
+<p>This page is quite full, with plenty of live examples. You&rsquo;ll want to <a href="https://indieweb.org/POSSE"><strong>visit the wiki</strong></a> for the full piece!</p>
+
+<blockquote>
+<p>POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, a content publishing model that starts with posting content on your own domain first, then syndicating out copies to 3rd party services with permashortlinks back to the original on your site.</p>
+</blockquote>
+
+<h3 id="why-1">Why</h3>
+
+<p>Let your friends read your posts, their way. POSSE lets your friends keep using whatever they use to read your stuff (e.g. silo aggregators like Facebook, Tumblr, Twitter, etc.).</p>
+
+<p>Stay in touch with friends now, not some theoretical future. POSSE is about staying in touch with current friends now, rather than the potential of staying in touch with friends in the future.</p>
+
+<blockquote>
+<p>Friends are more important than federation. By focusing on actual social relationships that matter to people rather than architectural ideals, from a human perspective, POSSE is more important than federation. Additionally, if federated approaches take a POSSE approach first, they will likely get better adoption (everyone wants to stay in touch with their friends), and thereby more rapidly approach that federated future.</p>
+</blockquote>
+
+<p>POSSE is beyond blogging. It&rsquo;s a key part of why and how the IndieWeb movement is different from just &ldquo;everyone blog on their own site&rdquo;, and also different from &ldquo;everyone just install and run (YourFavoriteSocialSoftware)&rdquo; etc. <a href="https://indieweb.org/monoculture">monoculture</a> solutions.</p>
+
+<h2 id="monoculture-https-indieweb-org-monoculture"><a href="https://indieweb.org/monoculture">Monoculture</a></h2>
+
+<p>Monoculture refers to the antipattern of one piece of software dominating (or trying to dominate) its field, often by being limited to communicating with other instances of the same codebase. A monoculture (same software running on servers run by different people) is one step above a silo (same software running on servers run by the same people or organization).</p>
+
+<h2 id="user-experience-https-indieweb-org-user-experience"><a href="https://indieweb.org/user-experience">User-Experience</a></h2>
+
+<p><strong>(Redirected from UX)</strong></p>
+
+<blockquote>
+<p>User experience, often abbreviated as UX, refers to the total experience a user has with a tool, or even an entire company, across all methods of communication and interaction with that tool, including both direct interactions using a tool UI and indirect interactions via other tools such as email, SMS, phone calls, in-person human representatives of the tool or company, etc.</p>
+</blockquote>
+
+<h3 id="why-2">Why</h3>
+
+<p>Why UX? A good UX should/will make you more productive, more in control (user agency), while minimizing frustration.</p>
+
+<h3 id="how">How</h3>
+
+<p>Iterating with your own use-cases (scratching your own itches, per principles) helps you at least build a good UX for yourself, as long as you do use it yourself (selfdogfood).</p>
+
+<blockquote>
+<p>Then if/when you have a second user, watch <em>how</em> they use your software, and take notes. Watch where they get stuck, or frustrated. Listen to them verbalize <em>what</em> they want to get down, but be very ware of anything they say about <em>how</em> they want to do it, or any opinions about tools etc.</p>
+</blockquote>
+
+<h3 id="beware-of">Beware of</h3>
+
+<blockquote>
+<p>Beware of just &ldquo;asking&rdquo; users what they want. They&rsquo;re usually wrong (they don&rsquo;t have sufficient self-cognition plus design skills to do so, not their fault) and you&rsquo;ll usually get bad outcomes if you try to build accordingly.</p>
+</blockquote>
+
+<p><img src="https://pbs.twimg.com/media/Cls5pMzWgAAWV--.jpg" alt="" /></p>
+
+<h2 id="design-https-indieweb-org-design"><a href="https://indieweb.org/design">Design</a></h2>
+
+<p>Design is a catchall term used to refer to everything that affects users about a page/site including:</p>
+
+<ul>
+<li>Graphic design (including site icon)</li>
+<li>User interface design (UI design)</li>
+<li>User experience (UX)</li>
+<li>Information architecture (IA)
+
+<ul>
+<li>URL design</li>
+</ul></li>
+</ul>
+
+<p><strong>IndieWeb Examples</strong></p>
+
+<ul>
+<li><a href="https://indieweb.org/design#IndieWeb_Examples">IndieWeb Examples</a>
+
+<ul>
+<li><a href="https://indieweb.org/design#Kicks_Condor">1 Kicks Condor</a></li>
+<li><a href="https://indieweb.org/design#Ines_Montani">2 Ines Montani</a></li>
+<li><a href="https://indieweb.org/design#Ana">3 Ana</a></li>
+<li><a href="https://indieweb.org/design#Andy_Bell">4 Andy Bell</a></li>
+<li><a href="https://indieweb.org/design#Mina_Markham">5 Mina Markham</a></li>
+<li><a href="https://indieweb.org/design#Andy_Barefoot">6 Andy Barefoot</a></li>
+<li><a href="https://indieweb.org/design#Tatiana_Mac">7 Tatiana Mac</a></li>
+</ul></li>
+<li><a href="https://indieweb.org/design#Thoughts">Thoughts</a>
+
+<ul>
+<li><a href="https://indieweb.org/design#Minimalism">1 Minimalism</a></li>
+<li><a href="https://indieweb.org/design#Prioritize_Through_Use">2 Prioritize Through Use</a></li>
+<li><a href="https://indieweb.org/design#Incremental">3 Incremental</a></li>
+<li><a href="https://indieweb.org/design#UX_Before_Infrastructure">4 UX Before Infrastructure</a></li>
+<li><a href="https://indieweb.org/design#UX_Before_Protocols">5 UX Before Protocols</a></li>
+</ul></li>
+</ul>
+
+<h2 id="modularity-https-indieweb-org-modularity"><a href="https://indieweb.org/modularity">Modularity</a></h2>
+
+<blockquote>
+<p>modularity is one of the IndieWeb principles, sometimes expressed as “Build platform agnostic platforms”, that advocates designing and building modular code and services composed of pieces that can be swapped to reduce dependencies on a particular device, language, API, storage model, or platform.</p>
+
+<p>Modularity increases the chance that at least some of it can and will be re-used, improved, which you can then reincorporate. AKA building-blocks. AKA &ldquo;small pieces loosely joined&rdquo;.</p>
+</blockquote>
+
+<h2 id="plurality-https-indieweb-org-plurality"><a href="https://indieweb.org/plurality">Plurality</a></h2>
+
+<blockquote>
+<p>Encouraging a plurality of projects with a self-motivated incentive to interoperate is a key principle of the indie web, in contrast to monoculture efforts which require or even encourage everyone to install the same software, or use the same online service, in order to interoperate.</p>
+</blockquote>
+
+<p><strong>Project diversity over monoculture</strong></p>
+
+<p>With IndieWebCamp we&rsquo;ve specifically chosen to encourage and embrace a diversity of approaches &amp; implementations. This background makes the IndieWeb stronger and more resilient than any one (often monoculture) approach.</p>
+
+<blockquote>
+<p>One of the key things we recognize with IndieWebCamp is that no one project is likely to be the answer.</p>
+</blockquote>
+
+<p><strong>Simultaneous exploration and evolution</strong></p>
+
+<blockquote>
+<p>We&rsquo;re much more likely to advance the state of the art by encouraging everyone to build what works for them, and then figure out how to interoperate between different coding/implementation approaches. This is what makes IndieWebCamp different (more inclusive) than all other such &ldquo;open source&rdquo; efforts out there.</p>
+</blockquote>
+
+<p>Multiple implementation efforts help to simultaneously explore different parts of the indieweb problem space as we&rsquo;re all choosing to focus on building the particular aspects of what&rsquo;s important in an indie web site for ourselves. Additionally, multiple approaches to the same problems in essence A/B(/C/D/&hellip;) test different approaches simultaneously, each of which can then learn from and evolve in response to the others.</p>
+
+<blockquote>
+<p>This parallel diversity both produces better indie web solutions faster, and allows for the incorporation of new approaches to address new problems, adapting as the needs of an indie web site change over time.</p>
+</blockquote>
+
+<h2 id="longevity-https-indieweb-org-longevity"><a href="https://indieweb.org/longevity">Longevity</a></h2>
+
+<p>Longevity is the goal of keeping your data as future-friendly and future-proof as possible; it is one of the indieweb principles.</p>
+
+<pre><code>If human society is able to preserve ancient papyrus, Victorian photographs and dinosaur bones, we should be able to build web technology that doesn't require us to destroy everything we've done every few years in the name of progress. 
+</code></pre>
+
+<h2 id="fun-https-indieweb-org-fun"><a href="https://indieweb.org/fun">Fun</a></h2>
+
+<p><img src="https://imgur.com/hzdFjso.png" alt="" /></p>
+
+        </section>
+        <footer>
+            <a class="permalink u-url" href="https://web-work.tools/indieweb/indieweb-principles/">🔗</a>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Tags for this post: 
+            
+                <a href="https://web-work.tools/indieweb/tags/principles" class="post-tag p-category">principles</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/wiki" class="post-tag p-category">wiki</a>
+            
+            </p>
+            
+        </footer>
+    </article>
+</div>
+
+    
+    <div class="h-card">
+      <img class="u-photo" src="https://web-work.tools/indieweb/images/infominer.svg" />
+      <div class="card-content">
+        <h2 class="card-name"><a class="p-name u-url" href="https://web-work.tools/indieweb/" rel="me">Infominer</a></h2>
+        <p class="card-subhead">
+          <span class="p-locality">Mehtab Bagh</span>,
+          <span class="p-country-name">49 6e 64 75 73</span><br />
+          <a class="u-email" href="mailto:infominer@protonmail.com">Email me</a>
+        </p>
+      </div>
+      <p class="p-note">Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, Indieweb ⧉ her/him</p>
+    </div>
+    
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="prev">
+          
+          <a alt="Newer article" href="https://web-work.tools/indieweb/indigo-theme-features/">&larr; Newer</a>
+          
+        </div>
+        <div class="top">
+          <a alt="Top of page" href="#">Top</a>
+        </div>
+        <div class="next">
+          
+          <a alt="Older article" href="https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/">Older &rarr;</a>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Email me" href="mailto:infominer@protonmail.com"><img src="https://web-work.tools/indieweb/icons/envelope.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/infominer33"><img src="https://web-work.tools/indieweb/icons/github.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitLab profile" href="https://gitlab.com/infominer33"><img src="https://web-work.tools/indieweb/icons/gitlab.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Keybase profile" href="https://keybase.io/infominer"><img src="https://web-work.tools/indieweb/icons/keybase.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Micro.Blog profile" href="https://micro.blog/infominer"><img src="https://web-work.tools/indieweb/icons/microblog.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Reddit profile" href="https://www.reddit.com/user/infominer33"><img src="https://web-work.tools/indieweb/icons/reddit-alien.svg" height="24px" width="24px" /></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Stack Overflow profile" href="https://stackoverflow.com/users/10793272"><img src="https://web-work.tools/indieweb/icons/stack-overflow.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Twitter profile" href="https://twitter.com/infominer33"><img src="https://web-work.tools/indieweb/icons/twitter.svg" height="24px" width="24px"></a>
+     </div>
+     
+  </div>
+</aside>
+
+      
+      <p class="copyright">
+          ⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉
+      </p>
+      
+    </div>
+
+
+</body>
+</html>
