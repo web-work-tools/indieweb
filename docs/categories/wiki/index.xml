@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>indiewebcamp on Static Sites for an Indieweb</title>
-    <link>https://web-work.tools/indieweb/tags/indiewebcamp/</link>
-    <description>Recent content in indiewebcamp on Static Sites for an Indieweb</description>
+    <title>wiki on Static Sites for an Indieweb</title>
+    <link>https://web-work.tools/indieweb/categories/wiki/</link>
+    <description>Recent content in wiki on Static Sites for an Indieweb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
     <lastBuildDate>Wed, 26 Jun 2019 01:13:33 -2300</lastBuildDate>
     
-	<atom:link href="https://web-work.tools/indieweb/tags/indiewebcamp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://web-work.tools/indieweb/categories/wiki/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

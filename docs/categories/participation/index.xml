@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>indiewebcamp on Static Sites for an Indieweb</title>
-    <link>https://web-work.tools/indieweb/tags/indiewebcamp/</link>
-    <description>Recent content in indiewebcamp on Static Sites for an Indieweb</description>
+    <title>participation on Static Sites for an Indieweb</title>
+    <link>https://web-work.tools/indieweb/categories/participation/</link>
+    <description>Recent content in participation on Static Sites for an Indieweb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
     <lastBuildDate>Wed, 26 Jun 2019 01:13:33 -2300</lastBuildDate>
     
-	<atom:link href="https://web-work.tools/indieweb/tags/indiewebcamp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://web-work.tools/indieweb/categories/participation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,15 +23,6 @@
  Type the URL of the desired page directly into the browser address bar, then click &amp;ldquo;edit this page.&amp;rdquo;  Then start by copy pasting the following:
  {{stub}}
  And lastly, include a simple 1-2 sentence definition of what the page is about.</description>
-    </item>
-    
-    <item>
-      <title>Indiewebcamp - Specifications</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp-specifications/</link>
-      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/indiewebcamp-specifications/</guid>
-      <description>The IndieWebCamp community develops several widely implemented specifications, including IndieAuth, Webmention, and Micropub. Additional specifications (like Vouch) are in development. Lastly, IndieWebCamp also makes heavy (re-)use of microformats specifications.</description>
     </item>
     
   </channel>

@@ -116,6 +116,519 @@ Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes o
     </item>
     
     <item>
+      <title>Indiewebcamp - Participating with the Wiki</title>
+      <link>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</guid>
+      <description>
+
+&lt;h2 id=&#34;start-a-page&#34;&gt;Start a page&lt;/h2&gt;
+
+&lt;p&gt;To start a page on the indiewebcamp wiki, either&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Edit an existing page. Add a link to new-page, then save the page.&lt;/li&gt;
+&lt;li&gt;Click the new-page link, then click &amp;ldquo;edit this page.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Type the URL of the desired page directly into the browser address bar, then click &amp;ldquo;edit this page.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then start by copy pasting the following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;{{stub}}&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And lastly, include a simple 1-2 sentence definition of what the page is about. E.g. if the page is about &amp;ldquo;WidgeCo&amp;rdquo;, start with something like:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;p-summary&#34;&gt;&amp;rdquo;&amp;rsquo;&lt;dfn&gt;WidgeCo&lt;/dfn&gt;&amp;rdquo;&amp;rsquo; is a &amp;hellip;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and complete that sentence including any &lt;a href=&#34;https://indieweb.org/wikifying#Definitions_include_indieweb_relevance&#34;&gt;indieweb relevance.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If there is no indieweb relevance, then DO NOT create the page. If you need something to link to, just link to a Wikipedia page instead of making a non-indieweb-relevant stub.&lt;/p&gt;
+
+&lt;p&gt;You may also want to simply &lt;a href=&#34;https://indieweb.org/redirect&#34;&gt;redirect&lt;/a&gt; a new page to an existing page.&lt;/p&gt;
+
+&lt;h3 id=&#34;faq&#34;&gt;FAQ&lt;/h3&gt;
+
+&lt;p&gt;May I copy paste from another site&lt;/p&gt;
+
+&lt;p&gt;Q: Is it ok if I mostly copy+paste a definition from the site of the product/company (e.g. WidgeCo in example above) that I&amp;rsquo;m creating a new page for?&lt;/p&gt;
+
+&lt;p&gt;A: Rather than copy/paste from their site, try to rephrase a definition so it sounds neutral, factual, and uses indieweb terminology when possible, which should then be &lt;code&gt;[[ ]]&lt;/code&gt; linked.&lt;/p&gt;
+
+&lt;h2 id=&#34;wikifiying-https-indieweb-org-wikifying&#34;&gt;&lt;a href=&#34;https://indieweb.org/wikifying&#34;&gt;Wikifiying&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;wikifying is the practice of capturing information and ideas on the wiki. E.g. &amp;ldquo;We need to wikify that &lt;a href=&#34;https://indieweb.org/FAQ&#34;&gt;FAQ&lt;/a&gt;, concept, &lt;a href=&#34;https://indieweb.org/jargon&#34;&gt;jargon&lt;/a&gt;, or &lt;a href=&#34;https://indieweb.org/etherpad&#34;&gt;etherpad&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Follow the step by step directions on this page to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Step 1: Create your wiki page.&lt;/li&gt;
+&lt;li&gt;Step 2: Edit your wiki page.&lt;/li&gt;
+&lt;li&gt;Step 3: (optional) add your self to &lt;a href=&#34;https://indieweb.org/chat-names&#34;&gt;chat-names&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Step 4: (optional) create a &lt;a href=&#34;https://indieweb.org/sparkline#IndieWeb_Examples&#34;&gt;sparkline&lt;/a&gt; so there is a picture next your user name&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then begin to contribute to the wiki.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-join-the-indieweb-wiki&#34;&gt;Why Join the IndieWeb Wiki&lt;/h2&gt;
+
+&lt;p&gt;As a community, we &lt;a href=&#34;http://microformats.org/wiki/wiki-better-than-email&#34;&gt;eschew email&lt;/a&gt; in lieu of real-time &lt;a href=&#34;https://indieweb.org/discuss&#34;&gt;chat&lt;/a&gt; and documentation of the important points on the wiki to make it easier to search and build information and documentation over time.&lt;/p&gt;
+
+&lt;p&gt;When you join the wiki you help our community grow and also provide documentation of your journey. This helps the next person who, like you, wants to control their data in the place that they own.&lt;/p&gt;
+
+&lt;p&gt;Each person who joins the wiki has a user page they maintain and build over time. You can shape your page to tell your story. As you get started please consider these examples as you look for ideas.
+IndieWeb Examples&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Tantek.com&#34;&gt;Tantek Çelik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Aaronparecki.com&#34;&gt;Aaron Parecki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:David.shanske.com&#34;&gt;David Shanske&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Kylewm.com&#34;&gt;Kyle Mahan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Werd.io&#34;&gt;Ben Werdmüller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Gregorlove.com&#34;&gt;gRegor Morrill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Boffosocko.com&#34;&gt;Chris Aldrich&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Jgregorymcverry.com&#34;&gt;Greg McVerry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/User:Www.jvt.me&#34;&gt;Jamie Tanna&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;how-to-join-the-indieweb-wiki&#34;&gt;How to Join the IndieWeb Wiki&lt;/h2&gt;
+
+&lt;p&gt;If you have not done so already, set up web sign-in on your domain. Unlike other sites where you choose a username and password, you only need your domain name to log in to this wiki.
+Step One: Create your user page&lt;/p&gt;
+
+&lt;p&gt;After logging in, visit your user page. Then click Create. You can choose two templates to add a profile to your page.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Minimum Profile
+Infobox Profile
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you want to edit your page at a later date go to your own user page (or click your domain name at the top right). From there, click Edit.
+Minimum Profile&lt;/p&gt;
+
+&lt;p&gt;The IndieWeb community uses h-cards to identify people online. This is like a business card for your website.&lt;/p&gt;
+
+&lt;p&gt;The smallest h-card includes your name and a link to your website.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;h-card&#34;&gt;[&lt;a href=&#34;http://example.com/&#34;&gt;http://example.com/&lt;/a&gt; Your Name]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Infobox Profile&lt;/p&gt;
+
+&lt;p&gt;If you would like to include a profile box like Aaron Parecki for example, we have created a template for you.&lt;/p&gt;
+
+&lt;p&gt;Go to Infobox person and copy the template. Then return to your user page. Paste the template on your user page. Fill out the relevant data you&amp;rsquo;d like to display, then save the page.
+Step Two: Edit Your Wiki page&lt;/p&gt;
+
+&lt;p&gt;You can shape your wiki page any way you like. There are some common elements many community members include:
+Write down your itches
+Main article: itches&lt;/p&gt;
+
+&lt;p&gt;Next, add an itches section where you capture what you want to work on for your own site, personal online digital presence, and personal digital device usage (e.g. even when offline) in general. E.g.&lt;/p&gt;
+
+&lt;p&gt;== Itches ==
+* Add a more extensive [[h-card]] on my site
+* Figure out a [[URL design]] for my posts
+* Start posting [[notes]] manually at [[permalinks]]
+* Try checking my site in indiewebify.me
+* Check out [[IndieMark]] for additional ideas of things to add to my site&lt;/p&gt;
+
+&lt;p&gt;When you start collecting lots of itches, you may want to start prioritizing them, especially by what you&amp;rsquo;re currently working on. Start a &amp;ldquo;Working on&amp;rdquo; section for that:&lt;/p&gt;
+
+&lt;p&gt;== Working On ==
+* the next thing I&amp;rsquo;m working on for my site
+* the next next thing I&amp;rsquo;m working on getting working on my site
+* &amp;hellip; etc.&lt;/p&gt;
+
+&lt;p&gt;Focus&lt;/p&gt;
+
+&lt;p&gt;As this is the IndieWeb, and this is about your IndieWeb user page, it should be about answering this question, continuously:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;What is the next thing you want to get working on your personal site?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This means for example that the following are better left out and pursued elsewhere - like on your own site!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;A personal to do list (of other non-personal-site things) - your IndieWeb user page is about work on your personal site.
+Asking others to do work for you. Note: requests for help with IndieWeb specific itches/projects are ok, but address them to everyone, not just individuals. This is about what you want to work on - not asking others to do work.
+Trying to get silos to do things, in general or with specific accounts - instead, document individual silo issues on the specific silo wiki pages, and follow-up there. Your itches should be about your personal site, not silos.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Additional Templates&lt;/p&gt;
+
+&lt;p&gt;These pre-defined wiki templates that can be added to a user page:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Infobox template: Template:Infobox_person
+Twitter template: Template:twitter-link
+Facebook template: Template:facebook-link
+Mastodon template: Template:mastodon-link
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Step Three: Add a chat name&lt;/p&gt;
+
+&lt;p&gt;Optionally add yourself to chat-names. This will show your photo by your name in the chat logs and link your name to your website. It will also allow our friendly chat bot Loqi to answer &amp;ldquo;who is [username]&amp;rdquo; with information from your wiki user page.&lt;/p&gt;
+
+&lt;p&gt;To add a chat name visit chat-names and use the provided template.
+Step Four: Add a sparkline
+The IndieWeb wiki allows sparklines, a small avatar that contains your photo and your name linked to your user page. This means people can add&lt;/p&gt;
+
+&lt;p&gt;{{yourname}}&lt;/p&gt;
+
+&lt;p&gt;to any page and a link with your picture will display.&lt;/p&gt;
+
+&lt;p&gt;Visit the template to add a sparkline.
+Why Contribute to the IndieWeb Wiki&lt;/p&gt;
+
+&lt;p&gt;Wikifying both in general, and particular subjects, notes, or documents, helps grow the searchable &amp;amp; discoverable commons of the IndieWeb community.&lt;/p&gt;
+
+&lt;p&gt;Is it IndieWeb related? Great, add it to the wiki. Not sure? See examples of what (not) to add:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;FAQ: Should this be on the wiki?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;How to Contribute to the IndieWeb Wiki
+Incremental Wikifying
+Main article: expand a page&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s lots of incremental wikifying to help with.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;fixing typos
+expanding (and/or simplifying) a definition to include the IndieWeb relevance of the term
+adding IndieWeb Examples - if you find a page for a technology you support on your site, or a project you use on your site, add yourself to the &amp;quot;IndieWeb Examples&amp;quot; for that page
+add issues and questions (for FAQs)
+collect questions/answers from chat and add them to the appropriate wiki page
+organize the content of a growing page into sections per expand a page
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;See:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;expand a page for many more specific suggestions for incremental wikifying.
+to-do for specific wiki pages that need incremental improvements!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Add Citations&lt;/p&gt;
+
+&lt;p&gt;Whenever you see Loqi (or anyone frankly) share or post a link in chat to something relevant to the indieweb, please help out by adding those as citations/examples to the wiki, and especially if they&amp;rsquo;re photos, add them to event page(s).
+Format citations&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s how to &amp;ldquo;text format&amp;rdquo; citations to add them, from a minimum, to incrementally doing more work (or improving existing citations!)&lt;/p&gt;
+
+&lt;p&gt;link
+    seriously, it&amp;rsquo;s ok to just add a link, that&amp;rsquo;s helpful!
+YYYY-MM-DD link
+    adding the article&amp;rsquo;s publication date helps a lot by placing the link in a temporal context
+YYYY-MM-DD [link article-name]
+    even better, go get the article name which is likely more readable/understandable/searchable/discoverable than the link. Is it a tweet link or lacking a name? Pick a summary sentence instead.
+YYYY-MM-DD author: [link article-name]
+    even better, add the author to help provide authority or at least the context of who-from
+YYYY-MM-DD {{indiewebauthor}}: [link article-name]
+    even better, if the author is a participant in the indieweb community use the {{}} template for their shortname / chat nickname to link their name, perhaps even provide their icon automatically&lt;/p&gt;
+
+&lt;p&gt;Optionally:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Add a blockquote inline at the end of the citation, with key relevant sentence(s) copy/pasted/quoted from the link, like this: 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;YYYY-MM-DD [link article-name] &lt;blockquote&gt;key relevant sentence(s)!&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;These are all super-easy (nearly completely) plain-text ways of just pasting/typing the information into the wiki. (Nearly) No code or markup to learn or figure out or debug. Don&amp;rsquo;t worry about not being perfect, others can help with tweaking fixing things.&lt;/p&gt;
+
+&lt;p&gt;Keeping wiki pages mostly plain-text-like makes them easier for others to edit and improve as well!&lt;/p&gt;
+
+&lt;p&gt;The important thing is to just take the step of adding the information.&lt;/p&gt;
+
+&lt;p&gt;If you like or are familiar MediaWiki templates, you can also use:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Template:citation
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Where to add a citation&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t know where in a page to put a citation, add it to the See Also section at the end.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;You can even do this from chat by using the &amp;lt;&amp;lt; trick like this:
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;wikipagename &amp;lt;&amp;lt; YYYY-MM-DD [link article-name]&lt;/p&gt;
+
+&lt;p&gt;etc.&lt;/p&gt;
+
+&lt;p&gt;If the citation is criticism, add/move it to the Criticism section of the article.&lt;/p&gt;
+
+&lt;p&gt;These are all incremental steps. None are required. All are something you can help with.&lt;/p&gt;
+
+&lt;p&gt;Every incremental step you can help with above helps the wiki.&lt;/p&gt;
+
+&lt;p&gt;Even just one incremental improvement is helpful!
+New pages
+Main article: start a page&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s lots of new page creation you can help with. Create new wiki pages for:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;new concepts or terms being discussed, e.g. in chat
+    start with {{stub}} and a short definition that includes its indieweb relevance! (see next section)
+    especially if they&#39;re indieweb-related in some way
+etherpads of notes from IndieWebCamp sessions after they&#39;re finished, to archive the session notes somewhere more findable / linkable
+new projects you start using on your personal website; be sure to include your site in the IndieWeb Examples section on the page.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If something is not particularly indieweb-related, e.g. it didn&amp;rsquo;t come up in the discussion of things that are indieweb-related, perhaps consider documenting it on Wikipedia instead (and/or using Wikipedia as a reference/citation).
+Definitions include indieweb relevance&lt;/p&gt;
+
+&lt;p&gt;When defining a term, include why it is specifically relevant to the indieweb (if that&amp;rsquo;s not obvious from the description), beyond just a &amp;ldquo;normal&amp;rdquo; definition that could have come from Wikipedia (no need to replicate or summarize Wikipedia here, and do not copy from Wikipedia, instead link to it).&lt;/p&gt;
+
+&lt;p&gt;E.g. the jargon example could be improved with indieweb relevance like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;A jargon term is a specific unobvious word, concept, or technology (like Webmention), or re-use of a word to mean something other than its common meaning (like feed), or sometimes re-using a word as an acronym (like POSSE).
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Document your decisions&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve documented yourself on your User page, and started incrementally documenting your &amp;ldquo;Itches&amp;rdquo; and &amp;ldquo;Working On&amp;rdquo;, as you get work done and deploy to your personal site, document your &amp;ldquo;major decisions&amp;rdquo;, on your user page or perhaps in a &amp;ldquo;Implementation Design&amp;rdquo; section on your project page.&lt;/p&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Falcon#Implementation_Design - major design decisions made in Falcon so far.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Documenting your major design and implementation decisions will help you better consider when to revisit them, and when to work on new personal site features and functionality instead.
+Define jargon&lt;/p&gt;
+
+&lt;p&gt;Any time someone uses a jargon term in chat, or other indieweb related communications, go ahead and ask in the channel:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;What is jargon term
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will prompt Loqi to either answer with the definition with the wiki, or to prompt you to define it with a link to create the page on the wiki.&lt;/p&gt;
+
+&lt;p&gt;You can then define it by clicking on that link, or answer answer the what is question:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;A jargon term is a specific unobvious concept, or re-use of a word to mean something other than its common meaning.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Avoid repeating words from the term, avoid generic abstract definitions, and minimize use of jargon terms in a definition (though use them if necessary, and then link/define them too).&lt;/p&gt;
+
+&lt;p&gt;Be specific and meaningful in definitions, certainly more than just a link and/or restatement using the same or similar terms.
+Tweetable definitions&lt;/p&gt;
+
+&lt;p&gt;Check the definitions on wiki pages, and edit them so they are tweetable, as there is evidence that people will tweet good definitions that are of tweetable length (including a subsequent link to the page) - that&amp;rsquo;s 257 characters (space + 23 characters for the tco&amp;rsquo;d link).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;https://twitter.com/zeldman/status/688791904356581376
+
+    Site deaths are when sites go offline, taking content and permalinks with them, and breaking the web accordingly. http://indiewebcamp.com/site-deaths 
+
+    Note that he edited the dfn of site-deaths (as of that time) and removed &amp;quot;their&amp;quot; in order to make it fit on Twitter.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Progressive disclosure of content&lt;/p&gt;
+
+&lt;p&gt;A simple jargon-free (or minimal) tweetable definition is an important first step in providing content that is understandable by a broader audience, while still documenting all the important research and details that are discovered or invented by the community.&lt;/p&gt;
+
+&lt;p&gt;Nearly every page on the wiki can be improved in this regard, to provide progressive disclosure of relevant content.&lt;/p&gt;
+
+&lt;p&gt;That is, wiki pages should start with offering quick, definitive information to a beginner.&lt;/p&gt;
+
+&lt;p&gt;And then incrementally document details only as needed for real world reasons / use-cases that provide benefits to those reading.&lt;/p&gt;
+
+&lt;p&gt;E.g. getting started can (still) be continuously improved in this regard. As can web hosting.
+Common Page Structure&lt;/p&gt;
+
+&lt;p&gt;Most pages on the wiki have evolved to have a fairly common page structure, starting with a simple definition, and then adding additional sections such as:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Why
+How to
+IndieWeb Examples
+Brainstorming
+See Also
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For more details on these and more, see:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;expand a page
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Special Case Pages&lt;/p&gt;
+
+&lt;p&gt;In addition to the common structure across many pages, there are also several clusters or instances of special case pages.
+Standards Pages&lt;/p&gt;
+
+&lt;p&gt;The wiki has pages for standards / specifications that were developed on the indieweb wiki, and have started or been formalized at W3C, and thus their pages (and subpages) here have evolved in support of those specifications.&lt;/p&gt;
+
+&lt;p&gt;While these are rapidly evolving, take a look at:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Webmention
+Micropub
+post type discovery
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;There are also pages that are about the indieweb usage of standards developed elsewhere or in active collaboration across communities, e.g. the pages for various microformats. Though these are generally structured in the common structure noted above, they may as a set have special patterns worth noting:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;h-entry
+h-card
+h-event
+h-review
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(stub) - help expand this section with documentation of patterns across this type of special page.
+Historical Pages&lt;/p&gt;
+
+&lt;p&gt;Some pages help document history, e.g.:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;history
+timeline
+site-deaths
+silo-quits
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(stub) - help expand this section with documentation of patterns across this type of special page.
+Cross-Generation Pages&lt;/p&gt;
+
+&lt;p&gt;As certain IndieWeb building-blocks become more widespread, folks from later generations could benefit from re-organized content. In some cases, it may be beneficial to break out &amp;ldquo;introductory&amp;rdquo; content (including high-level explanations, examples with screenshots, tools and services, &amp;hellip;) from &amp;ldquo;developer&amp;rdquo; content (such as protocol diagrams, code snippets, brainstorming, &amp;hellip;) For example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Webmention is an introduction page, with developer-specific content moved to Webmention-developer.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(stub) - help expand this section with documentation of patterns across this type of special page.
+Related Articles&lt;/p&gt;
+
+&lt;p&gt;The above is very much specific to what is good wikifying for IndieWeb in particular.&lt;/p&gt;
+
+&lt;p&gt;Here are related articles on good writing, structure, and wikifying in general:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Wikipedia Project: How to wikify
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;FAQ
+Should this be on the wiki&lt;/p&gt;
+
+&lt;p&gt;Q: Do we really need this on the wiki?&lt;/p&gt;
+
+&lt;p&gt;A: Depends! In short, anything indieweb related is worth putting on the wiki, and sure it&amp;rsquo;s up to someone to care enough to do it!&lt;/p&gt;
+
+&lt;p&gt;Here are some good examples of stuff to put on the wiki:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Anything directly IndieWeb related, especially directly to people in the community with their own sites:
+    Technologies (e.g. Apache) people are using to setup/build/run/maintain/monitor their indieweb site
+    Services (e.g. web hosting) people are using with their indieweb site
+    Events or podcasts that discuss the independent web or IndieWeb in particular, including events with only a single related talk (be sure to list the specific talk)
+    jargon representing technology used as part of an IndieWeb site
+    silos that have prior art (UX, design, formats, protocols) for things we want to rebuild independently
+        also any silos where anyone has or is about to / expected to lose content, permalinks, online identities.
+If you are unsure just ask in our #meta channel. If you prefer to ask the question off the record where it is not logged you can try the #chat channel (See Discuss).
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;What should not go on the wiki&lt;/p&gt;
+
+&lt;p&gt;Q: If all that makes sense on the wiki, what does not make sense on the wiki?&lt;/p&gt;
+
+&lt;p&gt;A: There are so many things that do not need to be on the wiki that it&amp;rsquo;s hard to list them all. Obviously aside from stuff like code-of-conduct violations, here are a few which we&amp;rsquo;ve seen added then decided were better removed, that seem to fall into the pattern of when someone is passionate about something totally not indieweb related, and wants to add it to the wiki.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Random stuff. In general, random things that lack an obvious IndieWeb connection are better left to Wikipedia, and using Wikipedia links rather than creating less useful stub pages on the IndieWeb wiki. E.g.
+    technical terms. If a technical term does not have a direct obvious connection to the IndieWeb, no need for it to be documented here
+    organizations. If an organization has no relation to anything independent it can probably be left out.
+        Exception: As noted above as silos, we are documenting any/all sites/services that anyone in the community has used (or even has friends that have used) that has announced or is threatening to shut down, or has especially has UX that is worth capturing for prior art research purposes when designing our own indieweb features.
+    events. If an event has nothing to do with the indieweb, it does not need to be listed on the Events page.
+Once again ask in chat. People will help you determine the relevancy of a topic, link to previous discussions in the logs, or point you to an existing page where the date are previously captured.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Do I have to use the wiki and mediawiki syntax?&lt;/p&gt;
+
+&lt;p&gt;While it&amp;rsquo;s nice to put content into the wiki using standard markup for it, we realize not everyone is a wiki fan, knows how to do it, or even may have the time to learn to do it. (Documenting what you&amp;rsquo;ve done is both important and work enough.)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Alternative: Post on your own site with CC0! An alternate option is to simply practice the Indieweb principle of posting on your own site first where you have ultimate control. Then webmention &amp;quot;Indieweb&amp;quot; (for Superfeedr) or dump the link into chat. As long as you license your content as CC0 for that post, someone will surely add it to the wiki on your behalf.
+Just add content, with double linebreaks for paragraphs! Users shouldn&#39;t feel guilty for adding content as best as they can (markup/formatting or not) where they feel it&#39;s appropriate. Others will come along and clean bits up in the near future. Nor should they hesitate to ask for help in chat if they&#39;d like to learn more about wikifying.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Related chats:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;https://chat.indieweb.org/2016-05-20#t1463775866966000
+https://chat.indieweb.org/dev/2017-06-18#t1497799332968000
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;where-should-i-add-something-to-the-wiki&#34;&gt;Where should I add something to the wiki?&lt;/h3&gt;
+
+&lt;p&gt;When you see an IndieWeb related article, post, concept, and want to add it to the wiki, it may not be obvious where to add it, even just as a &amp;ldquo;See Also&amp;rdquo;. Here are some tips for where to add something:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An existing page it is most relevant to.&lt;/li&gt;
+&lt;li&gt;If there are a couple of pages (e.g. maybe a general concept like privacy, and a specific silo like Facebook), it’s ok to add it to both.&lt;/li&gt;
+&lt;li&gt;If you can think of a few different related pages, then create a new stub page for it, and then add a link to that stub page in the See Also sections of those related pages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;expand-a-page-https-indieweb-org-expand-a-page&#34;&gt;&lt;a href=&#34;https://indieweb.org/expand_a_page&#34;&gt;Expand a Page&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;You can expand a page that someone has started by expanding the definition, adding one or more new sections, or add to an existing section.&lt;/p&gt;
+
+&lt;h3 id=&#34;definition-improvement&#34;&gt;Definition Improvement&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;expand (and/or simplify) a definition to include the &lt;a href=&#34;https://indieweb.org/wikifying#Definitions_include_indieweb_relevance&#34;&gt;IndieWeb relevance&lt;/a&gt; of the term and please minimize use of &lt;a href=&#34;https://indieweb.org/jargon&#34;&gt;jargon&lt;/a&gt; (at link it if you must include it).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;audiences&#34;&gt;Audiences&lt;/h3&gt;
+
+&lt;p&gt;The top of a page should be simple, direct, and consider the audiences that are new the IndieWeb.&lt;/p&gt;
+
+&lt;p&gt;Beyond that, a page and its sections noted above should be easy so understand and use by new indieweb users, &lt;a href=&#34;https://indieweb.org/WordPress&#34;&gt;WordPress&lt;/a&gt; site users, and developers.&lt;/p&gt;
+
+&lt;p&gt;To better understand these audiences and needs, consider:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Does the page make sense to an indieweb user and help them understand why something matters?&lt;/li&gt;
+&lt;li&gt;Does the page make sense to someone using WordPress and how they can improve their blog?&lt;/li&gt;
+&lt;li&gt;Does the page make sense to developers and provide a quickly understandable reason why they should care and how to implement it with examples including screenshots?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;section-expansions&#34;&gt;Section Expansions&lt;/h3&gt;
+
+&lt;p&gt;Most pages could use expansion of their existing sections.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;adding IndieWeb Examples - if you find a page for a technology you support on your site, or a project you use on your site, add yourself to the &amp;ldquo;IndieWeb Examples&amp;rdquo; for that page&lt;/li&gt;
+&lt;li&gt;add issues and questions (for FAQs)&lt;/li&gt;
+&lt;li&gt;collect questions/answers from chat and add them to the appropriate wiki page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;common-sections&#34;&gt;Common Sections&lt;/h3&gt;
+
+&lt;p&gt;Most pages have (or could use) sections like the following (in this order)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;definition&lt;/li&gt;
+&lt;li&gt;Why&lt;/li&gt;
+&lt;li&gt;How to&lt;/li&gt;
+&lt;li&gt;IndieWeb Examples&lt;/li&gt;
+&lt;li&gt;Silo Examples&lt;/li&gt;
+&lt;li&gt;Brainstorming&lt;/li&gt;
+&lt;li&gt;FAQ&lt;/li&gt;
+&lt;li&gt;See Also&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pages about silos, other services, and software projects sometimes have:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Features&lt;/li&gt;
+&lt;li&gt;IndieWeb Friendly (support, compatibility, best practices etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;stub-sections&#34;&gt;Stub Sections&lt;/h3&gt;
+
+&lt;p&gt;Do not add empty sections. If you have surfficient experience (and have asked in a channel for input), you may add stub sections that indicate there is &amp;ldquo;No known reason why&amp;rdquo; or &amp;ldquo;Unknown how to&amp;rdquo; or &amp;ldquo;How to still being figured out per brainstorming&amp;rdquo; etc.&lt;/p&gt;
+
+&lt;h3 id=&#34;reorganizing-into-sections&#34;&gt;Reorganizing Into Sections&lt;/h3&gt;
+
+&lt;p&gt;Pages often have raw (paragraphs of text) content. Try to organize the existing content of a growing page into the above common sections as needed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Indiewebcamp - Specifications</title>
       <link>https://web-work.tools/indieweb/indiewebcamp-specifications/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>

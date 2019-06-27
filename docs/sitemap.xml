@@ -14,6 +14,11 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</loc>
+    <lastmod>2019-06-26T01:13:33-23:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/indiewebcamp-specifications/</loc>
     <lastmod>2019-06-26T01:13:33-23:00</lastmod>
   </url>
@@ -42,6 +47,12 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/tags/code-of-conduct/</loc>
+    <lastmod>2019-06-26T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/categories/indiewebcamp/</loc>
     <lastmod>2019-06-26T01:13:33-23:00</lastmod>
     <priority>0</priority>
@@ -54,6 +65,12 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/categories/participation/</loc>
+    <lastmod>2019-06-26T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/tags/principles/</loc>
     <lastmod>2019-06-26T01:13:33-23:00</lastmod>
     <priority>0</priority>
@@ -61,6 +78,12 @@
   
   <url>
     <loc>https://web-work.tools/indieweb/categories/specifications/</loc>
+    <lastmod>2019-06-26T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/categories/wiki/</loc>
     <lastmod>2019-06-26T01:13:33-23:00</lastmod>
     <priority>0</priority>
   </url>

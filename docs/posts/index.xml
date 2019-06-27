@@ -22,15 +22,25 @@
     </item>
     
     <item>
+      <title>Indiewebcamp - Participating with the Wiki</title>
+      <link>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</guid>
+      <description>Start a page To start a page on the indiewebcamp wiki, either
+ Edit an existing page. Add a link to new-page, then save the page. Click the new-page link, then click &amp;ldquo;edit this page.&amp;rdquo;  or
+ Type the URL of the desired page directly into the browser address bar, then click &amp;ldquo;edit this page.&amp;rdquo;  Then start by copy pasting the following:
+ {{stub}}
+ And lastly, include a simple 1-2 sentence definition of what the page is about.</description>
+    </item>
+    
+    <item>
       <title>Indiewebcamp - Specifications</title>
       <link>https://web-work.tools/indieweb/indiewebcamp-specifications/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/indiewebcamp-specifications/</guid>
-      <description>What are IndieWebCamp specifications  &amp;ldquo;Q: What specs does IndieWebCamp handle?&amp;rdquo;
- A: The IndieWebCamp community develops several widely implemented specifications, including IndieAuth, Webmention, and Micropub. Additional specifications (like Vouch) are in development. Lastly, IndieWebCamp also makes heavy (re-)use of microformats specifications.
-See specifications for a longer list of essential IndieWebCamp specifications, both developed here in the community, and heavily (re-)used from other communities.
-Indieweb Specifications The following specifications are used for dependable interoperability by the IndieWebCamp community.</description>
+      <description>The IndieWebCamp community develops several widely implemented specifications, including IndieAuth, Webmention, and Micropub. Additional specifications (like Vouch) are in development. Lastly, IndieWebCamp also makes heavy (re-)use of microformats specifications.</description>
     </item>
     
     <item>

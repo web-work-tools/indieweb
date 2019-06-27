@@ -3,8 +3,8 @@ type: post
 title: "Indiewebcamp - Code of Conduct"
 description: "To grow more familiar with the Indiewebcamp community and its principles, I'm sharing its code of conduct, here."
 summary: "Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can't resolve an issue, contact staff. If you are being a problem, it will be apparent and you'll be asked to leave."
-categories: ["specifications"]
-tags: ["indiewebcamp"]
+categories: ["indiewebcamp"]
+tags: ["code-of-conduct", "wiki", "principles"]
 date: "2019-06-26T01:13:33-23:00"
 draft: false
 slug: /indiewebcamp/code-of-conduct/
