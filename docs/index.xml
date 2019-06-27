@@ -123,7 +123,7 @@ Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes o
       <guid>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</guid>
       <description>
 
-&lt;h2 id=&#34;start-a-page&#34;&gt;Start a page&lt;/h2&gt;
+&lt;h2 id=&#34;start-a-page-https-indieweb-org-start-a-page&#34;&gt;&lt;a href=&#34;https://indieweb.org/start_a_page&#34;&gt;Start a page&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;To start a page on the indiewebcamp wiki, either&lt;/p&gt;
 
@@ -141,16 +141,10 @@ Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes o
 &lt;p&gt;Then start by copy pasting the following:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;{{stub}}&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{{stub}}&lt;/code&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;And lastly, include a simple 1-2 sentence definition of what the page is about. E.g. if the page is about &amp;ldquo;WidgeCo&amp;rdquo;, start with something like:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;p-summary&#34;&gt;&amp;rdquo;&amp;rsquo;&lt;dfn&gt;WidgeCo&lt;/dfn&gt;&amp;rdquo;&amp;rsquo; is a &amp;hellip;&lt;/span&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;and complete that sentence including any &lt;a href=&#34;https://indieweb.org/wikifying#Definitions_include_indieweb_relevance&#34;&gt;indieweb relevance.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And lastly, include a simple 1-2 sentence definition of what the page is about. [&amp;hellip;] and complete that sentence including any &lt;a href=&#34;https://indieweb.org/wikifying#Definitions_include_indieweb_relevance&#34;&gt;indieweb relevance.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If there is no indieweb relevance, then DO NOT create the page. If you need something to link to, just link to a Wikipedia page instead of making a non-indieweb-relevant stub.&lt;/p&gt;
 
@@ -202,14 +196,16 @@ IndieWeb Examples&lt;/p&gt;
 
 &lt;h2 id=&#34;how-to-join-the-indieweb-wiki&#34;&gt;How to Join the IndieWeb Wiki&lt;/h2&gt;
 
-&lt;p&gt;If you have not done so already, set up web sign-in on your domain. Unlike other sites where you choose a username and password, you only need your domain name to log in to this wiki.
-Step One: Create your user page&lt;/p&gt;
+&lt;p&gt;If you have not done so already, set up &lt;a href=&#34;https://indieweb.org/set_up_web_sign-in&#34;&gt;web sign-in&lt;/a&gt; on your domain. Unlike other sites where you choose a username and password, you only need your domain name to log in to this wiki.&lt;/p&gt;
 
-&lt;p&gt;After logging in, visit your user page. Then click Create. You can choose two templates to add a profile to your page.&lt;/p&gt;
+&lt;h3 id=&#34;step-one-create-your-user-page&#34;&gt;Step One: Create your user page&lt;/h3&gt;
 
-&lt;pre&gt;&lt;code&gt;Minimum Profile
-Infobox Profile
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;After logging in, &lt;a href=&#34;https://indieweb.org/Special:MyPage&#34;&gt;visit your user page&lt;/a&gt;. Then click Create. You can choose two templates to add a profile to your page.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Minimum Profile&lt;/li&gt;
+&lt;li&gt;Infobox Profile&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;If you want to edit your page at a later date go to your own user page (or click your domain name at the top right). From there, click Edit.
 Minimum Profile&lt;/p&gt;
@@ -218,27 +214,29 @@ Minimum Profile&lt;/p&gt;
 
 &lt;p&gt;The smallest h-card includes your name and a link to your website.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&#34;h-card&#34;&gt;[&lt;a href=&#34;http://example.com/&#34;&gt;http://example.com/&lt;/a&gt; Your Name]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;span class=&amp;quot;h-card&amp;quot;&amp;gt;[http://example.com/ Your Name]&amp;lt;/span&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Infobox Profile&lt;/p&gt;
+&lt;h3 id=&#34;infobox-profile&#34;&gt;Infobox Profile&lt;/h3&gt;
 
 &lt;p&gt;If you would like to include a profile box like Aaron Parecki for example, we have created a template for you.&lt;/p&gt;
 
 &lt;p&gt;Go to Infobox person and copy the template. Then return to your user page. Paste the template on your user page. Fill out the relevant data you&amp;rsquo;d like to display, then save the page.
 Step Two: Edit Your Wiki page&lt;/p&gt;
 
-&lt;p&gt;You can shape your wiki page any way you like. There are some common elements many community members include:
-Write down your itches
-Main article: itches&lt;/p&gt;
+&lt;p&gt;You can shape your wiki page any way you like. There are some common elements many community members include:&lt;/p&gt;
+
+&lt;h3 id=&#34;write-down-your-itches-https-indieweb-org-itches&#34;&gt;Write down your &lt;a href=&#34;https://indieweb.org/itches&#34;&gt;itches&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Next, add an itches section where you capture what you want to work on for your own site, personal online digital presence, and personal digital device usage (e.g. even when offline) in general. E.g.&lt;/p&gt;
 
-&lt;p&gt;== Itches ==
-* Add a more extensive [[h-card]] on my site
-* Figure out a [[URL design]] for my posts
-* Start posting [[notes]] manually at [[permalinks]]
-* Try checking my site in indiewebify.me
-* Check out [[IndieMark]] for additional ideas of things to add to my site&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;== Itches ==&lt;/code&gt;
+&lt;code&gt;* Add a more extensive [[h-card]] on my site&lt;/code&gt;
+&lt;code&gt;* Figure out a [[URL design]] for my posts&lt;/code&gt;
+&lt;code&gt;* Start posting [[notes]] manually at [[permalinks]]&lt;/code&gt;
+&lt;code&gt;* Try checking my site in indiewebify.me&lt;/code&gt;
+&lt;code&gt;* Check out [[IndieMark]] for additional ideas of things to add to my site&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;When you start collecting lots of itches, you may want to start prioritizing them, especially by what you&amp;rsquo;re currently working on. Start a &amp;ldquo;Working on&amp;rdquo; section for that:&lt;/p&gt;
 

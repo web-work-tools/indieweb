@@ -10,7 +10,7 @@ draft: false
 slug: /indiewebcamp/wiki-participation/
 ---
 
-## Start a page
+## [Start a page](https://indieweb.org/start_a_page)
 
 To start a page on the indiewebcamp wiki, either
 
@@ -23,16 +23,11 @@ or
 
 Then start by copy pasting the following:
 
->    {{stub}} 
+>    `{{stub}}` 
 
-And lastly, include a simple 1-2 sentence definition of what the page is about. E.g. if the page is about "WidgeCo", start with something like:
-
->    <span class="p-summary">'''<dfn>WidgeCo</dfn>''' is a ...</span> 
-
-and complete that sentence including any [indieweb relevance.](https://indieweb.org/wikifying#Definitions_include_indieweb_relevance)
+And lastly, include a simple 1-2 sentence definition of what the page is about. [...] and complete that sentence including any [indieweb relevance.](https://indieweb.org/wikifying#Definitions_include_indieweb_relevance)
 
 If there is no indieweb relevance, then DO NOT create the page. If you need something to link to, just link to a Wikipedia page instead of making a non-indieweb-relevant stub.
-
 
 You may also want to simply [redirect](https://indieweb.org/redirect) a new page to an existing page.
 
@@ -79,13 +74,14 @@ IndieWeb Examples
 
 ## How to Join the IndieWeb Wiki
 
-If you have not done so already, set up web sign-in on your domain. Unlike other sites where you choose a username and password, you only need your domain name to log in to this wiki.
-Step One: Create your user page
+If you have not done so already, set up [web sign-in](https://indieweb.org/set_up_web_sign-in) on your domain. Unlike other sites where you choose a username and password, you only need your domain name to log in to this wiki.
 
-After logging in, visit your user page. Then click Create. You can choose two templates to add a profile to your page.
+### Step One: Create your user page
 
-    Minimum Profile
-    Infobox Profile
+After logging in, [visit your user page](https://indieweb.org/Special:MyPage). Then click Create. You can choose two templates to add a profile to your page.
+
+* Minimum Profile
+* Infobox Profile
 
 If you want to edit your page at a later date go to your own user page (or click your domain name at the top right). From there, click Edit.
 Minimum Profile
@@ -94,9 +90,9 @@ The IndieWeb community uses h-cards to identify people online. This is like a bu
 
 The smallest h-card includes your name and a link to your website.
 
-<span class="h-card">[http://example.com/ Your Name]</span>
+`<span class="h-card">[http://example.com/ Your Name]</span>`
 
-Infobox Profile
+### Infobox Profile
 
 If you would like to include a profile box like Aaron Parecki for example, we have created a template for you.
 
@@ -104,17 +100,17 @@ Go to Infobox person and copy the template. Then return to your user page. Paste
 Step Two: Edit Your Wiki page
 
 You can shape your wiki page any way you like. There are some common elements many community members include:
-Write down your itches
-Main article: itches
+
+### Write down your [itches](https://indieweb.org/itches)
 
 Next, add an itches section where you capture what you want to work on for your own site, personal online digital presence, and personal digital device usage (e.g. even when offline) in general. E.g.
 
-== Itches ==
-* Add a more extensive [[h-card]] on my site
-* Figure out a [[URL design]] for my posts
-* Start posting [[notes]] manually at [[permalinks]]
-* Try checking my site in indiewebify.me
-* Check out [[IndieMark]] for additional ideas of things to add to my site
+>`== Itches ==`
+>`* Add a more extensive [[h-card]] on my site`
+>`* Figure out a [[URL design]] for my posts`
+>`* Start posting [[notes]] manually at [[permalinks]]`
+>`* Try checking my site in indiewebify.me`
+>`* Check out [[IndieMark]] for additional ideas of things to add to my site`
 
 When you start collecting lots of itches, you may want to start prioritizing them, especially by what you're currently working on. Start a "Working on" section for that:
 
