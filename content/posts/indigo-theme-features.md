@@ -149,16 +149,16 @@ So you can see, the idea is to give people and organizations a variety of ways t
 
 ### Indigo h-card
 
-The author card - `h-card`
-Profile picture - `u-photo` 
-City            - `p-locality`
-Country         - `p-country-name`
-Email address   - `u-email`
-Biography       - `p-note` - additional notes
-Author URL:
-  - `p-name` - The full/formatted name of the person or organization
-  - `u-url` - home page or other URL representing the person or organization
-  - `rel=me`
+* The author card - `h-card`
+* Profile picture - `u-photo` 
+* City            - `p-locality`
+* Country         - `p-country-name`
+* Email address   - `u-email`
+* Biography       - `p-note` - additional notes
+* Author URL:
+  * `p-name` - The full/formatted name of the person or organization
+  * `u-url` - home page or other URL representing the person or organization
+  * `rel=me`
 
 
 ### rel=me

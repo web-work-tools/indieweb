@@ -6,7 +6,7 @@ title = "Static Sites for an Indieweb"
 copyright = "⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉"
 languageCode = "en-gb"
 theme = "indigo"
-paginate = 5
+paginate = 8
 
 [params]
   Author = "Infominer"

@@ -1249,16 +1249,21 @@ Why&lt;/p&gt;
 
 &lt;h3 id=&#34;indigo-h-card&#34;&gt;Indigo h-card&lt;/h3&gt;
 
-&lt;p&gt;The author card - &lt;code&gt;h-card&lt;/code&gt;
-Profile picture - &lt;code&gt;u-photo&lt;/code&gt;
-City            - &lt;code&gt;p-locality&lt;/code&gt;
-Country         - &lt;code&gt;p-country-name&lt;/code&gt;
-Email address   - &lt;code&gt;u-email&lt;/code&gt;
-Biography       - &lt;code&gt;p-note&lt;/code&gt; - additional notes
-Author URL:
-  - &lt;code&gt;p-name&lt;/code&gt; - The full/formatted name of the person or organization
-  - &lt;code&gt;u-url&lt;/code&gt; - home page or other URL representing the person or organization
-  - &lt;code&gt;rel=me&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The author card - &lt;code&gt;h-card&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Profile picture - &lt;code&gt;u-photo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;City            - &lt;code&gt;p-locality&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Country         - &lt;code&gt;p-country-name&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Email address   - &lt;code&gt;u-email&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Biography       - &lt;code&gt;p-note&lt;/code&gt; - additional notes&lt;/li&gt;
+&lt;li&gt;Author URL:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;p-name&lt;/code&gt; - The full/formatted name of the person or organization&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;u-url&lt;/code&gt; - home page or other URL representing the person or organization&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rel=me&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&#34;rel-me&#34;&gt;rel=me&lt;/h3&gt;
 
@@ -1893,6 +1898,88 @@ Identity consolidation is the ability for a user to indicate that one or more id
       <guid>https://web-work.tools/indieweb/git-repositories/</guid>
       <description>
 
+&lt;h2 id=&#34;github-com-indieweb-https-github-com-indieweb&#34;&gt;&lt;a href=&#34;https://github.com/indieweb&#34;&gt;github.com/indieweb&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;101&#34;&gt;101&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.comindieweb/indieweb.github.io&#34;&gt;indieweb/indieweb.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wiki&#34;&gt;indieweb/wiki&lt;/a&gt; - Wiki backup and issue tracking for indieweb.org&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/blank-gh-site&#34;&gt;indieweb/blank-gh-site&lt;/a&gt; - Setup a simple new indieweb site on a domain name in mere minutes with this project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indiewebify-me&#34;&gt;indieweb/indiewebify-me&lt;/a&gt; - Tools to help you get the best out of your indieweb site
+indieweb&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;indieweb-assorted&#34;&gt;IndieWeb Assorted&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieweb-chat-archive&#34;&gt;indieweb/indieweb-chat-archive&lt;/a&gt; -  Full archive of IndieWeb chat log data files&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/branding&#34;&gt;indieweb/branding&lt;/a&gt; - Source files for the IndieWebCamp logo and branding materials&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/this-week&#34;&gt;indieweb/this-week&lt;/a&gt; - Weekly digest of IndieWebCamp activity&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieauth-client-php&#34;&gt;indieweb/indieauth-client-php&lt;/a&gt; - Sample implementation and helper methods for an IndieAuth client.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieweb-endpoints-ruby&#34;&gt;indieweb/indieweb-endpoints-ruby&lt;/a&gt; - A Ruby gem for discovering a URL&amp;rsquo;s IndieAuth, Micropub, and Webmention endpoints.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indiewebweek&#34;&gt;indieweb/indiewebweek&lt;/a&gt; - Website for IndieWeb Week&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/newBase60py&#34;&gt;indieweb/newBase60py&lt;/a&gt; - Python implementation of &lt;a href=&#34;http://tantek.pbworks.com/w/page/19402946/NewBase60&#34;&gt;http://tantek.pbworks.com/w/page/19402946/NewBase60&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/jf2-validator&#34;&gt;indieweb/jf2-validator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rel-me-verify-me&#34;&gt;rel-me \ verify-me&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/link-rel-parser-php&#34;&gt;indieweb/link-rel-parser-php&lt;/a&gt; - Parse HTTP &lt;code&gt;Link&lt;/code&gt; rel headers into a structured format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/rel-me&#34;&gt;indieweb/rel-me&lt;/a&gt; - A set of PHP functions for discovering, consuming and verifying the rel-me microformat.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/verify-me&#34;&gt;indieweb/verify-me&lt;/a&gt; - A plugin that checks all rel=&amp;ldquo;me&amp;rdquo; links are reciprocal, doing distributed verification&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/link_rel_parser-ruby&#34;&gt;indieweb/link_rel_parser-ruby&lt;/a&gt; - Parse HTTP &lt;code&gt;Link&lt;/code&gt; headers into a structured format
+Ruby&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;webmention-clients&#34;&gt;Webmention - Clients&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/webmention-client-ruby&#34;&gt;indieweb/webmention-client-ruby&lt;/a&gt; - A Ruby gem for sending Webmention and Pingback notifications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/mention-client-php&#34;&gt;indieweb/mention-client-php&lt;/a&gt; - Client library for sending webmention and pingback notifications&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;extensions&#34;&gt;Extensions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/mediawiki-extensions&#34;&gt;indieweb/mediawiki-extensions&lt;/a&gt; - A collection of small MediaWiki extensions in use on our wiki&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/micropub-extensions&#34;&gt;indieweb/micropub-extensions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-comments&#34;&gt;indieweb/php-comments&lt;/a&gt; - Helper for parsing and presenting comments from external sites&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-mf2-shim&#34;&gt;indieweb/php-mf2-shim&lt;/a&gt; - A parsing library for parsing pages from a few common non-mf2 sites into the mf2 structure&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/representative-h-card-php&#34;&gt;indieweb/representative-h-card-php&lt;/a&gt; - Given a parsed mf2 document, return the representative h-card for the page&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/date-formatter-php&#34;&gt;indieweb/date-formatter-php&lt;/a&gt; - Render dates and date ranges in a human-readable format, including proper microformats-2 markup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-original-post-discovery&#34;&gt;indieweb/php-original-post-discovery&lt;/a&gt; - A set of PHP functions for determining the canonical URL for a post, given a POSSEd copy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wordpress-feature-requests&#34;&gt;indieweb/wordpress-feature-requests&lt;/a&gt; - An issue tracker for general requests for the WordPress IndieWeb plugin ecosystem.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb&#34;&gt;indieweb/wordpress-indieweb&lt;/a&gt; - Helps you establish your IndieWeb identity by extending the user profile to provide rel-me and h-card fields. It also includes a bundled installer for a core set of&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieauth&#34;&gt;indieweb/wordpress-indieauth&lt;/a&gt; - IndieAuth for WordPress&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-micropub&#34;&gt;indieweb/wordpress-micropub&lt;/a&gt; - A Micropub Endpoint plugin for WordPress&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-mf2-feed&#34;&gt;indieweb/wordpress-mf2-feed&lt;/a&gt; - Microformats2 Feed for WordPress URLs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-uf2&#34;&gt;indieweb/wordpress-uf2&lt;/a&gt; - add &amp;ldquo;Microformats 2&amp;rdquo; classes to your WordPress theme&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb-press-this&#34;&gt;indieweb/wordpress-indieweb-press-this&lt;/a&gt; - some IndieWeb magic for WordPress&amp;rsquo; &amp;ldquo;press this&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/microsub&#34;&gt;indieweb/microsub&lt;/a&gt; - For tracking issues on the Microsub specification
+indieweb&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/spec.indieweb.org&#34;&gt;indieweb/spec.indieweb.org&lt;/a&gt; - indieauth
+IndieAuth Specification&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/salmention&#34;&gt;indieweb/salmention&lt;/a&gt; - Salmention specification - &lt;a href=&#34;https://indieweb.org/Salmention&#34;&gt;https://indieweb.org/Salmention&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/vouch&#34;&gt;indieweb/vouch&lt;/a&gt; - Vouch Specification - &lt;a href=&#34;https://indieweb.org/Vouch&#34;&gt;https://indieweb.org/Vouch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;github-com-microformats-https-github-com-microformats-microformats-org-http-microformats-org&#34;&gt;&lt;a href=&#34;https://github.com/microformats&#34;&gt;github.com/microformats&lt;/a&gt; - &lt;a href=&#34;http://microformats.org&#34;&gt;microformats.org&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -2003,91 +2090,9 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/miklb/wordpress-indieweb-press-this&#34;&gt;miklb/wordpress-indieweb-press-this&lt;/a&gt;- from &lt;a href=&#34;https://github.com/miklb/wordpress-indieweb-press-this&#34;&gt;indieweb/wordpress-indieweb-press-this&lt;/a&gt;.
 
 &lt;ul&gt;
-&lt;li&gt;some IndieWeb &lt;a href=&#34;https://snarfed.org/indieweb-press-this-bookmarklets-for-wordpress&#34;&gt;magic for WordPress&amp;rsquo; &amp;ldquo;press this&amp;rdquo; bookmarklet&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;some IndieWeb &lt;a href=&#34;https://snarfed.org/indieweb-press-this-bookmarklets-for-wordpress&#34;&gt;magic for WordPress&amp;rsquo; &amp;ldquo;press this&amp;rdquo; bookmarklet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/miklb/wordpress-indieweb&#34;&gt;miklb/wordpress-indieweb&lt;/a&gt;- Microformats 2 Version of Underscores Starter Theme with Indieweb Support&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;github-com-indieweb-https-github-com-indieweb&#34;&gt;&lt;a href=&#34;https://github.com/indieweb&#34;&gt;github.com/indieweb&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&#34;101&#34;&gt;101&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.comindieweb/indieweb.github.io&#34;&gt;indieweb/indieweb.github.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wiki&#34;&gt;indieweb/wiki&lt;/a&gt; - Wiki backup and issue tracking for indieweb.org&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/blank-gh-site&#34;&gt;indieweb/blank-gh-site&lt;/a&gt; - Setup a simple new indieweb site on a domain name in mere minutes with this project.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indiewebify-me&#34;&gt;indieweb/indiewebify-me&lt;/a&gt; - Tools to help you get the best out of your indieweb site
-indieweb&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;indieweb-assorted&#34;&gt;IndieWeb Assorted&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieweb-chat-archive&#34;&gt;indieweb/indieweb-chat-archive&lt;/a&gt; -  Full archive of IndieWeb chat log data files&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/branding&#34;&gt;indieweb/branding&lt;/a&gt; - Source files for the IndieWebCamp logo and branding materials&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/this-week&#34;&gt;indieweb/this-week&lt;/a&gt; - Weekly digest of IndieWebCamp activity&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieauth-client-php&#34;&gt;indieweb/indieauth-client-php&lt;/a&gt; - Sample implementation and helper methods for an IndieAuth client.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indieweb-endpoints-ruby&#34;&gt;indieweb/indieweb-endpoints-ruby&lt;/a&gt; - A Ruby gem for discovering a URL&amp;rsquo;s IndieAuth, Micropub, and Webmention endpoints.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/indiewebweek&#34;&gt;indieweb/indiewebweek&lt;/a&gt; - Website for IndieWeb Week&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/newBase60py&#34;&gt;indieweb/newBase60py&lt;/a&gt; - Python implementation of &lt;a href=&#34;http://tantek.pbworks.com/w/page/19402946/NewBase60&#34;&gt;http://tantek.pbworks.com/w/page/19402946/NewBase60&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/jf2-validator&#34;&gt;indieweb/jf2-validator&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;rel-me-verify-me&#34;&gt;rel-me \ verify-me&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/link-rel-parser-php&#34;&gt;indieweb/link-rel-parser-php&lt;/a&gt; - Parse HTTP &lt;code&gt;Link&lt;/code&gt; rel headers into a structured format&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/rel-me&#34;&gt;indieweb/rel-me&lt;/a&gt; - A set of PHP functions for discovering, consuming and verifying the rel-me microformat.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/verify-me&#34;&gt;indieweb/verify-me&lt;/a&gt; - A plugin that checks all rel=&amp;ldquo;me&amp;rdquo; links are reciprocal, doing distributed verification&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/link_rel_parser-ruby&#34;&gt;indieweb/link_rel_parser-ruby&lt;/a&gt; - Parse HTTP &lt;code&gt;Link&lt;/code&gt; headers into a structured format
-Ruby&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;webmention-clients&#34;&gt;Webmention - Clients&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/webmention-client-ruby&#34;&gt;indieweb/webmention-client-ruby&lt;/a&gt; - A Ruby gem for sending Webmention and Pingback notifications.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/mention-client-php&#34;&gt;indieweb/mention-client-php&lt;/a&gt; - Client library for sending webmention and pingback notifications&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;extensions&#34;&gt;Extensions&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/mediawiki-extensions&#34;&gt;indieweb/mediawiki-extensions&lt;/a&gt; - A collection of small MediaWiki extensions in use on our wiki&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/micropub-extensions&#34;&gt;indieweb/micropub-extensions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-comments&#34;&gt;indieweb/php-comments&lt;/a&gt; - Helper for parsing and presenting comments from external sites&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-mf2-shim&#34;&gt;indieweb/php-mf2-shim&lt;/a&gt; - A parsing library for parsing pages from a few common non-mf2 sites into the mf2 structure&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/representative-h-card-php&#34;&gt;indieweb/representative-h-card-php&lt;/a&gt; - Given a parsed mf2 document, return the representative h-card for the page&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/date-formatter-php&#34;&gt;indieweb/date-formatter-php&lt;/a&gt; - Render dates and date ranges in a human-readable format, including proper microformats-2 markup&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/php-original-post-discovery&#34;&gt;indieweb/php-original-post-discovery&lt;/a&gt; - A set of PHP functions for determining the canonical URL for a post, given a POSSEd copy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/wordpress-feature-requests&#34;&gt;indieweb/wordpress-feature-requests&lt;/a&gt; - An issue tracker for general requests for the WordPress IndieWeb plugin ecosystem.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb&#34;&gt;indieweb/wordpress-indieweb&lt;/a&gt; - Helps you establish your IndieWeb identity by extending the user profile to provide rel-me and h-card fields. It also includes a bundled installer for a core set of&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieauth&#34;&gt;indieweb/wordpress-indieauth&lt;/a&gt; - IndieAuth for WordPress&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-micropub&#34;&gt;indieweb/wordpress-micropub&lt;/a&gt; - A Micropub Endpoint plugin for WordPress&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-mf2-feed&#34;&gt;indieweb/wordpress-mf2-feed&lt;/a&gt; - Microformats2 Feed for WordPress URLs&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-uf2&#34;&gt;indieweb/wordpress-uf2&lt;/a&gt; - add &amp;ldquo;Microformats 2&amp;rdquo; classes to your WordPress theme&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb-press-this&#34;&gt;indieweb/wordpress-indieweb-press-this&lt;/a&gt; - some IndieWeb magic for WordPress&amp;rsquo; &amp;ldquo;press this&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/microsub&#34;&gt;indieweb/microsub&lt;/a&gt; - For tracking issues on the Microsub specification
-indieweb&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/spec.indieweb.org&#34;&gt;indieweb/spec.indieweb.org&lt;/a&gt; - indieauth
-IndieAuth Specification&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/salmention&#34;&gt;indieweb/salmention&lt;/a&gt; - Salmention specification - &lt;a href=&#34;https://indieweb.org/Salmention&#34;&gt;https://indieweb.org/Salmention&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/indieweb/vouch&#34;&gt;indieweb/vouch&lt;/a&gt; - Vouch Specification - &lt;a href=&#34;https://indieweb.org/Vouch&#34;&gt;https://indieweb.org/Vouch&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
