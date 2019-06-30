@@ -122,6 +122,14 @@
   gtag('config', 'UA-132558656-7');
 </script>
 
+
+
+
+  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+  <script src="https://unpkg.com/video.js/dist/video.js"></script>
+  <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+  
+
 </head>
 <body>
     <div id="sitelogo">
@@ -191,9 +199,13 @@
             <hr class="post-underline">
         </header>
         <section class="content e-content">
-            <video width="700" height="400" controls>
-    <source src="https://usher.ttvnw.net/vod/445919345.m3u8?nauth=%7B%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%7D%2C%22device_id%22%3Anull%2C%22expires%22%3A1561964713%2C%22https_required%22%3Atrue%2C%22privileged%22%3Afalse%2C%22user_id%22%3Anull%2C%22version%22%3A2%2C%22vod_id%22%3A445919345%7D&nauthsig=85948f456699f7c644bb305d783833bb573b86f6" type="application/x-mpegURL">
+            <video id="indieweb-summit-day-one" class="video-js vjs-default-skin" controls preload="auto" width="640" height="268" 
+  data-setup='{}'>
+    <source src="https://web-work.tools/indieweb/indieweb-livestream.m3u8">
 </video>
+
+<!--    <source src="https://usher.ttvnw.net/vod/445919345.m3u8?nauth=%7B%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%7D%2C%22device_id%22%3Anull%2C%22expires%22%3A1561964713%2C%22https_required%22%3Atrue%2C%22privileged%22%3Afalse%2C%22user_id%22%3Anull%2C%22version%22%3A2%2C%22vod_id%22%3A445919345%7D&nauthsig=85948f456699f7c644bb305d783833bb573b86f6">
+-->
 
         </section>
         <footer>
