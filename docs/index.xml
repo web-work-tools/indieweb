@@ -1847,7 +1847,7 @@ Identity consolidation is the ability for a user to indicate that one or more id
       <guid>https://web-work.tools/indieweb/about/</guid>
       <description>
 
-&lt;p&gt;This site is built with the Indigo, Hugo, Indieweb theme.&lt;/p&gt;
+&lt;p&gt;This site is built with the Indigo, an Indieweb theme for Hugo.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;AngeloStravrow/indigo&lt;/a&gt;&lt;/li&gt;

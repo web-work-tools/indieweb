@@ -1,13 +1,14 @@
 ---
 type: page
 title: "⧉Info⧉"
-image:
-  feature: /images/info-id.png
+description: This site is built with the Indigo, an Indieweb theme for Hugo.
+summary: Information about this site, its creator, and related resources.
+images: "https://web-work.tools/indieweb/images/indieweb-infominer-about.jpg"
 date: 2019-05-22
 menu: main
 ---
 
-This site is built with the Indigo, Hugo, Indieweb theme.
+This site is built with the Indigo, an Indieweb theme for Hugo.
 
 * [AngeloStravrow/indigo](https://github.com/AngeloStavrow/indigo)
 

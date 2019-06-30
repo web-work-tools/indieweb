@@ -19,9 +19,9 @@
                 <a href="{{ $baseurl }}/categories/{{ . | urlize }}" class="post-tag p-category">{{ . }}</a>
                 {{ end }}
             </p>
+            {{ end }}
             <img src="{{ with .Params.images }}{{ . }}{{ else }}{{ .Site.Params.images }}{{ end }}"/>
             <hr class="post-underline">
-            {{ end }}
         </header>
         <section class="content e-content">
             {{ .Content }}
