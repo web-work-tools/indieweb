@@ -1,9 +1,9 @@
 ---
 type: post
 title: "Indiweb Principles: Unpacked"
-description: "To grow more familiar with the principles of Indieweb, I present the Indieweb Principles, as found on indiweb.org/principles/"
+description: "To grow more familiar with the principles of IndieWeb, I present the IndieWeb Principles, as found on indiweb.org/principles/"
 summary: "The IndieWeb Community is largely based on principles (AKA tenets) such as own your data, scratch your own itches, build tools for yourself, selfdogfood, document your stuff, open source [...] remember to have fun!"
-categories: ["indiewebcamp"]
+categories: ["IndieWebCamp"]
 tags: ["principles", "wiki"]
 date: "2019-06-26T01:13:33-23:00"
 draft: false
@@ -12,7 +12,7 @@ slug: /indiewebcamp/principles-unpacked/
 
 I thought it would be nice to "un-pack" the indieweb principles, in order to become more familiar with their associated ideas.
 
-This page is an attempt to reproduce the main topics related to indieweb principles, found in the [Indieweb Wiki](https://indieweb.org), on a single page.
+This page is an attempt to reproduce the main topics related to indieweb principles, found in the [IndieWeb Wiki](https://indieweb.org), on a single page.
 
 This saves myself from jumping around the wiki, and wondering which links I already visited.
 
@@ -22,7 +22,7 @@ The reader is advised to visit the wiki, and not to count on this as authoritati
 
 >This article was quoted nearly verbatim in WIRED in 2013
 >
->    2013-12-01 [WIRED/Bruce Sterling Indieweb principles](http://www.wired.com/2013/12/indieweb-principles/)
+>    2013-12-01 [WIRED/Bruce Sterling IndieWeb principles](http://www.wired.com/2013/12/indieweb-principles/)
 
 
 ## Principles

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on An exploration of the Indiewebiverse</title>
+    <title>Tags on An exploration of the IndieWebiverse</title>
     <link>https://web-work.tools/indieweb/tags/</link>
-    <description>Recent content in Tags on An exploration of the Indiewebiverse</description>
+    <description>Recent content in Tags on An exploration of the IndieWebiverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
@@ -13,20 +13,20 @@
     
     
     <item>
+      <title>IndieWebCamp</title>
+      <link>https://web-work.tools/indieweb/tags/indiewebcamp/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/indiewebcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>code-of-conduct</title>
       <link>https://web-work.tools/indieweb/tags/code-of-conduct/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/code-of-conduct/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>indiewebcamp</title>
-      <link>https://web-work.tools/indieweb/tags/indiewebcamp/</link>
-      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/indiewebcamp/</guid>
       <description></description>
     </item>
     

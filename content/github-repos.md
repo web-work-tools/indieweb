@@ -1,8 +1,8 @@
 ---
 type: page
 title: "Indie Git Repos"
-description: "A Growing Collection of Indieweb GitHub Repositories."
-summary: "A start at exploring Indieweb Topics"
+description: "A Growing Collection of IndieWeb GitHub Repositories."
+summary: "A start at exploring IndieWeb Topics"
 date: "2019-05-19T11:22:33-23:00"
 categories: ["resources"]
 tags: [github-pages, indieweb, github, jekyll, static-sites]
@@ -169,7 +169,7 @@ Forked from w3c/strong-authentication-and-identity-workshop
 * [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
   * [forked.yannick.io/miklb/jekyll-indieweb](http://forked.yannick.io/miklb/jekyll-indieweb)
 * [miklb/node-micropub-express](https://github.com/miklb/node-micropub-express)- forked from [voxpelli/node-micropub-express](https://github.com/voxpelli/node-micropub-express) - Provides a Micropub route for Express 4.x
-* [miklb/mf2_s](https://github.com/miklb/mf2_s)- Microformats 2 Version of Underscores Starter Theme with Indieweb Support
+* [miklb/mf2_s](https://github.com/miklb/mf2_s)- Microformats 2 Version of Underscores Starter Theme with IndieWeb Support
 * [miklb/hubot-github-issue-lookup](https://github.com/miklb/hubot-github-issue-lookup)
   -forked from [SimplyBuilt/hubot-github-issue-lookup](https://github.com/Simplybuilt/hubot-github-issue-lookup)
 
@@ -178,5 +178,5 @@ Forked from w3c/strong-authentication-and-identity-workshop
 
 * [miklb/wordpress-indieweb-press-this](https://github.com/miklb/wordpress-indieweb-press-this)- from [indieweb/wordpress-indieweb-press-this](https://github.com/miklb/wordpress-indieweb-press-this).
   * some IndieWeb [magic for WordPress' "press this" bookmarklet](https://snarfed.org/indieweb-press-this-bookmarklets-for-wordpress)
-* [miklb/wordpress-indieweb](https://github.com/miklb/wordpress-indieweb)- Microformats 2 Version of Underscores Starter Theme with Indieweb Support
+* [miklb/wordpress-indieweb](https://github.com/miklb/wordpress-indieweb)- Microformats 2 Version of Underscores Starter Theme with IndieWeb Support
 

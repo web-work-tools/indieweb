@@ -1,10 +1,10 @@
 ---
 type: post
-title: "Indiewebcamp - Specifications"
+title: "IndieWebCamp - Specifications"
 description: "To grow more familiar with the specifications developing around/with Indieweb principles, and its community."
 summary: "The IndieWebCamp community develops several widely implemented specifications, including IndieAuth, Webmention, and Micropub. Additional specifications (like Vouch) are in development. Lastly, IndieWebCamp also makes heavy (re-)use of microformats specifications."
 categories: ["specifications", "wiki"]
-tags: ["indiewebcamp"]
+tags: ["IndieWebCamp"]
 date: "2019-06-26T01:13:33-23:00"
 draft: false
 slug: /indiewebcamp/specifications/

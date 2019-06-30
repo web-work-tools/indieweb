@@ -2,7 +2,7 @@ publishdir = "docs"
 enableEmoji = true
   
 baseurl = "https://web-work.tools/indieweb/"
-title = "An exploration of the Indiewebiverse"
+title = "An exploration of the IndieWebiverse"
 copyright = "⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉"
 languageCode = "en-gb"
 theme = "indigo"
@@ -10,10 +10,10 @@ paginate = 8
 
 [params]
   Author = "Infominer"
-  description = "Static Sites for an Indieweb"
-  Subtitle = "Indieweb Principles, Practice and Design"
+  description = "Static Sites for an IndieWeb"
+  Subtitle = "IndieWeb Principles, Practice and Design"
   Avatar = "images/infominer.svg"
-  Biography = "Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, Indieweb ⧉ her/him"
+  Biography = "Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, IndieWeb ⧉ her/him"
   ShowBio = true
   PermalinkText = "🔗"
   images = "https://web-work.tools/indieweb/images/indieweb.jpg"

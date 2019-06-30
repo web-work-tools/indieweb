@@ -1,10 +1,10 @@
 ---
 type: post
-title: "Indiewebcamp - Participating with the Wiki"
+title: "IndieWebCamp - Participating with the Wiki"
 description: "To grow more familiar with how to work on the wiki."
 summary: "When you join the wiki you help our community grow and also provide documentation of your journey. This helps the next person who, like you, wants to control their data in the place that they own."
 categories: ["participation", "wiki"]
-tags: ["indiewebcamp"]
+tags: ["IndieWebCamp"]
 date: "2019-06-26T01:13:33-23:00"
 draft: false
 slug: /indiewebcamp/wiki-participation/
@@ -12,7 +12,7 @@ slug: /indiewebcamp/wiki-participation/
 
 ## [Start a page](https://indieweb.org/start_a_page)
 
-To start a page on the indiewebcamp wiki, either
+To start a page on the IndieWebCamp wiki, either
 
 * Edit an existing page. Add a link to new-page, then save the page.
 * Click the new-page link, then click "edit this page."

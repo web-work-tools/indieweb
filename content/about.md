@@ -1,14 +1,14 @@
 ---
 type: page
 title: "⧉Info⧉"
-description: This site is built with the Indigo, an Indieweb theme for Hugo.
+description: This site is built with the Indigo, an IndieWeb theme for Hugo.
 summary: Information about this site, its creator, and related resources.
 images: "https://web-work.tools/indieweb/images/indieweb-infominer-about.jpg"
 date: 2019-05-22
 menu: main
 ---
 
-This site is built with the Indigo, an Indieweb theme for Hugo.
+This site is built with the Indigo, an IndieWeb theme for Hugo.
 
 * [AngeloStravrow/indigo](https://github.com/AngeloStavrow/indigo)
 
@@ -21,7 +21,7 @@ One nice feature of having so many organizations is I can for a repository into 
 
 [![](https://imgur.com/XRI9izx.png)](https://github.com/infominer33)
 
-## Running Indieweb
+## Running IndieWeb
 
 * [Decentralized Web Histories](https://sourcecrypto.pub/decentralized-web)
 * [Agoric Records](https://agoric-records.netlify.com)

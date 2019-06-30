@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>An exploration of the Indiewebiverse</title>
+    <title>An exploration of the IndieWebiverse</title>
     <link>https://web-work.tools/indieweb/</link>
-    <description>Recent content on An exploration of the Indiewebiverse</description>
+    <description>Recent content on An exploration of the IndieWebiverse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Indiewebcamp - Code of Conduct</title>
+      <title>IndieWebCamp - Code of Conduct</title>
       <link>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
@@ -116,7 +116,7 @@ Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes o
     </item>
     
     <item>
-      <title>Indiewebcamp - Participating with the Wiki</title>
+      <title>IndieWebCamp - Participating with the Wiki</title>
       <link>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
@@ -125,7 +125,7 @@ Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes o
 
 &lt;h2 id=&#34;start-a-page-https-indieweb-org-start-a-page&#34;&gt;&lt;a href=&#34;https://indieweb.org/start_a_page&#34;&gt;Start a page&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;To start a page on the indiewebcamp wiki, either&lt;/p&gt;
+&lt;p&gt;To start a page on the IndieWebCamp wiki, either&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Edit an existing page. Add a link to new-page, then save the page.&lt;/li&gt;
@@ -655,7 +655,7 @@ Related Articles&lt;/p&gt;
     </item>
     
     <item>
-      <title>Indiewebcamp - Specifications</title>
+      <title>IndieWebCamp - Specifications</title>
       <link>https://web-work.tools/indieweb/indiewebcamp-specifications/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
@@ -732,7 +732,7 @@ Related Articles&lt;/p&gt;
 
 &lt;p&gt;I thought it would be nice to &amp;ldquo;un-pack&amp;rdquo; the indieweb principles, in order to become more familiar with their associated ideas.&lt;/p&gt;
 
-&lt;p&gt;This page is an attempt to reproduce the main topics related to indieweb principles, found in the &lt;a href=&#34;https://indieweb.org&#34;&gt;Indieweb Wiki&lt;/a&gt;, on a single page.&lt;/p&gt;
+&lt;p&gt;This page is an attempt to reproduce the main topics related to indieweb principles, found in the &lt;a href=&#34;https://indieweb.org&#34;&gt;IndieWeb Wiki&lt;/a&gt;, on a single page.&lt;/p&gt;
 
 &lt;p&gt;This saves myself from jumping around the wiki, and wondering which links I already visited.&lt;/p&gt;
 
@@ -743,7 +743,7 @@ Related Articles&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This article was quoted nearly verbatim in WIRED in 2013&lt;/p&gt;
 
-&lt;p&gt;2013-12-01 &lt;a href=&#34;http://www.wired.com/2013/12/indieweb-principles/&#34;&gt;WIRED/Bruce Sterling Indieweb principles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2013-12-01 &lt;a href=&#34;http://www.wired.com/2013/12/indieweb-principles/&#34;&gt;WIRED/Bruce Sterling IndieWeb principles&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&#34;principles&#34;&gt;Principles&lt;/h2&gt;
@@ -1847,7 +1847,7 @@ Identity consolidation is the ability for a user to indicate that one or more id
       <guid>https://web-work.tools/indieweb/about/</guid>
       <description>
 
-&lt;p&gt;This site is built with the Indigo, an Indieweb theme for Hugo.&lt;/p&gt;
+&lt;p&gt;This site is built with the Indigo, an IndieWeb theme for Hugo.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;AngeloStravrow/indigo&lt;/a&gt;&lt;/li&gt;
@@ -1861,7 +1861,7 @@ Identity consolidation is the ability for a user to indicate that one or more id
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/infominer33&#34;&gt;&lt;img src=&#34;https://imgur.com/XRI9izx.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;running-indieweb&#34;&gt;Running Indieweb&lt;/h2&gt;
+&lt;h2 id=&#34;running-indieweb&#34;&gt;Running IndieWeb&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;Decentralized Web Histories&lt;/a&gt;&lt;/li&gt;
@@ -2125,7 +2125,7 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://forked.yannick.io/miklb/jekyll-indieweb&#34;&gt;forked.yannick.io/miklb/jekyll-indieweb&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/miklb/node-micropub-express&#34;&gt;miklb/node-micropub-express&lt;/a&gt;- forked from &lt;a href=&#34;https://github.com/voxpelli/node-micropub-express&#34;&gt;voxpelli/node-micropub-express&lt;/a&gt; - Provides a Micropub route for Express 4.x&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/mf2_s&#34;&gt;miklb/mf2_s&lt;/a&gt;- Microformats 2 Version of Underscores Starter Theme with Indieweb Support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/mf2_s&#34;&gt;miklb/mf2_s&lt;/a&gt;- Microformats 2 Version of Underscores Starter Theme with IndieWeb Support&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/miklb/hubot-github-issue-lookup&#34;&gt;miklb/hubot-github-issue-lookup&lt;/a&gt;
 -forked from &lt;a href=&#34;https://github.com/Simplybuilt/hubot-github-issue-lookup&#34;&gt;SimplyBuilt/hubot-github-issue-lookup&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -2138,7 +2138,7 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;some IndieWeb &lt;a href=&#34;https://snarfed.org/indieweb-press-this-bookmarklets-for-wordpress&#34;&gt;magic for WordPress&amp;rsquo; &amp;ldquo;press this&amp;rdquo; bookmarklet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/wordpress-indieweb&#34;&gt;miklb/wordpress-indieweb&lt;/a&gt;- Microformats 2 Version of Underscores Starter Theme with Indieweb Support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/wordpress-indieweb&#34;&gt;miklb/wordpress-indieweb&lt;/a&gt;- Microformats 2 Version of Underscores Starter Theme with IndieWeb Support&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
