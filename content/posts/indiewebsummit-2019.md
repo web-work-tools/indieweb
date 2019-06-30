@@ -6,7 +6,7 @@ summary: "Be respectful of other people, respectfully ask people to stop if you 
 categories: ["IndieWeb Summit"]
 tags: ["code-of-conduct", "wiki", "principles"]
 date: "2019-06-26T01:13:33-23:00"
-draft: false
+draft: true
 slug: /indieweb-summit/2019/day-one/
 
 images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
