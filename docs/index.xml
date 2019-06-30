@@ -17,27 +17,9 @@
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
-      <description>&lt;p&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/hls.js@latest&#34;&gt;&lt;/script&gt;
-&lt;video id=&#34;video&#34;&gt;&lt;/video&gt;
-&lt;script&gt;
-  if(Hls.isSupported()) {
-    var video = document.getElementById(&amp;lsquo;video&amp;rsquo;);
-    var hls = new Hls();
-    hls.loadSource(&amp;lsquo;&lt;a href=&#34;http://cdncities.com/deranalive/deranalive/playlist.m3u8&#39;&#34;&gt;http://cdncities.com/deranalive/deranalive/playlist.m3u8&#39;&lt;/a&gt;);
-    hls.attachMedia(video);
-    hls.on(Hls.Events.MANIFEST_PARSED,function() {
-      video.play();
-  });
- }
- // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
- // When the browser has built-in HLS support (check using &lt;code&gt;canPlayType&lt;/code&gt;), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the &lt;code&gt;src&lt;/code&gt; property.
- // This is using the built-in support of the plain video element, without using hls.js.
-  else if (video.canPlayType(&amp;lsquo;application/vnd.apple.mpegurl&amp;rsquo;)) {
-    video.src = &amp;lsquo;&lt;a href=&#34;https://web-work.tools/indieweb/indieweb-livestream.m3u8&#39;&#34;&gt;https://web-work.tools/indieweb/indieweb-livestream.m3u8&#39;&lt;/a&gt;;
-    video.addEventListener(&amp;lsquo;canplay&amp;rsquo;,function() {
-      video.play();
-    });
-  }&lt;/p&gt;
+      <description>&lt;video width=&#34;352&#34; height=&#34;198&#34; controls&gt;
+    &lt;source src=&#34;https://web-work.tools/indieweb/indieweb-livestream.m3u8&#34; type=&#34;application/x-mpegURL&#34;&gt;
+&lt;/video&gt;
 </description>
     </item>
     
