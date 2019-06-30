@@ -10,7 +10,8 @@ draft: false
 slug: /indiewebcamp/code-of-conduct/
 ---
 
-## IndieWeb code of conduct tl;dr:
+
+## [IndieWeb Code of Conduct](https://indieweb.org/code-of-conduct) tl;dr:
 
     Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can't resolve an issue, contact staff. If you are being a problem, it will be apparent and you'll be asked to leave.
 
