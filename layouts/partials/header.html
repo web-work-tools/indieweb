@@ -9,13 +9,9 @@
         {{ partial "pagenav.html" . }}
         {{ if not .IsPage }}
         <div id="site-header">
-            <img src="{{ .Site.Params.images }}"/>
             <h1>{{ .Site.Title }}</h1>
-            {{ with .Site.Params.subtitle }}
-            <p>
-              {{ . }}
-            </p>
-            {{ end }}
+            <h2>{{ .Site.Params.subtitle }}</h2>
+            <img src="{{ .Site.Params.images }}"/>
         </div>
         {{ end }}
     </header>

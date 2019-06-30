@@ -1,12 +1,13 @@
 ---
 type: post
-title: Indieweb Resources
+title: Resources
 date: "2019-05-19T11:22:33-23:00"
 categories: ["resources"]
 tags: [indieweb, github-pages, resources, jekyll static-sites]
 subtitle: To Become An Extensive Collection
 slug: /resources/
 draft: false
+menu: main
 images: "https://imgur.com/ahnVZ9tl.png"
 aliases:
   - /posts/indieweb-resources/
@@ -16,7 +17,7 @@ aliases:
 summary: "When you post something on the web, it should belong to you, not a corporation. Too many companies have gone out of business and lost all of their users’ data. By joining the IndieWeb, your content stays yours and in your control."
 ---
 
-![](https://imgur.com/ahnVZ9tl.png)
+<!--![](https://imgur.com/ahnVZ9tl.png)-->
 
 <a href="https://micro.blog/infominer" rel="me">micro.blog/infominer</a>
 
