@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Sat, 29 Jun 2019 01:13:33 -2300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 01:13:33 -2300</lastBuildDate>
     
 	<atom:link href="https://web-work.tools/indieweb/tags/code-of-conduct/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>IndieWeb Summit 2019 - Day 1 Review</title>
-      <link>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</link>
-      <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
-      <description>The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a BASH shell.
-So I grabbed the audio from twitch and converted to mp4 with ffmpeg and put it on youtube, so I could take advantage of the easy embed, and autotranscription.</description>
-    </item>
     
     <item>
       <title>IndieWebCamp - Code of Conduct</title>

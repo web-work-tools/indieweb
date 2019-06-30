@@ -7,33 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Sat, 29 Jun 2019 01:13:33 -2300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 01:13:33 -2300</lastBuildDate>
     
 	<atom:link href="https://web-work.tools/indieweb/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>IndieWebCamp</title>
+      <link>https://web-work.tools/indieweb/tags/indiewebcamp/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/indiewebcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>code-of-conduct</title>
       <link>https://web-work.tools/indieweb/tags/code-of-conduct/</link>
-      <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/code-of-conduct/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>livestream</title>
-      <link>https://web-work.tools/indieweb/tags/livestream/</link>
-      <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/livestream/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>principles</title>
       <link>https://web-work.tools/indieweb/tags/principles/</link>
-      <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/principles/</guid>
       <description></description>
@@ -42,18 +42,9 @@
     <item>
       <title>wiki</title>
       <link>https://web-work.tools/indieweb/tags/wiki/</link>
-      <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/wiki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IndieWebCamp</title>
-      <link>https://web-work.tools/indieweb/tags/indiewebcamp/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/tags/indiewebcamp/</guid>
+      <guid>https://web-work.tools/indieweb/tags/wiki/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,7 @@ summary: ""
 categories: ["IndieWeb Summit 2019"]
 tags: ["livestream","code-of-conduct", "wiki", "principles"]
 date: "2019-06-29T01:13:33-23:00"
-draft: false
+draft: true
 slug: /indieweb-summit/2019/day-one/
 
 images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
@@ -187,3 +187,4 @@ I went to Eddie Hinkle's [GitHub repository](https://github.com/EdwardHinkle/ind
 * [EdwardHinkle/anthologist](https://github.com/EdwardHinkle/anthologist)
   >Anthologist will be the third app of the Abode Suite trio, being a reading app for long-form saved articles. This app will be based on Microsub and won't be optimized for short-form content (although there won't be a technical restriction against it). This app will likely allow you to choose from 1 (or more) channels within your Microsub account to store offline in the app for reading.
 
+## To be continued.
