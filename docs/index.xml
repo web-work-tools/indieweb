@@ -12,22 +12,6 @@
     
     
     <item>
-      <title>IndieWeb Summit 2019 - Day 1 Review</title>
-      <link>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</link>
-      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
-      <description>&lt;video id=&#34;indieweb-summit-day-one&#34; class=&#34;video-js vjs-default-skin&#34; controls preload=&#34;auto&#34; width=&#34;640&#34; height=&#34;268&#34; 
-  data-setup=&#39;{}&#39;&gt;
-    &lt;source src=&#34;https://web-work.tools/indieweb/indieweb-livestream.m3u8&#34;&gt;
-&lt;/video&gt;
-
-&lt;!--    &lt;source src=&#34;https://usher.ttvnw.net/vod/445919345.m3u8?nauth=%7B%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%7D%2C%22device_id%22%3Anull%2C%22expires%22%3A1561964713%2C%22https_required%22%3Atrue%2C%22privileged%22%3Afalse%2C%22user_id%22%3Anull%2C%22version%22%3A2%2C%22vod_id%22%3A445919345%7D&amp;nauthsig=85948f456699f7c644bb305d783833bb573b86f6&#34;&gt;
---&gt;
-</description>
-    </item>
-    
-    <item>
       <title>IndieWebCamp - Code of Conduct</title>
       <link>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
