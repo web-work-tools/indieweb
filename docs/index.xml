@@ -12,11 +12,28 @@
     
     
     <item>
-      <title>IndieWebCamp - Code of Conduct</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</link>
+      <title>IndieWeb Summit 2019 - Day 1 Review</title>
+      <link>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</guid>
+      <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
+      <description>&lt;iframe
+    src=&#34;https://player.twitch.tv/?445919345&#34;
+    height=&#34;&lt;height&gt;&#34;
+    width=&#34;&lt;width&gt;&#34;
+    frameborder=&#34;&lt;frameborder&gt;&#34;
+    scrolling=&#34;&lt;scrolling&gt;&#34;
+    allowfullscreen=&#34;&lt;allowfullscreen&gt;&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IndieWebCamp - Code of Conduct</title>
+      <link>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</guid>
       <description>
 
 &lt;h2 id=&#34;indieweb-code-of-conduct-tl-dr&#34;&gt;IndieWeb code of conduct tl;dr:&lt;/h2&gt;
@@ -117,10 +134,10 @@ Drop us a line in IRC! We&#39;d love to add yours to our list of similar codes o
     
     <item>
       <title>IndieWebCamp - Participating with the Wiki</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</link>
+      <link>https://web-work.tools/indieweb/indiewebcamp/wiki-participation/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</guid>
+      <guid>https://web-work.tools/indieweb/indiewebcamp/wiki-participation/</guid>
       <description>
 
 &lt;h2 id=&#34;start-a-page-https-indieweb-org-start-a-page&#34;&gt;&lt;a href=&#34;https://indieweb.org/start_a_page&#34;&gt;Start a page&lt;/a&gt;&lt;/h2&gt;
@@ -656,10 +673,10 @@ Related Articles&lt;/p&gt;
     
     <item>
       <title>IndieWebCamp - Specifications</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp-specifications/</link>
+      <link>https://web-work.tools/indieweb/indiewebcamp/specifications/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indiewebcamp-specifications/</guid>
+      <guid>https://web-work.tools/indieweb/indiewebcamp/specifications/</guid>
       <description>
 
 &lt;h2 id=&#34;what-are-indiewebcamp-specifications-https-indieweb-org-faq-what-are-indiewebcamp-specifications&#34;&gt;&lt;a href=&#34;https://indieweb.org/FAQ#What_are_IndieWebCamp_specifications&#34;&gt;What are IndieWebCamp specifications&lt;/a&gt;&lt;/h2&gt;
@@ -724,10 +741,10 @@ Related Articles&lt;/p&gt;
     
     <item>
       <title>Indiweb Principles: Unpacked</title>
-      <link>https://web-work.tools/indieweb/indieweb-principles/</link>
+      <link>https://web-work.tools/indieweb/indiewebcamp/principles-unpacked/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indieweb-principles/</guid>
+      <guid>https://web-work.tools/indieweb/indiewebcamp/principles-unpacked/</guid>
       <description>
 
 &lt;p&gt;I thought it would be nice to &amp;ldquo;un-pack&amp;rdquo; the indieweb principles, in order to become more familiar with their associated ideas.&lt;/p&gt;

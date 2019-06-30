@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+    <meta charset="utf-8">
+
+    
+    <title>IndieWebCamp - Participating with the Wiki</title>
+    <meta name="description" content="To grow more familiar with how to work on the wiki.">
+    <meta name="author" content="Infominer">
+    
+    
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image:src" content="https://web-work.tools/indieweb/images/indieweb.jpg"/>
+    
+    <meta name="twitter:title" content="IndieWebCamp - Participating with the Wiki"/>
+    <meta name="twitter:description" content="To grow more familiar with how to work on the wiki."/>
+    <meta name="twitter:site" content="@infominer33"/>
+    
+
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#00416a">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    <link rel="me" href="mailto:infominer@protonmail.com">
+    <link rel="me" href="https://github.com/infominer33">
+    <link rel="me" href="https://twitter.com/infominer33">
+    <link rel="me" href="https://micro.blog/infominer">
+    
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+    
+    <style type="text/css">@font-face{
+    font-family: 'Fira Code';
+    src: url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.ttf') format('truetype');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-weight: bold;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Book.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Book.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.ttf') format('truetype');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-display: optional;
+}
+</style>
+    <link rel="stylesheet" href="https://web-work.tools/indieweb/css/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132558656-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132558656-7');
+</script>
+
+</head>
+<body>
+    <div id="sitelogo">
+        <a class="glyph" alt="Home" href="https://web-work.tools/indieweb/"><img src="https://web-work.tools/indieweb/images/site-logo.svg" alt="Site Logo" height="64px" width="64px"></a>
+    </div>
+    <header>
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://web-work.tools/indieweb/">Home</a>
+        </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/git-repositories/">
+                    
+                    <span>Indie Git Repos</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/indigo-features/">
+                    
+                    <span>Indigo Features</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/resources/">
+                    
+                    <span>Resources</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/about/">
+                    
+                    <span>⧉Info⧉</span>
+                </a>
+            </div>
+        
+    </div>
+</nav>
+        
+    </header>
+
+
+
+
+<div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">IndieWebCamp - Participating with the Wiki</h1>
+            <p class="post-date">Posted on
+                <time class="dt-published" datetime="2019-06-26T01:13:33-23:00">
+                26 June, 2019 at 01:13 -2300
+                </time>  by <a href="https://web-work.tools/indieweb/" class="p-author h-card" rel="author">Infominer</a>
+            </p>
+            
+            <p class="post-tag">Category: 
+                
+                <a href="https://web-work.tools/indieweb/categories/participation" class="post-tag p-category">participation</a>
+                
+                <a href="https://web-work.tools/indieweb/categories/wiki" class="post-tag p-category">wiki</a>
+                
+            </p>
+            
+            <img src="https://web-work.tools/indieweb/images/indieweb.jpg"/>
+            <hr class="post-underline">
+        </header>
+        <section class="content e-content">
+            
+
+<h2 id="start-a-page-https-indieweb-org-start-a-page"><a href="https://indieweb.org/start_a_page">Start a page</a></h2>
+
+<p>To start a page on the IndieWebCamp wiki, either</p>
+
+<ul>
+<li>Edit an existing page. Add a link to new-page, then save the page.</li>
+<li>Click the new-page link, then click &ldquo;edit this page.&rdquo;</li>
+</ul>
+
+<p>or</p>
+
+<ul>
+<li>Type the URL of the desired page directly into the browser address bar, then click &ldquo;edit this page.&rdquo;</li>
+</ul>
+
+<p>Then start by copy pasting the following:</p>
+
+<blockquote>
+<p><code>{{stub}}</code></p>
+</blockquote>
+
+<p>And lastly, include a simple 1-2 sentence definition of what the page is about. [&hellip;] and complete that sentence including any <a href="https://indieweb.org/wikifying#Definitions_include_indieweb_relevance">indieweb relevance.</a></p>
+
+<p>If there is no indieweb relevance, then DO NOT create the page. If you need something to link to, just link to a Wikipedia page instead of making a non-indieweb-relevant stub.</p>
+
+<p>You may also want to simply <a href="https://indieweb.org/redirect">redirect</a> a new page to an existing page.</p>
+
+<h3 id="faq">FAQ</h3>
+
+<p>May I copy paste from another site</p>
+
+<p>Q: Is it ok if I mostly copy+paste a definition from the site of the product/company (e.g. WidgeCo in example above) that I&rsquo;m creating a new page for?</p>
+
+<p>A: Rather than copy/paste from their site, try to rephrase a definition so it sounds neutral, factual, and uses indieweb terminology when possible, which should then be <code>[[ ]]</code> linked.</p>
+
+<h2 id="wikifiying-https-indieweb-org-wikifying"><a href="https://indieweb.org/wikifying">Wikifiying</a></h2>
+
+<p>wikifying is the practice of capturing information and ideas on the wiki. E.g. &ldquo;We need to wikify that <a href="https://indieweb.org/FAQ">FAQ</a>, concept, <a href="https://indieweb.org/jargon">jargon</a>, or <a href="https://indieweb.org/etherpad">etherpad</a>&rdquo;.</p>
+
+<p>Follow the step by step directions on this page to:</p>
+
+<ul>
+<li>Step 1: Create your wiki page.</li>
+<li>Step 2: Edit your wiki page.</li>
+<li>Step 3: (optional) add your self to <a href="https://indieweb.org/chat-names">chat-names</a></li>
+<li>Step 4: (optional) create a <a href="https://indieweb.org/sparkline#IndieWeb_Examples">sparkline</a> so there is a picture next your user name</li>
+</ul>
+
+<p>Then begin to contribute to the wiki.</p>
+
+<h2 id="why-join-the-indieweb-wiki">Why Join the IndieWeb Wiki</h2>
+
+<p>As a community, we <a href="http://microformats.org/wiki/wiki-better-than-email">eschew email</a> in lieu of real-time <a href="https://indieweb.org/discuss">chat</a> and documentation of the important points on the wiki to make it easier to search and build information and documentation over time.</p>
+
+<p>When you join the wiki you help our community grow and also provide documentation of your journey. This helps the next person who, like you, wants to control their data in the place that they own.</p>
+
+<p>Each person who joins the wiki has a user page they maintain and build over time. You can shape your page to tell your story. As you get started please consider these examples as you look for ideas.
+IndieWeb Examples</p>
+
+<ul>
+<li><a href="https://indieweb.org/User:Tantek.com">Tantek Çelik</a></li>
+<li><a href="https://indieweb.org/User:Aaronparecki.com">Aaron Parecki</a></li>
+<li><a href="https://indieweb.org/User:David.shanske.com">David Shanske</a></li>
+<li><a href="https://indieweb.org/User:Kylewm.com">Kyle Mahan</a></li>
+<li><a href="https://indieweb.org/User:Werd.io">Ben Werdmüller</a></li>
+<li><a href="https://indieweb.org/User:Gregorlove.com">gRegor Morrill</a></li>
+<li><a href="https://indieweb.org/User:Boffosocko.com">Chris Aldrich</a></li>
+<li><a href="https://indieweb.org/User:Jgregorymcverry.com">Greg McVerry</a></li>
+<li><a href="https://indieweb.org/User:Www.jvt.me">Jamie Tanna</a></li>
+</ul>
+
+<h2 id="how-to-join-the-indieweb-wiki">How to Join the IndieWeb Wiki</h2>
+
+<p>If you have not done so already, set up <a href="https://indieweb.org/set_up_web_sign-in">web sign-in</a> on your domain. Unlike other sites where you choose a username and password, you only need your domain name to log in to this wiki.</p>
+
+<h3 id="step-one-create-your-user-page">Step One: Create your user page</h3>
+
+<p>After logging in, <a href="https://indieweb.org/Special:MyPage">visit your user page</a>. Then click Create. You can choose two templates to add a profile to your page.</p>
+
+<ul>
+<li>Minimum Profile</li>
+<li>Infobox Profile</li>
+</ul>
+
+<p>If you want to edit your page at a later date go to your own user page (or click your domain name at the top right). From there, click Edit.
+Minimum Profile</p>
+
+<p>The IndieWeb community uses h-cards to identify people online. This is like a business card for your website.</p>
+
+<p>The smallest h-card includes your name and a link to your website.</p>
+
+<p><code>&lt;span class=&quot;h-card&quot;&gt;[http://example.com/ Your Name]&lt;/span&gt;</code></p>
+
+<h3 id="infobox-profile">Infobox Profile</h3>
+
+<p>If you would like to include a profile box like Aaron Parecki for example, we have created a template for you.</p>
+
+<p>Go to Infobox person and copy the template. Then return to your user page. Paste the template on your user page. Fill out the relevant data you&rsquo;d like to display, then save the page.
+Step Two: Edit Your Wiki page</p>
+
+<p>You can shape your wiki page any way you like. There are some common elements many community members include:</p>
+
+<h3 id="write-down-your-itches-https-indieweb-org-itches">Write down your <a href="https://indieweb.org/itches">itches</a></h3>
+
+<p>Next, add an itches section where you capture what you want to work on for your own site, personal online digital presence, and personal digital device usage (e.g. even when offline) in general. E.g.</p>
+
+<pre><code>== Itches ==
+* Add a more extensive [[h-card]] on my site
+* Figure out a [[URL design]] for my posts
+* Start posting [[notes]] manually at [[permalinks]]
+* Try checking my site in indiewebify.me
+* Check out [[IndieMark]] for additional ideas of things to add to my site
+</code></pre>
+
+<p>When you start collecting lots of itches, you may want to start prioritizing them, especially by what you&rsquo;re currently working on. Start a &ldquo;Working on&rdquo; section for that:</p>
+
+<pre><code>== Working On ==
+* the next thing I'm working on for my site
+* the next next thing I'm working on getting working on my site
+* ... etc.
+</code></pre>
+
+<h3 id="focus">Focus</h3>
+
+<p>As this is the IndieWeb, and this is about your IndieWeb user page, it should be about answering this question, continuously:</p>
+
+<ul>
+<li>What is the next thing you want to get working on your personal site?</li>
+</ul>
+
+<p>This means for example that the following are better left out and pursued elsewhere - like on your own site!</p>
+
+<ul>
+<li>A personal to do list (of other non-personal-site things) - your IndieWeb user page is about work on your personal site.</li>
+<li>Asking others to do work for you. Note: requests for help with IndieWeb specific itches/projects are ok, but address them to everyone, not just individuals. This is about what you want to work on - not asking others to do work.</li>
+<li>Trying to get silos to do things, in general or with specific accounts - instead, document individual silo issues on the specific silo wiki pages, and follow-up there. Your itches should be about your personal site, not silos.</li>
+</ul>
+
+<h3 id="additional-templates">Additional Templates</h3>
+
+<p>These pre-defined wiki templates that can be added to a user page:</p>
+
+<pre><code>Infobox template: Template:Infobox_person
+Twitter template: Template:twitter-link
+Facebook template: Template:facebook-link
+Mastodon template: Template:mastodon-link
+</code></pre>
+
+<h3 id="step-three-add-a-chat-name">Step Three: Add a chat name</h3>
+
+<p>Optionally add yourself to chat-names. This will show your photo by your name in the chat logs and link your name to your website. It will also allow our friendly chat bot Loqi to answer &ldquo;who is [username]&rdquo; with information from your wiki user page.</p>
+
+<p>To add a chat name visit chat-names and use the provided template.</p>
+
+<h3 id="step-four-add-a-sparkline">Step Four: Add a sparkline</h3>
+
+<p>The IndieWeb wiki allows sparklines, a small avatar that contains your photo and your name linked to your user page. This means people can add</p>
+
+<p><code>{{yourname}}</code></p>
+
+<p>to any page and a link with your picture will display.</p>
+
+<p>Visit the template to add a sparkline.</p>
+
+<h2 id="why-contribute-to-the-indieweb-wiki">Why Contribute to the IndieWeb Wiki</h2>
+
+<p>Wikifying both in general, and particular subjects, notes, or documents, helps grow the searchable &amp; discoverable commons of the IndieWeb community.</p>
+
+<p>Is it IndieWeb related? Great, add it to the wiki. Not sure? See examples of what (not) to add:</p>
+
+<ul>
+<li><a href="https://indieweb.org/wikifying#Should_this_be_on_the_wiki">FAQ: Should this be on the wiki?</a></li>
+</ul>
+
+<h2 id="how-to-contribute-to-the-indieweb-wiki">How to Contribute to the IndieWeb Wiki</h2>
+
+<p><strong>Incremental Wikifying</strong>
+Main article: <a href="https://indieweb.org/expand_a_page">expand a page</a></p>
+
+<p>There&rsquo;s lots of incremental wikifying to help with.</p>
+
+<ul>
+<li>fixing typos</li>
+<li>expanding (and/or simplifying) a definition to include the IndieWeb relevance of the term</li>
+<li>adding IndieWeb Examples - if you find a page for a technology you support on your site, or a project you use on your site, add yourself to the &ldquo;IndieWeb Examples&rdquo; for that page</li>
+<li>add issues and questions (for FAQs)</li>
+<li>collect questions/answers from chat and add them to the appropriate wiki page</li>
+<li>organize the content of a growing page into sections per expand a page</li>
+<li><a href="https://indieweb.org/expand_a_page">expand a page</a> for many more specific suggestions for incremental wikifying.</li>
+<li><a href="https://indieweb.org/to-do">to-do</a> for specific wiki pages that need incremental improvements!</li>
+</ul>
+
+<h2 id="add-citations">Add Citations</h2>
+
+<p>Whenever you see Loqi (or anyone frankly) share or post a link in chat to something relevant to the indieweb, please help out by adding those as citations/examples to the wiki, and especially if they&rsquo;re photos, add them to event page(s).</p>
+
+<h3 id="format-citations">Format citations</h3>
+
+<p>Here&rsquo;s how to &ldquo;text format&rdquo; citations to add them, from a minimum, to incrementally doing more work (or improving existing citations!)</p>
+
+<ul>
+<li><strong>link</strong> - seriously, it&rsquo;s ok to just add a link, that&rsquo;s helpful!</li>
+<li><strong>YYYY-MM-DD link</strong> - adding the article&rsquo;s publication date helps a lot by placing the link in a temporal context</li>
+<li><strong>YYYY-MM-DD [link article-name]</strong> - even better, go get the article name which is likely more readable/understandable/searchable/discoverable than the link. Is it a tweet link or lacking a name? Pick a summary sentence instead.</li>
+<li><strong>YYYY-MM-DD author: [link article-name]</strong> - even better, add the author to help provide authority or at least the context of who-from</li>
+<li><strong>YYYY-MM-DD {{indiewebauthor}}: [link article-name]</strong> - even better, if the author is a participant in the indieweb community use the {{}} template for their shortname / chat nickname to link their name, perhaps even provide their icon automatically</li>
+</ul>
+
+<p><strong>Optionally:</strong></p>
+
+<ul>
+<li>Add a blockquote inline at the end of the citation, with key relevant sentence(s) copy/pasted/quoted from the link, like this:</li>
+</ul>
+
+<p><code>YYYY-MM-DD [link article-name] &lt;blockquote&gt;key relevant sentence(s)!&lt;/blockquote&gt;</code></p>
+
+<p>These are all super-easy (nearly completely) plain-text ways of just pasting/typing the information into the wiki. (Nearly) No code or markup to learn or figure out or debug. Don&rsquo;t worry about not being perfect, others can help with tweaking fixing things.</p>
+
+<p>Keeping wiki pages mostly plain-text-like makes them easier for others to edit and improve as well!</p>
+
+<p>The important thing is to just take the step of adding the information.</p>
+
+<p>If you like or are familiar MediaWiki templates, you can also use:</p>
+
+<p><code>Template:citation</code></p>
+
+<h3 id="where-to-add-a-citation">Where to add a citation</h3>
+
+<p>If you don&rsquo;t know where in a page to put a citation, add it to the See Also section at the end.</p>
+
+<ul>
+<li>You can even do this from chat by using the &lt;&lt; trick like this:</li>
+</ul>
+
+<p><code>wikipagename &lt;&lt; YYYY-MM-DD [link article-name]</code></p>
+
+<p>etc.</p>
+
+<p>If the citation is criticism, add/move it to the Criticism section of the article.</p>
+
+<p>These are all incremental steps. None are required. All are something you can help with.</p>
+
+<p>Every incremental step you can help with above helps the wiki.</p>
+
+<p>Even just one incremental improvement is helpful!</p>
+
+<h2 id="new-pages">New pages</h2>
+
+<p>There&rsquo;s lots of new page creation you can help with. Create new wiki pages for:</p>
+
+<ul>
+<li>new concepts or terms being discussed, e.g. in <a href="https://indieweb.org/discuss">chat</a>
+
+<ul>
+<li>start with {{stub}} and a short definition that includes its indieweb relevance! (see next section)</li>
+<li>especially if they&rsquo;re indieweb-related in some way</li>
+</ul></li>
+<li>etherpads of notes from <a href="https://indieweb.org/IndieWebCamp">IndieWebCamp</a> sessions after they&rsquo;re finished, to archive the session notes somewhere more findable / linkable</li>
+<li>new projects you start using on your personal website; be sure to include your site in the IndieWeb Examples section on the page.</li>
+</ul>
+
+<p>If something is not particularly indieweb-related, e.g. it didn&rsquo;t come up in the discussion of things that are indieweb-related, perhaps consider documenting it on Wikipedia instead (and/or using Wikipedia as a reference/citation).</p>
+
+<h2 id="definitions-include-indieweb-relevance">Definitions include indieweb relevance</h2>
+
+<p>When defining a term, include why it is specifically relevant to the indieweb (if that&rsquo;s not obvious from the description), beyond just a &ldquo;normal&rdquo; definition that could have come from Wikipedia (no need to replicate or summarize Wikipedia here, and do not copy from Wikipedia, instead link to it).</p>
+
+<p>E.g. the jargon example could be improved with indieweb relevance like:</p>
+
+<blockquote>
+<p>A jargon term is a specific unobvious word, concept, or technology (like Webmention), or re-use of a word to mean something other than its common meaning (like feed), or sometimes re-using a word as an acronym (like POSSE).</p>
+</blockquote>
+
+<h2 id="document-your-decisions">Document your decisions</h2>
+
+<p>Once you&rsquo;ve documented yourself on your User page, and started incrementally documenting your &ldquo;Itches&rdquo; and &ldquo;Working On&rdquo;, as you get work done and deploy to your personal site, document your &ldquo;major decisions&rdquo;, on your user page or perhaps in a &ldquo;Implementation Design&rdquo; section on your project page.</p>
+
+<p>Examples:</p>
+
+<blockquote>
+<p>Falcon#Implementation_Design - major design decisions made in Falcon so far.</p>
+</blockquote>
+
+<p>Documenting your major design and implementation decisions will help you better consider when to revisit them, and when to work on new personal site features and functionality instead.
+Define jargon</p>
+
+<p>Any time someone uses a jargon term in chat, or other indieweb related communications, go ahead and ask in the channel:</p>
+
+<blockquote>
+<p>What is jargon term</p>
+</blockquote>
+
+<p>This will prompt Loqi to either answer with the definition with the wiki, or to prompt you to define it with a link to create the page on the wiki.</p>
+
+<p>You can then define it by clicking on that link, or answer answer the what is question:</p>
+
+<blockquote>
+<p>A jargon term is a specific unobvious concept, or re-use of a word to mean something other than its common meaning.</p>
+</blockquote>
+
+<p>Avoid repeating words from the term, avoid generic abstract definitions, and minimize use of jargon terms in a definition (though use them if necessary, and then link/define them too).</p>
+
+<p>Be specific and meaningful in definitions, certainly more than just a link and/or restatement using the same or similar terms.
+Tweetable definitions</p>
+
+<p>Check the definitions on wiki pages, and edit them so they are tweetable, as there is evidence that people will tweet good definitions that are of tweetable length (including a subsequent link to the page) - that&rsquo;s 257 characters (space + 23 characters for the tco&rsquo;d link).</p>
+
+<ul>
+<li><p><a href="https://twitter.com/zeldman/status/688791904356581376">https://twitter.com/zeldman/status/688791904356581376</a></p>
+
+<ul>
+<li><p>Site deaths are when sites go offline, taking content and permalinks with them, and breaking the web accordingly. <a href="http://indiewebcamp.com/site-deaths">http://indiewebcamp.com/site-deaths</a></p></li>
+
+<li><p>Note that he edited the dfn of site-deaths (as of that time) and removed &ldquo;their&rdquo; in order to make it fit on Twitter.</p></li>
+</ul></li>
+</ul>
+
+<h2 id="progressive-disclosure-of-content">Progressive disclosure of content</h2>
+
+<p>A simple jargon-free (or minimal) tweetable definition is an important first step in providing content that is understandable by a broader audience, while still documenting all the important research and details that are discovered or invented by the community.</p>
+
+<p>Nearly every page on the wiki can be improved in this regard, to provide progressive disclosure of relevant content.</p>
+
+<p>That is, wiki pages should start with offering quick, definitive information to a beginner.</p>
+
+<p>And then incrementally document details only as needed for real world reasons / use-cases that provide benefits to those reading.</p>
+
+<p>E.g. getting started can (still) be continuously improved in this regard. As can web hosting.
+Common Page Structure</p>
+
+<p>Most pages on the wiki have evolved to have a fairly common page structure, starting with a simple definition, and then adding additional sections such as:</p>
+
+<ul>
+<li>Why</li>
+<li>How to</li>
+<li>IndieWeb Examples</li>
+<li>Brainstorming</li>
+<li>See Also</li>
+</ul>
+
+<h2 id="special-case-pages">Special Case Pages</h2>
+
+<p>In addition to the common structure across many pages, there are also several clusters or instances of special case pages.
+Standards Pages</p>
+
+<p>The wiki has pages for standards / specifications that were developed on the indieweb wiki, and have started or been formalized at W3C, and thus their pages (and subpages) here have evolved in support of those specifications.</p>
+
+<p>While these are rapidly evolving, take a look at:</p>
+
+<ul>
+<li>Webmention</li>
+<li>Micropub</li>
+<li>post type discovery</li>
+</ul>
+
+<p>There are also pages that are about the indieweb usage of standards developed elsewhere or in active collaboration across communities, e.g. the pages for various microformats. Though these are generally structured in the common structure noted above, they may as a set have special patterns worth noting:</p>
+
+<ul>
+<li>h-entry</li>
+<li>h-card</li>
+<li>h-event</li>
+<li>h-review</li>
+</ul>
+
+<p>(stub) - help expand this section with documentation of patterns across this type of special page.
+Historical Pages</p>
+
+<p>Some pages help document history, e.g.:</p>
+
+<ul>
+<li>history</li>
+<li>timeline</li>
+<li>site-deaths</li>
+<li>silo-quits</li>
+</ul>
+
+<p>(stub) - help expand this section with documentation of patterns across this type of special page.
+Cross-Generation Pages</p>
+
+<p>As certain IndieWeb building-blocks become more widespread, folks from later generations could benefit from re-organized content. In some cases, it may be beneficial to break out &ldquo;introductory&rdquo; content (including high-level explanations, examples with screenshots, tools and services, &hellip;) from &ldquo;developer&rdquo; content (such as protocol diagrams, code snippets, brainstorming, &hellip;) For example:</p>
+
+<ul>
+<li>Webmention is an introduction page, with developer-specific content moved to Webmention-developer.</li>
+</ul>
+
+<p>(stub) - help expand this section with documentation of patterns across this type of special page.
+Related Articles</p>
+
+<p>The above is very much specific to what is good wikifying for IndieWeb in particular.</p>
+
+<p>Here are related articles on good writing, structure, and wikifying in general:</p>
+
+<ul>
+<li>Wikipedia Project: How to wikify</li>
+</ul>
+
+<h2 id="faq-1">FAQ</h2>
+
+<h3 id="should-this-be-on-the-wiki">Should this be on the wiki</h3>
+
+<p>Q: <strong>Do we really need this on the wiki?</strong></p>
+
+<p>A: Depends! In short, anything indieweb related is worth putting on the wiki, and sure it&rsquo;s up to someone to care enough to do it!</p>
+
+<p>Here are some good examples of stuff to put on the wiki:</p>
+
+<ul>
+<li>Anything directly IndieWeb related, especially directly to people in the community with their own sites:</li>
+<li>Technologies (e.g. Apache) people are using to setup/build/run/maintain/monitor their indieweb site</li>
+<li>Services (e.g. web hosting) people are using with their indieweb site</li>
+<li>Events or podcasts that discuss the independent web or IndieWeb in particular, including events with only a single related talk (be sure to list the specific talk)</li>
+<li>jargon representing technology used as part of an IndieWeb site</li>
+<li>silos that have prior art (UX, design, formats, protocols) for things we want to rebuild independently
+
+<ul>
+<li>also any silos where anyone has or is about to / expected to lose content, permalinks, online identities.</li>
+<li>If you are unsure just ask in our #meta channel. If you prefer to ask the question off the record where it is not logged you can try the #chat channel (See Discuss).</li>
+</ul></li>
+</ul>
+
+<h3 id="what-should-not-go-on-the-wiki">What should not go on the wiki</h3>
+
+<p>Q: If all that makes sense on the wiki, what does not make sense on the wiki?</p>
+
+<p>A: There are so many things that do not need to be on the wiki that it&rsquo;s hard to list them all. Obviously aside from stuff like code-of-conduct violations, here are a few which we&rsquo;ve seen added then decided were better removed, that seem to fall into the pattern of when someone is passionate about something totally not indieweb related, and wants to add it to the wiki.</p>
+
+<ul>
+<li>Random stuff. In general, random things that lack an obvious IndieWeb connection are better left to Wikipedia, and using Wikipedia links rather than creating less useful stub pages on the IndieWeb wiki. E.g.
+
+<ul>
+<li>technical terms. If a technical term does not have a direct obvious connection to the IndieWeb, no need for it to be documented here</li>
+<li>organizations. If an organization has no relation to anything independent it can probably be left out.</li>
+<li>Exception: As noted above as silos, we are documenting any/all sites/services that anyone in the community has used (or even has friends that have used) that has announced or is threatening to shut down, or has especially has UX that is worth capturing for prior art research purposes when designing our own indieweb features.</li>
+</ul></li>
+<li>events. If an event has nothing to do with the indieweb, it does not need to be listed on the Events page.</li>
+</ul>
+
+<p>Once again ask in chat. People will help you determine the relevancy of a topic, link to previous discussions in the logs, or point you to an existing page where the date are previously captured.</p>
+
+<p><strong>Do I have to use the wiki and mediawiki syntax?</strong></p>
+
+<p>While it&rsquo;s nice to put content into the wiki using standard markup for it, we realize not everyone is a wiki fan, knows how to do it, or even may have the time to learn to do it. (Documenting what you&rsquo;ve done is both important and work enough.)</p>
+
+<ul>
+<li>Alternative: Post on your own site with CC0! An alternate option is to simply practice the Indieweb principle of posting on your own site first where you have ultimate control. Then webmention &ldquo;Indieweb&rdquo; (for Superfeedr) or dump the link into chat. As long as you license your content as CC0 for that post, someone will surely add it to the wiki on your behalf.</li>
+<li>Just add content, with double linebreaks for paragraphs! Users shouldn&rsquo;t feel guilty for adding content as best as they can (markup/formatting or not) where they feel it&rsquo;s appropriate. Others will come along and clean bits up in the near future. Nor should they hesitate to ask for help in chat if they&rsquo;d like to learn more about wikifying.</li>
+</ul>
+
+<p>Related chats:</p>
+
+<ul>
+<li><a href="https://chat.indieweb.org/2016-05-20#t1463775866966000">https://chat.indieweb.org/2016-05-20#t1463775866966000</a></li>
+<li><a href="https://chat.indieweb.org/dev/2017-06-18#t1497799332968000">https://chat.indieweb.org/dev/2017-06-18#t1497799332968000</a></li>
+</ul>
+
+<h3 id="where-should-i-add-something-to-the-wiki">Where should I add something to the wiki?</h3>
+
+<p>When you see an IndieWeb related article, post, concept, and want to add it to the wiki, it may not be obvious where to add it, even just as a &ldquo;See Also&rdquo;. Here are some tips for where to add something:</p>
+
+<ul>
+<li>An existing page it is most relevant to.</li>
+<li>If there are a couple of pages (e.g. maybe a general concept like privacy, and a specific silo like Facebook), it’s ok to add it to both.</li>
+<li>If you can think of a few different related pages, then create a new stub page for it, and then add a link to that stub page in the See Also sections of those related pages</li>
+</ul>
+
+<h2 id="expand-a-page-https-indieweb-org-expand-a-page"><a href="https://indieweb.org/expand_a_page">Expand a Page</a></h2>
+
+<p>You can expand a page that someone has started by expanding the definition, adding one or more new sections, or add to an existing section.</p>
+
+<h3 id="definition-improvement">Definition Improvement</h3>
+
+<ul>
+<li>expand (and/or simplify) a definition to include the <a href="https://indieweb.org/wikifying#Definitions_include_indieweb_relevance">IndieWeb relevance</a> of the term and please minimize use of <a href="https://indieweb.org/jargon">jargon</a> (at link it if you must include it).</li>
+</ul>
+
+<h3 id="audiences">Audiences</h3>
+
+<p>The top of a page should be simple, direct, and consider the audiences that are new the IndieWeb.</p>
+
+<p>Beyond that, a page and its sections noted above should be easy so understand and use by new indieweb users, <a href="https://indieweb.org/WordPress">WordPress</a> site users, and developers.</p>
+
+<p>To better understand these audiences and needs, consider:</p>
+
+<ul>
+<li>Does the page make sense to an indieweb user and help them understand why something matters?</li>
+<li>Does the page make sense to someone using WordPress and how they can improve their blog?</li>
+<li>Does the page make sense to developers and provide a quickly understandable reason why they should care and how to implement it with examples including screenshots?</li>
+</ul>
+
+<h3 id="section-expansions">Section Expansions</h3>
+
+<p>Most pages could use expansion of their existing sections.</p>
+
+<ul>
+<li>adding IndieWeb Examples - if you find a page for a technology you support on your site, or a project you use on your site, add yourself to the &ldquo;IndieWeb Examples&rdquo; for that page</li>
+<li>add issues and questions (for FAQs)</li>
+<li>collect questions/answers from chat and add them to the appropriate wiki page</li>
+</ul>
+
+<h3 id="common-sections">Common Sections</h3>
+
+<p>Most pages have (or could use) sections like the following (in this order)</p>
+
+<ul>
+<li>definition</li>
+<li>Why</li>
+<li>How to</li>
+<li>IndieWeb Examples</li>
+<li>Silo Examples</li>
+<li>Brainstorming</li>
+<li>FAQ</li>
+<li>See Also</li>
+</ul>
+
+<p>Pages about silos, other services, and software projects sometimes have:</p>
+
+<ul>
+<li>Features</li>
+<li>IndieWeb Friendly (support, compatibility, best practices etc.)</li>
+</ul>
+
+<h3 id="stub-sections">Stub Sections</h3>
+
+<p>Do not add empty sections. If you have surfficient experience (and have asked in a channel for input), you may add stub sections that indicate there is &ldquo;No known reason why&rdquo; or &ldquo;Unknown how to&rdquo; or &ldquo;How to still being figured out per brainstorming&rdquo; etc.</p>
+
+<h3 id="reorganizing-into-sections">Reorganizing Into Sections</h3>
+
+<p>Pages often have raw (paragraphs of text) content. Try to organize the existing content of a growing page into the above common sections as needed.</p>
+
+        </section>
+        <footer>
+            <a class="permalink u-url" href="https://web-work.tools/indieweb/indiewebcamp/wiki-participation/">🔗</a>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Tags for this post: 
+            
+                <a href="https://web-work.tools/indieweb/tags/indiewebcamp" class="post-tag p-category">IndieWebCamp</a>
+            
+            </p>
+            
+        </footer>
+    </article>
+</div>
+
+    
+    <div class="h-card">
+      <img class="u-photo" src="https://web-work.tools/indieweb/images/infominer.svg" />
+      <div class="card-content">
+        <h2 class="card-name"><a class="p-name u-url" href="https://web-work.tools/indieweb/" rel="me">Infominer</a></h2>
+        <p class="card-subhead">
+          <span class="p-locality">Mehtab Bagh</span>,
+          <span class="p-country-name">49 6e 64 75 73</span><br />
+          <a class="u-email" href="mailto:infominer@protonmail.com">Email me</a>
+        </p>
+      </div>
+      <p class="p-note">Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, IndieWeb ⧉ her/him</p>
+    </div>
+    
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="prev">
+          
+          <a alt="Newer article" href="https://web-work.tools/indieweb/indiewebcamp/specifications/">&larr; Newer</a>
+          
+        </div>
+        <div class="top">
+          <a alt="Top of page" href="#">Top</a>
+        </div>
+        <div class="next">
+          
+          <a alt="Older article" href="https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/">Older &rarr;</a>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Email me" href="mailto:infominer@protonmail.com"><img src="https://web-work.tools/indieweb/icons/envelope.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/infominer33"><img src="https://web-work.tools/indieweb/icons/github.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitLab profile" href="https://gitlab.com/infominer33"><img src="https://web-work.tools/indieweb/icons/gitlab.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Keybase profile" href="https://keybase.io/infominer"><img src="https://web-work.tools/indieweb/icons/keybase.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Micro.Blog profile" href="https://micro.blog/infominer"><img src="https://web-work.tools/indieweb/icons/microblog.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Reddit profile" href="https://www.reddit.com/user/infominer33"><img src="https://web-work.tools/indieweb/icons/reddit-alien.svg" height="24px" width="24px" /></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Stack Overflow profile" href="https://stackoverflow.com/users/10793272"><img src="https://web-work.tools/indieweb/icons/stack-overflow.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Twitter profile" href="https://twitter.com/infominer33"><img src="https://web-work.tools/indieweb/icons/twitter.svg" height="24px" width="24px"></a>
+     </div>
+     
+  </div>
+</aside>
+
+      
+      <p class="copyright">
+          ⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉
+      </p>
+      
+    </div>
+
+
+</body>
+</html>

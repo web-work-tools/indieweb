@@ -13,38 +13,47 @@
     
     
     <item>
-      <title>IndieWebCamp - Code of Conduct</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</link>
+      <title>IndieWeb Summit 2019 - Day 1 Review</title>
+      <link>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indiewebcamp-code-of-conduct/</guid>
+      <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
+      <description>Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can&amp;rsquo;t resolve an issue, contact staff. If you are being a problem, it will be apparent and you&amp;rsquo;ll be asked to leave.</description>
+    </item>
+    
+    <item>
+      <title>IndieWebCamp - Code of Conduct</title>
+      <link>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</link>
+      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</guid>
       <description>Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can&amp;rsquo;t resolve an issue, contact staff. If you are being a problem, it will be apparent and you&amp;rsquo;ll be asked to leave.</description>
     </item>
     
     <item>
       <title>IndieWebCamp - Participating with the Wiki</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</link>
+      <link>https://web-work.tools/indieweb/indiewebcamp/wiki-participation/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indiewebcamp-wiki-participation/</guid>
+      <guid>https://web-work.tools/indieweb/indiewebcamp/wiki-participation/</guid>
       <description>When you join the wiki you help our community grow and also provide documentation of your journey. This helps the next person who, like you, wants to control their data in the place that they own.</description>
     </item>
     
     <item>
       <title>IndieWebCamp - Specifications</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp-specifications/</link>
+      <link>https://web-work.tools/indieweb/indiewebcamp/specifications/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indiewebcamp-specifications/</guid>
+      <guid>https://web-work.tools/indieweb/indiewebcamp/specifications/</guid>
       <description>The IndieWebCamp community develops several widely implemented specifications, including IndieAuth, Webmention, and Micropub. Additional specifications (like Vouch) are in development. Lastly, IndieWebCamp also makes heavy (re-)use of microformats specifications.</description>
     </item>
     
     <item>
       <title>Indiweb Principles: Unpacked</title>
-      <link>https://web-work.tools/indieweb/indieweb-principles/</link>
+      <link>https://web-work.tools/indieweb/indiewebcamp/principles-unpacked/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indieweb-principles/</guid>
+      <guid>https://web-work.tools/indieweb/indiewebcamp/principles-unpacked/</guid>
       <description>The IndieWeb Community is largely based on principles (AKA tenets) such as own your data, scratch your own itches, build tools for yourself, selfdogfood, document your stuff, open source [&amp;hellip;] remember to have fun!</description>
     </item>
     

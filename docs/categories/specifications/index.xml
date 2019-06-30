@@ -14,10 +14,10 @@
     
     <item>
       <title>IndieWebCamp - Specifications</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp-specifications/</link>
+      <link>https://web-work.tools/indieweb/indiewebcamp/specifications/</link>
       <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indiewebcamp-specifications/</guid>
+      <guid>https://web-work.tools/indieweb/indiewebcamp/specifications/</guid>
       <description>The IndieWebCamp community develops several widely implemented specifications, including IndieAuth, Webmention, and Micropub. Additional specifications (like Vouch) are in development. Lastly, IndieWebCamp also makes heavy (re-)use of microformats specifications.</description>
     </item>
     

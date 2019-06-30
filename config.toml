@@ -56,4 +56,4 @@ paginate = 8
 disablePathToLower = true
 
 [Permalinks]
-  posts = "/:filename/"
+  posts = "/:slug/"
