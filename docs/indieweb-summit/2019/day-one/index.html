@@ -191,14 +191,27 @@
             <hr class="post-underline">
         </header>
         <section class="content e-content">
-            <iframe
-    src="https://player.twitch.tv/?445919345"
-    height="300"
-    width="500"
-    frameborder="0"
-    scrolling="no"
-    allowfullscreen="yes">
-</iframe>
+            <p><script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<video id="video"></video>
+<script>
+  if(Hls.isSupported()) {
+    var video = document.getElementById(&lsquo;video&rsquo;);
+    var hls = new Hls();
+    hls.loadSource(&lsquo;<a href="http://cdncities.com/deranalive/deranalive/playlist.m3u8'">http://cdncities.com/deranalive/deranalive/playlist.m3u8'</a>);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED,function() {
+      video.play();
+  });
+ }
+ // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+ // When the browser has built-in HLS support (check using <code>canPlayType</code>), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the <code>src</code> property.
+ // This is using the built-in support of the plain video element, without using hls.js.
+  else if (video.canPlayType(&lsquo;application/vnd.apple.mpegurl&rsquo;)) {
+    video.src = &lsquo;<a href="https://web-work.tools/indieweb/indieweb-livestream.m3u8'">https://web-work.tools/indieweb/indieweb-livestream.m3u8'</a>;
+    video.addEventListener(&lsquo;canplay&rsquo;,function() {
+      video.play();
+    });
+  }</p>
 
         </section>
         <footer>

@@ -6,19 +6,31 @@ summary: "Be respectful of other people, respectfully ask people to stop if you 
 categories: ["IndieWeb Summit"]
 tags: ["code-of-conduct", "wiki", "principles"]
 date: "2019-06-26T01:13:33-23:00"
-draft: true
+draft: false
 slug: /indieweb-summit/2019/day-one/
 
 images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
 ---
 
 
-
-<iframe
-    src="https://player.twitch.tv/?445919345"
-    height="300"
-    width="500"
-    frameborder="0"
-    scrolling="no"
-    allowfullscreen="yes">
-</iframe>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<video id="video"></video>
+<script>
+  if(Hls.isSupported()) {
+    var video = document.getElementById('video');
+    var hls = new Hls();
+    hls.loadSource('http://cdncities.com/deranalive/deranalive/playlist.m3u8');
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED,function() {
+      video.play();
+  });
+ }
+ // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+ // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the `src` property.
+ // This is using the built-in support of the plain video element, without using hls.js.
+  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = 'https://web-work.tools/indieweb/indieweb-livestream.m3u8';
+    video.addEventListener('canplay',function() {
+      video.play();
+    });
+  }
