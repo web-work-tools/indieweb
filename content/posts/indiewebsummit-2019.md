@@ -14,12 +14,11 @@ images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
 
 
 
-
 <iframe
     src="https://player.twitch.tv/?445919345"
-    height="<height>"
-    width="<width>"
-    frameborder="<frameborder>"
-    scrolling="<scrolling>"
-    allowfullscreen="<allowfullscreen>">
+    height="300"
+    width="500"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen="yes">
 </iframe>

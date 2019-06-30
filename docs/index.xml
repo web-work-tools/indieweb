@@ -19,11 +19,11 @@
       <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
       <description>&lt;iframe
     src=&#34;https://player.twitch.tv/?445919345&#34;
-    height=&#34;&lt;height&gt;&#34;
-    width=&#34;&lt;width&gt;&#34;
-    frameborder=&#34;&lt;frameborder&gt;&#34;
-    scrolling=&#34;&lt;scrolling&gt;&#34;
-    allowfullscreen=&#34;&lt;allowfullscreen&gt;&#34;&gt;
+    height=&#34;300&#34;
+    width=&#34;500&#34;
+    frameborder=&#34;0&#34;
+    scrolling=&#34;no&#34;
+    allowfullscreen=&#34;yes&#34;&gt;
 &lt;/iframe&gt;
 </description>
     </item>
