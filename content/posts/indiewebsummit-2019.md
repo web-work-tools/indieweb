@@ -9,7 +9,7 @@ date: "2019-06-26T01:13:33-23:00"
 draft: false
 slug: /indieweb-summit/2019/day-one/
 
-images: https://web-work.tools/images/IndieWeb-Summit-2019-Day-1.png
+images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
 ---
 
 
