@@ -1,16 +1,17 @@
 ---
 type: post
-title: "Indigo - A Hugo Indiweb Theme - Features"
+title: "Indigo Features"
 description: "Indigo is a A Hugo theme, designed with indieweb in mind."
 summary: "The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note. I'll be exploring these classes more thoroughly, soon."
 categories: ["indigo"]
 tags: ["hugo-theme", "indieweb", "wiki","hugo","configuration","features", "rel=me","h-card", "h-entry"]
 date: "2019-06-22T01:22:33-23:00"
 draft: false
-slug: /indigo-theme-features/
+slug: /indigo-features/
 aliases:
+  - /indigo-theme-features/
   - /indigo-indieweb-features/
-
+menu: main
 ---
 
 Hey!!! So I've been meaning to do this for a while.. and now [Indieweb Summit](https://indieweb.org/2019) is right around the corner. I've been hustling away on some related projects just so I could have something really nice prepared for the event.

@@ -16,6 +16,7 @@ paginate = 8
   Biography = "Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, Indieweb ⧉ her/him"
   ShowBio = true
   PermalinkText = "🔗"
+  images = "images/indieweb.jpg"
 
   # Contact/social-network identifiers for social icons
   EmailAddress = "infominer@protonmail.com"

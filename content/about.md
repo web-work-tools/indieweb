@@ -7,29 +7,10 @@ date: 2019-05-22
 menu: main
 ---
 
-Right now using the Indigo Hugo theme, that supports indieweb features.
+This site is built with the Indigo, Hugo, Indieweb theme.
 
 * [AngeloStravrow/indigo](https://github.com/AngeloStavrow/indigo)
-* [About Me](https://infominer.id/about)
 
->you can see, eventually this will be 5 domains with infominer.id becoming the home page for all of it, web-work.tools, didecentral.com \ decentralized-id.com, SourceCrypto.pub, learncryptotrading.co.
-
-Now its true.
-
-I use https://sourcecrypto.pub for all of my crypto related content, https://learncryptotrading.co for my trading content, https://decentralized-id.com is currently the decentralized-id site, but I like DIDecentral better... when its ready. And yes... https://web-work.tools.
-
-I have ambitious plans... but I think those domains should keep me busy for the time-being.
-
-## 4 GitHub Organizations to Rule Them
-
-* https://github.com/infominer33  - [infominer.id](https://infominer.id)
-  * https://github.com/didecentral - [decentralized-id.com](https://decentralized-id.com)
-  * https://github.com/sourcecrypto - [sourcecrypto.pub](https://sourcecrypto.pub)
-    * https://github.com/sourcecrypto/bitcoin-history - [sourcecrypto.pub/bitcoin-history](https://sourcecrypto.pub/bitcoin-history)
-    * https://github.com/sourcecrypto/transcripts - [sourcecrypto.pub/transcripts](https://sourcecrypto.pub/transcripts)
-    * https://github.com/sourcecrypto/decentralized-web - [sourcecrypto.pub/decentralized-web](https://sourcecrypto.pub/decentralized-web)
-  * https://github.com/learn-crypto-trading - [learncryptotrading.co](https://learncryptotrading.co)
-  * https://github.com/web-work-tools - [web-work.tools](https://web-work.tools)
 
 Everything I personally publish is public-domain informational resources. Ideally they will grow to include enough participants to become self-sustaining, after a while.
 
@@ -38,3 +19,63 @@ Mainly, I'm just using these spaces as my classroom and playground. A copule mor
 One nice feature of having so many organizations is I can for a repository into the appropriate one, and make it easier for folk to browse through. I'll have a post about all that soon enough.
 
 [![](https://imgur.com/XRI9izx.png)](https://github.com/infominer33)
+
+## Running Indieweb
+
+* [Decentralized Web Histories](https://sourcecrypto.pub/decentralized-web)
+* [Agoric Records](https://agoric-records.netlify.com)
+
+
+
+## [@infominer33](https://github.com/infominer33)  
+
+* [infominer.id](https://infominer.id)
+* [About Me](https://infominer.id/about)
+
+My personal account will mostly be for testing new projects, as a staging area, and where my homepage is hosted from.
+
+## [@web-work-tools](https://github.com/web-work-tools)
+
+* [web-work.tools](https://web-work.tools)
+* [Web-work.tools - Discord Chat](https://discord.gg/H6jF3SZ) - Tons of resources organized by channel.
+
+This organization is for everything related to working with web-technologies. Starting with web-pub, git, and other web fundamentals.
+
+## [@sourcecrypto](https://github.com/sourcecrypto)
+
+* [SourceCrypto](https://sourcecrypto.pub)
+* [SourceCrypto - Discord Chat](https://discord.gg/ahTuPMY) - Tons of resources organized by channel.
+
+### [sourcecrypto/bitcoin-history](https://github.com/sourcecrypto/bitcoin-history) 
+
+* [Bitcoin History](https://sourcecrypto.pub/bitcoin-history)
+
+To me everything is related to Bitcoin. So these histories cover a lot of stuff that isn't directly about Bitcoin. 
+
+### [sourcecrypto/transcripts](https://github.com/sourcecrypto/transcripts) 
+
+* [sourcecrypto.pub/transcripts](https://sourcecrypto.pub/transcripts)
+
+When there is audio that contains valuable information that should be available in print, I work on annotated, web-marked up, transcriptions.
+
+### [sourcecrypto/decentralized-web](https://github.com/sourcecrypto/decentralized-web)
+
+* [sourcecrypto.pub/decentralized-web](https://sourcecrypto.pub/decentralized-web)
+
+
+## [@didecentral](https://github.com/didecentral)
+
+DIDecentral has the most "legs", of any of them, with a large userbase and a few individuals who are beginning to take a more active role in the website(s).
+
+This organization is all about learning to create a vendor agnostic, widely interoperable, decentralized internet identity layer for people organizations and things.
+
+* [decentralized-id.com](https://decentralized-id.com)
+* [DIDecentral - Discord Chat](https://discord.gg/eYm2XvZ)
+
+There are a few related projects that will be released to the public, shortly.
+
+
+## [@learn-crypto-trading](https://github.com/learn-crypto-trading)
+
+* [learncryptotrading.co](https://learncryptotrading.co)
+
