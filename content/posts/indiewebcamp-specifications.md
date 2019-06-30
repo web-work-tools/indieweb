@@ -24,33 +24,33 @@ The following specifications are used for dependable interoperability by the Ind
 
 Broadly implemented: These standards are interoperably implemented by the overwhelming majority of indieweb software, services, and websites:
 
-* IndieAuth (W3C Note)
-* microformats2
-  * h-card
-  * h-entry
-  * h-feed
-* Micropub (W3C Recommendation)
-* rel-me
-* Webmention (W3C Recommendation)
-* WebSub (W3C Recommendation)
+* [IndieAuth](https://indieweb.org/IndieAuth) (W3C Note)
+* [microformats2](https://indieweb.org/microformats2)
+  * [h-card](https://indieweb.org/h-card)
+  * [h-entry](https://indieweb.org/h-entry)
+  * [h-feed](https://indieweb.org/h-feed)
+* [Micropub](https://indieweb.org/Micropub) (W3C Recommendation)
+* [rel-me](https://indieweb.org/rel-me)
+* [Webmention](https://indieweb.org/Webmention) (W3C Recommendation)
+* [WebSub](https://indieweb.org/WebSub) (W3C Recommendation)
 
 Numerous implementations: These standards have several implementations that interoperate, enough to consider the specifications fairly stable:
 
-* authorship
-* h-cite
-* h-event
+* [authorship](https://indieweb.org/authorship)
+* [h-cite](https://indieweb.org/h-cite)
+* [h-event](https://indieweb.org/h-event)
 
 Being implemented / in development: These standards are undergoing active development and evolution as they are being implemented, tested in actual products with users, and then iterated for improvement:
 
-* fragmentions
-* Microsub
-* original-post-discovery
-* post-type-discovery (W3C Note)
-* salmentions
-* vouch
+* [fragmentions](https://indieweb.org/fragmentions)
+* [Microsub](https://indieweb.org/Microsub)
+* [original-post-discovery](https://indieweb.org/original-post-discovery)
+* [post-type-discovery](https://indieweb.org/post-type-discovery) (W3C Note)
+* [salmentions](https://indieweb.org/salmentions)
+* [vouch](https://indieweb.org/vouch)
 
 Stable with some support: These standards are stable (few or no changes in quite some time), yet only have some support, or are only supported by publishers:
 
-* XFN (beyond rel=me) - many sites publish, no known consuming applications
+* [XFN](https://indieweb.org/XFN) (beyond rel=me) - many sites publish, no known consuming applications
 
-Per IndieWebCamp principles, microformats specifications are (re-)used heavily as essential simple building block extensions to HTML.
+Per IndieWebCamp [principles](/indiewebcamp/principles-unpacked/), microformats specifications are (re-)used heavily as essential simple building block extensions to HTML.

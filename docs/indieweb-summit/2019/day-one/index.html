@@ -5,7 +5,7 @@
 
     
     <title>IndieWeb Summit 2019 - Day 1 Review</title>
-    <meta name="description" content="To grow more familiar with the IndieWebCamp community and its principles, I&#39;m sharing its code of conduct, here.">
+    <meta name="description" content="A review of IndieWeb Summit 2019 - Day 1 livestream, including relevant links and essential information.">
     <meta name="author" content="Infominer">
     
     
@@ -14,7 +14,7 @@
     <meta name="twitter:image:src" content="https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png"/>
     
     <meta name="twitter:title" content="IndieWeb Summit 2019 - Day 1 Review"/>
-    <meta name="twitter:description" content="To grow more familiar with the IndieWebCamp community and its principles, I&#39;m sharing its code of conduct, here."/>
+    <meta name="twitter:description" content="A review of IndieWeb Summit 2019 - Day 1 livestream, including relevant links and essential information."/>
     <meta name="twitter:site" content="@infominer33"/>
     
 
@@ -119,16 +119,10 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-132558656-7');
+  gtag('config', 'UA-132558656-8');
 </script>
 
 
-
-
-  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-  <script src="https://unpkg.com/video.js/dist/video.js"></script>
-  <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-  
 
 </head>
 <body>
@@ -184,14 +178,14 @@
         <header>
             <h1 class="post-title p-name">IndieWeb Summit 2019 - Day 1 Review</h1>
             <p class="post-date">Posted on
-                <time class="dt-published" datetime="2019-06-26T01:13:33-23:00">
-                26 June, 2019 at 01:13 -2300
+                <time class="dt-published" datetime="2019-06-29T01:13:33-23:00">
+                29 June, 2019 at 01:13 -2300
                 </time>  by <a href="https://web-work.tools/indieweb/" class="p-author h-card" rel="author">Infominer</a>
             </p>
             
             <p class="post-tag">Category: 
                 
-                <a href="https://web-work.tools/indieweb/categories/indieweb-summit" class="post-tag p-category">IndieWeb Summit</a>
+                <a href="https://web-work.tools/indieweb/categories/indieweb-summit-2019" class="post-tag p-category">IndieWeb Summit 2019</a>
                 
             </p>
             
@@ -199,13 +193,214 @@
             <hr class="post-underline">
         </header>
         <section class="content e-content">
-            <video id="indieweb-summit-day-one" class="video-js vjs-default-skin" controls preload="auto" width="640" height="268" 
-  data-setup='{}'>
-    <source src="https://web-work.tools/indieweb/indieweb-livestream.m3u8">
-</video>
+            
 
-<!--    <source src="https://usher.ttvnw.net/vod/445919345.m3u8?nauth=%7B%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%7D%2C%22device_id%22%3Anull%2C%22expires%22%3A1561964713%2C%22https_required%22%3Atrue%2C%22privileged%22%3Afalse%2C%22user_id%22%3Anull%2C%22version%22%3A2%2C%22vod_id%22%3A445919345%7D&nauthsig=85948f456699f7c644bb305d783833bb573b86f6">
+<p>The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a <a href="https://web-work.tools/command-line-git-ssh">BASH shell</a>.</p>
+
+<p>So I <a href="https://www.locoloader.com/twitch-video-downloader/">grabbed the audio</a> from twitch and <a href="https://windowsloop.com/download-m3u8-video-with-ffmpeg/">converted to mp4</a> with <code>ffmpeg</code> and put it on youtube, so I could take advantage of the easy embed, and autotranscription.</p>
+
+<!--
+<iframe width="560" height="315" src="https://web-work.tools/indieweb/indieweb-summit-2019-day-one-livestream.mp4" frameborder="0" allowfullscreen></iframe>
 -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>For now I have youtube embed, because this is a big image&hellip; but am compressing it to see about hosting it here. Mostly I&rsquo;m concerned with the UX, where hosting locally would look nice to not have youtube logos, it also puts the burden on me of how to treat the file so the user has an ideal experience of it.</p>
+
+<h2 id="https-indieweb-org-2019-https-indieweb-org-2019"><a href="https://indieweb.org/2019">https://indieweb.org/2019</a></h2>
+
+<p>To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the event.</p>
+
+<p><img src="https://imgur.com/SsaTe9T.png" alt="" /></p>
+
+<p>Next is the code of conduct, which while I was preparing a copy it here on my site, they were adding a new section to the the original.</p>
+
+<ul>
+<li><a href="https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/">IndieWeb - Code of Conduct</a></li>
+</ul>
+
+<p>There is one section that was just added from the <a href="https://2018.xoxofest.com/conduct">XOXO Code of Conduct</a>:</p>
+
+<blockquote>
+<p>XOXO prioritizes marginalized people’s safety over privileged people’s comfort. XOXO reserves the right not to act on complaints regarding:</p>
+
+<p>‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
+   Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
+   Communicating in a ‘tone’ you don’t find congenial
+   Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions</p>
+</blockquote>
+
+<p>I&rsquo;ve been looking for something like the IndieWeb code of conduct for a little while. I really resonate with IndieWeb being an &ldquo;intentionally positive community&rdquo; since in many places negativity is encouraged, where setting the intention for positivity is liklier to promote a positive experience in a public space.</p>
+
+<p>In addition to the IndieWeb Code of Conduct, all participants of the IndieWeb Summit also agree to <a href="https://www.mozilla.org/en-US/about/governance/policies/participation/">Mozilla Community Participation Guidelines</a>.</p>
+
+<h2 id="photo-policy">Photo Policy</h2>
+
+<p>I like this so much its getting a heading, they have a color coded badges \ lanyard system, like any other event you have a pass saying you are part of it, this one lets others know what your picture policy is.</p>
+
+<p>&ldquo;Your lanyard, when you came in, is either black by default or if you chose a lanyard that&rsquo;s yellow that means that please ask me before taking my photo, and then of course if they say no you gotta respect that. Even if someone else has taken their photo that doesn&rsquo;t give you permission to take their photo you have to ask.&rdquo;</p>
+
+<blockquote>
+<p>&ldquo;If they&rsquo;re lanyards are red that means do not take their photo and please try to see if I need group what do you you can crop them out like literally while you&rsquo;re taking the photo make sure that they&rsquo;re not in it if at all possible I think that&rsquo;s the photo policy&rdquo;</p>
+</blockquote>
+
+<p>I thought that was neat so I&rsquo;m sharing here.</p>
+
+<h2 id="participating">Participating</h2>
+
+<ul>
+<li><a href="https://indieweb.org/2019/Demos">2019/Demos</a> - day 2 demos</li>
+<li><a href="https://indieweb.org/2019/Project_Goals">Project Goals</a> - add yourself and your project goals for the event</li>
+<li><a href="https://indieweb.org/2019/Session_proposals">2019/Session proposals</a> - place for ideation for sessions pre-Summit</li>
+</ul>
+
+<h3 id="discuss-https-indieweb-org-discuss"><a href="https://indieweb.org/Discuss">Discuss</a></h3>
+
+<p>Use this via Desktop <em>first</em> and then you will be able to access these channels via Mobile.</p>
+
+<ul>
+<li><a href="https://riot.im/develop/#/room/#freenode_#indieweb:matrix.org">Matrix bridge to #indieweb chat (via riot.im)</a></li>
+<li><a href="https://riot.im/develop/#/room/#freenode_#indieweb-meta:matrix.org">Matrix bridge to #meta channnel chat (via riot.im)</a></li>
+<li><a href="https://riot.im/develop/#/room/#freenode_#indieweb-dev:matrix.org">Matrix bridge to #dev channnel chat (via riot.im)</a></li>
+<li><a href="https://riot.im/develop/#/room/#freenode_#indieweb-wordpress:matrix.org">Matrix bridge to #wordpress channnel chat (via riot.im)</a></li>
+<li><a href="https://riot.im/develop/#/room/#freenode_#indieweb-chat:matrix.org">Matrix bridge to #chat channnel chat (via riot.im)</a></li>
+<li><a href="https://riot.im/develop/#/room/#freenode_#indieweb-news:matrix.org">Matrix bridge to #chat channnel chat (via riot.im)</a></li>
+<li><a href="https://riot.im/develop/#/room/#freenode_#microformats:matrix.org">Matrix bridge to #microformats chat (via riot.im)</a></li>
+<li><a href="https://riot.im/develop/#/room/#freenode_#knownchat:matrix.org">Matrix bridge to #knownchat chat (via riot.im)</a></li>
+</ul>
+
+<h3 id="keynotes">Keynotes</h3>
+
+<ul>
+<li><a href="https://indieweb.org/2019/Schedule">Session Grid</a> - session proposals and session grid
+
+<ul>
+<li><a href="https://indieweb.org/User:Tantek.com">Tantek Çelik</a> — <a href="https://indieweb.org/2019/state-of-the-indieweb">State of the IndieWeb</a></li>
+<li><a href="https://indieweb.org/wiki/index.php?title=User:Kitt.hodsden.org&amp;action=edit&amp;redlink=1">Kitt Hodsden</a> — On Contractions &amp; Expansions</li>
+<li><a href="https://indieweb.org/wiki/index.php?title=User:Mjordan.codes&amp;action=edit&amp;redlink=1">mJordan</a> — Changing My Domain</li>
+<li><a href="https://indieweb.org/User:Martymcgui.re">Marty McGuire</a> — Own Your Mobile Experience</li>
+<li><a href="https://indieweb.org/User:Jacky.wtf">Jacky Alciné</a> — <a href="https://slides.com/jackyalcine-1/making-the-indieweb-open-to-all/">Making the IndieWeb for All</a></li>
+</ul></li>
+</ul>
+
+<h2 id="state-of-the-indieweb-https-indieweb-org-2019-state-of-the-indieweb"><a href="https://indieweb.org/2019/state-of-the-indieweb">State of the IndieWeb</a></h2>
+
+<p>Tantek discussed mainstream attention gained with the New Yorker Article:</p>
+
+<ul>
+<li><a href="https://www.newyorker.com/tech/annals-of-technology/can-indie-social-media-save-us">Can “Indie” Social Media Save Us?</a>
+&gt;In 2017, Manton Reece, an IndieWeb developer based in Austin, Texas, launched a Kickstarter for a service called Micro.blog. On its surface, Micro.blog looks a lot like Twitter or Instagram; you can follow users and see their posts sorted into a time line, and, if you like a post, you can send a reply that everyone can see. When I checked Micro.blog’s public time line recently, the top post was a picture of a blooming dogwood tree, with the caption “Spring is coming!”</li>
+</ul>
+
+<p><img src="https://imgur.com/qohLXf6.png" alt="" /></p>
+
+<ul>
+<li><a href="https://indieweb.org/Homebrew_Website_Club">Homebrew Website Club</a>
+&gt;Homebrew Website Club is a bi-weekly meetup of people passionate about or interested in creating, improving, building, designing their own website, in the same structure as the <a href="https://en.wikipedia.org/wiki/Homebrew_Computer_Club">classic Homebrew Computer Club meetings</a>.</li>
+
+<li><p><a href="https://indieweb.org/IndieWebCamps">IndieWebCamps</a>
+&gt;IndieWebCamps are brainstorming and building events where IndieWeb creators gather semi-regularly to meet in person, share ideas, and collaborate on IndieWeb design, UX, &amp; code for their own sites.</p></li>
+
+<li><p><a href="https://snarfed.org/2019-01-02_bridgy-stats-update-4#comment-2731107">snarfed.org - Brigdy Stats Update</a>
+&gt;Updated through mid June 2019 for State of the IndieWeb at Summit 2019. Graphs below. The one big noticeable event since Jan was the Google+ shutdown on 2019-03-07.
+&gt;
+&gt;For fun, we can use this to estimate the total number of webmentions sent in the wild to date.</p></li>
+</ul>
+
+<p><img src="https://imgur.com/UiyO0Ez.png" alt="" /></p>
+
+<p><img src="https://imgur.com/3G2O4v8.png" alt="" /></p>
+
+<p><img src="https://imgur.com/t1wD01p.png" alt="" /></p>
+
+<ul>
+<li><a href="https://2019.indieweb.org/summit#travel-assistance">Travel Assistance</a>
+&gt;The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It&rsquo;s crucial to have independent web creators from all backgrounds at IndieWeb Summit to have a rich discussion and build cool things</li>
+</ul>
+
+<p>He also discussed the idea of introducing <a href="https://indieweb.org/private_posts">private Posts</a> and groups, as well as the idea of supporting payment processing with indieweb specs, as well as discovery.</p>
+
+<h2 id="on-contractions-expansions">On Contractions &amp; Expansions</h2>
+
+<ul>
+<li><a href="https://indieweb.org/wiki/index.php?title=User:Kitt.hodsden.org&amp;action=edit&amp;redlink=1">Kitt Hodsden</a> — On Contractions &amp; Expansions</li>
+</ul>
+
+<p>I notice there was live captioning of the presentations, so for the moment, I point you to the video until I find more about the captioning.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=2381" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 id="changing-my-domain">Changing My Domain</h2>
+
+<p><a href="https://indieweb.org/wiki/index.php?title=User:Mjordan.codes&amp;action=edit&amp;redlink=1">mJordan</a> shares the story of changing her name from Michelle to Jordan, to get called for job interviews by downplaying her femininity.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=2926" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 id="own-your-mobile-experience">Own Your Mobile Experience</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=3238" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><a href="https://indieweb.org/User:Martymcgui.re">Marty McGuire</a> presents:</p>
+
+<h3 id="indigenous">Indigenous</h3>
+
+<ul>
+<li><a href="https://indieweb.org/indigenous">Indigenous</a> (ios app) by Eddie Hinkle.
+&gt;Indigenous is a set of native apps for iOS and Android currently in beta that supports posting your website using Micropub and a built-in reader that supports Microsub. -<a href="https://indieweb.org/Indigenous">Indigenous</a></li>
+</ul>
+
+<p>When you see the word &ldquo;reader&rdquo; that&rsquo;s just the special word for an IndieWeb mobile application that &ldquo;reads&rdquo; posts. It&rsquo;s a hub where you can connect with other indiewebbers, like any centralized social app, except these users own and control their content.</p>
+
+<p>An IndieWeb reader is very much like an RSS Reader.</p>
+
+<ul>
+<li><a href="https://www.lifewire.com/what-is-an-rss-feed-4684568">What Is an RSS Feed? (And Where to Get It)</a>
+&gt;RSS stands for Really Simple Syndication and it’s is a simple, standardized content distribution method that can help you stay up-to-date with your favorite newscasts, blogs, websites, and social media channels. Instead of visiting sites to find new posts or subscribing to sites to receive notification of new posts, find the RSS feed on a website and read new posts in an RSS reader.</li>
+</ul>
+
+<h3 id="indigenous-android">Indigenous Android</h3>
+
+<p>The Android version of Indigeonous is made available by Kristof De Jaeger also known as <a href="https://github.com/swentel/indigenous-android">swentel</a>.</p>
+
+<ul>
+<li><a href="https://realize.be/mobile">https://realize.be/mobile</a></li>
+</ul>
+
+<p><img src="https://imgur.com/sn0qUhE.png" alt="" /></p>
+
+<h3 id="indigenous-ios">Indigenous IOS</h3>
+
+<p>I went to Eddie Hinkle&rsquo;s <a href="https://github.com/EdwardHinkle/indigenous-ios">GitHub repository</a> for the IOS App and found a link to this post:</p>
+
+<ul>
+<li><a href="https://eddiehinkle.com/2019/05/08/5/article/">Final Indigenous Log: The Future of the App</a>
+&gt;Going forward, Indigenous will be broken into different apps rather than trying to make a monster app that does everything. I have had three goals of the app up to now:
+&gt;
+&gt;* A fun social reader
+&gt;* A Micropub app for posting to blogs
+&gt;* A reading app for long-form saved articles</li>
+</ul>
+
+<h4 id="remark">Remark</h4>
+
+<ul>
+<li><a href="https://github.com/EdwardHinkle/remark">EdwardHinkle/remark</a>
+&gt;Remark is the first of the three Abode Suite apps that will be released and is the project I am currently working on. Remark will be the replacement of the fun social reader aspect of Indigenous. It&rsquo;s name is built on the idea that we read things that people are talking about and saying and we respond or remark on them. This will be primarily a Microsub app with Micropub sprinkled in just enough to allow you to post short notes, replies or reactions. Think of this as an IndieWeb Twitter-like app.</li>
+</ul>
+
+<h4 id="chronicler">Chronicler</h4>
+
+<ul>
+<li><a href="https://github.com/EdwardHinkle/chronicler">EdwardHinkle/chronicler</a>
+&gt;Chronicler will be the replacement for the Micropub app for posting to blogs feature of Indigenous. I&rsquo;ve wanted to add support for offline authoring of posts, editing/updating posts, and more tools for long-form posting or posting things such as audio and video from Indigenous.</li>
+</ul>
+
+<h4 id="anthologist">Anthologist</h4>
+
+<ul>
+<li><a href="https://github.com/EdwardHinkle/anthologist">EdwardHinkle/anthologist</a>
+&gt;Anthologist will be the third app of the Abode Suite trio, being a reading app for long-form saved articles. This app will be based on Microsub and won&rsquo;t be optimized for short-form content (although there won&rsquo;t be a technical restriction against it). This app will likely allow you to choose from 1 (or more) channels within your Microsub account to store offline in the app for reading.</li>
+</ul>
 
         </section>
         <footer>
@@ -213,6 +408,8 @@
             
             <hr class="post-underline">
             <p class="post-tag">Tags for this post: 
+            
+                <a href="https://web-work.tools/indieweb/tags/livestream" class="post-tag p-category">livestream</a>
             
                 <a href="https://web-work.tools/indieweb/tags/code-of-conduct" class="post-tag p-category">code-of-conduct</a>
             
