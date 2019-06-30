@@ -7,6 +7,7 @@ tags: [indieweb, github-pages, resources, jekyll static-sites]
 subtitle: To Become An Extensive Collection
 slug: /resources/
 draft: false
+images: "https://imgur.com/ahnVZ9tl.png"
 aliases:
   - /posts/indieweb-resources/
   - /posts/indieweb-resources

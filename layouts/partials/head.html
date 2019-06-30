@@ -9,7 +9,7 @@
     <!-- Twitter Cards-->
     <!-- Twitter summary card with large image must be at least 280x150px -->
     <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:image:src" content="https://web-work.tools/indieweb/images/indieweb.jpg"/>
+    <meta name="twitter:image:src" content="{{ with .Params.images }}{{ . }}{{ else }}{{ .Site.Params.images }}{{ end }}"/>
     <!-- Twitter Card data -->
     <meta name="twitter:title" content="{{ .Title }}"/>
     <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
