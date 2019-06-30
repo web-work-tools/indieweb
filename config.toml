@@ -16,7 +16,7 @@ paginate = 8
   Biography = "Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, Indieweb ⧉ her/him"
   ShowBio = true
   PermalinkText = "🔗"
-  images = "images/indieweb.jpg"
+  images = ["images/indieweb.jpg"]
 
   # Contact/social-network identifiers for social icons
   EmailAddress = "infominer@protonmail.com"
@@ -38,10 +38,8 @@ paginate = 8
     Country = "49 6e 64 75 73"
     City = "Mehtab Bagh"
 
-  [params.twitter]
-    card = "summary_image_large"
-    site = "@infominer33"
-    creator = "@infominer33"
+[Social]
+  twitter = "infominer33"
 
 #https://github.com/kisik21/indigo/commit/e168672487b78bef5070cc0eb70bc5d4e748c707
   [params.endpoints]
