@@ -133,9 +133,15 @@
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Homebrew Website Club is a bi-weekly meetup of people passionate about or interested in creating, improving, building, designing their own website, in the same structure as the &lt;a href=&#34;https://en.wikipedia.org/wiki/Homebrew_Computer_Club&#34;&gt;classic Homebrew Computer Club meetings&lt;/a&gt;.
-* &lt;a href=&#34;https://indieweb.org/IndieWebCamps&#34;&gt;IndieWebCamps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Homebrew Website Club is a bi-weekly meetup of people passionate about or interested in creating, improving, building, designing their own website, in the same structure as the &lt;a href=&#34;https://en.wikipedia.org/wiki/Homebrew_Computer_Club&#34;&gt;classic Homebrew Computer Club meetings&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/IndieWebCamps&#34;&gt;IndieWebCamps&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
 &lt;p&gt;IndieWebCamps are brainstorming and building events where IndieWeb creators gather semi-regularly to meet in person, share ideas, and collaborate on IndieWeb design, UX, &amp;amp; code for their own sites.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -273,6 +279,162 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;Monocle is just one of many IndieWeb readers! It works great on a mobile device, but if you prefer a native app you can use Indigenous for iPhone or Android.&lt;/p&gt;
+
+&lt;h3 id=&#34;ios-13-shortcuts&#34;&gt;IOS 13 - ShortCuts&lt;/h3&gt;
+
+&lt;p&gt;This is pretty incredible!&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ll want to hear marty describe the way shortcuts can be used to support IndieWeb functionality in a big way.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I was able to create shortcuts that can use the same IndieWeb building blocks micro pub to actually post my site and what I&amp;rsquo;m doing here is I have shared a Goodreads URL to my shortcut which is gonna post here it&amp;rsquo;s asking me whether I want to mark this as something I want to read I&amp;rsquo;m a reading or finished reading I want to say it&amp;rsquo;s to read and then it&amp;rsquo;s 64:20
+create a little micro pub post and I often went to my site and the next time I get my site compiling it&amp;rsquo;ll be up there and we can see we can see like these are things that I used to post a Goodreads but now I can track them all on my site -&lt;a href=&#34;https://youtu.be/-bBMK3Nu7fY?t=3773&#34;&gt;1:03:50&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lifehacker.com/how-to-trigger-automatic-shortcuts-in-ios-13-1835516448&#34;&gt;How to Trigger Automatic Shortcuts in iOS 13&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Here’s the list of everything that can trigger an automatic shortcut so far, with one caveat—we’re still early in the iOS 13 beta, so it’s possible that new triggers might be added or removed in future (or final) builds. If you’re beta-testing iOS 13, you’ll find these new triggers in the Shortcuts app.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Airplane Mode: Trigger actions when Airplane Mode is enabled or disabled.&lt;/li&gt;
+&lt;li&gt;Alarm: Triggers can be set for various alarm behaviors, such as when an alarm is snoozed, stopped, or first goes off.&lt;/li&gt;
+&lt;li&gt;Apple Watch Workout: Triggers can run when a workout is stopped or started on your Apple Watch.&lt;/li&gt;
+&lt;li&gt;Arrive: Set behaviors for when you arrive at specific locations. You can also set time windows for when these triggers go off, such as immediately when you arrive, 10 minutes after, etc.&lt;/li&gt;
+&lt;li&gt;Before I Leave: Can be set for 5, 10, 15, 30, or 60 minutes before you leave home.&lt;/li&gt;
+&lt;li&gt;Bluetooth: Can create device-specific triggers for when a device is paired.&lt;/li&gt;
+&lt;li&gt;CarPlay: Triggers actions to occur when you connect or disconnect from CarPlay.&lt;/li&gt;
+&lt;li&gt;Do Not Disturb: Set up triggers for when Do Not Disturb is turned on or off.&lt;/li&gt;
+&lt;li&gt;Leave: Similar to the Arrive trigger, but for when you leave a specific location instead.&lt;/li&gt;
+&lt;li&gt;Low Power Mode: Can set shortcut triggers for when the setting is either enabled or disabled.&lt;/li&gt;
+&lt;li&gt;NFC: Create triggers for when your phone recognizes specific NFC tags.&lt;/li&gt;
+&lt;li&gt;Open App: Set actions to happen when specific apps are opened.&lt;/li&gt;
+&lt;li&gt;Time of Day: Can set up triggers to happen are specific times of day. These can be general—such as at dawn or dusk—or more granular, down to an exact hour and minute on designated days.&lt;/li&gt;
+&lt;li&gt;Wi-Fi: Triggers for when you connect to a specific network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Enable &lt;em&gt;live photo&lt;/em&gt; loops on your site&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/AgLfVm4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;one last thing I will show before I hop out of here that photo that Jackie and I took is is a live photo and this is where you get into the kind of stuff that you can only build when it&amp;rsquo;s your website like this this kind of thing is like new and high on boomerang and apps that like you send to people and it disappears but I really like this little bouncy loop so I&amp;rsquo;m gonna share it to my website and I do that through another shortcut I made called live photo to micro pub video it takes that loop lets you and this is all part of iOS so far uploads it put a caption I
+call this the indie web dance&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;making-the-indieweb-for-all-https-slides-com-jackyalcine-1-making-the-indieweb-open-to-all&#34;&gt;&lt;a href=&#34;https://slides.com/jackyalcine-1/making-the-indieweb-open-to-all/&#34;&gt;Making the IndieWeb for All&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://indieweb.org/User:Jacky.wtf&#34;&gt;Jacky Alciné&lt;/a&gt; (&lt;a href=&#34;https://black.af/&#34;&gt;black.af&lt;/a&gt;)was gracious enough to create a presentation that is embeddable via slides.com, so it will be simple to follow along.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/-bBMK3Nu7fY?start=4187&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;approaches&#34;&gt;Approaches&lt;/h3&gt;
+
+&lt;p&gt;One thing Jacky mentions i want to highlight because I think it&amp;rsquo;s a cool idea to do something like the live browser python tutorials:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/Z7dDhQh.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another is the idea of mapping IndieWeb relationships visually&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/DyhXSF6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/K5h5pl3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/onTuY0K.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/BuSKn3b.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/ToLzvPt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/reply#How_To&#34;&gt;indieweb.org/reply#How_To&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to re-produce part of that text, and encourage you to visit the wiki, linked above, for more information.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A reply (or comment) is a kind of post that is a text (typically, though photos are possible too) response to some other post, that makes little or no sense without reading or at least knowing the context of the source post.&lt;/p&gt;
+
+&lt;p&gt;Replies rarely have names/titles, though they sometimes have other structure like multiple paragraphs, or blockquotes from the source that are being specifically responded too.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Write a post (e.g. note) on your own site&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Link to the original&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you are using the h-entry microformat to mark up your reply (as you should), add class=&amp;ldquo;u-in-reply-to&amp;rdquo; to that link as well, e.g. a simple how to markup code snippet:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;div class=&amp;quot;h-entry&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;http://example.com/note123&amp;quot; class=&amp;quot;u-in-reply-to&amp;quot;&amp;gt;Some note with a point&amp;lt;/a&amp;gt;
+ &amp;lt;div class=&amp;quot;p-name p-content&amp;quot;&amp;gt;Good point! Now what is the next thing we should do?&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Send a webmention from your server to the original&amp;rsquo;s server (as detailed below). Ideally your server/software should automatically do the (3) webmention for all links in your post.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Include author information in your reply post so the original knows who is replying (and then send another Webmention so the original page gets the update).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here&amp;rsquo;s another example with explicit author name and icon, in case your site or blog does not already provide that on the page.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;div class=&amp;quot;h-entry&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;p-author h-card&amp;quot; href=&amp;quot;http://mysite.example.org&amp;quot;&amp;gt;
+   &amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://mysite.example.org/icon.jpg&amp;quot;/&amp;gt;
+   Supercool Indiewebauthor&amp;lt;/a&amp;gt;: 
+ in reply to:
+ &amp;lt;a href=&amp;quot;http://example.com/note123&amp;quot; class=&amp;quot;u-in-reply-to&amp;quot;&amp;gt;Some note with a point&amp;lt;/a&amp;gt;
+ &amp;lt;div class=&amp;quot;p-name p-content&amp;quot;&amp;gt;Good point! Now what is the next thing we should do?&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;For those with less experience with code, Aaron Parecki has written &lt;a href=&#34;https://aaronparecki.com/2018/06/30/11/your-first-webmention&#34;&gt;Sending your First Webmention from Scratch&lt;/a&gt; which includes a lot of additional details for sending replies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/MtBvXvo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make what you need&lt;/strong&gt;
+&lt;img src=&#34;https://imgur.com/lDbo3wW.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/CYyo3ib.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;iframe src=&#34;//slides.com/jackyalcine-1/making-the-indieweb-open-to-all/embed&#34; width=&#34;576&#34; height=&#34;420&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;demos&#34;&gt;Demos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tantek.com&#34;&gt;tantek.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Has a css theme switcher:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/WRBtJbK.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jamey.thesharps.us/&#34;&gt;Jamey Sharp&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jameysharp/reader-py&#34;&gt;jameysharp/reader-py&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://reader.minilop.net/&#34;&gt;reader.minilop.net&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jaredwhite.com&#34;&gt;Jared White&lt;/a&gt; (moving from youtube to vimeo)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jared-ewy.squarespace.com&#34;&gt;Jared-ewy.squarespace.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/fluffy&#34;&gt;Fluffy&lt;/a&gt; - &lt;a href=&#34;http://beesbuzz.biz/&#34;&gt;beesbuzz.biz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fluffy-critter&#34;&gt;github&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PlaidWeb/Publ&#34;&gt;PlaidWeb/Publ&lt;/a&gt; - &amp;ldquo;Like a Static Site Generator, but Dynamic&amp;rdquo; works w git-flow.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PlaidWeb/publ-site&#34;&gt;PlaidWeb/publ-site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

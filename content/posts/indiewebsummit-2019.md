@@ -101,6 +101,7 @@ Tantek discussed mainstream attention gained with the New Yorker Article:
 * [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
   
   >Homebrew Website Club is a bi-weekly meetup of people passionate about or interested in creating, improving, building, designing their own website, in the same structure as the [classic Homebrew Computer Club meetings](https://en.wikipedia.org/wiki/Homebrew_Computer_Club).
+
 * [IndieWebCamps](https://indieweb.org/IndieWebCamps)
   
   >IndieWebCamps are brainstorming and building events where IndieWeb creators gather semi-regularly to meet in person, share ideas, and collaborate on IndieWeb design, UX, & code for their own sites.
@@ -202,3 +203,133 @@ I went to Eddie Hinkle's [GitHub repository](https://github.com/EdwardHinkle/ind
 
 Monocle is just one of many IndieWeb readers! It works great on a mobile device, but if you prefer a native app you can use Indigenous for iPhone or Android.
 
+### IOS 13 - ShortCuts
+
+This is pretty incredible!
+
+You'll want to hear marty describe the way shortcuts can be used to support IndieWeb functionality in a big way.
+
+>I was able to create shortcuts that can use the same IndieWeb building blocks micro pub to actually post my site and what I'm doing here is I have shared a Goodreads URL to my shortcut which is gonna post here it's asking me whether I want to mark this as something I want to read I'm a reading or finished reading I want to say it's to read and then it's 64:20
+create a little micro pub post and I often went to my site and the next time I get my site compiling it'll be up there and we can see we can see like these are things that I used to post a Goodreads but now I can track them all on my site -[1:03:50](https://youtu.be/-bBMK3Nu7fY?t=3773)
+
+
+* [How to Trigger Automatic Shortcuts in iOS 13](https://lifehacker.com/how-to-trigger-automatic-shortcuts-in-ios-13-1835516448)
+
+>Here’s the list of everything that can trigger an automatic shortcut so far, with one caveat—we’re still early in the iOS 13 beta, so it’s possible that new triggers might be added or removed in future (or final) builds. If you’re beta-testing iOS 13, you’ll find these new triggers in the Shortcuts app.
+>
+>* Airplane Mode: Trigger actions when Airplane Mode is enabled or disabled.
+>* Alarm: Triggers can be set for various alarm behaviors, such as when an alarm is snoozed, stopped, or first goes off.
+>* Apple Watch Workout: Triggers can run when a workout is stopped or started on your Apple Watch.
+>* Arrive: Set behaviors for when you arrive at specific locations. You can also set time windows for when these triggers go off, such as immediately when you arrive, 10 minutes after, etc.
+>* Before I Leave: Can be set for 5, 10, 15, 30, or 60 minutes before you leave home.
+>* Bluetooth: Can create device-specific triggers for when a device is paired.
+>* CarPlay: Triggers actions to occur when you connect or disconnect from CarPlay.
+>* Do Not Disturb: Set up triggers for when Do Not Disturb is turned on or off.
+>* Leave: Similar to the Arrive trigger, but for when you leave a specific location instead.
+>* Low Power Mode: Can set shortcut triggers for when the setting is either enabled or disabled.
+>* NFC: Create triggers for when your phone recognizes specific NFC tags.
+>* Open App: Set actions to happen when specific apps are opened.
+>* Time of Day: Can set up triggers to happen are specific times of day. These can be general—such as at dawn or dusk—or more granular, down to an exact hour and minute on designated days.
+>* Wi-Fi: Triggers for when you connect to a specific network.
+
+**Enable *live photo* loops on your site**
+
+![](https://imgur.com/AgLfVm4.png)
+
+> one last thing I will show before I hop out of here that photo that Jackie and I took is is a live photo and this is where you get into the kind of stuff that you can only build when it's your website like this this kind of thing is like new and high on boomerang and apps that like you send to people and it disappears but I really like this little bouncy loop so I'm gonna share it to my website and I do that through another shortcut I made called live photo to micro pub video it takes that loop lets you and this is all part of iOS so far uploads it put a caption I
+call this the indie web dance 
+
+## [Making the IndieWeb for All](https://slides.com/jackyalcine-1/making-the-indieweb-open-to-all/)
+
+[Jacky Alciné](https://indieweb.org/User:Jacky.wtf) ([black.af](https://black.af/))was gracious enough to create a presentation that is embeddable via slides.com, so it will be simple to follow along.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-bBMK3Nu7fY?start=4187" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Approaches
+
+One thing Jacky mentions i want to highlight because I think it's a cool idea to do something like the live browser python tutorials:
+
+![](https://imgur.com/Z7dDhQh.png)
+
+
+Another is the idea of mapping IndieWeb relationships visually
+
+![](https://imgur.com/DyhXSF6.png)
+
+
+![](https://imgur.com/K5h5pl3.png)
+
+![](https://imgur.com/onTuY0K.png)
+
+![](https://imgur.com/BuSKn3b.png)
+
+![](https://imgur.com/ToLzvPt.png)
+
+* [indieweb.org/reply#How_To](https://indieweb.org/reply#How_To) 
+
+I'm going to re-produce part of that text, and encourage you to visit the wiki, linked above, for more information.
+
+>A reply (or comment) is a kind of post that is a text (typically, though photos are possible too) response to some other post, that makes little or no sense without reading or at least knowing the context of the source post.
+>
+>Replies rarely have names/titles, though they sometimes have other structure like multiple paragraphs, or blockquotes from the source that are being specifically responded too.
+
+>1. Write a post (e.g. note) on your own site
+>
+>2. Link to the original
+>
+>If you are using the h-entry microformat to mark up your reply (as you should), add class="u-in-reply-to" to that link as well, e.g. a simple how to markup code snippet:
+
+```html
+<div class="h-entry">
+ <a href="http://example.com/note123" class="u-in-reply-to">Some note with a point</a>
+ <div class="p-name p-content">Good point! Now what is the next thing we should do?</div>
+</div>
+```
+
+>3. Send a webmention from your server to the original's server (as detailed below). Ideally your server/software should automatically do the (3) webmention for all links in your post.
+>
+>4. Include author information in your reply post so the original knows who is replying (and then send another Webmention so the original page gets the update).
+>
+>Here's another example with explicit author name and icon, in case your site or blog does not already provide that on the page.
+
+```html
+<div class="h-entry">
+ <a class="p-author h-card" href="http://mysite.example.org">
+   <img alt="" src="http://mysite.example.org/icon.jpg"/>
+   Supercool Indiewebauthor</a>: 
+ in reply to:
+ <a href="http://example.com/note123" class="u-in-reply-to">Some note with a point</a>
+ <div class="p-name p-content">Good point! Now what is the next thing we should do?</div>
+</div>
+```
+
+>For those with less experience with code, Aaron Parecki has written [Sending your First Webmention from Scratch](https://aaronparecki.com/2018/06/30/11/your-first-webmention) which includes a lot of additional details for sending replies. 
+
+![](https://imgur.com/MtBvXvo.png)
+
+
+**Make what you need**
+![](https://imgur.com/lDbo3wW.png)
+
+![](https://imgur.com/CYyo3ib.png)
+
+<iframe src="//slides.com/jackyalcine-1/making-the-indieweb-open-to-all/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## Demos
+
+* [tantek.com](https://tantek.com)
+
+Has a css theme switcher: 
+
+![](https://imgur.com/WRBtJbK.png)
+
+
+* [Jamey Sharp](https://jamey.thesharps.us/)
+  * [jameysharp/reader-py](https://github.com/jameysharp/reader-py)
+  * [reader.minilop.net](http://reader.minilop.net/)
+* [Jared White](https://jaredwhite.com) (moving from youtube to vimeo)
+* [Jared-ewy.squarespace.com](https://jared-ewy.squarespace.com)
+* [Fluffy](https://twitter.com/fluffy) - [beesbuzz.biz](http://beesbuzz.biz/) 
+* [github](https://github.com/fluffy-critter)
+  * [PlaidWeb/Publ](https://github.com/PlaidWeb/Publ) - "Like a Static Site Generator, but Dynamic" works w git-flow.
+  * [PlaidWeb/publ-site](https://github.com/PlaidWeb/publ-site)
