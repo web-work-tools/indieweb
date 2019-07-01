@@ -4,13 +4,42 @@
   
   <url>
     <loc>https://web-work.tools/indieweb/</loc>
-    <lastmod>2019-06-29T01:13:33-23:00</lastmod>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/categories/</loc>
-    <lastmod>2019-06-29T01:13:33-23:00</lastmod>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/posts/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/about/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/categories/ssg4-indieweb/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/welcome/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -23,18 +52,6 @@
   <url>
     <loc>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</loc>
     <lastmod>2019-06-29T01:13:33-23:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/posts/</loc>
-    <lastmod>2019-06-29T01:13:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/</loc>
-    <lastmod>2019-06-29T01:13:33-23:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -74,13 +91,13 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/categories/indiewebcamp/</loc>
+    <loc>https://web-work.tools/indieweb/tags/indiewebcamp/</loc>
     <lastmod>2019-06-26T01:13:33-23:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/tags/indiewebcamp/</loc>
+    <loc>https://web-work.tools/indieweb/categories/indiewebcamp/</loc>
     <lastmod>2019-06-26T01:13:33-23:00</lastmod>
     <priority>0</priority>
   </url>
@@ -221,11 +238,6 @@
     <loc>https://web-work.tools/indieweb/tags/rwot/</loc>
     <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/about/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>

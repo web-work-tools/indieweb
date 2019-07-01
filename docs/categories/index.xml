@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Sat, 29 Jun 2019 01:13:33 -2300</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 01:13:33 -2300</lastBuildDate>
     
 	<atom:link href="https://web-work.tools/indieweb/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SSG4-IndieWeb</title>
+      <link>https://web-work.tools/indieweb/categories/ssg4-indieweb/</link>
+      <pubDate>Sun, 30 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/categories/ssg4-indieweb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IndieWeb Summit 2019</title>

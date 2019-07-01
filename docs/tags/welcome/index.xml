@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>welcome on An exploration of the IndieWebiverse</title>
+    <link>https://web-work.tools/indieweb/tags/welcome/</link>
+    <description>Recent content in welcome on An exploration of the IndieWebiverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
+    <lastBuildDate>Sun, 30 Jun 2019 01:13:33 -2300</lastBuildDate>
+    
+	<atom:link href="https://web-work.tools/indieweb/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SSG4 ⧉Info⧉</title>
+      <link>https://web-work.tools/indieweb/about/</link>
+      <pubDate>Sun, 30 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/about/</guid>
+      <description>While this site is very much a work in progress, I&amp;rsquo;m happy for as far as its come. It now supports header images, and twitter cards. With that solved, I am fairly pleased with the overall operation of this theme.</description>
+    </item>
+    
+  </channel>
+</rss>

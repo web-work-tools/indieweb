@@ -6,10 +6,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Sat, 29 Jun 2019 01:13:33 -2300</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 01:13:33 -2300</lastBuildDate>
     
         <atom:link href="https://web-work.tools/indieweb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SSG4 ⧉Info⧉</title>
+      <link>https://web-work.tools/indieweb/about/</link>
+      <pubDate>Sun, 30 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/about/</guid>
+      <description>
+
+&lt;p&gt;While this site is very much a work in progress, I&amp;rsquo;m happy for as far as its come. It now supports header images, and twitter cards. With that solved, I really am fairly pleased with the overall operation of this theme.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;AngeloStravrow/indigo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://web-work.tools/indieweb/indigo-features/&#34;&gt;Indigo Features&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My intention is to create an incredible resource for IndieWebbers who are interested in the static side of web-publishing.&lt;/p&gt;
+
+&lt;p&gt;Not to say that other platforms or workflows will be censored or ignored, but that there are plenty of good resources available for using Wordpress to achieve indieweb features.&lt;/p&gt;
+
+&lt;p&gt;It will be simpler to link to the best guides for non static implementations, but focus where my interest is, and I feel that my work will be best appreciated.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-sites&#34;&gt;Other SItes&lt;/h2&gt;
+
+&lt;h3 id=&#34;running-indieweb&#34;&gt;Running IndieWeb&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;Decentralized-Web Histories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://agoric-records.xyz&#34;&gt;Agoric Records&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;infominer33-https-github-com-infominer33&#34;&gt;&lt;a href=&#34;https://github.com/infominer33&#34;&gt;@infominer33&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://infominer.id&#34;&gt;infominer.id&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://infominer.id/about&#34;&gt;About Me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My personal account will mostly be for testing new projects, as a staging area, and where my homepage is hosted from.&lt;/p&gt;
+
+&lt;h3 id=&#34;web-work-tools-https-github-com-web-work-tools&#34;&gt;&lt;a href=&#34;https://github.com/web-work-tools&#34;&gt;@web-work-tools&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://web-work.tools&#34;&gt;web-work.tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/H6jF3SZ&#34;&gt;Web-work.tools - Discord Chat&lt;/a&gt; - Tons of resources organized by channel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This organization is for everything related to working with web-technologies. Starting with web-pub, git, and other web fundamentals.&lt;/p&gt;
+
+&lt;h3 id=&#34;sourcecrypto-https-github-com-sourcecrypto&#34;&gt;&lt;a href=&#34;https://github.com/sourcecrypto&#34;&gt;@sourcecrypto&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/ahTuPMY&#34;&gt;SourceCrypto - Discord Chat&lt;/a&gt; - Tons of resources organized by channel.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub&#34;&gt;SourceCrypto&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/bitcoin-history&#34;&gt;Bitcoin History&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/transcripts&#34;&gt;Transcripts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When there is audio that contains valuable information that should be available in print, I work on annotated, web-marked up, transcriptions.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;sourcecrypto.pub/decentralized-web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;didecentral-https-github-com-didecentral&#34;&gt;&lt;a href=&#34;https://github.com/didecentral&#34;&gt;@didecentral&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;DIDecentral has the most &amp;ldquo;legs&amp;rdquo;, of any of them, with a large userbase and a few individuals who are beginning to take a more active role in the website(s).&lt;/p&gt;
+
+&lt;p&gt;This organization is all about learning to create a vendor agnostic, widely interoperable, decentralized internet identity layer for people organizations and things.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://decentralized-id.com&#34;&gt;decentralized-id.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/eYm2XvZ&#34;&gt;DIDecentral - Discord Chat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a few related projects that will be released to the public, shortly.&lt;/p&gt;
+
+&lt;h3 id=&#34;learn-crypto-trading-https-github-com-learn-crypto-trading&#34;&gt;&lt;a href=&#34;https://github.com/learn-crypto-trading&#34;&gt;@learn-crypto-trading&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learncryptotrading.co&#34;&gt;learncryptotrading.co&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>IndieWeb Summit 2019 - Day 1 Review</title>
@@ -2499,103 +2589,6 @@ Identity consolidation is the ability for a user to indicate that one or more id
 &lt;li&gt;17:23 &lt;a href=&#34;https://indieweb.org/User:Aaronparecki.com&#34;&gt;[aaronpk]&lt;/a&gt; - zorg omg&lt;/li&gt;
 &lt;li&gt;17:24 &lt;a href=&#34;https://indieweb.org/User:Tantek.com&#34;&gt;[tantek]&lt;/a&gt; - YES&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>⧉Info⧉</title>
-      <link>https://web-work.tools/indieweb/about/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/about/</guid>
-      <description>
-
-&lt;p&gt;This site is built with the Indigo, an IndieWeb theme for Hugo.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;AngeloStravrow/indigo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Everything I personally publish is public-domain informational resources. Ideally they will grow to include enough participants to become self-sustaining, after a while.&lt;/p&gt;
-
-&lt;p&gt;Mainly, I&amp;rsquo;m just using these spaces as my classroom and playground. A copule more years of this and I&amp;rsquo;ll have more than enough valuable skills and knowledge, and the world will be better for it.&lt;/p&gt;
-
-&lt;p&gt;One nice feature of having so many organizations is I can for a repository into the appropriate one, and make it easier for folk to browse through. I&amp;rsquo;ll have a post about all that soon enough.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/infominer33&#34;&gt;&lt;img src=&#34;https://imgur.com/XRI9izx.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;running-indieweb&#34;&gt;Running IndieWeb&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;Decentralized Web Histories&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://agoric-records.netlify.com&#34;&gt;Agoric Records&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;infominer33-https-github-com-infominer33&#34;&gt;&lt;a href=&#34;https://github.com/infominer33&#34;&gt;@infominer33&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id&#34;&gt;infominer.id&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://infominer.id/about&#34;&gt;About Me&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My personal account will mostly be for testing new projects, as a staging area, and where my homepage is hosted from.&lt;/p&gt;
-
-&lt;h2 id=&#34;web-work-tools-https-github-com-web-work-tools&#34;&gt;&lt;a href=&#34;https://github.com/web-work-tools&#34;&gt;@web-work-tools&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://web-work.tools&#34;&gt;web-work.tools&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://discord.gg/H6jF3SZ&#34;&gt;Web-work.tools - Discord Chat&lt;/a&gt; - Tons of resources organized by channel.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This organization is for everything related to working with web-technologies. Starting with web-pub, git, and other web fundamentals.&lt;/p&gt;
-
-&lt;h2 id=&#34;sourcecrypto-https-github-com-sourcecrypto&#34;&gt;&lt;a href=&#34;https://github.com/sourcecrypto&#34;&gt;@sourcecrypto&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub&#34;&gt;SourceCrypto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://discord.gg/ahTuPMY&#34;&gt;SourceCrypto - Discord Chat&lt;/a&gt; - Tons of resources organized by channel.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;sourcecrypto-bitcoin-history-https-github-com-sourcecrypto-bitcoin-history&#34;&gt;&lt;a href=&#34;https://github.com/sourcecrypto/bitcoin-history&#34;&gt;sourcecrypto/bitcoin-history&lt;/a&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/bitcoin-history&#34;&gt;Bitcoin History&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To me everything is related to Bitcoin. So these histories cover a lot of stuff that isn&amp;rsquo;t directly about Bitcoin.&lt;/p&gt;
-
-&lt;h3 id=&#34;sourcecrypto-transcripts-https-github-com-sourcecrypto-transcripts&#34;&gt;&lt;a href=&#34;https://github.com/sourcecrypto/transcripts&#34;&gt;sourcecrypto/transcripts&lt;/a&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/transcripts&#34;&gt;sourcecrypto.pub/transcripts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When there is audio that contains valuable information that should be available in print, I work on annotated, web-marked up, transcriptions.&lt;/p&gt;
-
-&lt;h3 id=&#34;sourcecrypto-decentralized-web-https-github-com-sourcecrypto-decentralized-web&#34;&gt;&lt;a href=&#34;https://github.com/sourcecrypto/decentralized-web&#34;&gt;sourcecrypto/decentralized-web&lt;/a&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;sourcecrypto.pub/decentralized-web&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;didecentral-https-github-com-didecentral&#34;&gt;&lt;a href=&#34;https://github.com/didecentral&#34;&gt;@didecentral&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;DIDecentral has the most &amp;ldquo;legs&amp;rdquo;, of any of them, with a large userbase and a few individuals who are beginning to take a more active role in the website(s).&lt;/p&gt;
-
-&lt;p&gt;This organization is all about learning to create a vendor agnostic, widely interoperable, decentralized internet identity layer for people organizations and things.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://decentralized-id.com&#34;&gt;decentralized-id.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://discord.gg/eYm2XvZ&#34;&gt;DIDecentral - Discord Chat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are a few related projects that will be released to the public, shortly.&lt;/p&gt;
-
-&lt;h2 id=&#34;learn-crypto-trading-https-github-com-learn-crypto-trading&#34;&gt;&lt;a href=&#34;https://github.com/learn-crypto-trading&#34;&gt;@learn-crypto-trading&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://learncryptotrading.co&#34;&gt;learncryptotrading.co&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

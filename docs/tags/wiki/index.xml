@@ -18,8 +18,7 @@
       <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
-      <description>The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a BASH shell.
-So I grabbed the audio from twitch and converted to mp4 with ffmpeg and put it on youtube, so I could take advantage of the easy embed, and autotranscription.</description>
+      <description>he IndieWeb community is building the foundation of a web controlled by individuals for themselves. It&amp;rsquo;s crucial to have independent web creators from all backgrounds at IndieWeb Summit to have a rich discussion and build cool things</description>
     </item>
     
     <item>
