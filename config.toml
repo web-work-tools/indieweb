@@ -2,7 +2,7 @@ publishdir = "docs"
 enableEmoji = true
   
 baseurl = "https://web-work.tools/indieweb/"
-title = "An exploration of the IndieWebiverse"
+title = "SSG4 -An exploration of the IndieWebiverse"
 copyright = "⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉"
 languageCode = "en-gb"
 theme = "indigo"
