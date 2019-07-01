@@ -28,19 +28,19 @@ What I love about publishing via static site generators, it doesn't cost me a di
 
 Then, I, or anyone else can carry the site around in our pockets if we want.
 
-## Other Sites
 
-### Running IndieWeb
+## Sites Running IndieWeb
 
 * [Decentralized-Web Histories](https://sourcecrypto.pub/decentralized-web) 
   * [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
 * [Agoric Records](https://agoric-records.xyz) _The Agoric Papers, Object Capabilities, E-Language._
   * [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll)
 
-## [@infominer33](https://github.com/infominer33)  
+## Other Sites Running SSGs
 
-* [infominer.id](https://infominer.id)
-* [About Me](https://infominer.id/about)
+* [@infominer33](https://github.com/infominer33)  
+  * [infominer.id](https://infominer.id)
+  * [About Me](https://infominer.id/about)
 
 My personal account will mostly be for testing new projects, as a staging area, and where my homepage is hosted from.
 
