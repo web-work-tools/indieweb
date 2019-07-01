@@ -494,8 +494,10 @@ one time
 ![](https://imgur.com/PiZni11.png)
 
 * [Dave Peck](https://davepeck.org/)
->Had a great time at the IndieWeb Summit in Portland this weekend. Even managed to get this site updated with microformats as well as both inbound and outbound webmentions.
   * Publishes via [github](https://github.com/davepeck) and is working on integrations.
+
+>Had a great time at the IndieWeb Summit in Portland this weekend. Even managed to get this site updated with microformats as well as both inbound and outbound webmentions.
+
 * [Maxwell Joslyn](https://maxwelljoslyn.com/)
 * [Sam Menza](https://sammenza.com/)
 * [jgregorymcverry.com](http://www.jgregorymcverry.com/)
