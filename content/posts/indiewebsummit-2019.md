@@ -507,3 +507,9 @@ one time
 * [David Shanske](https://david.shanske.com/)
 * [donp.org](https://donp.org/) - [@donpdonp](https://github.com/donpdonp)
 * [Aaron Parecki](https://aaronparecki.com/)
+
+## Thats all for now!
+
+That was a lot of work, but quite rewarding! I must focus on [decentralized-id](https://decentralized-id.com) and some related projects for a while, so don't expect day 2 anytime soon!
+
+Thank You!
