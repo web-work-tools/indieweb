@@ -6,7 +6,7 @@ summary: ""
 categories: ["IndieWeb Summit 2019"]
 tags: ["livestream","code-of-conduct", "wiki", "principles"]
 date: "2019-06-29T01:13:33-23:00"
-draft: true
+draft: false
 slug: /indieweb-summit/2019/day-one/
 
 images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
@@ -16,14 +16,13 @@ The IndieWeb organization decided against youtube this year, and I can understan
 
 So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) from twitch and [converted to mp4](https://windowsloop.com/download-m3u8-video-with-ffmpeg/) with `ffmpeg` and put it on youtube, so I could take advantage of the easy embed, and autotranscription.
 
-
-<!--
-<iframe width="560" height="315" src="https://web-work.tools/indieweb/indieweb-summit-2019-day-one-livestream.mp4" frameborder="0" allowfullscreen></iframe>
--->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  For now I have youtube embed, because this is a big image... but am compressing it to see about hosting it here. Mostly I'm concerned with the UX, where hosting locally would look nice to not have youtube logos, it also puts the burden on me of how to treat the file so the user has an ideal experience of it.
+For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I see clearly here where there is a size limit for free accounts and maybe I will consider upgrading at some point this year.
+
+* [Plaidophile -IndieWeb Summit 2019, day 1](https://beesbuzz.biz/blog/3785-IndieWeb-Summit-2019-day-1#more)
+  
+  >First day of #IndieWeb Summit, scattered notes that I take as they come. Hopefully I don’t end up misrepresenting things too badly.
 
 ## [https://indieweb.org/2019](https://indieweb.org/2019)
 
@@ -94,19 +93,23 @@ Use this via Desktop *first* and then you will be able to access these channels 
 Tantek discussed mainstream attention gained with the New Yorker Article:
 
 * [Can “Indie” Social Media Save Us?](https://www.newyorker.com/tech/annals-of-technology/can-indie-social-media-save-us)
+  
   >In 2017, Manton Reece, an IndieWeb developer based in Austin, Texas, launched a Kickstarter for a service called Micro.blog. On its surface, Micro.blog looks a lot like Twitter or Instagram; you can follow users and see their posts sorted into a time line, and, if you like a post, you can send a reply that everyone can see. When I checked Micro.blog’s public time line recently, the top post was a picture of a blooming dogwood tree, with the caption “Spring is coming!”
 
 ![](https://imgur.com/qohLXf6.png)
 
 * [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
+  
   >Homebrew Website Club is a bi-weekly meetup of people passionate about or interested in creating, improving, building, designing their own website, in the same structure as the [classic Homebrew Computer Club meetings](https://en.wikipedia.org/wiki/Homebrew_Computer_Club).
 * [IndieWebCamps](https://indieweb.org/IndieWebCamps)
+  
   >IndieWebCamps are brainstorming and building events where IndieWeb creators gather semi-regularly to meet in person, share ideas, and collaborate on IndieWeb design, UX, & code for their own sites.
 
 * [snarfed.org - Brigdy Stats Update](https://snarfed.org/2019-01-02_bridgy-stats-update-4#comment-2731107)
-  >Updated through mid June 2019 for State of the IndieWeb at Summit 2019. Graphs below. The one big noticeable event since Jan was the Google+ shutdown on 2019-03-07.
-  >
-  >For fun, we can use this to estimate the total number of webmentions sent in the wild to date.
+
+>Updated through mid June 2019 for State of the IndieWeb at Summit 2019. Graphs below. The one big noticeable event since Jan was the Google+ shutdown on 2019-03-07.
+>
+>For fun, we can use this to estimate the total number of webmentions sent in the wild to date.
   
 ![](https://imgur.com/UiyO0Ez.png)
 
@@ -115,21 +118,25 @@ Tantek discussed mainstream attention gained with the New Yorker Article:
 ![](https://imgur.com/t1wD01p.png)
 
 * [Travel Assistance](https://2019.indieweb.org/summit#travel-assistance)
-  >The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It's crucial to have independent web creators from all backgrounds at IndieWeb Summit to have a rich discussion and build cool things
+
+>The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It's crucial to have independent web creators from all backgrounds at IndieWeb Summit to have a rich discussion and build cool things
 
 He also discussed the idea of introducing [private Posts](https://indieweb.org/private_posts) and groups, as well as the idea of supporting payment processing with indieweb specs, as well as discovery.
 
 
 ## On Contractions & Expansions
 
-  * [Kitt Hodsden](https://indieweb.org/wiki/index.php?title=User:Kitt.hodsden.org&action=edit&redlink=1) — On Contractions & Expansions
+* [Kitt Hodsden](https://indieweb.org/wiki/index.php?title=User:Kitt.hodsden.org&action=edit&redlink=1) — On Contractions & Expansions
 
 I notice there was live captioning of the presentations, so for the moment, I point you to the video until I find more about the captioning.
 
+This is about the ebbs and flow of life where we expand and contract our*selves* in response and intertwined with the our trials and how we over-come them.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=2381" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Changing My Domain
+**Both this and the following videos are cued so if you click play it will begin at the time when their presentation began.**
 
+## Changing My Domain
 
 [mJordan](https://indieweb.org/wiki/index.php?title=User:Mjordan.codes&action=edit&redlink=1) shares the story of changing her name from Michelle to Jordan, to get called for job interviews by downplaying her femininity.
 
@@ -139,20 +146,23 @@ I notice there was live captioning of the presentations, so for the moment, I po
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=3238" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Marty McGuire](https://indieweb.org/User:Martymcgui.re) presents:
+[Marty McGuire](https://indieweb.org/User:Martymcgui.re) opens his presentation with a discussion of the Indigenous app, and sharing photos with it.
 
-### Indigenous
-
-* [Indigenous](https://indieweb.org/indigenous) (ios app) by Eddie Hinkle.
-  >Indigenous is a set of native apps for iOS and Android currently in beta that supports posting your website using Micropub and a built-in reader that supports Microsub. -[Indigenous](https://indieweb.org/Indigenous)
+>Indigenous is a set of native apps for iOS and Android currently in beta that supports posting your website using Micropub and a built-in reader that supports Microsub. -[Indigenous](https://indieweb.org/Indigenous) (ios app) by Eddie Hinkle.
 
 When you see the word "reader" that's just the special word for an IndieWeb mobile application that "reads" posts. It's a hub where you can connect with other indiewebbers, like any centralized social app, except these users own and control their content.
 
 An IndieWeb reader is very much like an RSS Reader.
 
 * [What Is an RSS Feed? (And Where to Get It)](https://www.lifewire.com/what-is-an-rss-feed-4684568)
+
 >RSS stands for Really Simple Syndication and it’s is a simple, standardized content distribution method that can help you stay up-to-date with your favorite newscasts, blogs, websites, and social media channels. Instead of visiting sites to find new posts or subscribing to sites to receive notification of new posts, find the RSS feed on a website and read new posts in an RSS reader. 
 
+He also mentions POSSE which means Publish on Own Site Syndicate Elsewhere, which has a related term PESOS: Publish Elsewhere then Syndicate on your Own SIte.
+
+* [To PESOS or to POSSE?](https://dri.es/to-pesos-or-to-posse)
+
+Personally, I find it useful at times to create bigger pieces of content on my own site, and then share links with short quotes on social... or gather links on social send to a different social platform, and then re-publish on my own site in bulk.
 
 ### Indigenous Android
 The Android version of Indigeonous is made available by Kristof De Jaeger also known as [swentel](https://github.com/swentel/indigenous-android). 
@@ -166,25 +176,29 @@ The Android version of Indigeonous is made available by Kristof De Jaeger also k
 I went to Eddie Hinkle's [GitHub repository](https://github.com/EdwardHinkle/indigenous-ios) for the IOS App and found a link to this post:
 
 * [Final Indigenous Log: The Future of the App](https://eddiehinkle.com/2019/05/08/5/article/)
-  >Going forward, Indigenous will be broken into different apps rather than trying to make a monster app that does everything. I have had three goals of the app up to now:
-  >
-  >* A fun social reader
-  >* A Micropub app for posting to blogs
-  >* A reading app for long-form saved articles
 
-#### Remark
+>Going forward, Indigenous will be broken into different apps rather than trying to make a monster app that does everything. I have had three goals of the app up to now:
+>
+>* A fun social reader
+>* A Micropub app for posting to blogs
+>* A reading app for long-form saved articles
 
-* [EdwardHinkle/remark](https://github.com/EdwardHinkle/remark)
+* [**EdwardHinkle/remark**](https://github.com/EdwardHinkle/remark)
   >Remark is the first of the three Abode Suite apps that will be released and is the project I am currently working on. Remark will be the replacement of the fun social reader aspect of Indigenous. It's name is built on the idea that we read things that people are talking about and saying and we respond or remark on them. This will be primarily a Microsub app with Micropub sprinkled in just enough to allow you to post short notes, replies or reactions. Think of this as an IndieWeb Twitter-like app.
 
-#### Chronicler
+* [**EdwardHinkle/chronicler**](https://github.com/EdwardHinkle/chronicler)
 
-* [EdwardHinkle/chronicler](https://github.com/EdwardHinkle/chronicler)
-  >Chronicler will be the replacement for the Micropub app for posting to blogs feature of Indigenous. I've wanted to add support for offline authoring of posts, editing/updating posts, and more tools for long-form posting or posting things such as audio and video from Indigenous.
+>Chronicler will be the replacement for the Micropub app for posting to blogs feature of Indigenous. I've wanted to add support for offline authoring of posts, editing/updating posts, and more tools for long-form posting or posting things such as audio and video from Indigenous.
 
-#### Anthologist
+* [**EdwardHinkle/anthologist**](https://github.com/EdwardHinkle/anthologist)
 
-* [EdwardHinkle/anthologist](https://github.com/EdwardHinkle/anthologist)
-  >Anthologist will be the third app of the Abode Suite trio, being a reading app for long-form saved articles. This app will be based on Microsub and won't be optimized for short-form content (although there won't be a technical restriction against it). This app will likely allow you to choose from 1 (or more) channels within your Microsub account to store offline in the app for reading.
+>Anthologist will be the third app of the Abode Suite trio, being a reading app for long-form saved articles. This app will be based on Microsub and won't be optimized for short-form content (although there won't be a technical restriction against it). This app will likely allow you to choose from 1 (or more) channels within your Microsub account to store offline in the app for reading.
 
-## To be continued.
+### Monacle
+
+* [Monocle](https://monocle.p3k.io/) is an IndieWeb reader. Read and respond to any kind of content online! Monocle provides an interface to read and reply to posts from anything you follow.
+
+> Monocle doesn't subscribe to feeds itself, instead it's an interface on top of your own feed subscriptions. Your website may already provide this API, or you can use an external service like Aperture, or many others.
+
+Monocle is just one of many IndieWeb readers! It works great on a mobile device, but if you prefer a native app you can use Indigenous for iPhone or Android.
+
