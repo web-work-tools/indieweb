@@ -127,20 +127,21 @@
 
 &lt;p&gt;So I &lt;a href=&#34;https://www.locoloader.com/twitch-video-downloader/&#34;&gt;grabbed the audio&lt;/a&gt; from twitch and &lt;a href=&#34;https://windowsloop.com/download-m3u8-video-with-ffmpeg/&#34;&gt;converted to mp4&lt;/a&gt; with &lt;code&gt;ffmpeg&lt;/code&gt; and put it on youtube, so I could take advantage of the easy embed, and autotranscription.&lt;/p&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-bBMK3Nu7fY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like&amp;hellip; I&amp;rsquo;d be happy to just e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn&amp;rsquo;t want to bother with &lt;code&gt;ffmpeg&lt;/code&gt; themselves.&lt;/p&gt;
-
-&lt;p&gt;Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of the events recorded on IndieWeb Summit livestream, Day One.&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://beesbuzz.biz/blog/3785-IndieWeb-Summit-2019-day-1#more&#34;&gt;Plaidophile -IndieWeb Summit 2019, day 1&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/videos/445919345&#34;&gt;Twitch.tv - IndieWeb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://beesbuzz.biz/blog/3785-IndieWeb-Summit-2019-day-1#more&#34;&gt;Plaidophile -IndieWeb Summit 2019, day 1&lt;/a&gt; - (Check out these event notes by Fuzzy, and &lt;a href=&#34;https://github.com/web-work-tools/indieweb/blob/master/content/posts/indiewebsummit-2019.md&#34;&gt;add yours here&lt;/a&gt;.)
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;First day of #IndieWeb Summit, scattered notes that I take as they come. Hopefully I don’t end up misrepresenting things too badly.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-bBMK3Nu7fY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like&amp;hellip; I&amp;rsquo;d be happy to just e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn&amp;rsquo;t want to bother with &lt;code&gt;ffmpeg&lt;/code&gt; themselves.&lt;/p&gt;
+
+&lt;p&gt;Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of the events recorded on IndieWeb Summit livestream, Day One.&lt;/p&gt;
 
 &lt;h2 id=&#34;https-indieweb-org-2019-https-indieweb-org-2019&#34;&gt;&lt;a href=&#34;https://indieweb.org/2019&#34;&gt;https://indieweb.org/2019&lt;/a&gt;&lt;/h2&gt;
 
