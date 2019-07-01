@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+    <meta charset="utf-8">
+
+    
+    <title>Indigo</title>
+    <meta name="description" content="Indigo is a A Hugo theme, designed with indieweb in mind.">
+    <meta name="author" content="Infominer">
+    
+    
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image:src" content="https://web-work.tools/indieweb/images/indieweb.jpg"/>
+    
+    <meta name="twitter:title" content="Indigo"/>
+    <meta name="twitter:description" content="Indigo is a A Hugo theme, designed with indieweb in mind."/>
+    <meta name="twitter:site" content="@infominer33"/>
+    
+
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#00416a">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+    <link rel="me" href="mailto:infominer@protonmail.com">
+    <link rel="me" href="https://github.com/infominer33">
+    <link rel="me" href="https://twitter.com/infominer33">
+    <link rel="me" href="https://micro.blog/infominer">
+    
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+    
+    <style type="text/css">@font-face{
+    font-family: 'Fira Code';
+    src: url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraCode-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_regular-webfont.ttf') format('truetype');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_italic-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Charter';
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.eot');
+    src: url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/charter_bold_italic-webfont.ttf') format('truetype');
+    font-style: italic;
+    font-weight: bold;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Book.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Book.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Book.ttf') format('truetype');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.eot');
+    src: url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.woff2') format('woff2'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.woff') format('woff'),
+         url('https://web-work.tools/indieweb/fonts/FiraSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-display: optional;
+}
+</style>
+    <link rel="stylesheet" href="https://web-work.tools/indieweb/css/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132558656-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132558656-8');
+</script>
+
+
+
+</head>
+<body>
+    <div id="sitelogo">
+        <a class="glyph" alt="Home" href="https://web-work.tools/indieweb/"><img src="https://web-work.tools/indieweb/images/site-logo.svg" alt="Site Logo" height="64px" width="64px"></a>
+    </div>
+    <header>
+        <nav>
+    
+    <div id="page-nav">
+        <div class="page-nav-item">
+            <a href="https://web-work.tools/indieweb/">Home</a>
+        </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/git-repositories/">
+                    
+                    <span>Git Repos</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/indigo/features/">
+                    
+                    <span>Indigo</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/resources/">
+                    
+                    <span>Resources</span>
+                </a>
+            </div>
+        
+            <div class="page-nav-item">
+                <a href="/indieweb/ssg4/">
+                    
+                    <span>SSG4</span>
+                </a>
+            </div>
+        
+    </div>
+</nav>
+        
+    </header>
+
+
+
+
+<div id="content">
+    <article class="h-entry">
+        <header>
+            <h1 class="post-title p-name">Indigo</h1>
+            <p class="post-date">Posted on
+                <time class="dt-published" datetime="2019-06-22T01:22:33-23:00">
+                22 June, 2019 at 01:22 -2300
+                </time>  by <a href="https://web-work.tools/indieweb/" class="p-author h-card" rel="author">Infominer</a>
+            </p>
+            
+            <p class="post-tag">Category: 
+                
+                <a href="https://web-work.tools/indieweb/categories/indigo" class="post-tag p-category">indigo</a>
+                
+                <a href="https://web-work.tools/indieweb/categories/specifications" class="post-tag p-category">specifications</a>
+                
+            </p>
+            
+            <img src="https://web-work.tools/indieweb/images/indieweb.jpg"/>
+            <hr class="post-underline">
+        </header>
+        <section class="content e-content">
+            
+
+<p>Hey!!! So I&rsquo;ve been meaning to do this for a while.. and now <a href="https://indieweb.org/2019">Indieweb Summit</a> is right around the corner. I&rsquo;ve been hustling away on some related projects just so I could have something really nice prepared for the event.</p>
+
+<p>I would encourage you to follow along with the associated links. I&rsquo;m trying to keep this compact, while conveying essential information.</p>
+
+<p><img src="https://imgur.com/ZCC07f3.png" alt="" /></p>
+
+<ul>
+<li><a href="https://github.com/AngeloStavrow/indigo">AngeloStavrow/indigo</a> - The theme of this web-site&rsquo;s home repository.</li>
+<li><a href="http://microformats.org/">microformats.org</a></li>
+<li><a href="https://indieweb.org/">indieweb.org</a></li>
+<li><a href="https://indieauth.com/">indieauth.com</a></li>
+</ul>
+
+<p>Those links are plenty to get started :)</p>
+
+<h2 id="setting-up-the-author-bio">Setting up the author bio</h2>
+
+<p>A set of configuration options are used for displaying the biography.</p>
+
+<pre><code>[params]
+  Author = &quot;Author Name&quot;
+  Avatar = &quot;images/site-logo.svg&quot;
+  Biography = &quot;A short description, a few sentences describing the author. Set
+               the 'ShowBio' parameter to false to hide this.&quot;
+  ShowBio = true        
+
+[params.indieWeb]  
+    EmailAddress = &quot;email.address@example.com&quot;
+    Country = &quot;CountryName&quot;
+    City = &quot;CityName&quot;
+</code></pre>
+
+<p>Specifics on each setting item are as follows:</p>
+
+<ul>
+<li><code>Author</code>: Your name; this is the site author name.</li>
+<li><code>Avatar</code>: The path to your profile picture. By default, it will show the theme&rsquo;s logo (<code>/static/images/site-logo.svg</code>).</li>
+<li><code>Biography</code>: Hopefully the placeholder text here is self-explanatory; add a couple of short sentences about yourself here.</li>
+<li><code>ShowBio</code>: If you prefer not to show the author bio, set this to <code>false</code>. By default, it&rsquo;s set to <code>true</code>.</li>
+<li><code>EmailAddress</code>: The email address at which you can be contacted.</li>
+<li><code>Country</code>: The name of the country in which you live.</li>
+<li><code>City</code>: The name of the city in which you live.</li>
+</ul>
+
+<p><img src="https://imgur.com/GO6ub1u.png" alt="" /></p>
+
+<h2 id="indieweb-features">IndieWeb features</h2>
+
+<p>Filling out these settings makes your site more machine readable, and to communicate specific items of information to other sites you wish to interact with.</p>
+
+<p>As you can see above, the following microformats are related to who we are. These are simple way of identifying ourselves to other sites. This way, when we want to communicate, there&rsquo;s no need to think about sending over our avatar, it&rsquo;s already prepared in our web-site.</p>
+
+<blockquote>
+<p>The following classes are used to mark up the author bio for <a href="https://indieweb.org">IndieWeb</a> parsing:</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th align="left">Element</th>
+<th align="left">Class</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left">The author card</td>
+<td align="left"><code>h-card</code></td>
+</tr>
+
+<tr>
+<td align="left">Profile picture</td>
+<td align="left"><code>u-photo</code></td>
+</tr>
+
+<tr>
+<td align="left">Author URL*</td>
+<td align="left"><code>p-name</code>, <code>u-url</code>, <code>rel=me</code></td>
+</tr>
+
+<tr>
+<td align="left">City</td>
+<td align="left"><code>p-locality</code></td>
+</tr>
+
+<tr>
+<td align="left">Country</td>
+<td align="left"><code>p-country-name</code></td>
+</tr>
+
+<tr>
+<td align="left">Email address</td>
+<td align="left"><code>u-email</code></td>
+</tr>
+
+<tr>
+<td align="left">Biography</td>
+<td align="left"><code>p-note</code></td>
+</tr>
+</tbody>
+</table>
+
+<p>*Author URL is set to the site&rsquo;s base URL.</p>
+
+<p>Lets explore each of these, and what it does.</p>
+
+<h2 id="h-card-http-microformats-org-wiki-h-card"><a href="http://microformats.org/wiki/h-card">h-card</a></h2>
+
+<blockquote>
+<p>h-card is a simple, open format for publishing people and organisations on the web. h-card is one of several open microformat draft standards suitable for embedding data in HTML.</p>
+
+<p>h-card is the microformats2 update to hCard.</p>
+</blockquote>
+
+<ul>
+<li><a href="http://microformats.org/wiki/h-card">microformats.org/wiki/h-card</a></li>
+</ul>
+
+<p>Yay! Structured Data! These are the bits that add flavor and context, for the machines we communicate through, to otherwise indistinguishable (to a machine) info.</p>
+
+<blockquote>
+<p>The class h-card is a root class name that indicates the presence of an h-card.</p>
+
+<p>For minimal examples where at most p-name, u-url and u-photo are required (such as the first given above), only the root class name is needed — see <a href="http://microformats.org/wiki/microformats-2-implied-properties">implied properties</a>.</p>
+</blockquote>
+
+<p>Basically, it seems that the h-card is the root for the rest of the data-structure&rsquo;s we&rsquo;re reviewing.</p>
+
+<p>If find one in the wild, an h-card will b nearby.</p>
+
+<h3 id="h-card-properties">h-card properties</h3>
+
+<p>So you can see, the idea is to give people and organizations a variety of ways to identify themselves.</p>
+
+<blockquote>
+<p>h-card properties, inside an element with class h-card:</p>
+
+<ul>
+<li>p-name - The full/formatted name of the person or organization</li>
+<li>p-honorific-prefix - e.g. Mrs., Mr. or Dr.</li>
+<li>p-given-name - given (often first) name</li>
+<li>p-additional-name - other (e.g. middle) name</li>
+<li>p-family-name - family (often last) name</li>
+<li>p-sort-string - string to sort by</li>
+<li>p-honorific-suffix - e.g. Ph.D, Esq.</li>
+<li>p-nickname - nickname/alias/handle</li>
+<li>u-email - email address</li>
+<li>u-logo - a logo representing the person or organization (e.g. a face icon)</li>
+<li>u-photo - a photo of the person or organization</li>
+<li>u-url - home page or other URL representing the person or organization</li>
+<li>u-uid - universally unique identifier, preferably canonical URL</li>
+<li>p-category - category/tag</li>
+<li>p-adr - postal address, optionally embed an h-adr</li>
+<li>Main article: h-adr</li>
+<li>p-post-office-box - post office box description if any</li>
+<li>p-extended-address - apartment/suite/room name/number if any</li>
+<li>p-street-address - street number + name</li>
+<li>p-locality - city/town/village</li>
+<li>p-region - state/county/province</li>
+<li>p-postal-code - postal code, e.g. US ZIP</li>
+<li>p-country-name - country name</li>
+<li>p-label</li>
+<li>p-geo or u-geo, optionally embed an h-geo</li>
+<li>Main article: h-geo</li>
+<li>p-latitude - decimal latitude</li>
+<li>p-longitude - decimal longitude</li>
+<li>p-altitude - decimal altitude</li>
+<li>p-tel - telephone number</li>
+<li>p-note - additional notes</li>
+<li>dt-bday - birth date</li>
+<li>u-key - cryptographic public key e.g. SSH or GPG</li>
+<li>p-org - affiliated organization, optionally embed an h-card</li>
+<li>p-job-title - job title, previously &lsquo;title&rsquo; in hCard, disambiguated.</li>
+<li>p-role - description of role</li>
+<li>u-impp per RFC4770, new in vCard4 (RFC 6350)</li>
+<li>p-sex - biological sex, new in vCard4 (RFC 6350)</li>
+<li>p-gender-identity - gender identity, new in vCard4 (RFC 6350)</li>
+<li>dt-anniversary</li>
+</ul>
+</blockquote>
+
+<h3 id="indigo-h-card">Indigo h-card</h3>
+
+<ul>
+<li>The author card - <code>h-card</code></li>
+<li>Profile picture - <code>u-photo</code></li>
+<li>City            - <code>p-locality</code></li>
+<li>Country         - <code>p-country-name</code></li>
+<li>Email address   - <code>u-email</code></li>
+<li>Biography       - <code>p-note</code> - additional notes</li>
+<li>Author URL:
+
+<ul>
+<li><code>p-name</code> - The full/formatted name of the person or organization</li>
+<li><code>u-url</code> - home page or other URL representing the person or organization</li>
+<li><code>rel=me</code></li>
+</ul></li>
+</ul>
+
+<h3 id="rel-me">rel=me</h3>
+
+<ul>
+<li><a href="http://microformats.org/wiki/rel-me">microformats.org/wiki/rel-me</a></li>
+</ul>
+
+<blockquote>
+<p>XFN 1.1 introduced the &ldquo;me&rdquo; rel value which is used to indicate profile equivalence and for <a href="http://microformats.org/wiki/identity-consolidation">identity-consolidation</a>.
+Identity consolidation is the ability for a user to indicate that one or more identities, profiles, URLs across different sites all represent that same user. Also known as: profile aggregation, profile equivalency.</p>
+</blockquote>
+
+<p>This is how we state &ldquo;this is me&rdquo;. If your website has a series of social media icons that connect people to you on different platforms, I would drop a rel=me into each of those links..</p>
+
+<p>This is how I did it on another site:</p>
+
+<pre><code>    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          &lt;li&gt;&lt;a href=&quot;{{ link.url }}&quot; rel=&quot;me&quot;&gt;&lt;i class=&quot;{{ link.icon | default: 'fas fa-link' }}&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; {{ link.label }}&lt;/a&gt;&lt;/li&gt;
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+</code></pre>
+
+<p>All I had to do was put the <code>rel=&quot;me&quot;</code> into the url like so <code>&lt;a href=&quot;{{ link.url }} rel=&quot;me&quot;&gt;link txt&lt;/a&gt;</code>.</p>
+
+<p>Don&rsquo;t mind the scripting language&hellip; if that bothers you.. think of it like this:</p>
+
+<pre><code>&lt;a href=&quot;https://infominer.id&quot; rel=&quot;me&quot;&gt;infominer.id&lt;/a&gt;
+</code></pre>
+
+<p>Now I set that in my template, I&rsquo;ve identified all of the social profiles (and e-mail) that I link to as belonging to me :D</p>
+
+<p><strong>But wait!</strong> You say&hellip;</p>
+
+<p>Yes, even though you&rsquo;ve used &lsquo;u=email&rsquo; to identify your e-mail address, it&rsquo;s the links with rel=me that sites will look to for authentication. You might notice, if you follow a number of &ldquo;getting started&rdquo; guides that you&rsquo;ve been placing various properties everywhere, and it can seem a bit redundant at times.</p>
+
+<p>However, each has its own purpose&hellip;</p>
+
+<h3 id="indieauth">Indieauth</h3>
+
+<p><a href="https://indieauth.com"><img src="https://imgur.com/MsoJqzp.png" alt="IndieAuth.com provides an IndieAuth server for your website that authenticates you using your existing social accounts. First you link from your website to one or more authentication providers such as GitHub or a PGP key, then when you enter your domain name in the web sign-in form on websites that support IndieAuth, you can sign in without using a password."></a></p>
+
+<p>Once you&rsquo;ve got the rel=me in there, Indieauth.com will check to see if it has verification methods available.</p>
+
+<p><img src="https://indieauth.com/img/code-sample.png" alt="" /></p>
+
+<p>If it does, then an automated system will take you through, much like logging into any web-service.</p>
+
+<h2 id="indigo-source-deployed">Indigo-Source Deployed</h2>
+
+<p>Now I&rsquo;ve done some basic configuration and have a few blog, posts up&hellip; lets examine the source of a single blog post, to see it in action.</p>
+
+<h3 id="endpoints">Endpoints</h3>
+
+<p>Here we see a few links identified as &lsquo;me&rsquo;, and an authorization end-point:</p>
+
+<p><img src="https://imgur.com/MJXJtFn.png" alt="" /></p>
+
+<p><em>From <code>config.toml</code></em></p>
+
+<pre><code>#https://github.com/kisik21/indigo/commit/e168672487b78bef5070cc0eb70bc5d4e748c707
+  [params.endpoints]
+  Auth = &quot;https://indieauth.com/auth&quot;
+  # To get webmention support, just register at webmention.io and paste the link for endpoint here.
+  Webmention = &quot;https://webmention.io/web-work.tools_indieweb_/webmention&quot;
+  # To get micropub support, you'll need to install a Micropub endpoint at your site and put its link there.
+  # To get an endpoint with Hugo support, use nanopub: https://github.com/dg01d/nanopub
+  # It will probably require some PHP hackery though, as it's fairly basic.
+  #Micropub = &quot;&quot;
+  # To get microsub support, you can use Aperture from p3k. Either go to https://aperture.p3k.io or self-host it (it's open source!)
+  #Microsub = &quot;&quot;
+</code></pre>
+
+<p>For the authorization endpoint, that&rsquo;s simple enough. If you&rsquo;ve set up your h-card paramaters in the config file, and deployed the site, it should walk you right through, and even guide you if anything is missing.</p>
+
+<h3 id="h-entry">h-entry</h3>
+
+<p>Ahaaa! Now we&rsquo;re getting to it.  I remember that there was some indieweb code not strictly defined in the documentation for this theme.  Let&rsquo;s check it out!</p>
+
+<ul>
+<li><a href="https://indieweb.org/h-entry">indieweb.org/h-entry</a></li>
+</ul>
+
+<blockquote>
+<p>h-entry is the microformats2 vocabulary for marking up blog posts on web sites. It can also be used to mark-up any other episodic or time series based content.</p>
+</blockquote>
+
+<p>&hellip;</p>
+
+<blockquote>
+<p>Adding h-entry to your post pages enables post information <a href="https://indieweb.org/discovery">discovery</a> on your permalinks, which is useful for a variety of things, including:</p>
+
+<ul>
+<li><a href="https://indieweb.org/reply">reply</a> context syndication</li>
+<li>syndication of your <a href="https://indieweb.org/replies">replies</a> from your site as comments on the permalinks of the sites that you reply to.</li>
+</ul>
+
+<p>Adding h-entry to your home page enables:</p>
+
+<ul>
+<li>subscribing to your posts directly from your home page (no separate feed needed).</li>
+<li>A building block for adding <a href="https://indieweb.org/PuSH">PuSH</a> 0.4 support for real time subscribers of your updates</li>
+</ul>
+
+<p>Any page with an explicit author and publication date can use h-entry and enables:</p>
+
+<ul>
+<li>Nicer <a href="https://indieweb.org/link-preview">link-previews</a>, especially with an optional <a href="https://indieweb.org/u-featured">u-featured</a> image</li>
+<li>For example: W3C specs like <a href="https://w3.org/TR/webmention">Webmention</a> and <a href="https://w3.org/TR/micropub">Micropub</a> have their name, editors, publication date all marked up with h-entry.</li>
+</ul>
+</blockquote>
+
+<h3 id="h-entry-http-microformats-org-wiki-h-entry-properties"><a href="http://microformats.org/wiki/h-entry">h-entry</a> properties</h3>
+
+<p><strong>The following core h-entry properties have broad consensus and are broadly interoperably published and consumed:</strong></p>
+
+<blockquote>
+<ul>
+<li><code>p-name</code> - entry name/title</li>
+<li><code>p-summary</code> - short entry summary</li>
+<li><code>e-content</code> - full content of the entry</li>
+<li><code>dt-published</code> - when the entry was published</li>
+<li><code>dt-updated</code> - when the entry was updated</li>
+<li><code>p-author</code> - who wrote the entry, optionally embedded h-card(s)</li>
+<li><code>p-category</code> - entry categories/tags</li>
+<li><code>u-url</code> - entry permalink URL</li>
+<li><code>u-uid</code> - universally unique identifier, typically canonical entry URL</li>
+<li><code>p-location</code> - location the entry was posted from, optionally embed h-card, h-adr, or h-geo</li>
+<li><code>u-syndication</code> - URL(s) of syndicated copies of this post. The property equivalent of rel-syndication (example)</li>
+<li><code>u-in-reply-to</code> - the URL which the h-entry is considered reply to (i.e. doesn’t make sense without context, could show up in comment thread), optionally an embedded h-cite (reply-context) (example)</li>
+<li><code>p-rsvp</code> (enum, use <code>&lt;data&gt;</code> element or value-class-pattern)
+&ldquo;yes&rdquo;, &ldquo;no&rdquo;, &ldquo;maybe&rdquo;, &ldquo;interested&rdquo;. Case-insensitive values, normalized to lowercase. Examples:
+&hellip; <code>&lt;data class=&quot;p-rsvp&quot; value=&quot;yes&quot;&gt;is going&lt;/data&gt;</code> to &hellip;, or
+&hellip; <code>&lt;data class=&quot;p-rsvp&quot; value=&quot;maybe&quot;&gt;might go&lt;/data&gt;</code> to &hellip;
+&hellip; <code>&lt;data class=&quot;p-rsvp&quot; value=&quot;no&quot;&gt;unable to go&lt;/data&gt;</code> to &hellip;
+&hellip; <code>&lt;data class=&quot;p-rsvp&quot; value=&quot;interested&quot;&gt;am interested/tracking/watching&lt;/data&gt;</code> &hellip;</li>
+<li><code>u-like-of</code> - the URL which the h-entry is considered a “like” (favorite, star) of. Optionally an embedded h-cite</li>
+<li><code>u-repost-of</code> - the URL which the h-entry is considered a “repost” of. Optionally an embedded h-cite.</li>
+</ul>
+</blockquote>
+
+<p>Similar to h-card, our h-entry has a number of potential properties.</p>
+
+<h3 id="indigo-article-source">Indigo Article Source</h3>
+
+<pre><code>&lt;article class=&quot;h-entry&quot;&gt;
+  &lt;header&gt;
+      &lt;h1 class=&quot;post-title p-name&quot;&gt;FreeNode IRC #indieweb-dev on IIW RWoT and DID&amp;#39;s&lt;/h1&gt;
+           
+      &lt;p class=&quot;post-date&quot;&gt;Posted on
+          &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-06-03T11:22:33-23:00&quot;&gt;
+          3 June, 2019 at 11:22 -2300
+          &lt;/time&gt;  by &lt;a href=&quot;https://web-work.tools/indieweb/&quot; class=&quot;p-author h-card&quot; rel=&quot;author&quot;&gt;Infominer&lt;/a&gt;
+      &lt;/p&gt;
+            
+      &lt;p class=&quot;post-tag&quot;&gt;Category: 
+                
+        &lt;a href=&quot;https://web-work.tools/indieweb/categories/decentralized-identity&quot; class=&quot;post-tag p-category&quot;&gt;decentralized-identity&lt;/a&gt;
+                
+        &lt;a href=&quot;https://web-work.tools/indieweb/categories/resources&quot; class=&quot;post-tag p-category&quot;&gt;resources&lt;/a&gt;&lt;/p&gt;
+
+      &lt;hr class=&quot;post-underline&quot;&gt;
+          
+  &lt;/header&gt;
+</code></pre>
+
+<p>The article is marked with the <code>h-entry</code> class, and then we have:</p>
+
+<blockquote>
+<ul>
+<li><code>p-name</code> - entry name/title</li>
+<li><code>dt-published</code> - when the entry was published</li>
+<li><code>p-category</code> - entry categories/tags</li>
+<li><code>p-author h-card rel=&quot;author&quot;</code></li>
+</ul>
+</blockquote>
+
+<p>That last combo is interesting. Like mentioned earlier, the p-author is found as part of the h-card class.</p>
+
+<p>Perhaps its significant that this <code>h-card</code> is found within the <code>h-entry</code>&hellip; I&rsquo;m just figuring this out as we go along.</p>
+
+<h3 id="e-content">e-content</h3>
+
+<blockquote>
+<ul>
+<li>e-content - full content of the entry</li>
+</ul>
+</blockquote>
+
+<pre><code>  &lt;section class=&quot;content e-content&quot;&gt;
+</code></pre>
+
+<p>{{ content }} (not copyin the whole post here :)</p>
+
+<p>All our tags marked with p-category:</p>
+
+<pre><code>  &lt;/section&gt;
+  &lt;footer&gt;
+    &lt;a class=&quot;permalink u-url&quot; href=&quot;https://web-work.tools/indieweb/indieweb-dev-on-did/&quot;&gt;🔗&lt;/a&gt;
+            
+    &lt;hr class=&quot;post-underline&quot;&gt;
+    &lt;p class=&quot;post-tag&quot;&gt;Tags for this post: 
+            
+    &lt;a href=&quot;https://web-work.tools/indieweb/tags/indieweb&quot; class=&quot;post-tag p-category&quot;&gt;indieweb&lt;/a&gt;
+            
+    &lt;a href=&quot;https://web-work.tools/indieweb/tags/did&quot; class=&quot;post-tag p-category&quot;&gt;did&lt;/a&gt;
+            
+    &lt;a href=&quot;https://web-work.tools/indieweb/tags/rwot&quot; class=&quot;post-tag p-category&quot;&gt;rwot&lt;/a&gt;
+            
+    &lt;a href=&quot;https://web-work.tools/indieweb/tags/indieweb-dev&quot; class=&quot;post-tag p-category&quot;&gt;indieweb-dev&lt;/a&gt;
+            
+    &lt;a href=&quot;https://web-work.tools/indieweb/tags/freenode&quot; class=&quot;post-tag p-category&quot;&gt;freenode&lt;/a&gt;&lt;/p&gt;
+            
+  &lt;/footer&gt;
+    &lt;/article&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p>Finally the <code>h-card</code>, in our footer, Lovely.</p>
+
+<pre><code>    &lt;div class=&quot;h-card&quot;&gt;
+      &lt;img class=&quot;u-photo&quot; src=&quot;https://web-work.tools/indieweb/images/infominer.svg&quot; /&gt;
+      &lt;div class=&quot;card-content&quot;&gt;
+        &lt;h2 class=&quot;card-name&quot;&gt;&lt;a class=&quot;p-name u-url&quot; href=&quot;https://web-work.tools/indieweb/&quot; rel=&quot;me&quot;&gt;Infominer&lt;/a&gt;&lt;/h2&gt;
+        &lt;p class=&quot;card-subhead&quot;&gt;
+          &lt;span class=&quot;p-locality&quot;&gt;Mehtab Bagh&lt;/span&gt;,
+          &lt;span class=&quot;p-country-name&quot;&gt;49 6e 64 75 73&lt;/span&gt;&lt;br /&gt;
+          &lt;a class=&quot;u-email&quot; href=&quot;mailto:infominer@protonmail.com&quot;&gt;Email me&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;p class=&quot;p-note&quot;&gt;Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, Indieweb ⧉ her/him&lt;/p&gt;
+    &lt;/div&gt;
+</code></pre>
+
+<p>Check out <a href="https://github.com/AngeloStavrow/indigo/blob/master/layouts/_default/single.html">layouts/_default/single.html</a> to see what it looks like before its built.</p>
+
+<h2 id="be-back-soon">Be Back Soon</h2>
+
+<p>I&rsquo;ll have more on this and everything else, shortly.</p>
+
+        </section>
+        <footer>
+            <a class="permalink u-url" href="https://web-work.tools/indieweb/indigo/features/">🔗</a>
+            
+            <hr class="post-underline">
+            <p class="post-tag">Tags for this post: 
+            
+                <a href="https://web-work.tools/indieweb/tags/hugo-theme" class="post-tag p-category">hugo-theme</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/indieweb" class="post-tag p-category">indieweb</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/wiki" class="post-tag p-category">wiki</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/hugo" class="post-tag p-category">hugo</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/configuration" class="post-tag p-category">configuration</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/features" class="post-tag p-category">features</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/specifications" class="post-tag p-category">specifications</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/relme" class="post-tag p-category">rel=me</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/h-card" class="post-tag p-category">h-card</a>
+            
+                <a href="https://web-work.tools/indieweb/tags/h-entry" class="post-tag p-category">h-entry</a>
+            
+            </p>
+            
+        </footer>
+    </article>
+</div>
+
+    
+    <div class="h-card">
+      <img class="u-photo" src="https://web-work.tools/indieweb/images/infominer.svg" />
+      <div class="card-content">
+        <h2 class="card-name"><a class="p-name u-url" href="https://web-work.tools/indieweb/" rel="me">Infominer</a></h2>
+        <p class="card-subhead">
+          <span class="p-locality">Mehtab Bagh</span>,
+          <span class="p-country-name">49 6e 64 75 73</span><br />
+          <a class="u-email" href="mailto:infominer@protonmail.com">Email me</a>
+        </p>
+      </div>
+      <p class="p-note">Full-Time Independent Web-Worker. Research, Skyscraper Publishing, IndieWeb ⧉ Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ her/him</p>
+    </div>
+    
+    <div id="footer">
+      
+      <nav id="article-skip">
+        <div class="prev">
+          
+          <p>&nbsp;</p>
+          
+        </div>
+        <div class="top">
+          <a alt="Top of page" href="#">Top</a>
+        </div>
+        <div class="next">
+          
+          <p>&nbsp;</p>
+          
+        </div>
+      </nav>
+      
+      <aside id="social">
+  <div id="social-icons">
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Email me" href="mailto:infominer@protonmail.com"><img src="https://web-work.tools/indieweb/icons/envelope.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitHub profile" href="https://github.com/infominer33"><img src="https://web-work.tools/indieweb/icons/github.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="GitLab profile" href="https://gitlab.com/infominer33"><img src="https://web-work.tools/indieweb/icons/gitlab.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Keybase profile" href="https://keybase.io/infominer"><img src="https://web-work.tools/indieweb/icons/keybase.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Micro.Blog profile" href="https://micro.blog/infominer"><img src="https://web-work.tools/indieweb/icons/microblog.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Reddit profile" href="https://www.reddit.com/user/infominer33"><img src="https://web-work.tools/indieweb/icons/reddit-alien.svg" height="24px" width="24px" /></a>
+    </div>
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Stack Overflow profile" href="https://stackoverflow.com/users/10793272"><img src="https://web-work.tools/indieweb/icons/stack-overflow.svg" height="24px" width="24px"></a>
+    </div>
+    
+    
+    
+    <div class="icon-24x24">
+      <a class="glyph" alt="Twitter profile" href="https://twitter.com/infominer33"><img src="https://web-work.tools/indieweb/icons/twitter.svg" height="24px" width="24px"></a>
+     </div>
+     
+  </div>
+</aside>
+
+      
+      <p class="copyright">
+          ⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉
+      </p>
+      
+    </div>
+
+
+</body>
+</html>

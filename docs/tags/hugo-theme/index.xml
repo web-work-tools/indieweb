@@ -13,20 +13,20 @@
     
     
     <item>
-      <title>Indigo Features</title>
-      <link>https://web-work.tools/indieweb/indigo-features/</link>
+      <title>Indigo</title>
+      <link>https://web-work.tools/indieweb/indigo/features/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indigo-features/</guid>
-      <description>The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note. I&amp;rsquo;ll be exploring these classes more thoroughly, soon.</description>
+      <guid>https://web-work.tools/indieweb/indigo/features/</guid>
+      <description>Features: The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note.</description>
     </item>
     
     <item>
       <title>Introducing Indigo</title>
-      <link>https://web-work.tools/indieweb/introducing-indigo/</link>
+      <link>https://web-work.tools/indieweb/indigo/intro/</link>
       <pubDate>Mon, 01 Oct 2018 11:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/introducing-indigo/</guid>
+      <guid>https://web-work.tools/indieweb/indigo/intro/</guid>
       <description>&lt;p&gt;Indigo is a lightweight theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://indieweb.org&#34;&gt;IndieWeb&lt;/a&gt; features baked in. It&amp;rsquo;s great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.&lt;/p&gt;</description>
     </item>
     

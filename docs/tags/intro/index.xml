@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>indigo on The Static Side of the IndieWeb -SSG4</title>
-    <link>https://web-work.tools/indieweb/categories/indigo/</link>
-    <description>Recent content in indigo on The Static Side of the IndieWeb -SSG4</description>
+    <title>Intro on The Static Side of the IndieWeb -SSG4</title>
+    <link>https://web-work.tools/indieweb/tags/intro/</link>
+    <description>Recent content in Intro on The Static Side of the IndieWeb -SSG4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
-    <lastBuildDate>Sat, 22 Jun 2019 01:22:33 -2300</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 11:22:33 -2300</lastBuildDate>
     
-	<atom:link href="https://web-work.tools/indieweb/categories/indigo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://web-work.tools/indieweb/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Indigo</title>
-      <link>https://web-work.tools/indieweb/indigo/features/</link>
-      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/indigo/features/</guid>
-      <description>Features: The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note.</description>
-    </item>
     
     <item>
       <title>Introducing Indigo</title>

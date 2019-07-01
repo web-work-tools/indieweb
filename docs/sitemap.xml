@@ -153,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/indigo-features/</loc>
+    <loc>https://web-work.tools/indieweb/indigo/features/</loc>
     <lastmod>2019-06-22T01:22:33-23:00</lastmod>
   </url>
   
@@ -264,7 +264,7 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/info/</loc>
+    <loc>https://web-work.tools/indieweb/resources/</loc>
     <lastmod>2019-05-19T11:22:33-23:00</lastmod>
   </url>
   
@@ -299,7 +299,13 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/introducing-indigo/</loc>
+    <loc>https://web-work.tools/indieweb/tags/intro/</loc>
+    <lastmod>2018-10-01T11:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/indigo/intro/</loc>
     <lastmod>2018-10-01T11:22:33-23:00</lastmod>
   </url>
   

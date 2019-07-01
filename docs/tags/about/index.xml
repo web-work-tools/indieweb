@@ -21,14 +21,5 @@
       <description>Static Sites for an Indieweb - Open-Source, Public Domain - Applying IndieWeb principles to Static Web-Publishing.</description>
     </item>
     
-    <item>
-      <title>Introducing Indigo</title>
-      <link>https://web-work.tools/indieweb/introducing-indigo/</link>
-      <pubDate>Mon, 01 Oct 2018 11:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/introducing-indigo/</guid>
-      <description>&lt;p&gt;Indigo is a lightweight theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://indieweb.org&#34;&gt;IndieWeb&lt;/a&gt; features baked in. It&amp;rsquo;s great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
