@@ -4,7 +4,7 @@ title: "IndieWeb Summit 2019 - Day 1 Review"
 description: "A review of IndieWeb Summit 2019 - Day 1 livestream, including relevant links and essential information."
 summary: ""
 categories: ["IndieWeb Summit 2019"]
-tags: ["livestream","code-of-conduct", "wiki", "principles"]
+tags: ["livestream","code-of-conduct", "wiki", "principles","keynotes","demonstrations"]
 date: "2019-06-29T01:13:33-23:00"
 draft: false
 slug: /indieweb-summit/2019/day-one/
@@ -19,6 +19,8 @@ So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) fr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I see clearly here where there is a size limit for free accounts and maybe I will consider upgrading at some point this year.
+
+Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of the events recorded on IndieWeb Summit livestream, Day One.
 
 * [Plaidophile -IndieWeb Summit 2019, day 1](https://beesbuzz.biz/blog/3785-IndieWeb-Summit-2019-day-1#more)
   

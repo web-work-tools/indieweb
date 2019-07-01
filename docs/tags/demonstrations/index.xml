@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demonstrations on An exploration of the IndieWebiverse</title>
+    <link>https://web-work.tools/indieweb/tags/demonstrations/</link>
+    <description>Recent content in demonstrations on An exploration of the IndieWebiverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
+    <lastBuildDate>Sat, 29 Jun 2019 01:13:33 -2300</lastBuildDate>
+    
+	<atom:link href="https://web-work.tools/indieweb/tags/demonstrations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IndieWeb Summit 2019 - Day 1 Review</title>
+      <link>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</link>
+      <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
+      <description>The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a BASH shell.
+So I grabbed the audio from twitch and converted to mp4 with ffmpeg and put it on youtube, so I could take advantage of the easy embed, and autotranscription.</description>
+    </item>
+    
+  </channel>
+</rss>
