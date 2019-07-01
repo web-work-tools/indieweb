@@ -33,7 +33,7 @@ Then, I, or anyone else can carry the site around in our pockets if we want.
 ### Running IndieWeb
 
 * [Decentralized-Web Histories](https://sourcecrypto.pub/decentralized-web) 
-  [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
+  * [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
 * [Agoric Records](https://agoric-records.xyz) _The Agoric Papers, Object Capabilities, E-Language._
   * [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll)
 

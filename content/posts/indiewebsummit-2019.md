@@ -32,7 +32,7 @@ To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the eve
 
 ![](https://imgur.com/SsaTe9T.png)
 
-Next is the code of conduct, which while I was preparing a copy it here on my site, they were adding a new section to the the original.
+The code of conduct is presented, which while I was preparing a copy it here on my site, they were adding a new section to the the original.
 
 * [IndieWeb - Code of Conduct](https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/)
 
@@ -46,7 +46,9 @@ There is one section that was just added from the [XOXO Code of Conduct](https:/
 >    Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 
-I've been looking for something like the IndieWeb code of conduct for a little while. I really resonate with IndieWeb being an "intentionally positive community" since in many places negativity is encouraged, where setting the intention for positivity is liklier to promote a positive experience in a public space.
+I've been looking for something like the IndieWeb Principles\Code of Conduct for a little while. I really resonate with IndieWeb being an "intentionally positive community" since in many places negativity is encouraged, where setting the intention for positivity is liklier to promote a positive experience in a public space. 
+
+Whatever the case may be, we have to figure out how to discourse amongst eachother peacefully, even having conflicting viewpoints.
 
 In addition to the IndieWeb Code of Conduct, all participants of the IndieWeb Summit also agree to [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
@@ -337,8 +339,7 @@ create a little micro pub post and I often went to my site and the next time I g
 
 ![](https://imgur.com/AgLfVm4.png)
 
-> one last thing I will show before I hop out of here that photo that Jackie and I took is is a live photo and this is where you get into the kind of stuff that you can only build when it's your website like this this kind of thing is like new and high on boomerang and apps that like you send to people and it disappears but I really like this little bouncy loop so I'm gonna share it to my website and I do that through another shortcut I made called live photo to micro pub video it takes that loop lets you and this is all part of iOS so far uploads it put a caption I
-call this the indie web dance 
+> one last thing I will show before I hop out of here that photo that Jackie and I took is is a live photo and this is where you get into the kind of stuff that you can only build when it's your website like this this kind of thing is like new and high on boomerang and apps that like you send to people and it disappears but I really like this little bouncy loop so I'm gonna share it to my website and I do that through another shortcut I made called live photo to micro pub video it takes that loop lets you and this is all part of iOS so far uploads it put a caption I call this the indie web dance 
 
 ## [Making the IndieWeb for All](https://slides.com/jackyalcine-1/making-the-indieweb-open-to-all/)
 

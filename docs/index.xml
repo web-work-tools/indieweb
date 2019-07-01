@@ -45,7 +45,10 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;Decentralized-Web Histories&lt;/a&gt;
-&lt;a href=&#34;https://github.com/miklb/jekyll-indieweb&#34;&gt;miklb/jekyll-indieweb&lt;/a&gt;&lt;/li&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miklb/jekyll-indieweb&#34;&gt;miklb/jekyll-indieweb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://agoric-records.xyz&#34;&gt;Agoric Records&lt;/a&gt; &lt;em&gt;The Agoric Papers, Object Capabilities, E-Language.&lt;/em&gt;
 
 &lt;ul&gt;
@@ -143,7 +146,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://imgur.com/SsaTe9T.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Next is the code of conduct, which while I was preparing a copy it here on my site, they were adding a new section to the the original.&lt;/p&gt;
+&lt;p&gt;The code of conduct is presented, which while I was preparing a copy it here on my site, they were adding a new section to the the original.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/&#34;&gt;IndieWeb - Code of Conduct&lt;/a&gt;&lt;/li&gt;
@@ -160,7 +163,9 @@
    Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I&amp;rsquo;ve been looking for something like the IndieWeb code of conduct for a little while. I really resonate with IndieWeb being an &amp;ldquo;intentionally positive community&amp;rdquo; since in many places negativity is encouraged, where setting the intention for positivity is liklier to promote a positive experience in a public space.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been looking for something like the IndieWeb Principles\Code of Conduct for a little while. I really resonate with IndieWeb being an &amp;ldquo;intentionally positive community&amp;rdquo; since in many places negativity is encouraged, where setting the intention for positivity is liklier to promote a positive experience in a public space.&lt;/p&gt;
+
+&lt;p&gt;Whatever the case may be, we have to figure out how to discourse amongst eachother peacefully, even having conflicting viewpoints.&lt;/p&gt;
 
 &lt;p&gt;In addition to the IndieWeb Code of Conduct, all participants of the IndieWeb Summit also agree to &lt;a href=&#34;https://www.mozilla.org/en-US/about/governance/policies/participation/&#34;&gt;Mozilla Community Participation Guidelines&lt;/a&gt;.&lt;/p&gt;
 
