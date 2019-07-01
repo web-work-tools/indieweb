@@ -3,7 +3,7 @@ enableEmoji = true
   
 baseurl = "https://web-work.tools/indieweb/"
 title = "The Static Side of the IndieWeb -SSG4"
-copyright = "⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉"
+copyright = "⧉ Infominer ⧉ Content: CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo ⧉"
 languageCode = "en-gb"
 theme = "indigo"
 paginate = 8

@@ -5,7 +5,7 @@
     <description>Recent content on The Static Side of the IndieWeb -SSG4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
+    <copyright>⧉ Infominer ⧉ Content: CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo ⧉</copyright>
     <lastBuildDate>Sun, 30 Jun 2019 01:13:33 -2300</lastBuildDate>
     
         <atom:link href="https://web-work.tools/indieweb/index.xml" rel="self" type="application/rss+xml" />
@@ -117,10 +117,10 @@
     
     <item>
       <title>IndieWeb Summit 2019 - Day 1 Review</title>
-      <link>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</link>
+      <link>https://web-work.tools/indieweb/summit/2019/day-one/</link>
       <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/indieweb-summit/2019/day-one/</guid>
+      <guid>https://web-work.tools/indieweb/summit/2019/day-one/</guid>
       <description>
 
 &lt;p&gt;The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a &lt;a href=&#34;https://web-work.tools/command-line-git-ssh&#34;&gt;BASH shell&lt;/a&gt;.&lt;/p&gt;

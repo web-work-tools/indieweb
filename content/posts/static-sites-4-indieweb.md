@@ -31,6 +31,7 @@ What I love about publishing via static site generators, it doesn't cost me a di
 
 Then, I, or anyone else can carry the site around in our pockets if we want.
 
+I was using Static Site Generators, and really prett
 
 ## Sites Running IndieWeb
 
