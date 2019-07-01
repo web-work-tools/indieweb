@@ -20,7 +20,7 @@ While this site is very much a work in progress, I'm happy for as far as its com
 
 My intention is to create an incredible resource for IndieWebbers who are interested in the static side of web-publishing.
 
-Not to say that other platforms or workflows will be censored or ignored, but that there are plenty of good resources available for using Wordpress to achieve indieweb features. 
+Not to say that other platforms or workflows will be censored or ignored, but if they already are well documented, then my services aren't in as high of demand.
 
 It will be simpler to link to the best guides for non static implementations, but focus where my interest is, and I feel that my work will be best appreciated.
 
