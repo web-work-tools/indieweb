@@ -20,18 +20,22 @@ While this site is very much a work in progress, I'm happy for as far as its com
 
 My intention is to create an incredible resource for IndieWebbers who are interested in the static side of web-publishing.
 
-Not to say that other platforms or workflows will be censored or ignored, but if they already are well documented, then my services aren't in as high of demand.
+More than that, I'll be creating a set of detailed indices for all of the indieweb specs. That will be valuable to everyone in the IndieWebiverse.
+
+---
 
 What I love about publishing via static site generators, it doesn't cost me a dime. I can open as many free github accounts as I want, or gitlab, or keybase, and make my own repository and publish via any number of integrations. All it costs me is time and learning. 
 
 Then, I, or anyone else can carry the site around in our pockets if we want.
 
-## Other SItes
+## Other Sites
 
 ### Running IndieWeb
 
-* [Decentralized-Web Histories](https://sourcecrypto.pub/decentralized-web)
-* [Agoric Records](https://agoric-records.xyz)
+* [Decentralized-Web Histories](https://sourcecrypto.pub/decentralized-web) 
+  [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
+* [Agoric Records](https://agoric-records.xyz) _The Agoric Papers, Object Capabilities, E-Language._
+  * [dumaurier/pwa_jekyll](https://github.com/dumaurier/pwa_jekyll)
 
 ## [@infominer33](https://github.com/infominer33)  
 

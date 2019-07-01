@@ -31,19 +31,26 @@
 
 &lt;p&gt;My intention is to create an incredible resource for IndieWebbers who are interested in the static side of web-publishing.&lt;/p&gt;
 
-&lt;p&gt;Not to say that other platforms or workflows will be censored or ignored, but if they already are well documented, then my services aren&amp;rsquo;t in as high of demand.&lt;/p&gt;
+&lt;p&gt;More than that, I&amp;rsquo;ll be creating a set of detailed indices for all of the indieweb specs. That will be valuable to everyone in the IndieWebiverse.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;What I love about publishing via static site generators, it doesn&amp;rsquo;t cost me a dime. I can open as many free github accounts as I want, or gitlab, or keybase, and make my own repository and publish via any number of integrations. All it costs me is time and learning.&lt;/p&gt;
 
 &lt;p&gt;Then, I, or anyone else can carry the site around in our pockets if we want.&lt;/p&gt;
 
-&lt;h2 id=&#34;other-sites&#34;&gt;Other SItes&lt;/h2&gt;
+&lt;h2 id=&#34;other-sites&#34;&gt;Other Sites&lt;/h2&gt;
 
 &lt;h3 id=&#34;running-indieweb&#34;&gt;Running IndieWeb&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;Decentralized-Web Histories&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://agoric-records.xyz&#34;&gt;Agoric Records&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcecrypto.pub/decentralized-web&#34;&gt;Decentralized-Web Histories&lt;/a&gt;
+&lt;a href=&#34;https://github.com/miklb/jekyll-indieweb&#34;&gt;miklb/jekyll-indieweb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://agoric-records.xyz&#34;&gt;Agoric Records&lt;/a&gt; &lt;em&gt;The Agoric Papers, Object Capabilities, E-Language.&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dumaurier/pwa_jekyll&#34;&gt;dumaurier/pwa_jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;infominer33-https-github-com-infominer33&#34;&gt;&lt;a href=&#34;https://github.com/infominer33&#34;&gt;@infominer33&lt;/a&gt;&lt;/h2&gt;
