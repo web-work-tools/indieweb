@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SSG4 -An exploration of the IndieWebiverse</title>
+    <title>The Static Side of the IndieWeb -SSG4</title>
     <link>https://web-work.tools/indieweb/</link>
-    <description>Recent content on SSG4 -An exploration of the IndieWebiverse</description>
+    <description>Recent content on The Static Side of the IndieWeb -SSG4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
@@ -19,7 +19,7 @@
       <guid>https://web-work.tools/indieweb/ssg4/</guid>
       <description>
 
-&lt;p&gt;While this site is very much a work in progress, I&amp;rsquo;m happy for as far as its come. It now supports header images, and twitter cards. With that solved, I really am pleased with the overall operation of this theme.&lt;/p&gt;
+&lt;p&gt;This site is very much a work in progress, tho I&amp;rsquo;m happy for as far as its come. It now supports header images, and twitter cards. I am fairly pleased with the overall operation of Indigo.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;AngeloStravrow/indigo&lt;/a&gt;

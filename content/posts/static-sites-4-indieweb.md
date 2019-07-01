@@ -2,7 +2,7 @@
 type: post
 title: "SSG4"
 description: "Static Sites for an Indieweb - Open-source, public domain, educational initiative for applying indieweb principles to static site web-publishing"
-summary: "Static Sites for an Indieweb - Open-source, public domain, educational initiative for applying indieweb principles to static site web-publishing. This site is very much a work in progress, I'm happy for as far as its come. It now supports header images, and twitter cards. I am fairly pleased with the overall operation of Indigo."
+summary: "Static Sites for an Indieweb - Open-Source, Public Domain - Applying IndieWeb principles to Static Web-Publishing."
 categories: ["SSG4"]
 tags: ["Welcome", "About"]
 date: "2019-06-30T01:13:33-23:00"
@@ -14,7 +14,7 @@ menu: main
 images: "https://web-work.tools/indieweb/images/indieweb-infominer-about.jpg"
 ---
 
-While this site is very much a work in progress, I'm happy for as far as its come. It now supports header images, and twitter cards. With that solved, I really am pleased with the overall operation of this theme.
+This site is very much a work in progress, tho I'm happy for as far as its come. It now supports header images, and twitter cards. I am fairly pleased with the overall operation of Indigo.
 
 * [AngeloStravrow/indigo](https://github.com/AngeloStavrow/indigo)
   * [Indigo Features](/indigo-features/)
