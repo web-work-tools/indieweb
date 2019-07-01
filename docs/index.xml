@@ -139,11 +139,13 @@
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-bBMK3Nu7fY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like&amp;hellip; I&amp;rsquo;d be happy to just e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn&amp;rsquo;t want to bother with &lt;code&gt;ffmpeg&lt;/code&gt; themselves.&lt;/p&gt;
+&lt;p&gt;For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of the events recorded on IndieWeb Summit livestream, Day One.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d be happy to just e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn&amp;rsquo;t want to bother with &lt;code&gt;ffmpeg&lt;/code&gt; themselves.&lt;/p&gt;
 
-&lt;h2 id=&#34;https-indieweb-org-2019-https-indieweb-org-2019&#34;&gt;&lt;a href=&#34;https://indieweb.org/2019&#34;&gt;https://indieweb.org/2019&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of all the cool sites mentioned and visted for Day 1 of IndieWeb SUmmit 2019!&lt;/p&gt;
+
+&lt;h2 id=&#34;indieweb-org-2019-https-indieweb-org-2019&#34;&gt;&lt;a href=&#34;https://indieweb.org/2019&#34;&gt;indieweb.org/2019&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the event.&lt;/p&gt;
 
@@ -194,7 +196,7 @@
 
 &lt;h3 id=&#34;discuss-https-indieweb-org-discuss&#34;&gt;&lt;a href=&#34;https://indieweb.org/Discuss&#34;&gt;Discuss&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;Use this via Desktop &lt;em&gt;first&lt;/em&gt; and then you will be able to access these channels via Mobile.&lt;/p&gt;
+&lt;p&gt;Use this via Desktop &lt;em&gt;first&lt;/em&gt; and then you will be able to access these channels via Mobile application.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://riot.im/develop/#/room/#freenode_#indieweb:matrix.org&#34;&gt;Matrix bridge to #indieweb chat (via riot.im)&lt;/a&gt;&lt;/li&gt;

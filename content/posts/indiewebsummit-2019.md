@@ -23,12 +23,13 @@ So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) fr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like... I'd be happy to just e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn't want to bother with `ffmpeg` themselves.
+For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like... 
 
-Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of the events recorded on IndieWeb Summit livestream, Day One.
+I'd be happy to just e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn't want to bother with `ffmpeg` themselves.
 
+Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of all the cool sites mentioned and visted for Day 1 of IndieWeb SUmmit 2019!
 
-## [https://indieweb.org/2019](https://indieweb.org/2019)
+## [indieweb.org/2019](https://indieweb.org/2019)
 
 To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the event.
 
@@ -74,7 +75,7 @@ I thought that was neat so I'm sharing here.
 
 ### [Discuss](https://indieweb.org/Discuss)
 
-Use this via Desktop *first* and then you will be able to access these channels via Mobile.
+Use this via Desktop *first* and then you will be able to access these channels via Mobile application.
 
 * [Matrix bridge to #indieweb chat (via riot.im)](https://riot.im/develop/#/room/#freenode_#indieweb:matrix.org)
 * [Matrix bridge to #meta channnel chat (via riot.im)](https://riot.im/develop/#/room/#freenode_#indieweb-meta:matrix.org)
