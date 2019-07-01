@@ -21,14 +21,14 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/about/</loc>
-    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://web-work.tools/indieweb/categories/ssg4-indieweb/</loc>
     <lastmod>2019-06-30T01:13:33-23:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/about/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
   </url>
   
   <url>

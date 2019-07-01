@@ -1,6 +1,6 @@
 ---
 type: post
-title: "SSG4 ⧉Info⧉"
+title: "SSG4⧉Info"
 description: "Static Sites for an Indieweb - Open-source, public domain, educational initiative for applying indieweb principles to static site web-publishing"
 summary: "While this site is very much a work in progress, I'm happy for as far as its come. It now supports header images, and twitter cards. With that solved, I am fairly pleased with the overall operation of this theme."
 categories: ["SSG4-IndieWeb"]
