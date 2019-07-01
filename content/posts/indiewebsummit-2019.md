@@ -133,7 +133,57 @@ I notice there was live captioning of the presentations, so for the moment, I po
 
 This is about the ebbs and flow of life where we expand and contract our*selves* in response and intertwined with the our trials and how we over-come them.
 
+>we start our journey with our
+world shaking with nothing but
+contractions in that it explodes into an
+immeasurable expanse and we're left in
+cycles of contractions and expansions
+until like Hamlet we shuffle off this
+mortal coil coil because fundamentally
+this is what life is about it is about a
+series of contractions and expansions we
+start off small unsure excited and
+interested in everything we take our
+first steps we learn we expand we fall
+down and we're yelled at don't get that
+don't do that don't do that I live in
+either and we contract we try again and
+we explore we taste everything we watch
+we continue to learn we expand in the
+joy of this existence and then we touch
+the hot plate coil we contract 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=2381" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> journey is if we have all the parts when
+our data is siloed behind a login page
+when our data is lost by a company that
+has sold or goes under or they base
+diamond your data is just gone
+we lose a part of our own story we
+become the blind man trying to describe
+the elephant it's a wall it's a tree
+trunk it's a rope
+each of these are correct and they are
+in complete each silo is only a part of
+the picture of who we are our memories
+fade the fish become bigger the
+intensity of the moment of lessons the
+wounds heal over and we tell our tales
+from a position of an observer instead
+of a participant from the narrator
+instead of the hearing hero of our own
+story when we own our own data we can
+understand the contractions and
+expansions of our own lives we see the
+data that we want to track and we tried
+it not because some corporate entity
+wants to sell us something we don't need
+but rather because it is important to us
+the data delights us we see patterns
+
+
 
 **Both this and the following videos are cued so if you click play it will begin at the time when their presentation began.**
 
@@ -141,7 +191,56 @@ This is about the ebbs and flow of life where we expand and contract our*selves*
 
 [mJordan](https://indieweb.org/wiki/index.php?title=User:Mjordan.codes&action=edit&redlink=1) shares the story of changing her name from Michelle to Jordan, to get called for job interviews by downplaying her femininity.
 
+>I'd been Michelle since you know I was
+born that's the name my parents gave me
+it's worked pretty well but a couple
+years ago searching for a job forever
+and ever and ever and getting nothing no
+interviews barely getting email
+responses basically I was completely
+ignored 
+>
+>in a minor fit of rage overnight
+I copied my website changed every
+reference to Michelle to use my middle
+name Jordan and put it up at a different
+domain took my resume stripped out
+everything that made it pretty because
+if it's pretty it's probably a girl and
+removed all of my leadership and
+volunteer
+it's with organizations like women who
+code 
+>
+>started sending out that resume and
+within two weeks I had four interviews I
+ended up speaking at a local meetup and
+somebody heard me and thought I was kind
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=2926" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>I created new domain name I had to
+change my Twitter got a new Twitter new
+github new Instagram all the things just
+to get a job and pet is such it
+just sucks like and changing my name to
+Jordan 
+>
+>kind of felt like giving in to
+the system for a while it was like okay
+so I can't be me so I have to be a fake
+person but maybe it's not so bad 
+>
+>it's hard to change things it's hard to
+make the community better if you can't
+become a part of the community the
+community won't let you in there's
+nothing you can do so if what I have to
+do is be Jordan for a little bit to get
+on the inside and make some changes I
+guess that's what I'm gonna do 
+
 
 ## Own Your Mobile Experience
 
@@ -241,7 +340,7 @@ call this the indie web dance
 
 ## [Making the IndieWeb for All](https://slides.com/jackyalcine-1/making-the-indieweb-open-to-all/)
 
-[Jacky Alciné](https://indieweb.org/User:Jacky.wtf) ([black.af](https://black.af/))was gracious enough to create a presentation that is embeddable via slides.com, so it will be simple to follow along.
+[Jacky Alciné](https://indieweb.org/User:Jacky.wtf) - [black.af](https://black.af/) - [Jacky.wtf](https://Jacky.wtf) - was gracious enough to create a presentation that is embeddable via slides.com, so it will be simple to follow along.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-bBMK3Nu7fY?start=4187" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -329,7 +428,78 @@ Has a css theme switcher:
   * [reader.minilop.net](http://reader.minilop.net/)
 * [Jared White](https://jaredwhite.com) (moving from youtube to vimeo)
 * [Jared-ewy.squarespace.com](https://jared-ewy.squarespace.com)
-* [Fluffy](https://twitter.com/fluffy) - [beesbuzz.biz](http://beesbuzz.biz/) 
-* [github](https://github.com/fluffy-critter)
-  * [PlaidWeb/Publ](https://github.com/PlaidWeb/Publ) - "Like a Static Site Generator, but Dynamic" works w git-flow.
-  * [PlaidWeb/publ-site](https://github.com/PlaidWeb/publ-site)
+* [Fluffy](https://twitter.com/fluffy) - [beesbuzz.biz](http://beesbuzz.biz/) - [publ.beesbuzz.biz](http://publ.beesbuzz.biz/)
+  * [github](https://github.com/fluffy-critter)
+    * [PlaidWeb/Publ](https://github.com/PlaidWeb/Publ) - "Like a Static Site Generator, but Dynamic" works w git-flow.
+    * [PlaidWeb/publ-site](https://github.com/PlaidWeb/publ-site)
+* [Andi Galpern](https://www.andigalpern.com/)
+  - Asks about owning content that is sold to companies, and the possibility of syndication.
+* [Lillian Karabaic](http://anomalily.net/)
+  * [anomalily.world](http://anomalily.world/)
+* Talks about [IndieBoxes](https://indieweb.org/UBOSbox), doesn't introduce himself.
+  * [indiecomputing.com](https://indiecomputing.com/)
+* [Jonathan LaCour](https://twitter.com/cleverdevil)
+  * [cleverdevil.io](https://cleverdevil.io/) - Built on [Known](https://withknown.com/) (A collaborative social publishing engine )
+  *  `cleverdevil` - "all the things"
+
+> April of 2019, you can see that I had a little bit for you I posted 188 time including the 42 records of what I watched on movies TV and stuff 39 video games I played that's automatically posted for my Nintendo switch using very dirty hacks it's pretty fun... and all sorts of good stuff in here all the check ins of different places I had been
+
+* [Michael Silverman](https://afitnerd.com)
+  * [github.com/dogeared](https://github.com/dogeared)
+    * [dogeared/dogeared.github.io](https://github.com/dogeared/dogeared.github.io)
+
+Static Site, hosted via netlify. Intersted in Jekyll\Hugo, and making an api for keybase\netlify to publish from keybase git repos.
+
+* [Debone.com](http://debone.com)
+* [tinysubversions.com/projects/](http://tinysubversions.com/projects/) - Uses Google Sheets for CMS
+  * [dariusk/projects](https://github.com/dariusk/projects)
+* [Mime Cuvalo](https://github.com/mimecuvalo/)
+  * [nite-lite.net/mime/](https://nite-lite.net/mime/)
+  * [npmjs.com/package/social-butterfly](https://www.npmjs.com/package/social-butterfly)
+
+>federated social web blog app. basically, i'm trying to build an open-source Tumblr (RIP). passes SWAT0!
+
+* [Tomas Quinones](https://tomasquinones.com/)
+
+>kind of messed up but what I'd like to
+do is take something I found on github
+implemented on my own personal blog and
+use the ride with GPS API to do like a
+daily pull of any rides that I've done
+and include on that key map the spot
+tracker has a way to share like what
+your daily check-in or regular check-ins
+are or your tracks but it looks like
+there are no longer showing my entire
+history it's only showing my last
+check-in from a few days ago which is
+just at my office but I'd like to also
+like use the spot API to pull my my
+check into tracks and I should store
+them so I have history rather than just
+whatever spot decides to show me at any
+one time
+
+* [Katy Johnson](http://bellingham.design/)
+* [Malcom](https://unicyclic.com/index)
+
+>Unicyclic.com is a social feed reader, which means you can subscribe to feeds and then reply to, like, or share what you're reading from the reader.
+>
+>If you have your own website, you can use it to log in right here using IndieAuth. If you also support Micropub, all your interactions here will be posted back to your own site.
+
+* [Jack Jamieson](https://jackjamieson.net/)
+
+* [Yarns Microsub Server: Getting started guide](https://jackjamieson.net/yarns-microsub-server-getting-started-guide/)
+
+![](https://imgur.com/PiZni11.png)
+
+* [Dave Peck](https://davepeck.org/)
+>Had a great time at the IndieWeb Summit in Portland this weekend. Even managed to get this site updated with microformats as well as both inbound and outbound webmentions.
+  * Publishes via [github](https://github.com/davepeck) and is working on integrations.
+* [Maxwell Joslyn](https://maxwelljoslyn.com/)
+* [Sam Menza](https://sammenza.com/)
+* [jgregorymcverry.com](http://www.jgregorymcverry.com/)
+* [Tiara Miller](http://tiaramiller.com/)
+* [David Shanske](https://david.shanske.com/)
+* [donp.org](https://donp.org/) - [@donpdonp](https://github.com/donpdonp)
+* [Aaron Parecki](https://aaronparecki.com/)
