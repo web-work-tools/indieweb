@@ -26,9 +26,13 @@ I was using [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb), b
 
 [![](https://imgur.com/LrC8gO8.png)](https://github.com/miklb/jekyll-indieweb/pull/25#issuecomment-494123723)
 
-This is [indigo](https://github.com/AngeloStavrow/indigo), an Indieweb prepared Hugo theme, that I'll be writing about more soon, and figuring out how to make use of all its awesome indieweb integrations.
+The updated version of Jekyll IndieWeb is now live and is running [Decentralized-Web Histories](https://sourcecrypto.pub).
 
-I cover most anything you'd need to get started with GitHub Pages in:
+This site is running [indigo](https://github.com/AngeloStavrow/indigo), an IndieWeb theme for Hugo.
+
+## Getting Started
+
+This guide and the others surrounding it contain all the information you need to begin learning to publish with GitHub pages... However, please let me know of any pain-points, and I can work on those sections.
 
 * [web-work.tools/github-pages-starter-pack](https://web-work.tools/github-pages-starter-pack)
 

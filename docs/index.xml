@@ -2831,9 +2831,13 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/miklb/jekyll-indieweb/pull/25#issuecomment-494123723&#34;&gt;&lt;img src=&#34;https://imgur.com/LrC8gO8.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This is &lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;indigo&lt;/a&gt;, an Indieweb prepared Hugo theme, that I&amp;rsquo;ll be writing about more soon, and figuring out how to make use of all its awesome indieweb integrations.&lt;/p&gt;
+&lt;p&gt;The updated version of Jekyll IndieWeb is now live and is running &lt;a href=&#34;https://sourcecrypto.pub&#34;&gt;Decentralized-Web Histories&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I cover most anything you&amp;rsquo;d need to get started with GitHub Pages in:&lt;/p&gt;
+&lt;p&gt;This site is running &lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;indigo&lt;/a&gt;, an IndieWeb theme for Hugo.&lt;/p&gt;
+
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;This guide and the others surrounding it contain all the information you need to begin learning to publish with GitHub pages&amp;hellip; However, please let me know of any pain-points, and I can work on those sections.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://web-work.tools/github-pages-starter-pack&#34;&gt;web-work.tools/github-pages-starter-pack&lt;/a&gt;&lt;/li&gt;
