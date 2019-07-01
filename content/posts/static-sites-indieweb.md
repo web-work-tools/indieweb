@@ -12,7 +12,7 @@ menu: main
 images: "https://web-work.tools/indieweb/images/indieweb-infominer-about.jpg"
 ---
 
-While this site is very much a work in progress, I'm happy for as far as its come. It now supports header images, and twitter cards. With that solved, I really am fairly pleased with the overall operation of this theme.
+While this site is very much a work in progress, I'm happy for as far as its come. It now supports header images, and twitter cards. With that solved, I really am pleased with the overall operation of this theme.
 
 * [AngeloStravrow/indigo](https://github.com/AngeloStavrow/indigo)
   * [Indigo Features](/indigo-features/)
@@ -22,7 +22,9 @@ My intention is to create an incredible resource for IndieWebbers who are intere
 
 Not to say that other platforms or workflows will be censored or ignored, but if they already are well documented, then my services aren't in as high of demand.
 
-It will be simpler to link to the best guides for non static implementations, but focus where my interest is, and I feel that my work will be best appreciated.
+What I love about publishing via static site generators, it doesn't cost me a dime. I can open as many free github accounts as I want, or gitlab, or keybase, and make my own repository and publish via any number of integrations. All it costs me is time and learning. 
+
+Then, I, or anyone else can carry the site around in our pockets if we want.
 
 ## Other SItes
 

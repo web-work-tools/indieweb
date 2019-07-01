@@ -19,7 +19,7 @@
       <guid>https://web-work.tools/indieweb/about/</guid>
       <description>
 
-&lt;p&gt;While this site is very much a work in progress, I&amp;rsquo;m happy for as far as its come. It now supports header images, and twitter cards. With that solved, I really am fairly pleased with the overall operation of this theme.&lt;/p&gt;
+&lt;p&gt;While this site is very much a work in progress, I&amp;rsquo;m happy for as far as its come. It now supports header images, and twitter cards. With that solved, I really am pleased with the overall operation of this theme.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/AngeloStavrow/indigo&#34;&gt;AngeloStravrow/indigo&lt;/a&gt;
@@ -33,7 +33,9 @@
 
 &lt;p&gt;Not to say that other platforms or workflows will be censored or ignored, but if they already are well documented, then my services aren&amp;rsquo;t in as high of demand.&lt;/p&gt;
 
-&lt;p&gt;It will be simpler to link to the best guides for non static implementations, but focus where my interest is, and I feel that my work will be best appreciated.&lt;/p&gt;
+&lt;p&gt;What I love about publishing via static site generators, it doesn&amp;rsquo;t cost me a dime. I can open as many free github accounts as I want, or gitlab, or keybase, and make my own repository and publish via any number of integrations. All it costs me is time and learning.&lt;/p&gt;
+
+&lt;p&gt;Then, I, or anyone else can carry the site around in our pockets if we want.&lt;/p&gt;
 
 &lt;h2 id=&#34;other-sites&#34;&gt;Other SItes&lt;/h2&gt;
 
