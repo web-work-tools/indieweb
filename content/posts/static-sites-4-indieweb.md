@@ -10,6 +10,7 @@ draft: false
 slug: /SSG4/
 aliases:
   - /about/
+  - /info/
 menu: main
 images: "https://web-work.tools/indieweb/images/indieweb-infominer-about.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 type: page
-title: "Indie Git Repos"
+title: "Git Repos"
 description: "A Growing Collection of IndieWeb GitHub Repositories."
 summary: "A start at exploring IndieWeb Topics"
 date: "2019-05-19T11:22:33-23:00"

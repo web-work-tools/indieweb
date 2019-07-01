@@ -1,14 +1,15 @@
 ---
 type: post
-title: "Indigo Features"
+title: "Indigo"
 description: "Indigo is a A Hugo theme, designed with indieweb in mind."
-summary: "The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note. I'll be exploring these classes more thoroughly, soon."
+summary: "This post relates, in detail, the indieweb featuers of Indigo. The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note."
 categories: ["indigo","specifications"]
 tags: ["hugo-theme", "indieweb", "wiki","hugo","configuration","features", "specifications", "rel=me","h-card", "h-entry"]
 date: "2019-06-22T01:22:33-23:00"
 draft: false
-slug: /indigo-features/
+slug: /indigo/features/
 aliases:
+  - /indigo-features/
   - /indigo-theme-features/
   - /indigo-indieweb-features/
 menu: main
