@@ -26,6 +26,7 @@ Whatever the case may be, one thing led to another, and here we have what I find
   
   >First day of #IndieWeb Summit, scattered notes that I take as they come. Hopefully I don’t end up misrepresenting things too badly.
 
+
 ## [https://indieweb.org/2019](https://indieweb.org/2019)
 
 To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the event.
@@ -417,15 +418,18 @@ I'm going to re-produce part of that text, and encourage you to visit the wiki, 
 
 <iframe src="//slides.com/jackyalcine-1/making-the-indieweb-open-to-all/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Demos
+## Introductions - Demos
 
-* [tantek.com](https://tantek.com)
+![](https://imgur.com/3SY2oSf.png)
 
-Has a css theme switcher: 
+* [indieweb.org/2019/Intros](https://indieweb.org/2019/Intros)
+  * [chat.indieweb.org/2019-06-29#t1561831498538100](https://chat.indieweb.org/2019-06-29#t1561831498538100) - Introductions start here.
+
+Tantek has this cool, css theme switcher: 
 
 ![](https://imgur.com/WRBtJbK.png)
 
-
+* [tantek.com](https://tantek.com)
 * [Jamey Sharp](https://jamey.thesharps.us/)
   * [jameysharp/reader-py](https://github.com/jameysharp/reader-py)
   * [reader.minilop.net](http://reader.minilop.net/)
