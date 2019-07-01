@@ -11,7 +11,7 @@ paginate = 8
 [params]
   Author = "Infominer"
   description = "Static Sites for an IndieWeb"
-  Subtitle = "IndieWeb Principles, Practice and Design"
+  Subtitle = "Principles, Practice, and Documentation"
   Avatar = "images/infominer.svg"
   Biography = "Full-Time Crypto-Curation and Histories ⧉ Bitcoin, Blockchain, DecentralizedID ⧉ Research, Publishing, WebWork, IndieWeb ⧉ her/him"
   ShowBio = true
