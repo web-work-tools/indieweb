@@ -38,6 +38,12 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/tags/about/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/tags/welcome/</loc>
     <lastmod>2019-06-30T01:13:33-23:00</lastmod>
     <priority>0</priority>
