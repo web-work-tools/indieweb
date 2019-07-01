@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>https://web-work.tools/indieweb/tags/about/</link>
       <pubDate>Sun, 30 Jun 2019 01:13:33 -2300</pubDate>
       
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>welcome</title>
+      <title>Welcome</title>
       <link>https://web-work.tools/indieweb/tags/welcome/</link>
       <pubDate>Sun, 30 Jun 2019 01:13:33 -2300</pubDate>
       
@@ -72,6 +72,15 @@
       <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>https://web-work.tools/indieweb/tags/resources/</link>
+      <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/resources/</guid>
       <description></description>
     </item>
     
@@ -166,6 +175,15 @@
     </item>
     
     <item>
+      <title>specifications</title>
+      <link>https://web-work.tools/indieweb/tags/specifications/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/specifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>did</title>
       <link>https://web-work.tools/indieweb/tags/did/</link>
       <pubDate>Mon, 03 Jun 2019 11:22:33 -2300</pubDate>
@@ -229,29 +247,29 @@
     </item>
     
     <item>
-      <title>jekyll static-sites</title>
-      <link>https://web-work.tools/indieweb/tags/jekyll-static-sites/</link>
-      <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/jekyll-static-sites/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>resources</title>
-      <link>https://web-work.tools/indieweb/tags/resources/</link>
-      <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>static-sites</title>
       <link>https://web-work.tools/indieweb/tags/static-sites/</link>
       <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/static-sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webmentions</title>
+      <link>https://web-work.tools/indieweb/tags/webmentions/</link>
+      <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/webmentions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static-Site</title>
+      <link>https://web-work.tools/indieweb/tags/static-site/</link>
+      <pubDate>Mon, 01 Oct 2018 11:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/static-site/</guid>
       <description></description>
     </item>
     

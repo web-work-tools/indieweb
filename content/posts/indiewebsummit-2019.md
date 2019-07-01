@@ -4,7 +4,7 @@ title: "IndieWeb Summit 2019 - Day 1 Review"
 description: "A review of IndieWeb Summit 2019 - Day 1 livestream, including relevant links and essential information."
 summary: "The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It's crucial to have independent web creators from all backgrounds at IndieWeb Summit to have a rich discussion and build cool things"
 categories: ["IndieWeb Summit 2019"]
-tags: ["livestream","code-of-conduct", "wiki", "principles","keynotes","demonstrations"]
+tags: ["livestream","code-of-conduct", "resources","wiki", "principles","keynotes","demonstrations"]
 date: "2019-06-29T01:13:33-23:00"
 draft: false
 slug: /indieweb-summit/2019/day-one/

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static-Site on An exploration of the IndieWebiverse</title>
+    <link>https://web-work.tools/indieweb/tags/static-site/</link>
+    <description>Recent content in Static-Site on An exploration of the IndieWebiverse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>⧉ Infominer ⧉ CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo via: gohugoio/hugo ⧉</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 11:22:33 -2300</lastBuildDate>
+    
+	<atom:link href="https://web-work.tools/indieweb/tags/static-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Indigo</title>
+      <link>https://web-work.tools/indieweb/introducing-indigo/</link>
+      <pubDate>Mon, 01 Oct 2018 11:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/introducing-indigo/</guid>
+      <description>&lt;p&gt;Indigo is a lightweight theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://indieweb.org&#34;&gt;IndieWeb&lt;/a&gt; features baked in. It&amp;rsquo;s great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

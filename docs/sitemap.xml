@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://web-work.tools/indieweb/tags/about/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/</loc>
     <lastmod>2019-06-30T01:13:33-23:00</lastmod>
     <priority>0</priority>
@@ -21,24 +27,18 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/about/</loc>
+    <loc>https://web-work.tools/indieweb/categories/ssg4/</loc>
     <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/categories/ssg4-indieweb/</loc>
+    <loc>https://web-work.tools/indieweb/ssg4/</loc>
     <lastmod>2019-06-30T01:13:33-23:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/</loc>
-    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/about/</loc>
     <lastmod>2019-06-30T01:13:33-23:00</lastmod>
     <priority>0</priority>
   </url>
@@ -86,6 +86,12 @@
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/principles/</loc>
+    <lastmod>2019-06-29T01:13:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/resources/</loc>
     <lastmod>2019-06-29T01:13:33-23:00</lastmod>
     <priority>0</priority>
   </url>
@@ -206,6 +212,12 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/tags/specifications/</loc>
+    <lastmod>2019-06-22T01:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/indieweb-dev-on-did/</loc>
     <lastmod>2019-06-03T11:22:33-23:00</lastmod>
   </url>
@@ -252,7 +264,7 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/resources/</loc>
+    <loc>https://web-work.tools/indieweb/info/</loc>
     <lastmod>2019-05-19T11:22:33-23:00</lastmod>
   </url>
   
@@ -275,19 +287,13 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/tags/jekyll-static-sites/</loc>
-    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/tags/resources/</loc>
-    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://web-work.tools/indieweb/tags/static-sites/</loc>
+    <lastmod>2019-05-19T11:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/webmentions/</loc>
     <lastmod>2019-05-19T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
@@ -295,6 +301,12 @@
   <url>
     <loc>https://web-work.tools/indieweb/introducing-indigo/</loc>
     <lastmod>2018-10-01T11:22:33-23:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/tags/static-site/</loc>
+    <lastmod>2018-10-01T11:22:33-23:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

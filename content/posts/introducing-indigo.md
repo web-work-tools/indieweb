@@ -3,8 +3,8 @@ type: post
 title: "Introducing Indigo"
 date: 2018-10-01T11:22:33-23:00
 draft: false
-categories: ["indigo"]
-tags: ["indieweb", "hugo-theme", "hugo"]
+categories: ["Indigo"]
+tags: ["IndieWeb", "About", "Hugo-theme", "Hugo", "Static-Site"]
 ---
 
 Indigo is a lightweight theme for [Hugo][hugo] with [IndieWeb][indieweb] features baked in. It's great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.

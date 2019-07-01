@@ -1,15 +1,16 @@
 ---
 type: post
-title: Resources
+title: Info
 date: "2019-05-19T11:22:33-23:00"
-categories: ["resources"]
-tags: [indieweb, github-pages, resources, jekyll static-sites]
+categories: ["Resources","SSG4"]
+tags: [indieweb, github-pages, jekyll, static-sites, hugo, webmentions]
 subtitle: To Become An Extensive Collection
-slug: /resources/
+slug: /info/
 draft: false
 menu: main
 images: "https://imgur.com/ahnVZ9tl.png"
 aliases:
+  - /resources/
   - /posts/indieweb-resources/
   - /posts/indieweb-resources
   - /indieweb-resources/

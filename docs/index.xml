@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>SSG4 ⧉ Info</title>
-      <link>https://web-work.tools/indieweb/about/</link>
+      <title>SSG4</title>
+      <link>https://web-work.tools/indieweb/ssg4/</link>
       <pubDate>Sun, 30 Jun 2019 01:13:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/about/</guid>
+      <guid>https://web-work.tools/indieweb/ssg4/</guid>
       <description>
 
 &lt;p&gt;While this site is very much a work in progress, I&amp;rsquo;m happy for as far as its come. It now supports header images, and twitter cards. With that solved, I really am pleased with the overall operation of this theme.&lt;/p&gt;
@@ -2826,11 +2826,11 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
     </item>
     
     <item>
-      <title>Resources</title>
-      <link>https://web-work.tools/indieweb/resources/</link>
+      <title>Info</title>
+      <link>https://web-work.tools/indieweb/info/</link>
       <pubDate>Sun, 19 May 2019 11:22:33 -2300</pubDate>
       
-      <guid>https://web-work.tools/indieweb/resources/</guid>
+      <guid>https://web-work.tools/indieweb/info/</guid>
       <description>
 
 &lt;!--![](https://imgur.com/ahnVZ9tl.png)--&gt;
