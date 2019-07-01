@@ -44,6 +44,8 @@ I was using Static Site Generators, and really prett
 
 * [@infominer33](https://github.com/infominer33)  
   * [infominer.id](https://infominer.id)
+  * [Contributors Intro](https://infominer.id/contributors-intro/)
+  * [InfoHub Contributors: Using Minimal Mistakes](https://infominer.id/using-minimal-mistakes/)
   * [About Me](https://infominer.id/about)
 
 My personal account will mostly be for testing new projects, as a staging area, and where my homepage is hosted from.
