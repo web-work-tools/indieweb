@@ -25,11 +25,13 @@ So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) fr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wqnvScL4ogA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like... 
+I've now chopped the video into pieces that can be handled, and optimized it for size.
 
-I'd be happy to just e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn't want to bother with `ffmpeg` themselves.
+I'd be happy to e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn't want to bother with `ffmpeg` themselves.
 
-Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of all the cool sites mentioned and visted for Day 1 of IndieWeb SUmmit 2019!
+Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of all the cool sites mentioned and visted for Day 1 of IndieWeb Summit 2019! 
+
+Overall, I can say that it's been an incredible learning experience, creating this companion to the livestream. 
 
 ## [indieweb.org/2019](https://indieweb.org/2019)
 
@@ -193,10 +195,6 @@ it not because some corporate entity
 wants to sell us something we don't need
 but rather because it is important to us
 the data delights us we see patterns
-
-
-
-**Both this and the following videos are cued so if you click play it will begin at the time when their presentation began.**
 
 ## Changing My Domain
 

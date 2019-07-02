@@ -153,18 +153,6 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/tags/hugo-theme/</loc>
-    <lastmod>2019-06-22T01:22:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/categories/indigo/</loc>
-    <lastmod>2019-06-22T01:22:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://web-work.tools/indieweb/indigo/features/</loc>
     <lastmod>2019-06-22T01:22:33-23:00</lastmod>
   </url>
@@ -200,7 +188,19 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/tags/hugo-theme/</loc>
+    <lastmod>2019-06-22T01:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/tags/indieweb/</loc>
+    <lastmod>2019-06-22T01:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web-work.tools/indieweb/categories/indigo/</loc>
     <lastmod>2019-06-22T01:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>
@@ -223,6 +223,12 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/categories/resources/</loc>
+    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/categories/decentralized-identity/</loc>
     <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
@@ -242,12 +248,6 @@
   
   <url>
     <loc>https://web-work.tools/indieweb/tags/indieweb-dev/</loc>
-    <lastmod>2019-06-03T11:22:33-23:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/categories/resources/</loc>
     <lastmod>2019-06-03T11:22:33-23:00</lastmod>
     <priority>0</priority>
   </url>

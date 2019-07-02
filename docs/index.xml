@@ -143,11 +143,13 @@
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wqnvScL4ogA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve now chopped the video into pieces that can be handled, and optimized it for size.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;d be happy to just e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn&amp;rsquo;t want to bother with &lt;code&gt;ffmpeg&lt;/code&gt; themselves.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d be happy to e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn&amp;rsquo;t want to bother with &lt;code&gt;ffmpeg&lt;/code&gt; themselves.&lt;/p&gt;
 
-&lt;p&gt;Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of all the cool sites mentioned and visted for Day 1 of IndieWeb SUmmit 2019!&lt;/p&gt;
+&lt;p&gt;Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of all the cool sites mentioned and visted for Day 1 of IndieWeb Summit 2019!&lt;/p&gt;
+
+&lt;p&gt;Overall, I can say that it&amp;rsquo;s been an incredible learning experience, creating this companion to the livestream.&lt;/p&gt;
 
 &lt;h2 id=&#34;indieweb-org-2019-https-indieweb-org-2019&#34;&gt;&lt;a href=&#34;https://indieweb.org/2019&#34;&gt;indieweb.org/2019&lt;/a&gt;&lt;/h2&gt;
 
@@ -350,8 +352,6 @@ wants to sell us something we don&amp;rsquo;t need
 but rather because it is important to us
 the data delights us we see patterns&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Both this and the following videos are cued so if you click play it will begin at the time when their presentation began.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;changing-my-domain&#34;&gt;Changing My Domain&lt;/h2&gt;
 

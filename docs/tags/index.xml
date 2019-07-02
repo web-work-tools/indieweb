@@ -103,15 +103,6 @@
     </item>
     
     <item>
-      <title>Hugo-theme</title>
-      <link>https://web-work.tools/indieweb/tags/hugo-theme/</link>
-      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/tags/hugo-theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>configuration</title>
       <link>https://web-work.tools/indieweb/tags/configuration/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
@@ -153,6 +144,15 @@
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo-theme</title>
+      <link>https://web-work.tools/indieweb/tags/hugo-theme/</link>
+      <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/tags/hugo-theme/</guid>
       <description></description>
     </item>
     
