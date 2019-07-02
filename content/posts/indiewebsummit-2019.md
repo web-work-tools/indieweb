@@ -23,7 +23,7 @@ So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) fr
   
   >First day of #IndieWeb Summit, scattered notes that I take as they come. Hopefully I don’t end up misrepresenting things too badly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wqnvScL4ogA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For now I have youtube embed, because this is a big video, and I think I would have to find some way to self-host, find paid hosting, or simply grab and upload small clips to github. I know IndieWeb like Archive.org.. not sure what their embed situation is like... 
 
@@ -99,6 +99,8 @@ Use this via Desktop *first* and then you will be able to access these channels 
 
 ## [State of the IndieWeb](https://indieweb.org/2019/state-of-the-indieweb)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tjEIWsh0Lk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Tantek discussed mainstream attention gained with the New Yorker Article:
 
 * [Can “Indie” Social Media Save Us?](https://www.newyorker.com/tech/annals-of-technology/can-indie-social-media-save-us)
@@ -163,7 +165,7 @@ joy of this existence and then we touch
 the hot plate coil we contract 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=2381" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/59b7U6FGOno" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > journey is if we have all the parts when
 our data is siloed behind a login page
@@ -198,7 +200,7 @@ the data delights us we see patterns
 
 ## Changing My Domain
 
-[mJordan](https://indieweb.org/wiki/index.php?title=User:Mjordan.codes&action=edit&redlink=1) shares the story of changing her name from Michelle to Jordan, to get called for job interviews by downplaying her femininity.
+[mJordan](https://indieweb.org/wiki/index.php?title=User:Mjordan.codes) shares the story of changing her name from Michelle to Jordan, to get called for job interviews by downplaying her femininity.
 
 >I'd been Michelle since you know I was
 born that's the name my parents gave me
@@ -227,7 +229,7 @@ ended up speaking at a local meetup and
 somebody heard me and thought I was kind
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=2926" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qW2uV5ZBEx4" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >I created new domain name I had to
 change my Twitter got a new Twitter new
@@ -253,7 +255,7 @@ guess that's what I'm gonna do
 
 ## Own Your Mobile Experience
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-bBMK3Nu7fY?start=3238" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WFsmPT-SyuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Marty McGuire](https://indieweb.org/User:Martymcgui.re) opens his presentation with a discussion of the Indigenous app, and sharing photos with it.
 
