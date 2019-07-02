@@ -135,7 +135,7 @@ He also discussed the idea of introducing [private Posts](https://indieweb.org/p
 
 ## On Contractions & Expansions
 
-* [Kitt Hodsden](https://indieweb.org/wiki/index.php?title=User:Kitt.hodsden.org&action=edit&redlink=1) — On Contractions & Expansions
+* [Kitt Hodsden](https://kitt.hodsden.org/) [@kitt](https://twitter.com/kitt) — On Contractions & Expansions
 
 I notice there was live captioning of the presentations, so for the moment, I point you to the video until I find more about the captioning.
 
