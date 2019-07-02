@@ -16,32 +16,27 @@ images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
 
 The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a [BASH shell](https://web-work.tools/command-line-git-ssh).
 
-So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) from twitch and [converted to mp4](https://windowsloop.com/download-m3u8-video-with-ffmpeg/) with `ffmpeg` and put it on youtube, so I could take advantage of the easy embed, and autotranscription.
+So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) from twitch, [converted to mp4](https://windowsloop.com/download-m3u8-video-with-ffmpeg/) with `ffmpeg`, chopped it up with `kdenlive` and put it on youtube (so I could take advantage of the easy embed, and autotranscription).
+
+One thing led to another, and here we have what I find to be a useful resource for keeping track of all the cool people and linkes referenced during Day 1 of IndieWeb Summit 2019! 
 
 * [Twitch.tv - IndieWeb](https://www.twitch.tv/videos/445919345)
 * [Plaidophile -IndieWeb Summit 2019, day 1](https://beesbuzz.biz/blog/3785-IndieWeb-Summit-2019-day-1#more) - (Check out these event notes by Fuzzy, and [add yours here](https://github.com/web-work-tools/indieweb/blob/master/content/posts/indiewebsummit-2019.md).)
   
   >First day of #IndieWeb Summit, scattered notes that I take as they come. Hopefully I don’t end up misrepresenting things too badly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wqnvScL4ogA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-I've now chopped the video into pieces that can be handled, and optimized it for size.
-
-I'd be happy to e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn't want to bother with `ffmpeg` themselves.
-
-Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of all the cool sites mentioned and visted for Day 1 of IndieWeb Summit 2019! 
-
-Overall, I can say that it's been an incredible learning experience, creating this companion to the livestream. 
-
 ## [indieweb.org/2019](https://indieweb.org/2019)
 
 To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the event.
 
-![](https://imgur.com/SsaTe9T.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X39xsIZjlRc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The code of conduct is presented, which while I was preparing a copy it here on my site, they were adding a new section to the the original.
 
 * [IndieWeb - Code of Conduct](https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/)
+
+
+![](https://imgur.com/SsaTe9T.png)
 
 There is one section that was just added from the [XOXO Code of Conduct](https://2018.xoxofest.com/conduct):
 
@@ -101,7 +96,7 @@ Use this via Desktop *first* and then you will be able to access these channels 
 
 ## [State of the IndieWeb](https://indieweb.org/2019/state-of-the-indieweb)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tjEIWsh0Lk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JOk8Fmerrqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Tantek discussed mainstream attention gained with the New Yorker Article:
 

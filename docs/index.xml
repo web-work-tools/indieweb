@@ -129,7 +129,9 @@
 
 &lt;p&gt;The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a &lt;a href=&#34;https://web-work.tools/command-line-git-ssh&#34;&gt;BASH shell&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;So I &lt;a href=&#34;https://www.locoloader.com/twitch-video-downloader/&#34;&gt;grabbed the audio&lt;/a&gt; from twitch and &lt;a href=&#34;https://windowsloop.com/download-m3u8-video-with-ffmpeg/&#34;&gt;converted to mp4&lt;/a&gt; with &lt;code&gt;ffmpeg&lt;/code&gt; and put it on youtube, so I could take advantage of the easy embed, and autotranscription.&lt;/p&gt;
+&lt;p&gt;So I &lt;a href=&#34;https://www.locoloader.com/twitch-video-downloader/&#34;&gt;grabbed the audio&lt;/a&gt; from twitch, &lt;a href=&#34;https://windowsloop.com/download-m3u8-video-with-ffmpeg/&#34;&gt;converted to mp4&lt;/a&gt; with &lt;code&gt;ffmpeg&lt;/code&gt;, chopped it up with &lt;code&gt;kdenlive&lt;/code&gt; and put it on youtube (so I could take advantage of the easy embed, and autotranscription).&lt;/p&gt;
+
+&lt;p&gt;One thing led to another, and here we have what I find to be a useful resource for keeping track of all the cool people and linkes referenced during Day 1 of IndieWeb Summit 2019!&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/videos/445919345&#34;&gt;Twitch.tv - IndieWeb&lt;/a&gt;&lt;/li&gt;
@@ -141,27 +143,19 @@
 &lt;p&gt;First day of #IndieWeb Summit, scattered notes that I take as they come. Hopefully I don’t end up misrepresenting things too badly.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wqnvScL4ogA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;I&amp;rsquo;ve now chopped the video into pieces that can be handled, and optimized it for size.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;d be happy to e-mail it to interested parties, and perhaps someone else has a simple hosting solution, and doesn&amp;rsquo;t want to bother with &lt;code&gt;ffmpeg&lt;/code&gt; themselves.&lt;/p&gt;
-
-&lt;p&gt;Whatever the case may be, one thing led to another, and here we have what I find a useful resource for keeping track of all the cool sites mentioned and visted for Day 1 of IndieWeb Summit 2019!&lt;/p&gt;
-
-&lt;p&gt;Overall, I can say that it&amp;rsquo;s been an incredible learning experience, creating this companion to the livestream.&lt;/p&gt;
-
 &lt;h2 id=&#34;indieweb-org-2019-https-indieweb-org-2019&#34;&gt;&lt;a href=&#34;https://indieweb.org/2019&#34;&gt;indieweb.org/2019&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the event.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://imgur.com/SsaTe9T.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/X39xsIZjlRc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;The code of conduct is presented, which while I was preparing a copy it here on my site, they were adding a new section to the the original.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/&#34;&gt;IndieWeb - Code of Conduct&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgur.com/SsaTe9T.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There is one section that was just added from the &lt;a href=&#34;https://2018.xoxofest.com/conduct&#34;&gt;XOXO Code of Conduct&lt;/a&gt;:&lt;/p&gt;
 
@@ -231,7 +225,7 @@
 
 &lt;h2 id=&#34;state-of-the-indieweb-https-indieweb-org-2019-state-of-the-indieweb&#34;&gt;&lt;a href=&#34;https://indieweb.org/2019/state-of-the-indieweb&#34;&gt;State of the IndieWeb&lt;/a&gt;&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/tjEIWsh0Lk4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JOk8Fmerrqo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Tantek discussed mainstream attention gained with the New Yorker Article:&lt;/p&gt;
 
