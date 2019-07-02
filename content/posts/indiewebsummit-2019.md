@@ -350,7 +350,7 @@ create a little micro pub post and I often went to my site and the next time I g
 
 [Jacky Alciné](https://indieweb.org/User:Jacky.wtf) - [black.af](https://black.af/) - [Jacky.wtf](https://Jacky.wtf) - was gracious enough to create a presentation that is embeddable via slides.com, so it will be simple to follow along.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-bBMK3Nu7fY?start=4187" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LyybCU6hdmU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Approaches
 
@@ -428,6 +428,9 @@ I'm going to re-produce part of that text, and encourage you to visit the wiki, 
 
 * [indieweb.org/2019/Intros](https://indieweb.org/2019/Intros)
   * [chat.indieweb.org/2019-06-29#t1561831498538100](https://chat.indieweb.org/2019-06-29#t1561831498538100) - Introductions start here.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YTOQ2gwG8uc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Tantek has this cool, css theme switcher: 
 
