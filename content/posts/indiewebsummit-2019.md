@@ -14,6 +14,13 @@ aliases:
 images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
 ---
 
+
+IndieWeb Summit 2019 was June 29-30, 2019 (Saturday & Sunday), in Portland, Oregon; the ninth annual gathering for independent web creators of all kinds, graphic artists, designers, UX engineers, coders, hackers, to share ideas, create & improve their personal websites, and build upon each others creations.
+
+* [IndieWeb Summit 2019 -indieweb.org](https://indieweb.org/2019)
+
+---
+
 The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a [BASH shell](https://web-work.tools/command-line-git-ssh).
 
 So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) from twitch, [converted to mp4](https://windowsloop.com/download-m3u8-video-with-ffmpeg/) with `ffmpeg`, chopped it up with `kdenlive` and put it on youtube (so I could take advantage of the easy embed, and autotranscription).
