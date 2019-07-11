@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on The Static Side of the IndieWeb -SSG4</title>
+    <title>Categories on Static Sites for an IndieWeb</title>
     <link>https://web-work.tools/indieweb/categories/</link>
-    <description>Recent content in Categories on The Static Side of the IndieWeb -SSG4</description>
+    <description>Recent content in Categories on Static Sites for an IndieWeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ Content: CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo ⧉</copyright>
@@ -76,20 +76,20 @@
     </item>
     
     <item>
+      <title>Resources</title>
+      <link>https://web-work.tools/indieweb/categories/resources/</link>
+      <pubDate>Mon, 03 Jun 2019 11:22:33 -2300</pubDate>
+      
+      <guid>https://web-work.tools/indieweb/categories/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>decentralized-identity</title>
       <link>https://web-work.tools/indieweb/categories/decentralized-identity/</link>
       <pubDate>Mon, 03 Jun 2019 11:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/categories/decentralized-identity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>resources</title>
-      <link>https://web-work.tools/indieweb/categories/resources/</link>
-      <pubDate>Mon, 03 Jun 2019 11:22:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/categories/resources/</guid>
       <description></description>
     </item>
     

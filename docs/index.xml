@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Static Side of the IndieWeb -SSG4</title>
+    <title>Static Sites for an IndieWeb</title>
     <link>https://web-work.tools/indieweb/</link>
-    <description>Recent content on The Static Side of the IndieWeb -SSG4</description>
+    <description>Recent content on Static Sites for an IndieWeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ Content: CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo ⧉</copyright>
@@ -39,7 +39,7 @@
 
 &lt;p&gt;Then, I, or anyone else can carry the site around in our pockets if we want.&lt;/p&gt;
 
-&lt;p&gt;I was using Static Site Generators, and really prett&lt;/p&gt;
+&lt;p&gt;I was using Static Site Generators, and syndicating social content to my own sites for a few months before I found Indieweb. It will take some time to learn enough to enable a full set of indieweb features, however, that&amp;rsquo;s in the works!&lt;/p&gt;
 
 &lt;h2 id=&#34;sites-running-indieweb&#34;&gt;Sites Running IndieWeb&lt;/h2&gt;
 
@@ -135,12 +135,6 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a &lt;a href=&#34;https://web-work.tools/command-line-git-ssh&#34;&gt;BASH shell&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;So I &lt;a href=&#34;https://www.locoloader.com/twitch-video-downloader/&#34;&gt;grabbed the audio&lt;/a&gt; from twitch, &lt;a href=&#34;https://windowsloop.com/download-m3u8-video-with-ffmpeg/&#34;&gt;converted to mp4&lt;/a&gt; with &lt;code&gt;ffmpeg&lt;/code&gt;, chopped it up with &lt;code&gt;kdenlive&lt;/code&gt; and put it on youtube (so I could take advantage of the easy embed, and autotranscription).&lt;/p&gt;
-
-&lt;p&gt;One thing led to another, and here we have what I find to be a useful resource for keeping track of all the cool people and linkes referenced during Day 1 of IndieWeb Summit 2019!&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/videos/445919345&#34;&gt;Twitch.tv - IndieWeb&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://beesbuzz.biz/blog/3785-IndieWeb-Summit-2019-day-1#more&#34;&gt;Plaidophile -IndieWeb Summit 2019, day 1&lt;/a&gt; - (Check out these event notes by Fuzzy, and &lt;a href=&#34;https://github.com/web-work-tools/indieweb/blob/master/content/posts/indiewebsummit-2019.md&#34;&gt;add yours here&lt;/a&gt;.)
@@ -155,7 +149,7 @@
 
 &lt;p&gt;To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the event.&lt;/p&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/X39xsIZjlRc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://archive.org/embed/indieweb-summit-2019-welcome&#34; width=&#34;560&#34; height=&#34;316&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;The code of conduct is presented, which while I was preparing a copy it here on my site, they were adding a new section to the the original.&lt;/p&gt;
 
@@ -233,7 +227,7 @@
 
 &lt;h2 id=&#34;state-of-the-indieweb-https-indieweb-org-2019-state-of-the-indieweb&#34;&gt;&lt;a href=&#34;https://indieweb.org/2019/state-of-the-indieweb&#34;&gt;State of the IndieWeb&lt;/a&gt;&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JOk8Fmerrqo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://archive.org/embed/indieweb-summit-2019-state-of-the-indieweb&#34; width=&#34;560&#34; height=&#34;316&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Tantek discussed mainstream attention gained with the New Yorker Article:&lt;/p&gt;
 
@@ -324,7 +318,7 @@ joy of this existence and then we touch
 the hot plate coil we contract&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/59b7U6FGOno&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://archive.org/embed/indieweb-summit-2019-contractions-and-expansions&#34; width=&#34;560&#34; height=&#34;316&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;journey is if we have all the parts when
@@ -387,7 +381,7 @@ ended up speaking at a local meetup and
 somebody heard me and thought I was kind&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qW2uV5ZBEx4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay=0&amp;rel=0; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://archive.org/embed/indieweb-summit-2019-changing-my-domain&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;I created new domain name I had to
@@ -414,7 +408,7 @@ guess that&amp;rsquo;s what I&amp;rsquo;m gonna do&lt;/p&gt;
 
 &lt;h2 id=&#34;own-your-mobile-experience&#34;&gt;Own Your Mobile Experience&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/WFsmPT-SyuE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://archive.org/embed/indieweb-summit-2019-own-your-mobile-experience&#34; width=&#34;560&#34; height=&#34;316&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://indieweb.org/User:Martymcgui.re&#34;&gt;Marty McGuire&lt;/a&gt; opens his presentation with a discussion of the Indigenous app, and sharing photos with it.&lt;/p&gt;
 
@@ -509,7 +503,7 @@ guess that&amp;rsquo;s what I&amp;rsquo;m gonna do&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;I was able to create shortcuts that can use the same IndieWeb building blocks micro pub to actually post my site and what I&amp;rsquo;m doing here is I have shared a Goodreads URL to my shortcut which is gonna post here it&amp;rsquo;s asking me whether I want to mark this as something I want to read I&amp;rsquo;m a reading or finished reading I want to say it&amp;rsquo;s to read and then it&amp;rsquo;s 64:20
-create a little micro pub post and I often went to my site and the next time I get my site compiling it&amp;rsquo;ll be up there and we can see we can see like these are things that I used to post a Goodreads but now I can track them all on my site -&lt;a href=&#34;https://youtu.be/-bBMK3Nu7fY?t=3773&#34;&gt;1:03:50&lt;/a&gt;&lt;/p&gt;
+create a little micro pub post and I often went to my site and the next time I get my site compiling it&amp;rsquo;ll be up there and we can see we can see like these are things that I used to post a Goodreads but now I can track them all on my site&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -549,7 +543,7 @@ create a little micro pub post and I often went to my site and the next time I g
 
 &lt;p&gt;&lt;a href=&#34;https://indieweb.org/User:Jacky.wtf&#34;&gt;Jacky Alciné&lt;/a&gt; - &lt;a href=&#34;https://black.af/&#34;&gt;black.af&lt;/a&gt; - &lt;a href=&#34;https://Jacky.wtf&#34;&gt;Jacky.wtf&lt;/a&gt; - was gracious enough to create a presentation that is embeddable via slides.com, so it will be simple to follow along.&lt;/p&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/LyybCU6hdmU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://archive.org/embed/indieweb-summit-2019-making-the-indieweb-open-to-all&#34; width=&#34;560&#34; height=&#34;316&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;approaches&#34;&gt;Approaches&lt;/h3&gt;
 
@@ -640,7 +634,7 @@ create a little micro pub post and I often went to my site and the next time I g
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/YTOQ2gwG8uc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://archive.org/embed/indieweb-summit-2019-personal-site-demos&#34; width=&#34;640&#34; height=&#34;480&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Tantek has this cool, css theme switcher:&lt;/p&gt;
 

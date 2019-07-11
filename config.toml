@@ -2,7 +2,7 @@ publishdir = "docs"
 enableEmoji = true
   
 baseurl = "https://web-work.tools/indieweb/"
-title = "The Static Side of the IndieWeb -SSG4"
+title = "Static Sites for an IndieWeb"
 copyright = "⧉ Infominer ⧉ Content: CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo ⧉"
 languageCode = "en-gb"
 theme = "indigo"

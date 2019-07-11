@@ -1,0 +1,4323 @@
+
+09:14
+great don't think so there is one else
+09:20
+up here
+19:56
+[Music]
+20:12
+minor technical issues
+20:50
+I know
+21:12
+of course I'm running nightly so it has
+21:15
+to go update itself okay
+21:43
+there goes you know you gotta run with
+21:49
+the latest bill just in case alright
+21:54
+while that's loading welcome to the
+21:56
+ninth annual indie web summit I'm when a
+22:05
+organizers taunted Charlie this is Terry
+22:07
+Miller Aaron Preki organizers you'll
+22:14
+notice this year that we have
+22:15
+color-coded lanyards that's new what
+22:19
+does this mean let me just go over that
+22:21
+since that's one of the first things
+22:22
+you've seen purple or more like a
+22:26
+lavender
+22:27
+I'd say means we're an organizer and you
+22:30
+can contact us for anything that is not
+22:33
+awesome like we really an really mean
+22:35
+that I will be showing you our code of
+22:37
+conduct shortly but if there's anything
+22:43
+that you're concerned just like where's
+22:46
+the bathroom like we have one bathroom
+22:48
+around the side here more in the hallway
+22:51
+we ran out of supplies questions about
+22:54
+the facility questions about what can
+22:58
+you do can you get back in schedule etc
+22:59
+you can contact us all right what's
+23:06
+projectors for the last time I presents
+23:10
+it I actually had audio problems so this
+23:16
+time of course video problems
+23:19
+and now let's see if we can actually
+23:22
+present you something that looks like
+23:25
+something that you're at alright you
+23:28
+should be seeing a wiki page 2019 all
+23:32
+right that's a great start so I'll keep
+23:37
+the intro section fairly short because
+23:39
+we have some awesome keynotes lined up
+23:41
+introduce you to the organizers we do
+23:44
+have a code of conduct
+23:53
+and we take it very seriously so this is
+23:55
+something that we have worked on over
+23:56
+the years we are committed to keeping
+23:59
+indie web camp and you Web Summit all
+24:02
+indie web events safe and inclusive by
+24:06
+design by default and so we documental
+24:09
+but what that means in short it means
+24:12
+treat each other respectfully it also
+24:14
+means that harassment will not be
+24:16
+tolerated if you have any issues or
+24:20
+problems with that you are encouraged to
+24:24
+contact one of the organizers and we are
+24:27
+all listed on the 20 19 page directly
+24:31
+there's a phone number for you right
+24:34
+Aaron and there's one piece that we've
+24:48
+added which is new which any of us in
+24:52
+fact any organizer you see in fact
+24:53
+there's a bunch of community and do web
+24:56
+organizers here if I can just get you
+24:58
+all to at least stand up well the real
+25:03
+community organizers stand up yes thank
+25:05
+you and raise your hands
+25:09
+so weep and we spent half a day
+25:11
+yesterday in a new web organizer summit
+25:13
+and one of the things we did was we
+25:14
+updated the code of conduct with a
+25:18
+section from xoxo code of conduct which
+25:21
+is basically that the indie web we
+25:24
+prioritized marginalized people's safety
+25:26
+over privileged people's comfort and
+25:30
+there's a bunch of text there I have it
+25:32
+scrolled up about you know you're
+25:36
+serving the right to not act on
+25:37
+complaints regarding reverse systems and
+25:39
+reasonable communicates the boundaries
+25:40
+or accumulation of tone you don't find
+25:42
+congenial or even criticizing of bad
+25:45
+behavior itself so we found that pretty
+25:47
+inspiring from xoxo we're happy to
+25:49
+follow that paragraph that's new since
+25:51
+you also probably signed up agree to it
+25:54
+if you have any questions about that at
+25:55
+all those organized you saw stand up or
+25:57
+the three of us up here
+25:59
+and happy to answer that we don't
+26:01
+foresee it being an issue but bringing
+26:03
+it up is the way we make sure that
+26:05
+that's that's how that goes okay that's
+26:08
+enough on that in addition to the code
+26:10
+of conduct for any web we're at in
+26:12
+Missoula facility so you've hopefully
+26:14
+read them as low communication
+26:15
+participation guidelines very similar
+26:18
+covering a lot of anti-harassment along
+26:22
+many different ways and those are all
+26:26
+linked from the home page of 2019 so
+26:28
+from right here you can find that indie
+26:31
+web dot org slash 2019 great next we
+26:36
+have a photo policy your lanyards is you
+26:40
+came in or either black by default or if
+26:43
+you chose a lanyard that's yellow and
+26:45
+you see someone's heel down there that
+26:46
+means that please ask me before taking
+26:48
+my photo and then of course if they say
+26:51
+no you gotta respect that even if
+26:54
+someone else has taken their photo that
+26:55
+doesn't give you permission to take
+26:57
+their photo you have to ask if it's R if
+26:59
+they're land you're just red that means
+27:01
+do not take their photo and please try
+27:03
+to see if I need group what do you take
+27:05
+you can crop them out like literally
+27:07
+while you're taking the photo make sure
+27:09
+that they're not in it if at all
+27:10
+possible I think that's the photo policy
+27:15
+all right
+27:16
+live stream so we have a live stream in
+27:18
+here by default for this morning we also
+27:21
+so if you don't want to be in that you
+27:24
+should be sitting in the back rows so
+27:27
+that's that's pretty simple there later
+27:30
+on we'll have sessions in the rooms
+27:31
+three of which have video will describe
+27:33
+how that works in the afternoon so that
+27:35
+you'll have plenty of warning and be
+27:38
+able to choose accordingly stickers and
+27:41
+pronouns please use the pronoun pins
+27:43
+near the registration you should have
+27:44
+picked one up and please use people's
+27:47
+pronouns that they are wearing I don't
+27:50
+think there's much more to that let's we
+27:53
+have several tools in particular during
+27:56
+the summit so make your experience the
+27:57
+best slack slash IRC this wiki and the
+28:03
+etherpad so those are all linked to from
+28:08
+here as well in the participating
+28:09
+section
+28:12
+so those are the baseline tools and
+28:16
+rules the overview of the day is aha we
+28:21
+have a schedule look at that we're only
+28:23
+about five minutes behind okay we are
+28:26
+here approximately we are live-streaming
+28:28
+this on Twitch so people are remotely
+28:31
+participating in including the chat
+28:33
+channels probably about what's 30
+28:34
+signups remotely okay so the chats gonna
+28:38
+be pretty busy during this conference
+28:40
+use the main chat for anything about the
+28:42
+conference like itself content all that
+28:44
+they're saying logistics issues or
+28:46
+questions about structure or whatever
+28:48
+there's the meta channel for discussing
+28:50
+that and we ask that any development
+28:52
+related questions and discussions go to
+28:54
+the dev channel so if you find yourself
+28:56
+typing in a piece of jargon like
+28:57
+microformats or web mention please move
+29:01
+that discussion for development channel
+29:02
+keep the main channel focused on hey
+29:04
+this is my indie website I want to do
+29:06
+cool stuff with it like the following or
+29:08
+you know can someone show me how to do
+29:10
+something alright that's dance
+29:14
+we have great keynotes coming up then at
+29:21
+11:00 we'll do optional lightning intros
+29:23
+and personal site demos we have a lot of
+29:26
+people here so we probably won't be able
+29:27
+to do everyone but usually it's a fairly
+29:31
+self-selected crowd will give you up to
+29:32
+two minutes to do a quick demo of your
+29:36
+site if you can keep it to under one
+29:37
+that's even better
+29:38
+we'll see let's we've done this before
+29:40
+it's kind of chaotic but it mostly works
+29:43
+we'll do that for an hour it'll go by
+29:45
+super fast do a group photo we'll eat
+29:48
+lunch outside there's a bunch of options
+29:51
+for lunch actually listed in the
+29:52
+schedule we're not all nearby and then
+29:55
+we'll reconvene here at 1:30 the doors
+29:58
+will open to return at 1:15 any
+30:01
+questions so far ok thanks so much to
+30:08
+our sponsors for making this possible
+30:13
+so we have Mozilla to thank for the
+30:15
+space and the food we have named com2
+30:18
+thanks for last night's pre-party and
+30:20
+social thanks very much name calm and
+30:22
+octa and open collective contributions
+30:25
+for general sponsorship there is help us
+30:27
+out with various things I want to
+30:29
+especially thank all of you who signed
+30:31
+up as individual contributors and added
+30:33
+to the Travel Assistance Fund because
+30:35
+that money was matched by a anonymous
+30:38
+donor and we were able to get several
+30:40
+people here then we wouldn't have
+30:42
+otherwise been able to do so thank you
+30:44
+very much for everyone was able to do
+30:45
+that alright if that is the last thing
+30:55
+then
+31:18
+there we go alright I think we're good
+31:21
+with organized session I'm gonna give
+31:24
+you a really really brief state of the
+31:25
+indie web because we are running short
+31:26
+on time I'm gonna cut my time short
+31:29
+because you we have some amazing keynote
+31:31
+speakers lined up with incredible
+31:34
+stories to tell
+31:34
+so the I want to talk a little bit about
+31:38
+the accomplishments the last year some
+31:41
+of the products you've made some and
+31:42
+some of the challenges and cutting edge
+31:45
+things that are coming to the forefront
+31:47
+that maybe we can discuss the next two
+31:50
+days so we got some amazing press this
+31:54
+past year India web has hit the
+31:56
+mainstream The New Yorker covered an
+31:58
+article literally titled can't Indy
+32:00
+social media save us and essentially
+32:03
+immediately referenced like the indie
+32:05
+web right look at many web there it is
+32:07
+the term indie web camel cops and all
+32:11
+mainstream media right they've gotten it
+32:14
+they'd spelled it right they kept it as
+32:16
+one word amazing okay so if you haven't
+32:20
+seen their article I highly recommend
+32:21
+reading it it's not an entirely
+32:23
+technical accurate but that's okay
+32:24
+because the overall story they're
+32:26
+telling is the right story and they're
+32:28
+getting more and more people interested
+32:30
+we sold out indie web summit which I
+32:32
+don't think we've ever done before
+32:37
+what's our what's our current count on
+32:41
+the sign-up sheet anyone know last I
+32:43
+checked it was 47 of you were here okay
+32:49
+okay so that's been awesome we have more
+32:54
+homebrew how many 46
+33:01
+did we count a blank line or something
+33:05
+okay that's allowed we have many more
+33:10
+home bruh website club cities that are
+33:12
+regularly meeting and a whole bunch
+33:13
+getting started just this past week
+33:15
+Barnsley I don't even know where that is
+33:18
+sorry American geography all that I
+33:20
+think it's in England I believe
+33:23
+announced that they're starting there
+33:25
+Andy what their home website club on the
+33:27
+18th of July so that's pretty cool we
+33:30
+are have more more in the webcams we've
+33:33
+scheduled lots of a new about camps this
+33:36
+year and are on track to schedule a
+33:37
+record number this year in record number
+33:39
+of different cities as well so that's
+33:41
+pretty cool
+33:42
+aside from the community participation
+33:45
+Ryan Barrett who runs the service called
+33:48
+bridge II which I'm sure a lot of you
+33:50
+are using how are you using bridging
+33:52
+let's just see yeah a lot of your users
+33:54
+shared some stats for us on the
+33:56
+continued essentially what you can see
+33:58
+here is linear organic growth of the
+34:01
+indie web this is one of the things that
+34:03
+we're actually really proud of that we
+34:05
+are not looking for some sort of like
+34:07
+hockey stick unicorn
+34:09
+VC driven like stratospheric like it's
+34:12
+like you know rise and explode and blow
+34:14
+up into splinters type movement we're
+34:16
+trying to grow ourselves sustainably
+34:18
+which i think is becoming a common theme
+34:20
+in many areas you know like the
+34:21
+environment and I'm really proud that
+34:24
+this has happened you can see that's
+34:26
+been a couple of drop offs in Mike users
+34:29
+by feature etc and those are for can
+34:33
+anyone guess what happened in August of
+34:34
+last year
+34:37
+thankfully Facebook filled its API so
+34:41
+that obviously dropped off with a lot of
+34:43
+back feed and like I personally stopped
+34:45
+posting to Facebook then the second drop
+34:47
+off happened when Google killed G+ so
+34:49
+you know Facebook and then G+ there were
+34:54
+apparently quite a few completion G+ but
+34:56
+as you can see the stats overall if kept
+34:57
+rising the number of users number of web
+35:00
+mentions sent this is this is the one
+35:02
+particularly proud of is the number
+35:04
+weapons just said continue to keep
+35:05
+growing and the number of unique domains
+35:06
+so that's the best indicator we have for
+35:09
+like how many people are using bridge II
+35:11
+as the representation a subset of like
+35:13
+the whole indie web we know that that's
+35:15
+like maybe I don't know somewhere
+35:17
+between 1 to 10 percent we don't have
+35:19
+accurate stats it would be great if we
+35:20
+did but relative growth is always a good
+35:23
+thing to see like that alright so those
+35:26
+are awesome things that have happened
+35:28
+the things we're making progress on
+35:30
+travel assistance last year we were late
+35:33
+to do this we were able to offer one
+35:35
+scholarship and we weren't able to
+35:37
+arrange logistics in time so this year
+35:40
+we did it more in advance we were able
+35:43
+to offer a number of scholarships and
+35:45
+have three individuals able to accept
+35:47
+plan and show up today so we think
+35:50
+that's a huge increase and we can do
+35:57
+better so we organized some have
+36:01
+definitely pledged to do better next
+36:02
+year for organizing travel assistance
+36:05
+far more in advance we're also looking
+36:08
+into seeing if there's a way to provide
+36:10
+travel assistance to other indie web
+36:11
+camps because one of the things we
+36:14
+realized was hey maybe it's better
+36:16
+environmentally to fly people or train
+36:18
+people closer to where they live rather
+36:21
+than try to fly everyone across the
+36:22
+entire world to one location so we're
+36:26
+gonna be investigating that that's
+36:28
+something we make progress on can make
+36:29
+better progress on we've got some
+36:33
+challenges that we've incurred and last
+36:36
+that we still keep running into and the
+36:38
+biggest one that we've noticed this year
+36:40
+is wordpress and wordpress comm so
+36:42
+there's a number of folks that tried to
+36:45
+post RSVPs and things didn't quite work
+36:47
+right because
+36:49
+maybe they're picking different theme or
+36:50
+because wordpress.com updated it
+36:53
+continues to be a source of challenges
+36:55
+and I just think we should admit that
+36:57
+and find bold solutions to figuring out
+37:00
+how we can get that approximately 30% of
+37:03
+the web to actually engage with us we've
+37:09
+got a lot of solutions there we can do
+37:11
+better it's definitely a challenge
+37:12
+all right and that leads me to the last
+37:14
+piece which is technical areas of
+37:15
+exploration I picked out three areas
+37:18
+which I thought I heard lots of
+37:19
+discussion about just to raise up - you
+37:21
+think I start thinking about these are
+37:23
+areas that we don't have clear
+37:24
+inoperability on the web yet but we
+37:27
+could maybe even starting this weekend
+37:29
+this is the kind of thing that's
+37:30
+happened every year people have come up
+37:32
+with like an area they're interested in
+37:34
+and make something work that didn't work
+37:35
+before the first is private posts or
+37:37
+groups this is one of the top reasons I
+37:40
+still hear from people for using
+37:41
+Facebook is that it offers a convenient
+37:43
+you I'm for sharing things privately
+37:46
+with either individuals or with small
+37:48
+groups of people it's something that I
+37:50
+think we can do in our own sites it's
+37:52
+something that still needs figuring out
+37:53
+UX protocols but I think we can solve it
+37:56
+like we've solved all our previous use
+37:58
+cases
+37:59
+the second is payments you know if if we
+38:05
+want to make progress in payments we
+38:07
+want to figure out a way for people to
+38:08
+actually transact peer-to-peer and maybe
+38:10
+not necessarily depend on a new
+38:12
+centralized currency driven by a large
+38:16
+social media company and a bunch of
+38:19
+blockchain companies and a bunch of
+38:21
+credit card companies maybe that's not
+38:23
+the best thing for the planet and for
+38:25
+independence and for liberty and all the
+38:27
+things that we talked about so how do we
+38:29
+handle payments and offering services on
+38:33
+the indie web we're getting paid for
+38:34
+stuff whether it's like paid for
+38:35
+articles or paid for like you know
+38:37
+podcasts or whatever your content I
+38:40
+think that's an area that is worth
+38:41
+exploring and the last one is discovery
+38:44
+this has always been a bit of a
+38:46
+challenge and now that we have indie web
+38:49
+readers social readers I feel like the
+38:51
+next step is finding a way for folks to
+38:54
+discover each other people they might
+38:56
+want to follow other kinds of things
+38:59
+finds that in the community and connect
+39:01
+that are a bit ad hoc
+39:03
+right now and I think that there's
+39:04
+there's a lot of potential for progress
+39:05
+here so that's it for the state of the
+39:08
+indie web 2019 I'm going to stop here
+39:10
+and introduce you to our first official
+39:14
+keynote speaker since I feel like I'm
+39:16
+just your organize for giving you the
+39:17
+updates and that's kit Hudson my name is
+39:42
+spelled correctly which happens so
+39:43
+infrequently I'm displaying this but not
+39:46
+wearing it we start our journey with our
+39:54
+world shaking with nothing but
+39:56
+contractions in that it explodes into an
+39:59
+immeasurable expanse and we're left in
+40:02
+cycles of contractions and expansions
+40:04
+until like Hamlet we shuffle off this
+40:07
+mortal coil coil because fundamentally
+40:11
+this is what life is about it is about a
+40:14
+series of contractions and expansions we
+40:18
+start off small unsure excited and
+40:22
+interested in everything we take our
+40:25
+first steps we learn we expand we fall
+40:30
+down and we're yelled at don't get that
+40:32
+don't do that don't do that I live in
+40:34
+either and we contract we try again and
+40:37
+we explore we taste everything we watch
+40:42
+we continue to learn we expand in the
+40:47
+joy of this existence and then we touch
+40:51
+the hot plate coil we contract
+40:58
+in time we try again we make friends we
+41:03
+explore with these friends and we expand
+41:05
+and then we lose friends we sit in our
+41:09
+ball of pain and our world becomes
+41:11
+smaller we contract a little bit more we
+41:15
+fall in love and the world expands and
+41:18
+it is beautiful gorgeous and our hearts
+41:24
+we're told that it gets better hold on
+41:27
+we survive we start to thrive and we
+41:31
+expand again life happens life is this
+41:35
+cycle one after another we have new
+41:38
+schools we have new friends we have
+41:40
+marriages we have births we have
+41:42
+adoptions we have breakups we have new
+41:44
+homes we have new jobs new states new
+41:47
+countries new bosses old hang-ups
+41:49
+death loss cancer disability job loss
+41:53
+the unforeseen and the unplanned and we
+41:56
+withdraw from the world and then we find
+41:59
+our causes or sometimes our causes come
+42:02
+and find us we explore our world and we
+42:06
+expand we are sometimes criticized for
+42:10
+our gender or our non gender for the
+42:13
+color of our hair or the color of our
+42:15
+skin for simply being who we are as if
+42:19
+being ourselves is somehow wrong we know
+42:22
+it isn't but we contract into ourselves
+42:24
+nonetheless and then we find our tribe
+42:29
+those who understand the parts of us the
+42:32
+parts of us that are beautiful the parts
+42:34
+of us that should be without shame the
+42:36
+parts of us that simply are and we can
+42:39
+be ourselves and in that comfort and the
+42:41
+strength of our tribe we expand again we
+42:45
+have expectations
+42:46
+I need come on how hard can it be but we
+42:52
+share we give our creations life we give
+42:56
+to the community we give to the world
+42:58
+and we get crap back there's this bug
+43:01
+there's this flaw it isn't perfect
+43:03
+you're not perfect we aren't perfect we
+43:07
+contract
+43:07
+we grudgingly give our time to those who
+43:11
+demand it and we joyfully give it to
+43:13
+those who understand the gift that our
+43:17
+time is we who create create because we
+43:21
+can't not create we made this creation
+43:24
+to exist
+43:26
+we need this object this project this
+43:28
+process to live we will it into creation
+43:32
+and we expand mishaps befall us and we
+43:37
+break in that breaking me hurts
+43:40
+and in that hurting we contract and then
+43:43
+we heal and in that healing we realize
+43:46
+the gift that our breaking had the gift
+43:49
+the story the lesson we expand again we
+43:55
+realized that we cannot change human
+43:57
+nature there will always be jerks
+43:59
+there'll always be trolls and there will
+44:01
+always be assholes
+44:03
+we will there will always be those who
+44:05
+choose to destroy instead of to create
+44:07
+and with this knowledge once again we
+44:10
+contract until we realize that why we
+44:14
+cannot change human nature we can
+44:17
+influence human behavior we can
+44:20
+demonstrate what a good person is with
+44:22
+our actions with our demonstrations with
+44:25
+our understanding and with our empathy
+44:26
+we expand and how easy is it in these
+44:31
+expansions to flitter out into the silos
+44:33
+to share our lives the silos are easy
+44:36
+they are popular and they are cool we
+44:39
+want to be cool so we make connections
+44:42
+and we join new networks and we expand
+44:45
+again we trade privacy for that ease we
+44:51
+hand our data over we expand some way
+44:54
+even though we lose a little bit and we
+44:57
+can justify that a little bit that's
+44:59
+just a small amount of loss right we can
+45:01
+report all the ads as spam I do this on
+45:05
+Instagram so that we aren't a sentiment
+45:09
+on some reach research scale somewhere
+45:12
+we opt out so that we aren't told what
+45:15
+to think
+45:16
+which person or mistake to pile on on
+45:19
+Twitter's out
+45:22
+and we can pretend all we want in these
+45:24
+silos but we lose ourselves we lose
+45:27
+ourselves just a little bit every time
+45:29
+because the only way to know the true
+45:32
+arc of our story the only way to
+45:35
+understand the true depth of our
+45:37
+experiences the only way to come to the
+45:39
+true understanding of our own hero's
+45:41
+journey is if we have all the parts when
+45:46
+our data is siloed behind a login page
+45:49
+when our data is lost by a company that
+45:51
+has sold or goes under or they base
+45:54
+diamond your data is just gone
+45:56
+we lose a part of our own story we
+45:59
+become the blind man trying to describe
+46:01
+the elephant it's a wall it's a tree
+46:04
+trunk it's a rope
+46:06
+each of these are correct and they are
+46:08
+in complete each silo is only a part of
+46:11
+the picture of who we are our memories
+46:14
+fade the fish become bigger the
+46:18
+intensity of the moment of lessons the
+46:21
+wounds heal over and we tell our tales
+46:24
+from a position of an observer instead
+46:27
+of a participant from the narrator
+46:29
+instead of the hearing hero of our own
+46:32
+story when we own our own data we can
+46:35
+understand the contractions and
+46:37
+expansions of our own lives we see the
+46:40
+data that we want to track and we tried
+46:42
+it not because some corporate entity
+46:44
+wants to sell us something we don't need
+46:46
+but rather because it is important to us
+46:48
+the data delights us we see patterns
+46:51
+about ourselves and we expand when we
+46:55
+own our own data we can look back at who
+46:57
+we thought we were we can see who we
+46:59
+really learn who we are and most
+47:03
+importantly we can see the trends
+47:04
+towards who we wanted to become with our
+47:07
+own data we can curate and we can shed
+47:10
+who we didn't want to be to become who
+47:14
+we want to be and we can write to the
+47:16
+end of our own story for this is the
+47:18
+true power of owning our own data to
+47:21
+understand the cycles of contractions
+47:23
+and expansions to understand our own
+47:25
+hero's journey and to write our own
+47:27
+story I along with hundreds if not
+47:32
+thousands of
+47:34
+and grateful for all of you who built
+47:37
+who scratch your own technology itches
+47:40
+itches who share with your efforts and
+47:42
+successes and help the rest of us along
+47:45
+the way with you up next we have a
+48:16
+keynote swap we originally scheduled
+48:19
+Aaron to talk about the leading edge or
+48:22
+cutting edge in new web
+48:23
+however we an amazing story about
+48:28
+changing your identity online that we
+48:32
+decided was worth sharing with all of
+48:34
+you so please welcome Michelle Jordan
+48:39
+I'm changing my domain I'm Jordan or
+48:52
+Michelle depends on which year you met
+48:56
+me
+48:57
+I'd been Michelle since you know I was
+49:01
+born that's the name my parents gave me
+49:02
+it's worked pretty well but a couple
+49:06
+years ago searching for a job forever
+49:09
+and ever and ever and getting nothing no
+49:14
+interviews barely getting email
+49:16
+responses basically I was completely
+49:18
+ignored in a minor fit of rage overnight
+49:25
+I copied my website changed every
+49:28
+reference to Michelle to use my middle
+49:31
+name Jordan and put it up at a different
+49:34
+domain took my resume stripped out
+49:38
+everything that made it pretty because
+49:41
+if it's pretty it's probably a girl and
+49:44
+removed all of my leadership and
+49:47
+volunteer
+49:48
+it's with organizations like women who
+49:49
+code started sending out that resume and
+49:53
+within two weeks I had four interviews I
+49:58
+ended up speaking at a local meetup and
+50:01
+somebody heard me and thought I was kind
+50:04
+of cool and offered me an interview
+50:06
+which led to a job and I kind of forgot
+50:08
+about the whole Jordan thing that was
+50:10
+just some angry weekend experience and
+50:14
+you know whatever I was working at this
+50:17
+other job things were going good
+50:19
+I'd been there about a year and my
+50:21
+contract was about to expire and that
+50:24
+meant it was time to start looking for a
+50:25
+job I was working at Nike and there was
+50:28
+a hiring freeze on my department so my
+50:31
+manager wanted to convert me but the
+50:34
+higher-ups said no everybody can be
+50:36
+converted right now so I started my job
+50:38
+hunt again and was not getting any
+50:42
+traction again so I decided that you
+50:46
+know maybe it was time to bring Darden
+50:48
+back but I was kind of running into
+50:52
+trouble because I now was trying to
+50:55
+maintain two different online personas
+50:58
+and neither one felt like me I had
+51:02
+Michele which is where I posted all my
+51:05
+cool stuff all the fun things I was
+51:06
+doing things that were interesting to me
+51:08
+where my passions were and then Jordan
+51:11
+who was this kind of mysterious person
+51:15
+because I didn't really want to say
+51:17
+anything about Jordan because then he
+51:19
+might find out that Jordans a girl how
+51:21
+terrible and they were they were both
+51:25
+split and they were both just neither
+51:28
+one was actually me so I ended up having
+51:31
+to kind of go all in and change all the
+51:35
+things even having the two different
+51:39
+things it was getting confusing because
+51:41
+like I didn't really want to maintain
+51:44
+two linkedin's one is bad enough
+51:49
+but people were getting confused because
+51:50
+they go to you know my Jordan website
+51:53
+where I said hi my name is Jordan and
+51:55
+here's my resume where I said I'm Jordan
+51:57
+and then they go to my LinkedIn and it's
+51:59
+Michelle so they're like you don't know
+52:01
+what you're doing you can't even link to
+52:03
+the right like social pages I'm not
+52:06
+hiring you for building websites so I
+52:09
+ended up really having to do all in and
+52:11
+change my identity absolutely everywhere
+52:14
+I created new domain name I had to
+52:19
+change my Twitter got a new Twitter new
+52:22
+github new Instagram all the things just
+52:26
+to get a job and pet is such it
+52:40
+just sucks like and changing my name to
+52:46
+Jordan kind of felt like giving in to
+52:47
+the system for a while it was like okay
+52:50
+so I can't be me so I have to be a fake
+52:52
+person but maybe it's not so bad like
+53:01
+it's hard to change things it's hard to
+53:03
+make the community better if you can't
+53:05
+become a part of the community the
+53:07
+community won't let you in there's
+53:09
+nothing you can do so if what I have to
+53:12
+do is be Jordan for a little bit to get
+53:15
+on the inside and make some changes I
+53:17
+guess that's what I'm gonna do
+53:30
+[Applause]
+53:55
+Thank You Jordan all right next up we
+54:05
+have Marnie McGuire who's going to talk
+54:12
+about owning your mobile experience
+54:14
+which used to be a cutting-edge thing
+54:17
+and now it just works I'm going to
+54:31
+immediately undercut that by saying
+54:34
+first thank you all for giving me the
+54:37
+opportunity to speak up here with all
+54:39
+these other great keynotes
+54:41
+thanks for taking a chance on this and
+54:43
+thanks in advance for going on a journey
+54:46
+that's probably gonna be a little bit
+54:48
+weird and intimate like you're coming
+54:51
+into how I use the Internet
+54:53
+and I do that as much as I can through
+54:56
+building blocks that the indie web
+54:58
+community has made that in my I guess
+55:01
+three or four years of digging into
+55:03
+indie web trying to understand it trying
+55:06
+to build tools and things for myself
+55:07
+that I've been able to sort of cobble
+55:09
+together and I think it's some sense
+55:12
+tantek is right these tools exist and
+55:15
+once you've kind of plugged to the right
+55:17
+things together it works but in in
+55:21
+another sense this is a very organic
+55:23
+thing that I have slowly accrued over
+55:26
+time and it has sharp edges it has
+55:30
+bruises it has bleeding edges Erin how
+55:33
+are we looking for the okay good
+55:36
+I can't see it oh I'm plugged in I think
+55:44
+I was mostly just vamping until the
+55:47
+screen work trying again
+56:11
+okay welcome welcome to my phone oh gosh
+56:15
+alright I would like to start things off
+56:17
+with some posting so this is an app
+56:22
+called indigenous it's built by Eddie
+56:24
+Hinkle and like most of the things I use
+56:27
+this is someone else's work so Eddie I
+56:29
+hope I'm not doing you wrong by by
+56:32
+showcasing this year and how I happen to
+56:34
+have learned to use it I'm going to
+56:36
+start with a photo post
+56:37
+I want to thank Jackie for posing with
+56:40
+me for this earlier let's we'll get that
+56:54
+sent off and what this is doing in the
+56:57
+background is doing two uploads one it's
+57:00
+sending that photo off to a little
+57:02
+service that I've built that stores
+57:05
+media for me and just serves it back and
+57:08
+and the other is actually making a post
+57:10
+to my website so we're gonna let that
+57:12
+post it takes about a minute and
+57:14
+meanwhile I'm going to show you the
+57:15
+other I think more interesting parts of
+57:18
+indigenous indigenous is what we're
+57:20
+calling an indie reader so blowing it up
+57:25
+over there in in the day is like a lot
+57:29
+of folks myself included like to say we
+57:32
+miss Google Reader there was the days
+57:33
+when RSS feeds were everywhere you could
+57:35
+follow all the things that you cared
+57:37
+about and nothing else to seeing it all
+57:39
+in a reverse chronological timeline or
+57:41
+however your app worked for you and one
+57:44
+of the things that was missing from that
+57:45
+experience is the actual social aspects
+57:49
+being able to do something with that so
+57:50
+this is how indigenous shows some of my
+57:54
+feeds I have a group called the indie
+57:56
+web that are basically just people that
+57:57
+I have learned of through events like
+57:59
+this I think I like Jackie's post here
+58:03
+and these are being pulled from the
+58:08
+feeds on on people sites and I really
+58:11
+thought there would be a photo there
+58:11
+it's cool to apologize I don't know why
+58:15
+I called you out
+58:18
+and this this is a nice mobile
+58:21
+experience this is an app that's its
+58:22
+native I you know I still like this post
+58:25
+so we can pull this up you can see at
+58:27
+the bottom of the screen we have some
+58:29
+options these are these all will
+58:30
+actually create new posts on my site
+58:33
+there's I will call Eddie out for this a
+58:36
+little bit if you click the button
+58:37
+there's a very little feedback that
+58:39
+anything happened in theory alike is
+58:41
+being made on my site now and will show
+58:43
+up for Jackie later let's see I skipped
+58:48
+a step here so posting a photo one thing
+58:52
+we talked about in the indie web a lot
+58:53
+is what we call Posse like you post up
+58:56
+on your site but most people don't read
+58:57
+your site so I want to take that photo
+59:00
+that I just posted and also put it on
+59:04
+Twitter so we get some reach so we're
+59:08
+gonna make a photo post think ice it's
+59:10
+so excited for an indie web summit day
+59:15
+and this this is one of the kind of like
+59:18
+uglier parts of my personal site flow
+59:19
+where other folks have automated this I
+59:23
+haven't so I posted my site I posted to
+59:26
+Twitter and if I want to experience some
+59:31
+of the cooler parts of the indie web
+59:33
+where things on this is gonna be very
+59:41
+awkward cool here's what I can do I can
+59:46
+we can go to some precooked precooked
+59:50
+example posts one of the the most
+59:55
+important things you can do is post
+59:57
+places where your community still is so
+60:00
+if that happens to be Twitter you know
+60:04
+also post things to Twitter and through
+60:08
+tools like bridgie which Suntech
+60:10
+mentioned you can have responses come
+60:12
+back so here's an example of a post that
+60:15
+I put on my own site and if I click
+60:18
+through the see also link you can see
+60:20
+it's also got a tweet a lot of folks
+60:24
+have asked questions on Twitter
+60:25
+retweeted it and replied and because I
+60:29
+have set up my site with bridgie
+60:31
+I actually get those back so we can see
+60:34
+like a lot of these are Twitter likes
+60:37
+reposts and then the actual questions
+60:39
+themselves comunist mentions and if my
+60:43
+website was working right now we would
+60:45
+be doing a live version of this demo
+60:46
+trust me it sometimes works alright
+60:50
+let's check my notes here right the this
+61:01
+reader is great for following India web
+61:02
+folks but I also use it for a lot of
+61:05
+other stuff so I don't use Instagram but
+61:08
+I have an Instagram I have a lot of
+61:10
+friends that I follow on there and
+61:11
+through another tool built by Ryan
+61:14
+Barrett called granary I'm able to
+61:16
+actually take my Instagram feeds pull
+61:19
+them in through my reader and and check
+61:21
+them out here and if there's something
+61:23
+that I like I can like it on my site if
+61:25
+there's something I want to reply to I
+61:28
+can do that on my site and if I want to
+61:31
+do that my Instagram as well okay let's
+61:34
+see the pirate friends in Baltimore and
+61:38
+I can look at all this stuff
+61:40
+without having to load up Instagram
+61:42
+without having to have Facebook cookies
+61:44
+tracking me around and it feels like a
+61:48
+little step more free and you know it
+61:53
+takes some effort but I think it's worth
+61:55
+it okay these things but I can get into
+62:05
+some of the other weirder stuff
+62:07
+one thing that is still very
+62:09
+bleeding-edge is more exotic ways of
+62:15
+posting and there are wonderful tools
+62:18
+like you'll see we'll look at monocle
+62:21
+here this is actually another piece of
+62:23
+Aaron's work it's a an Indy reader that
+62:27
+runs in the browser so I can use this
+62:28
+instead of or in addition to a native
+62:31
+app and it also has
+62:38
+I do like this very much
+62:44
+that one gets a like see maybe these
+62:48
+will show up someday it's really it's
+62:54
+really tough when we break your website
+62:56
+while you're trying to do a live demo
+63:05
+right I did myself a good thing here so
+63:10
+one thing I want to do I was on
+63:11
+Goodreads and I wanted to stop so I I
+63:15
+built a thing to post reads
+63:18
+on my site and a lot of this was
+63:20
+inspired by Gregor who built Indy book
+63:23
+club biz but I thought it would be even
+63:26
+faster if I could basically like post
+63:28
+something I wanted to read from my phone
+63:30
+and this is where the work of Sebastian
+63:34
+and egg and rosemary orchard really came
+63:37
+in handy if any of you have an iOS
+63:38
+device especially once iOS 13 comes out
+63:42
+you're gonna want to play with shortcuts
+63:43
+because this is where indie web building
+63:46
+blocks actually come into your hands and
+63:49
+to some extent it's difficult you kind
+63:51
+of have to be the indie web building
+63:53
+block in order to move things around but
+63:56
+through some of their work I was able to
+63:59
+create shortcuts that can use the same
+64:01
+indie web building blocks micro pub to
+64:03
+actually post my site and what I'm doing
+64:06
+here is I have shared a Goodreads URL to
+64:09
+my shortcut which is gonna post here
+64:12
+it's asking me whether I want to mark
+64:14
+this as something I want to read I'm a
+64:15
+reading or finished reading I want to
+64:17
+say it's to read and then it's going to
+64:20
+create a little micro pub post and I
+64:22
+often went to my site and the next time
+64:24
+I get my site compiling it'll be up
+64:27
+there and we can see we can see like
+64:41
+these are things that I used to post a
+64:45
+Goodreads but now I can track them all
+64:46
+on my site and in theory other folks on
+64:49
+the indie web can you know look Club it
+64:52
+up let's see what other folks are
+64:53
+reading try to read things together one
+64:57
+last thing I will show before I hop out
+64:59
+of here that photo that Jackie and I
+65:04
+took is is a live photo and this is
+65:08
+where you get into the kind of stuff
+65:09
+that you can only build when it's it's
+65:12
+your website like this this kind of
+65:15
+thing is like new and high on boomerang
+65:18
+and apps that like you send to people
+65:20
+and it disappears but I really like this
+65:22
+little bouncy loop so I'm gonna share it
+65:27
+to my website and I do that through
+65:29
+another shortcut I made called live
+65:31
+photo to micro pub video it takes that
+65:33
+loop lets you and this is all part of
+65:37
+iOS so far uploads it put a caption I
+65:44
+call this the indie web dance
+65:46
+that's official now and it will post
+65:51
+that to my site and I do have I have a
+65:54
+pre-baked make that same thing yes do
+66:06
+this one
+66:10
+alright so to wrap this up and not take
+66:14
+too much time
+66:29
+go to my pre-baked demo this this is an
+66:37
+example of what these look like on my
+66:38
+site so they they're their little
+66:42
+looping videos that play silently they
+66:44
+animate for like one second and this is
+66:46
+the kind of thing that's pretty pretty
+66:48
+hard to put out and I find there's a lot
+66:52
+of creativity where if you're willing to
+66:54
+dig in and get your hands dirty and
+66:55
+understand these building blocks which
+66:58
+get easier month by month and year by
+67:00
+year you can start to like really own
+67:03
+your own experience and there are things
+67:05
+I can do now with my phone on my website
+67:08
+with the social web that I never would
+67:10
+have imagined a few years ago and if I
+67:12
+lost this play out be really sad so
+67:16
+we'll leave it there thanks very much so
+67:32
+you got some real world indie web
+67:34
+experience there I think that was the
+67:37
+first indie web presentation that was a
+67:39
+hundred percent done on the mobile
+67:40
+device so thank you Marty for taking
+67:43
+that brave bold step with your personal
+67:45
+site well lots of stuff did work and
+67:51
+that really goes to another one of the
+67:54
+big challenges is like basically in the
+67:56
+last what since 2007 10 years plus
+68:00
+everyone's switching smart phones and
+68:01
+smart devices and doing everything with
+68:03
+smart phones so the more that we're able
+68:05
+to conveniently just make work our
+68:07
+mobile devices with our own websites the
+68:09
+more we'll use them the more we'll use
+68:12
+them instead all the surveillance
+68:15
+capitalism that's out there so for our
+68:19
+final keynote I'd like to welcome up
+68:21
+Jackie who's going to talk about making
+68:25
+the indie web for all
+68:28
+[Applause]
+68:53
+you know it's a good day if you came
+68:54
+member you left our password
+69:07
+okay all right
+69:10
+make this purely organic and go straight
+69:14
+this slides I would say like oh you can
+69:18
+go to this URL but the bar is so small
+69:20
+so mother entertained idea oh all right
+69:28
+cool so talked I knows a little bit to
+69:34
+all this is something I've kind of toyed
+69:38
+around a little bit personally and also
+69:39
+it's like one of the courts and it's
+69:40
+special and bringing the things that we
+69:44
+use every day or at least I know like
+69:45
+most you all seen online when I use
+69:47
+every day and bring it to other people
+69:50
+so a little bit about me I'm a guy who
+69:53
+lives in someplace people called North
+69:55
+Kyle and I like working on things for
+69:57
+people to help people live lives of
+69:59
+other people website there's three
+70:03
+things that I want to kind of touch on
+70:05
+today and it took me a long time to kind
+70:06
+of get these words together because they
+70:07
+have to be catchy even walk around show
+70:09
+to people
+70:10
+the first idea it was around inspiration
+70:12
+how do we take the things that make us
+70:14
+passionate people like kind of passing
+70:18
+the torch as shown before of Marty
+70:21
+there's things that we do that we find
+70:23
+that's enjoying that's liberating and
+70:25
+also things we could share about this
+70:26
+like quirky fun and exciting what the
+70:29
+level of Speicher's that we get from
+70:30
+these things there's a way to kind of
+70:32
+encourage me but scum do the same to do
+70:38
+the same with our sites not the stories
+70:40
+just to keep it there a little bit but
+70:42
+to put a doorstop so we don't burn
+70:43
+ourselves out trying to bring every
+70:45
+person with those two things we can
+70:47
+start reflecting and investigating on
+70:48
+the things that we know that are
+70:51
+difficult and reduce the barrier to
+70:53
+entry thus making that doorstop
+70:54
+something be just copy and paste and put
+70:56
+in other places starting up inspiration
+71:03
+she can't see my notes that's fine yeah
+71:08
+aspiration tends to be a thing that it's
+71:10
+organic it's something that we coming to
+71:12
+we enjoy and expand on I guess like one
+71:16
+thing on my personal side I used to buy
+71:19
+most that excite all at the back it was
+71:20
+something I enjoyed doing it also gave
+71:21
+me a chance to kind of tinker and mold
+71:23
+like my site was clay I could take it
+71:24
+molded crafted mostly time according to
+71:27
+share of other people when it came to
+71:30
+things the Edit of my site I saw the
+71:31
+people doing more in-depth things like
+71:33
+there's people who can capture it you
+71:35
+know where they've traveled to or they
+71:37
+travel to things that they presumed in
+71:38
+like I mean if it could be recorded it
+71:41
+can kind of be captured and those kind
+71:43
+of things led to prove that no is this
+71:44
+something that can be done all the time
+71:46
+but something that could be done very
+71:47
+simply and definitely in this age we're
+71:50
+more of a kind of people like if it's a
+71:52
+low low effort and like a high battery
+71:55
+kind of thing we're gonna just jump into
+71:56
+it every single time so there's a few
+72:01
+ideas and things that I will try to
+72:03
+propose today and hopefully you can like
+72:05
+lead other conversations that we can
+72:06
+have in our breakout sessions today one
+72:08
+thing that's always worked out or I
+72:09
+should say always but it has a high
+72:11
+success rate is kind of giving people a
+72:13
+chance to manipulate data and see how
+72:15
+its presented a real time I'm gonna
+72:17
+start with the one of the most infamous
+72:19
+capers in history Bonnie and Clyde so
+72:22
+let's say Bonnie and Clyde were on the
+72:23
+same social media network and they
+72:24
+happened to be across the country
+72:26
+Clyde sees a post about body you know
+72:28
+bring in to like Ches jewelers and
+72:31
+getting this nice piece we can
+72:34
+manipulate and kind of show how the
+72:36
+blocks of what we do here can kind of
+72:38
+tie in to the fix this is a way it kind
+72:41
+of like demonstrating a post that Clyde
+72:43
+would make his own site provided his
+72:46
+website each part kind of proving a
+72:49
+client goes into there
+72:51
+tying in to how one person's identity on
+72:56
+their own site because it could be
+72:57
+something that you post off him other
+72:58
+place to go from there each step is
+73:00
+something that could demonstrate it up
+73:01
+and down here one thing this is actually
+73:05
+something I'm trying to work on but I'm
+73:07
+pretty sure somebody has a better idea
+73:08
+into it is how do we show how content
+73:10
+kind of spreads around in some platforms
+73:12
+you can see like you know Clark like
+73:14
+Louis's post when he was going on over
+73:16
+or trying to find more local references
+73:19
+other certain places it could be one
+73:21
+person starts their site and they invite
+73:23
+like you know to other people they start
+73:25
+talking with one another and a person's
+73:27
+outside of network then pulls another
+73:28
+friend in they start communicating and
+73:31
+so on so forth the thing is right now
+73:33
+for you to do this so it's kind of click
+73:35
+the post and go through the way if there
+73:37
+is a way to easily demonstrate how these
+73:39
+things are shared it would kind of
+73:40
+encourage people like my content can
+73:41
+actually travel I don't worry about
+73:43
+being chucked in my site but this other
+73:44
+places can go too so yeah visualizing
+73:48
+how interactions kind of spread across
+73:49
+the web through yes this is gonna be a
+73:54
+fun one so you might see yourself on
+73:55
+here kind of also demonstrating how we
+73:57
+preserve our own content our own sites
+73:59
+one thing we have the amazing luxury of
+74:02
+it is it's not being stuck into cutting
+74:04
+cookie cutter presentations like we're
+74:06
+not like some little random blue text on
+74:08
+the web site or one no we can
+74:10
+demonstrate things exactly happy I can
+74:11
+show you how people tend to reply to my
+74:13
+site or how someone else may when you
+74:16
+check in a place or short notes that
+74:17
+people in other sites so and so forth
+74:21
+and it can be also you okay each person
+74:23
+is not constrainted by whatever platform
+74:26
+they have because the platforms on your
+74:27
+own definition which kind of ties is
+74:30
+something about their jump in order to
+74:34
+not only let people end but to make them
+74:37
+feel like they can just stay in a space
+74:38
+when they work on things we have to kind
+74:40
+of put tape on the floor like this is
+74:42
+the easiest way to go this way but from
+74:43
+here you can go through other things
+74:46
+one thing I've tried to personally point
+74:47
+on obviously what they get out to other
+74:49
+sites isn't sure that it's always
+74:51
+explained like if you want to kind of
+74:52
+talk back this is way so you can lead it
+74:54
+to I'm leading to other venues for
+74:56
+unarmed side entities it has to be
+74:58
+faster they jump to that and making it
+75:00
+easier for people to cut out get into
+75:02
+places which is tying into invitations
+75:06
+this is something I know as somebody who
+75:09
+runs or who used to rather run like
+75:11
+monthly there's inviting people to a
+75:12
+place just one place is always kind of
+75:14
+difficult and trying to make it tough in
+75:19
+that's easy to automate easy to copy he
+75:21
+was he's running it's always gonna be
+75:22
+kind of hard typically if somebody tells
+75:25
+you like oh I can't make it today
+75:26
+or if like when it comes like Home Rule
+75:28
+camps or if there's like I can't
+75:30
+obviously pizza site because of X Y and
+75:33
+Q it's usually because of something that
+75:35
+either we haven't fully provided to them
+75:37
+yet or some kind of barrier that they
+75:38
+run into and they were expected for my
+75:39
+experience so it's like how do we we
+75:41
+reach halfway but are we on the same
+75:43
+kind of road like are we going on or
+75:45
+weekly to get convicted paps this ties
+75:47
+into aspect but this is so anyone has a
+75:50
+list of 12 okay and this is one that
+75:57
+I've always kind of bent over and over
+75:58
+whenever I just tried to do things I do
+76:01
+it for me but also for like the most
+76:02
+immediate people to my circle and I'm
+76:04
+working and building those two things
+76:05
+together are always kind of difficult
+76:07
+kind of juggling right
+76:09
+I'm kind of juggling how I can make
+76:11
+something I can share with somebody but
+76:13
+also pull into other people it's
+76:15
+something I grew up I'm the oldest of
+76:16
+five so whatever I think of sometimes
+76:17
+alright how can I make sure me and
+76:19
+Christopher and my siblings like all
+76:21
+convert together to get this playing all
+76:22
+the time it's usually something I think
+76:25
+that I had to focus on myself but it's
+76:27
+not only me it's how we get these things
+76:31
+the easiest way to go about this is
+76:33
+because we all obviously hear you know
+76:35
+advocating for a particular group of
+76:37
+people to help share these ideas and
+76:39
+notions there is more anthem and throw
+76:43
+from logic English is my first and like
+76:46
+no tech approaches to get things done
+76:48
+and it can be as simple as like writing
+76:50
+documentation that helps people
+76:52
+understand like you know what
+76:53
+microformats alright
+76:54
+or even given that word I want to say I
+76:57
+Jason tools and like templates and
+76:59
+things I put the things that we need
+77:05
+which kind of now ties into
+77:07
+understanding where people are we can
+77:08
+then start working on the kind of things
+77:10
+that they run into
+77:15
+so things that tend to trip people up
+77:17
+this is actually something I've run into
+77:19
+personally every time I have to spit
+77:20
+some search history there's something
+77:21
+called micro data we don't necessary use
+77:23
+that you can if you want
+77:24
+um it won't necessarily say it's here
+77:27
+this is one thing that has also come up
+77:30
+people feel like there's no something
+77:31
+nothing that they could just pick up a
+77:32
+work with there are solutions out there
+77:34
+it's just not what they're looking for
+77:37
+which is not kind of like a chicken in
+77:39
+that situation like we don't know what
+77:40
+we can provide you if you don't tell us
+77:41
+what we have these things here you yeah
+77:43
+it's kind of trying out so we could
+77:44
+figure out some time little girl there
+77:46
+is always this notion and it's
+77:48
+well-founded that they knew what was the
+77:50
+filter for people who like looking at 80
+77:53
+by 24 console screens which is not
+77:54
+inside make sure there's a lot of people
+77:57
+out there who do article do music who
+77:58
+will put on contest on a platform like
+78:00
+micro blog yes
+78:04
+oh so showstopper and I you so stop your
+78:07
+hearing coats of causation it's to
+78:08
+highlight how these are things that if
+78:10
+they can't find a mini I'm like the
+78:12
+homepage or two days they're just like
+78:13
+well this is not something I can use
+78:15
+like they don't have because I work for
+78:16
+them um audience control is a very
+78:18
+obscure way of saying I want to like
+78:20
+hack content of web that's like you you
+78:24
+it's a very active topic that we have
+78:27
+any web right now in terms of kind of
+78:28
+private clothes and it's something that
+78:30
+there's no real one size fits all kinds
+78:33
+or situations like what might work for
+78:35
+me like you know password-protected post
+78:37
+me not working somebody else because I
+78:38
+share this pastures and firmer why then
+78:46
+it is basically kind of being happy
+78:47
+having the ability to kind of dispose
+78:49
+information or just how you present
+78:51
+yourself in the world given that we are
+78:54
+associated with DNS with the main name
+78:56
+it's kind of hard to just kind of
+78:57
+disappear per se because we're always
+78:59
+kind of currently archive everything
+79:07
+there was a middle slide about how kind
+79:10
+of things can be compromised and that we
+79:12
+kind of have to look it's like a bento
+79:14
+box kind of solution for things but not
+79:16
+also not necessarily to give everybody
+79:18
+what they need because we have to kind
+79:19
+of courage that this blocks that people
+79:21
+could name used to build themselves but
+79:22
+we'll put enough through tallies get to
+79:24
+the door that ties into the idea of
+79:27
+having
+79:27
+not tightly coupled solutions but things
+79:31
+like an you can just click click click
+79:33
+and kind of get going so you can RSVP to
+79:35
+events like this or maybe even just like
+79:37
+post with a sigh and kind of keep
+79:38
+looking there but this is these
+79:41
+extensions can kind of encourage you
+79:42
+want to start building that websites the
+79:44
+thing that and it's like kind of
+79:46
+champions that we don't want to kind of
+79:48
+control how you do your stuff because in
+79:49
+that way we're no better than like you
+79:51
+know Facebook or Twitter gets platforms
+79:52
+they start to control how you interact
+79:54
+with the sites ok so this is the this is
+80:03
+the part where we had to understand and
+80:06
+we have actually a good understanding
+80:07
+the wiki kind of documents things that
+80:09
+we noticed that people tend to get
+80:10
+tripped on and where we go we had to
+80:12
+understand where we can kind of like
+80:14
+encourage people to kind of keep pulling
+80:16
+things in but also how can we kind of
+80:18
+get out there say like it's not as hard
+80:19
+as what's five years ago it's gotten a
+80:21
+lot better it's a lot easier in this
+80:23
+ways you can get things done
+80:24
+so it's what we can do to pull people in
+80:28
+it's got to be hard it's not gonna be
+80:30
+easy most good things don't come easily
+80:31
+they always come with a little strife a
+80:33
+little struggle so that's where the
+80:38
+principle of the third principle rafts
+80:39
+were like building for us we have to
+80:40
+build for us but also for the person
+80:41
+that the kind of cedar room like how can
+80:43
+we ensure that whoever comes on next
+80:46
+after us can easily get something though
+80:47
+which then inspires them to invite other
+80:49
+people and pull other things as a
+80:51
+platform it's we have a lot of it just
+80:54
+like my wiki page there's like 14
+80:56
+specific things and I'm trying to send
+80:57
+post for my site to write to my
+80:59
+newsletter so I can like it do it one
+81:00
+place versus 70 we have to I'm at a
+81:04
+voice saying we or rather have to like
+81:06
+we shouldn't encourage more people to
+81:08
+take five things off their list and just
+81:10
+hammer out it just keep going it cuz
+81:11
+increase like a record of how we go
+81:15
+about things how people can just think
+81:16
+of something and kind of make it happen
+81:18
+and this is something I shall go to
+81:20
+myself but we also kind of have to hear
+81:22
+what people are kind of saying is the
+81:23
+hardest things like people will say
+81:25
+anything but once we hear things I kind
+81:27
+of surface at the top like I can't see
+81:29
+posts I can't write to you so I kind of
+81:32
+hats like hold on those ideas and see
+81:34
+where we can go over there
+81:39
+[Applause]
+81:57
+once again everyone check the Allison
+81:59
+somebody that way okay and thank you to
+82:07
+our keynote speakers being so timely
+82:11
+we were only right I'm just behind now
+82:13
+well done okay we are now entering the
+82:17
+introductions and personal site demos
+82:19
+section of our schedule which means
+82:22
+anyone that wants to give a personal
+82:24
+site demo like two minutes or less is
+82:25
+welcome to do so and I'm going to
+82:27
+demonstrate like just how minimal that
+82:29
+can be let's see okay my site if you
+82:34
+wanted to demonstrate why don't we get a
+82:36
+few people lined up over on this bench
+82:38
+here where the Sun says four geysers of
+82:40
+speakers only and obviously if you're
+82:43
+lining up there you're gonna come up
+82:44
+here and speak so yeah so Marty's
+82:51
+counting all the time which you should
+82:52
+already started for me because this
+82:54
+whole thing let's do it under 22 minutes
+82:57
+this is my website taunting calm I post
+83:01
+things here like RSVPs notes photos etc
+83:04
+and the most recent thing that I built
+83:07
+on my website was a theme switcher where
+83:10
+I can switch it to this matrix like
+83:13
+theme that I did back in March for the
+83:17
+20th anniversary of the matrix or I
+83:19
+decided well if I'm gonna make one theme
+83:22
+I should use CSS variables and make
+83:23
+multiple themes and so I made a Tron
+83:26
+Legacy colors themed theme as well and
+83:29
+it's pretty minimal it just uses like a
+83:32
+query parameter and it even works in the
+83:34
+permalinks and stays that way until you
+83:37
+somehow find that magic
+83:39
+take me home button on the home page
+83:41
+that's it
+83:46
+alright who's next
+83:48
+come on up if you're sitting there means
+83:51
+you're coming up in demoing so of course
+84:09
+so what I wanted to demo oh yeah Oh JB
+84:13
+sharp ok ok what I want to demo is this
+84:33
+RSS feed reader I'm working on that is
+84:35
+designed for use with things like web
+84:39
+comics and serial stories which I'm
+84:42
+going to claim is a needs a different
+84:46
+perspective than the way a lot of RSS
+84:49
+feed readers have been built so I have
+84:51
+here
+84:52
+Fluffy's going to be coming up shortly I
+84:56
+have here one of one of their comics and
+85:03
+what I want to emphasize about this is
+85:05
+the the focus on
+86:36
+[Music]
+86:46
+being able to have quotes and different
+86:49
+things I'm moving away from YouTube and
+86:54
+using Vimeo sorta posting thing that
+86:57
+releases it allowed me at video
+86:58
+surveillance tonight so I haven't gotten
+87:01
+all of like sort of past videos reposted
+87:04
+on Vimeo and the simple on the video
+87:06
+page but I'll be still here even though
+87:09
+Vimeo sort of is its own silo and some
+87:12
+social networking issue sort of thing
+87:15
+going on because as you create pay for
+87:17
+it anything that video ads on your
+87:20
+website I feel like it's pretty decent
+87:21
+if you're looking to do a lot of video
+87:26
+following with a newsletter and and just
+87:31
+real quick 17 seconds left
+87:33
+even though use MailChimp I create my
+87:35
+own one you know newsletter issues
+87:41
+[Music]
+87:42
+[Applause]
+87:57
+don't touch this thing's back we call it
+88:17
+squared okay guys I plugged in the HDMI
+88:22
+is it is that good enough or maybe it
+88:24
+needs to be the Thunder here hold on oh
+88:38
+my name's Jared and I I really
+88:41
+appreciated all the keynotes that was
+88:43
+awesome Jordan fantastic this is gonna
+88:46
+be coming as a surprise to her but kit
+88:48
+and I are best friends now I was really
+88:50
+well done we have a lot of catching up
+88:52
+to do but we are expanding or contract
+88:56
+that was awesome you know honestly I
+89:01
+didn't really need visuals if it's not
+89:03
+in the cards I'm Griffin and that guy
+89:06
+I'm sorry I apologize I think this is
+89:09
+this is a really nice thank you
+89:12
+this actually is works oh it's just this
+89:16
+works perfectly to demonstrate its like
+89:18
+I have two surgeons working on me as I
+89:20
+talk to me very handsome
+89:23
+okay it's way to demonstrate perfectly
+89:27
+that I'm in that less technical crowd
+89:30
+and if my website happens to show up
+89:34
+yeah it's not that I really want to
+89:37
+demonstrate the website all right just
+89:40
+oh here we go we got mouse power it's
+89:42
+not that I don't want to demonstrate the
+89:43
+website I just want to offer a little
+89:45
+history that hopefully provides insight
+89:49
+into
+89:50
+I think maybe the uphill but probably
+89:54
+exciting climb to get to I got 13 sites
+89:57
+I got 12 seconds what's that I had 10
+90:01
+seconds of of what it takes when you're
+90:03
+non techie to get online like it took me
+90:06
+so long to finally just give up on HTML
+90:08
+and go with Squarespace and that has
+90:11
+been my talk thank you so here's my
+90:35
+website displays this is the brand new
+90:51
+key cron T 10 which doesn't work as well
+90:53
+as I thought okay
+91:06
+there we go okay so here's my website
+91:09
+it's peas bust up is I make a lot of
+91:11
+different kinds of content yeah and so
+91:15
+it was there weren't any real CMS's that
+91:18
+could handle my various very
+91:21
+heterogeneous content types
+91:22
+so I built my own called public so it's
+91:25
+very template based I've got you a blog
+91:27
+which I use for long-form stuff I've got
+91:29
+an art gallery
+91:31
+I made comics which jackie showed
+91:35
+earlier and so I've also got it's got
+91:38
+like this nested I've got a nested like
+91:47
+a nested archive so I have like multiple
+91:49
+archives that run in parallel I did not
+91:51
+really plan this very well so here's the
+91:54
+so these are just like multiple archives
+91:57
+that are nested together and so with
+92:00
+bubble it's also it's based on git
+92:03
+deployments it's like a I bill it as
+92:05
+like a static site generator only
+92:07
+dynamic so it's like it's a git workflow
+92:10
+for I can use a git workflow for doing
+92:14
+rapid deployment is all containerized
+92:16
+and everything so if anyone else is
+92:19
+interested in that sort of content
+92:21
+management please talk to me
+92:28
+[Applause]
+92:49
+yep cool okay
+92:52
+well that looks terrifying because it
+92:53
+like got the screen really tiny yeah my
+92:56
+site now it's I'm Jordan codes which is
+92:59
+super exciting because I now have the
+93:02
+same like handle on everything because
+93:06
+apparently Jordan is a less common name
+93:07
+than Michelle but I'm super excited
+93:11
+about all my animations like my swimming
+93:13
+fish and whenever you reload the page
+93:14
+the colors change and this thing
+93:18
+normally is not covering the navigation
+93:22
+and I have decided that I can be a girl
+93:26
+on my website because once people get to
+93:28
+my website they don't care anymore it's
+93:30
+getting on there that's the problem I'm
+93:36
+just pretty excited because all of its
+93:37
+my own drawings and things whoever's
+93:51
+next you're gonna be standing right here
+93:53
+you are next right now whoever's next
+93:56
+after you
+94:13
+thereíre hi everybody I'm Andy gal Pern
+94:18
+this is interesting because the bar on
+94:21
+the bottom is anyway I am I'm the
+94:27
+founder of Cascade SF which is a user
+94:30
+experience design organization we're
+94:32
+based out of San Francisco and basically
+94:36
+I work with designers and brands and
+94:39
+companies and I help them
+94:41
+I studied the design industry and I help
+94:45
+companies align with designers not as a
+94:48
+recruiter but more as an educator to
+94:50
+help make products and software more
+94:53
+usable and I also do content strategy
+94:56
+for Adobe as a freelancer on the side
+94:59
+and so what I wanted to do I was
+95:01
+actually I'm more like I finally got
+95:04
+this like simple cute little website
+95:07
+together and I did it with I created it
+95:09
+with web flow but I was more curious I'm
+95:13
+more demonstrating this as a visual
+95:15
+question which is that as a Content
+95:18
+strategist I write content for other
+95:21
+companies and I was wondering can you
+95:25
+replicate that content this is on a
+95:28
+cloud of site are we able to even though
+95:33
+that mic work is owned by another
+95:36
+company is it okay for us to still own
+95:40
+our writing and our content and that
+95:42
+that becomes a question for me as a
+95:45
+writer so I'm curious of that but also I
+95:48
+want to set one of the reasons I'm here
+95:50
+this weekend is I've been part of the
+95:52
+indie web camp for like eight years or
+95:55
+so for a while and I would like to
+95:58
+develop a blog and create more content
+96:02
+on my own personal site so that's a see
+96:05
+y'all later
+96:07
+[Applause]
+96:14
+USBC okay this is my nightmare okay yes
+96:32
+and hi I'm William Care bake my domain
+96:35
+is anomaly net and this will not be new
+96:41
+okay is it coming I'm plugging in the
+96:48
+USB see the other way even though it
+96:49
+supposed to be how many web developers
+96:55
+does it take to get a V working really
+97:00
+does it not does it hate us it does hate
+97:05
+us let's use your computer for this
+97:12
+clearly we should have done all mobile
+97:14
+presentations like yours okay so for
+97:19
+people that have seen my website before
+97:20
+a previous indie web summits this will
+97:22
+not be new what okay there we go yeah
+97:26
+alright so this is my website which I am
+97:30
+kind of at the point where I have doing
+97:33
+that opposite of what a lot of people
+97:34
+are doing which is that I'm splitting my
+97:36
+dynamic content away from kind of my
+97:39
+more static content so this is my
+97:41
+internet landing page and where all my
+97:43
+blog stuff goes but I also have anomaly
+97:46
+dot world which was originally set up
+97:48
+for a long distance trip that I did but
+97:52
+all of my Instagram and check-in posts
+97:55
+go here so I am revamping this to
+97:59
+essentially be my Foursquare check-ins
+98:01
+and Instagram dynamic posts and I would
+98:05
+click on check-ins come on come on
+98:10
+Internet my website so so currently the
+98:16
+only dynamic content that I have on a
+98:17
+regular basis on my own website is
+98:20
+WordPress there well you can see my
+98:23
+check-ins oh there's my okay no I'm just
+98:44
+showing some boxes some years back I
+98:47
+don't remember how many years back at
+98:49
+indiewebcamp we were talking about
+98:51
+little boxes and somebody's actually
+98:52
+said we should have an indie box okay
+98:55
+well it now exists you can buy it
+98:59
+basically apart ties the whole thing
+99:02
+currently it only runs next cloud which
+99:04
+is basically an open-source
+99:05
+implementation of Google Docs
+99:06
+calendaring file sharing its affordances
+99:10
+worth there's at least one customer in
+99:12
+the audience and it exists and I would
+99:15
+like to bring a lot of indie web stuff
+99:17
+here as well there's some practical
+99:18
+difficulties and all sorts of things in
+99:20
+putting a bit my the firewall but I just
+99:22
+want to tell you that it exists this is
+99:23
+based on the Intel nook and this one is
+99:25
+based on the Raspberry Pi yeah we're
+99:34
+we're gonna cross our fingers
+100:01
+hi my name is Jonathan lock or clever
+100:05
+devil I Oh clever devil on all the
+100:06
+things this is my site it's built
+100:10
+unknown which is a open source CMS I
+100:13
+wanted to show a couple different things
+100:15
+that I added recently so one of the
+100:18
+coolest things I had recently is these
+100:20
+summary pages so you can actually click
+100:22
+on one of these and see what happened in
+100:24
+April of 2019 and you can see that I had
+100:27
+a little bit for you I posted 188 times
+100:31
+including the 42 records of what I
+100:33
+watched on
+100:34
+movies TV and stuff 39 video games I
+100:36
+played that's automatically posted for
+100:39
+my Nintendo switch using very dirty
+100:42
+hacks it's pretty fun and all sorts of
+100:47
+good stuff in here all the check ins of
+100:48
+different places I had been in that
+100:51
+month here's all the things that I
+100:53
+watched all the video games that I
+100:54
+played and podcasts that listen to my
+100:57
+microblog so this is a cool new thing
+100:59
+that I did but one of the things that I
+101:00
+wanted to impress upon everyone if this
+101:03
+is your first indie web kind of event
+101:05
+for me the most important thing about my
+101:09
+site and hopefully all about your sites
+101:11
+eventually is memories and how important
+101:16
+they can be in our lives so I want to
+101:18
+show you real quickly if I click on my
+101:20
+archive page here
+101:21
+you can see that I have this little kind
+101:24
+of interface which shows all the days
+101:26
+and in each year which I have content
+101:28
+and if I scroll down I've had a bunch of
+101:31
+different personal websites over the
+101:32
+years I went through a process of
+101:33
+getting old my content from all of those
+101:36
+places all of my stuff from Facebook
+101:38
+Twitter Instagram and my legacy domains
+101:41
+and now it's all they're back to 2002
+101:43
+this year I lost my dog who's it was 16
+101:47
+he was very special to me I he actually
+101:51
+I put the engagement ring around his
+101:52
+neck when I proposed to my wife and he
+101:55
+was very important but the cool thing is
+101:57
+I can go search for his name Winston on
+101:59
+my site and you can see that we took
+102:02
+family pictures with him before we had
+102:03
+to say goodbye and he was resting on
+102:06
+that but if you go all the way back to
+102:10
+the very first page you can see on
+102:13
+December 24 2002 when I gave my not yet
+102:18
+wife my longtime girlfriend a puppy and
+102:22
+so memories are important on your
+102:24
+identity hold on to that this is not
+102:27
+encumbered buying silo it's it's mine
+102:32
+[Applause]
+102:51
+all right that is a small hold on
+102:57
+resolution thank you there we go
+103:07
+all right so hi everybody my name is
+103:10
+Micah Silverman I'm a total newb here
+103:12
+and great to meet you all I have the
+103:16
+distinct pleasure although I don't know
+103:18
+if he characterized it this way working
+103:20
+with Aaron and I'm a software developer
+103:24
+and developer evangelist for ferrata and
+103:28
+what I just wanted to show you quickly
+103:30
+is is my site here this it's a fit nerd
+103:32
+calm and it just has some some random
+103:37
+stuff I haven't been that active with it
+103:39
+this particular post is me fixing a Dark
+103:43
+Tower keypad using an Adafruit
+103:46
+keypad replacement but one of the things
+103:51
+it does is each time it loads it
+103:53
+presents either an angel or a devil of
+103:55
+me which is aligned with my chaotic
+103:58
+neutral disposition but more importantly
+104:01
+it is a static site that is currently
+104:06
+hosted on net liffe I by pointing to my
+104:09
+github repo and all of the files I have
+104:13
+I have locally so net liffe I could go
+104:16
+down github could blow up I could easily
+104:18
+Rijos this somewhere else it's using
+104:20
+static site generator called Jekyll
+104:23
+having to talk to anybody who is
+104:25
+interested in Jekyll or Hugo and what
+104:29
+I'm working on is a little API add-on
+104:34
+for
+104:36
+four key base and net Liffe I where you
+104:40
+can keep all your files on a public
+104:43
+folder on key base and post directly to
+104:45
+notify thank you are we gonna try the
+104:52
+line this one will work because I
+104:54
+plugged in here before Thank You Darius
+105:00
+I mean it's just my laptop but sure yes
+105:04
+this should work thank you very much I
+105:26
+just met there is and he mentioned he
+105:28
+knew me from my website which is nice
+105:31
+considering that it's an extremely low
+105:35
+tech website and I debated whether I was
+105:40
+going to share this amount when I
+105:41
+thought well there may be people who
+105:42
+will benefit from me sharing this
+105:45
+because I'm a systems engineer applied
+105:49
+mathematician and musician do all these
+105:52
+things I don't really have so far I've
+105:54
+had time to get deep into web design but
+105:59
+I learned a team a long time ago and
+106:01
+just bare-bones stuff and but a very few
+106:07
+sets of commands allowed me to create
+106:11
+lots of pages and I own several domains
+106:14
+and can share content music content
+106:19
+animation and all that kind of stuff I
+106:22
+mean you know like all kinds of
+106:24
+different IP and so that was the main
+106:29
+reason I wanted to share this so all
+106:32
+these albums including one that is about
+106:35
+to be released
+106:36
+and 4th of July and I really appreciated
+106:42
+kits therapeutic talk especially about
+106:46
+silos I've had the experience of having
+106:49
+YouTube and other accounts with tens of
+106:53
+thousands of views and stuff and my
+106:54
+account is locked out and they're still
+106:56
+selling hats so I thought you know that
+107:00
+just happened over and over again so I
+107:01
+just learned about indie web last week
+107:05
+and so this is a pretty amazing
+107:09
+experience for me to be here and to meet
+107:12
+the compose that so far anyway but I
+107:15
+mean point of being here and talk about
+107:17
+this at the moment to show you the site
+107:19
+is that I've got a lot of mileage out of
+107:22
+just HTML I mean just really old-school
+107:25
+stuff all right
+107:33
+oh sorry doo doo yeah just stepping on
+107:40
+my own laptop it's weird I've been
+107:42
+following
+107:43
+yeah I've seen Kevin's web site since 99
+107:46
+I think but this is my web site mostly
+107:50
+what I want to show is I'm Darius Kazemi
+107:53
+otherwise known as tiny subversions I
+107:57
+mostly want to show that I use Google
+107:59
+sheets is my CMS google.com this is
+108:06
+Google it's a search engine site 7 119
+108:15
+that should work there it is my newest
+108:19
+project is Google the cool thing is it
+108:21
+means that I can open up Google Google
+108:24
+Docs on my phone and update my website
+108:26
+wherever I am so that's mostly why I do
+108:28
+this anyway that's why I wanted to show
+108:31
+I can just call you if someone needs to
+108:56
+I have my own 1080 reader an RSS reader
+109:01
+like for Google user and our IP Google
+109:05
+Reader but also it's kind of like a
+109:06
+tumblr so tumblr our IP as well it has
+109:10
+like various things like I could do like
+109:13
+RSVP some kind of natural language kind
+109:15
+of thing is about that
+109:16
+do I want to reply to nabeel's post in
+109:19
+the back there and so I can do a reply
+109:21
+I'll add that I post it has kind of rich
+109:25
+content here the next XO video from last
+109:28
+year paste it in it'll unfurl the link
+109:31
+and put something which which data in
+109:33
+there I can go doing a website have a
+109:35
+bookmarklet here in the reblog because
+109:38
+we've got a picture no we blogged that
+109:40
+to my website this is how it looks like
+109:42
+in the end it's kind of like photos it's
+109:44
+made like a photo blog I try to make it
+109:46
+like I'm tumblr ish but has also has
+109:47
+different things like that I try to pull
+109:50
+in the piece like like that bridgie and
+109:52
+like the like pet bridgy and like the
+109:56
+good Negrin meri codebase I'm trying to
+109:58
+make look at the JavaScript version of
+109:59
+that so it's called social butterfly
+110:01
+basicly tries to pool in activity pile
+110:05
+up and webfinger
+110:05
+web mentions and all this stuff and tell
+110:07
+you one thing that you could reuse it's
+110:08
+just can med stall and then just kind of
+110:10
+like we use that library as needed and
+110:12
+then just like his final Doge to be
+110:14
+silly before I got into web I was making
+110:16
+tiny houses and and one of the guys that
+110:19
+started the tiny offices movements like
+110:20
+Jay Shafer and one of his things what he
+110:23
+was starting was like a Napoleon complex
+110:26
+and one of his they worked at the
+110:28
+working subtitle here was cohousing for
+110:30
+the anti-social and so for me that's
+110:32
+like some some kind of like overlap for
+110:33
+they do web like I tends to be other
+110:36
+integrated crowd a little bit but like
+110:37
+but we do want to be social goes where
+110:39
+humans and so like there's some kind of
+110:40
+like you know but we want to be like
+110:41
+have our own
+110:42
+and so yeah
+110:45
+[Applause]
+111:13
+my mouth stopped working oh no working
+111:17
+there yeah my name is Tomas camiones a
+111:21
+longtime IT guy neophyte programmer I
+111:24
+always wanted use in like web stuff and
+111:26
+lately after going through free code
+111:28
+camp I'm trying to get ideas of what I
+111:29
+really want to do with it also my very
+111:32
+avid cyclist I do a lot of that
+111:34
+country's exploration and what I'd like
+111:37
+to do is take all my spot trekker
+111:40
+check-ins and tracks as well as my bride
+111:42
+with GPS recorded tracks and put them on
+111:46
+a go a personal heat map which I know if
+111:50
+you can see this very well this only
+111:51
+represents probably 10% of the writing
+111:54
+that I've done in the past ten years
+111:55
+there's a lot more writing that goes
+111:57
+more towards like south east or again
+111:59
+that's not showing here yet I couldn't
+112:00
+get the page to render properly it's
+112:01
+kind of messed up but what I'd like to
+112:04
+do is take something I found on github
+112:06
+implemented on my own personal blog and
+112:09
+use the ride with GPS API to do like a
+112:13
+daily pull of any rides that I've done
+112:14
+and include on that key map the spot
+112:19
+tracker has a way to share like what
+112:22
+your daily check-in or regular check-ins
+112:23
+are or your tracks but it looks like
+112:26
+there are no longer showing my entire
+112:28
+history it's only showing my last
+112:29
+check-in from a few days ago which is
+112:31
+just at my office but I'd like to also
+112:35
+like use the spot API to pull my my
+112:40
+check into tracks and I should store
+112:41
+them so I have history rather than just
+112:43
+whatever spot decides to show me at any
+112:46
+one time I know and all this kind of
+112:51
+cumulates to my goal of riding the Baja
+112:54
+divide in December over six weeks
+112:58
+[Applause]
+113:35
+hey everyone my name is Cady Johnson I'm
+113:38
+a product designer and I wanted to show
+113:41
+you this website that I built with some
+113:42
+folks in Bellingham where I'm you found
+113:45
+someone recently that we used to help
+113:49
+support a community design experiment
+113:51
+and just helps a kind of coalesce and
+113:54
+build community around designing and
+113:56
+technologists in town and we created
+113:58
+this website to using materialized to
+114:01
+help make that more accessible make the
+114:05
+activities of the community more more
+114:08
+visible to whoever one stay involved and
+114:12
+one of the big things we did was create
+114:15
+a peer mentoring program where people
+114:17
+took a survey and were algorithmic
+114:19
+algorithmically matched with other
+114:22
+people who had complementary skills to
+114:24
+share and then they were matched and we
+114:27
+did a workshop in person to help
+114:30
+facilitate goal-setting
+114:31
+around those those matches so we
+114:36
+published the methodology for the kind
+114:39
+of intention for the experiment on the
+114:40
+website so folks could really see what
+114:42
+they were getting kind of what the
+114:44
+thinking was behind it and see if they
+114:45
+wanted to get involved and participate
+114:50
+so this was a fun way to kind of design
+114:55
+something for the community and also
+114:59
+publish it in a way that was was
+115:01
+available and we got to buy that
+115:03
+Bellingham design to me
+115:07
+I don't know how to share my screen I
+115:35
+can just I just do this except dragging
+115:41
+across yes okay so my name is Malcolm my
+115:47
+website is you know cyclic calm cool all
+115:53
+right
+115:53
+so my homepage I can't see it okay so my
+116:00
+homepage is actually on unicycling comm
+116:03
+/ what / now okay and something I've
+116:09
+added to my site recently is I have like
+116:12
+a whole indie web section on my site I
+116:17
+can't read this I can see I can see
+116:29
+better here
+116:34
+cool okay so this is a new thing I did
+116:42
+that I guess I can put it out as a
+116:46
+challenge to people if you can write a
+116:48
+follow post to this page then this page
+116:50
+will follow you back so it's a bit
+116:54
+tricky it looks you up and then tries to
+116:56
+find a feat to follow it so like there's
+116:58
+some discovery issues around that so if
+117:02
+you do try it and you get a web mention
+117:05
+message back from you might need to a
+117:08
+couple to follow post is first book once
+117:09
+you look up what that is tell me what
+117:11
+sort of reply you get from it oh no
+117:13
+that's me other time
+117:16
+[Applause]
+117:42
+I'm a name's jack Jamison academic and
+117:46
+I'm interested in values and webs web
+117:49
+infrastructures so many types my kind of
+117:52
+thing but what I want to show off my my
+117:55
+site here is running on WordPress and
+117:57
+I've been working on a plug-in there's a
+118:00
+Microsoft server that runs on your
+118:02
+WordPress site which means you can use
+118:04
+applications like indigenous or Monaco
+118:07
+that Marty was showing off on his mobile
+118:09
+to follow your feeds and all of the you
+118:12
+know aggregating and pulling together
+118:13
+feeds just happening right on my server
+118:16
+and I posted just this morning getting
+118:19
+started guide and pushed version 1.0 to
+118:22
+my github so I'm pretty happy about that
+118:23
+all right here's what it looks like on
+118:27
+back-end you can see a list of channels
+118:29
+I can open up a channel and it'll show
+118:32
+me what feeds I'm following and I can
+118:34
+add additional feeds and then here's
+118:40
+what it looks like in Monaco here's some
+118:43
+posts or in another Microsoft client
+118:46
+together so I'm pretty stoked about that
+118:50
+great thank you
+118:54
+[Applause]
+119:16
+all right so hi my name is Dave Peck I'm
+119:18
+an engineer and investor in Seattle and
+119:22
+this is my personal website I'm both
+119:24
+excited and nervous to show it to you
+119:26
+primarily because according to my logs
+119:28
+they're exactly two people who look at
+119:30
+it today so you're probably number 43 to
+119:33
+48 if they're 46 people in the room and
+119:35
+that's my mom and dad it's a super
+119:38
+minimalist website because I'm not a
+119:40
+designer so I keep the focus on text
+119:42
+primarily but the thing I wanted to show
+119:44
+is I do a little bit of audio work on
+119:46
+the side and I wanted to find a way to
+119:49
+get audio in line with the content so I
+119:52
+built this little player that I'm pretty
+119:55
+excited about that is as minimal as the
+119:57
+rest of the website and I don't think
+120:00
+any audio it's gonna come out this fine
+120:01
+you can just press a button and listen
+120:03
+to tracks I've been working on with
+120:05
+friends and I kind of geek out on music
+120:07
+here a little bit let's talk about that
+120:08
+I heard somebody mentioned static
+120:10
+website Jekel that's what this is and
+120:12
+actually one of my technical interest
+120:14
+right now is how do we stand up a microp
+120:17
+up end point I'd mention end point etc
+120:20
+tied to a static back-end so thanks
+120:29
+[Applause]
+120:50
+my domain is Maxwell Johnson calm once
+120:54
+you know that you also know my human
+120:56
+name very convenient there are things on
+121:00
+the website things for me things are you
+121:05
+homes games articles whatever you want
+121:11
+take a look some time that's all alright
+121:34
+so this is my site and I read an article
+121:36
+a while ago a long while ago actually
+121:38
+that was something long lines of this is
+121:41
+just a site so it shouldn't be a more
+121:43
+complicated than what you need it to be
+121:44
+so when I built this site when I was
+121:47
+thinking about building the site instead
+121:48
+of using any of the frameworks they have
+121:50
+out today and get a reaction view I was
+121:52
+just like well all I need to do is
+121:53
+display information so why would I make
+121:55
+it any more complicated than that
+121:57
+okay so this kind of inspired me to make
+122:00
+this site that is just your HTML CSS and
+122:02
+JavaScript and my own designs and yeah
+122:07
+so it is pretty simple I mean it's just
+122:10
+basically you know my information my
+122:14
+experience of whatever is in my work
+122:16
+that's all it is and yeah pretty up
+122:21
+about how it turned out
+122:25
+[Applause]
+122:34
+hey Cognito cool so I'm just gonna show
+122:37
+two sites this is my canonical site I
+122:40
+guess this is me largely I just want to
+122:44
+cut show like how all of this here is
+122:45
+actually an age card but it's like text
+122:47
+so you can read it but it's also
+122:48
+readable for computers I was gonna go
+122:51
+swap to us but don't think I want to do
+122:53
+that anyway
+122:53
+SWOT stands for the social where that's
+123:01
+I'm liking it there is a bit about
+123:04
+subscriptions yeah I just kinda wanted
+123:10
+Emma straight like how was I can still
+123:11
+joke on supposed to be nice in my
+123:14
+perspective yeah emojis location these
+123:17
+cars and stuff everybody I am Jay
+123:31
+Gregory McVerry calm I wish my name is
+123:34
+shorter because it's really hard to fit
+123:36
+on note cards so this is my site and it
+123:41
+is like Lily I do a couple static sites
+123:44
+and then put my social stream like
+123:48
+Jonathan unknown because it's just
+123:53
+everything just works their stuff so I
+123:56
+have fun like just get a couple fun
+123:58
+pages and I started playing with this
+124:00
+stuff because I had poetry in my head
+124:01
+and I had to get learned some CSS to get
+124:03
+the pictures in the words I haven't
+124:05
+gotten there yet
+124:06
+but I've been playing with my age card
+124:08
+and then I put in a lot of feeds of mine
+124:11
+because I post like 80 90 times a day so
+124:13
+he you add me to my reader then you
+124:14
+unsubscribing two minutes later so I
+124:18
+have a bunch of different feeds that
+124:19
+people can follow but what I am most
+124:20
+excited about is I am playing with Kirby
+124:23
+a little bit to do the same thing
+124:25
+because I literally was making every
+124:27
+single page so like I would change my
+124:29
+navigation and then I would go change it
+124:30
+well 97 times but I love Kirby because
+124:35
+it's just it's all those files get saved
+124:39
+Filan it's just PHP and really I'm using
+124:41
+it to learn PHP because I've never done
+124:42
+this stuff before and the documentation
+124:45
+to learn PHP doesn't really exist but I
+124:47
+need two things to learn passion versus
+124:52
+trying to watch a LinkedIn video or
+124:53
+youtube video so this is on Kirby and it
+124:56
+looks just like the same and I've been
+124:57
+slowly playing and got my notes to work
+125:00
+today just yesterday so I'm able to add
+125:04
+in my notes and I've got the card
+125:06
+pagination so I'm excited because I did
+125:09
+stuff I just use things that other
+125:11
+people go and just try to make it pretty
+125:13
+so now I want to be building all right
+125:29
+so I'm Tara I've been working on it
+125:35
+probably since November when I was lost
+125:37
+in Berlin right now it's using Grob
+125:40
+there's really nothing on it so this
+125:43
+week and I definitely want to try to do
+125:44
+it this is all template stuff except for
+125:46
+my gallery yeah there's not really much
+125:50
+wrong here but I want to definitely
+125:51
+implement a lot of the indie web stuff
+125:53
+for this yeah so hopefully I'll be able
+125:56
+to do that this weekend and pick a lot
+125:58
+of so my name is David Chen ski I
+126:15
+decided not to bring my laptop so that I
+126:17
+could talk for more time I can't talk
+126:19
+quite as fast as some people so this is
+126:23
+my website it is deliberately Spartan
+126:25
+it's white plain and that's because I
+126:29
+figured I would put as little on it as
+126:30
+possible and then allow you to look at a
+126:32
+whole bunch of other stuff should you
+126:33
+want to there are other people out there
+126:36
+who use the tools that I've built for
+126:38
+the India web since I do a lot of the
+126:40
+WordPress stuff more than I do but
+126:41
+whenever I go on trips I do a lot more
+126:43
+so I decided to try some check-ins since
+126:45
+I don't do that when I'm not at home I
+126:47
+took a picture see there I am
+126:49
+nothing I wrote about all the things I
+126:51
+packed to come here so if you want to
+126:53
+steal my bag you know exactly you get
+126:56
+and that's pretty much it for now I'll
+127:01
+leave now
+127:04
+[Applause]
+127:19
+my name's Don Park very sorts and
+127:24
+feature that hadn't seen mentioned yet
+127:30
+and that is how do you everybody
+127:34
+something everybody needs and nobody's
+127:36
+done that so far
+127:37
+I assume that people using HTTP logins
+127:39
+various things but there's India and
+127:41
+Meowth is quite useful where you
+127:43
+basically are using your trusted third
+127:44
+party to say just that and anyone can
+127:51
+log into my website just go there log in
+127:53
+it'll send you another fishing service
+127:55
+of course live demos never work but if
+127:59
+this we're working you'd see oh there we
+128:00
+go they look for rel me links back to
+128:03
+whatever service is on a list of
+128:04
+approved services which some Aaron Preki
+128:07
+code is running right now to display
+128:08
+that and you click through and if I were
+128:11
+logged into any of those services here I
+128:12
+would come back and instead of this
+128:13
+field here and say you're logged in and
+128:15
+it's a it's like an indie based way to
+128:18
+login okay who's next ups I think we
+128:29
+have run out of people in the line
+128:36
+I haven't actually done a demo yet so
+128:39
+good morning I'm Eric raggy I just want
+128:43
+to show one quick thing about my website
+128:45
+my website is Aaron PK comm the last
+128:48
+thing I did on this website was a minor
+128:51
+optimization because I noticed that on
+128:54
+some of the posts they get a lot of
+128:56
+likes or comments trying to find one
+129:01
+that had a lot of hair this one all of
+129:05
+these little avatars we're starting to
+129:07
+actually bog down the page size quite a
+129:09
+bit and what I did was thanks to some
+129:14
+clever code from Zack leet I basically
+129:17
+just copy this code it was great um
+129:19
+they're lazy loaded down so you can when
+129:22
+i refresh you can probably see this
+129:23
+flicker so if i refresh you see how they
+129:25
+were all gray placeholders and they
+129:27
+loaded in asynchronously and um I did
+129:32
+that for the avatars that was what he
+129:33
+had done for the avatars and then I was
+129:35
+like this actually would make a lot of
+129:36
+sense for a reader as well so I've used
+129:40
+monocle when I'm when I'm like on the
+129:43
+road and on my phone and on bad Wi-Fi
+129:45
+train Wi-Fi and so I had that code to
+129:49
+monocle as well which I came all going
+129:52
+to show you but it's the same thing so
+129:53
+now all of the images and monocle lazy
+129:55
+loaded as well which means you actually
+129:56
+see content faster and even actually
+129:58
+interact with the pages before the
+130:00
+images load which is great so it's
+130:01
+helped make it a lot more usable when
+130:03
+I'm on really terrible internet thanks I
+130:16
+just wanted to say thanks everyone for
+130:19
+your patience earlier I fixed my website
+130:23
+so here it is
+130:26
+it's Marty McGuire would that's my name
+130:28
+with a dot before the re because com was
+130:30
+taken and we can you can see
+130:38
+[Laughter]
+130:41
+so yeah I'm just gonna leave it on there
+130:52
+while we okay we have seven minutes left
+130:56
+in intros time magically
+130:58
+last call for demos anyone want to give
+131:01
+a quick demo of their site anyone want
+131:04
+to come up and say what they would like
+131:06
+to do on their site like notes no demo
+131:08
+at all this is this is perfect
+131:20
+so I Mitch I have a couple domains but
+131:23
+the one that I use the most is suited up
+131:26
+coffee and this is my website so that's
+131:31
+kind of my goal for today yes I'm
+131:38
+looking forward to more so a website
+131:52
+been like something I've been trying to
+131:56
+get at the site someone to UM in New
+131:58
+York but like the way I like it
+132:01
+that make sense it's very I had it for
+132:04
+an I should come over like it was like
+132:05
+just this no need to put this there but
+132:08
+yeah there's like things there's things
+132:13
+I want to add to it like making it
+132:15
+easier to find right well okay but just
+132:26
+what I'll be able to log in here but I
+132:27
+remember like I can't on this computer
+132:30
+so hopefully yeah it'll be like a whole
+132:36
+[Applause]
+132:38
+I'm sorry I'm not logging to everyone
+132:43
+next time delegated login right yeah
+132:46
+okay we have five minutes left
+132:49
+going once last call for personal site
+132:51
+demos as you can see any state of site
+132:55
+is hello I'm Ariana and very new to all
+133:11
+of this as in most of the stuff has
+133:12
+never even occurred to me so at the very
+133:14
+beginning stages of thinking through all
+133:16
+of this and I guess when interested in
+133:20
+learning today other than everything is
+133:22
+how to sort of negotiate personal site
+133:25
+and want it to be sort of a collective
+133:27
+and working more plurally so I'm
+133:29
+building currently a design practice a
+133:32
+collective with a partner and we believe
+133:35
+we produce more super work you know that
+133:37
+apart hence superorganism so we're
+133:39
+trying to sort of figure out what that
+133:41
+looks like and I'm intrigued by what
+133:43
+that looks like on the indie web and
+133:45
+sort of how to build my own content and
+133:48
+myself while also building this
+133:50
+collective and sort of negotiating back
+133:56
+[Applause]
+134:06
+ok I think I think that's it for intros
+134:08
+we're gonna call it with four minutes
+134:10
+left somehow we are ahead of schedule
+134:12
+ok y'all are awesome clearly thanks to
+134:15
+all of you with your personal site that
+134:17
+was being so fast and furious ok we the
+134:20
+next item in the agenda is the group
+134:23
+photo which takes place according to the
+134:26
+schedule in four minutes as any pointed
+134:33
+out that gives you a little bit of prep
+134:35
+time Aaron is going to be art directing
+134:37
+you in the photo so I'm going to leave
+134:39
+it up to him so two awards that I'm
+134:45
+going to point the camera turn this
+134:46
+camera around and point it towards the
+134:47
+kitchen
+134:48
+the couches will be in the photo and
+134:51
+will have people sitting on those chairs
+134:52
+and then standing behind the chairs so
+134:55
+go ahead and yeah top people in the back
+135:00
+or tell people sitting tell people in
+135:03
+the back if you don't want to be in the
+135:07
+photo that's also totally fine just stay
+135:09
+out of the photo I come to the side of
+135:10
+the room and yeah here so thanks 

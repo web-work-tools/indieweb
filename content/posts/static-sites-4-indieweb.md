@@ -31,7 +31,7 @@ What I love about publishing via static site generators, it doesn't cost me a di
 
 Then, I, or anyone else can carry the site around in our pockets if we want.
 
-I was using Static Site Generators, and really prett
+I was using Static Site Generators, and syndicating social content to my own sites for a few months before I found Indieweb. It will take some time to learn enough to enable a full set of indieweb features, however, that's in the works!
 
 ## Sites Running IndieWeb
 

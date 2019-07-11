@@ -10,6 +10,7 @@ draft: false
 slug: /summit/2019/day-one/
 aliases:
   - /indieweb-summit/2019/day-one/
+  - /summit/2019/day-one
 
 images: https://web-work.tools/indieweb/images/IndieWeb-Summit-2019-Day-1.png
 ---
@@ -21,12 +22,6 @@ IndieWeb Summit 2019 was June 29-30, 2019 (Saturday & Sunday), in Portland, Oreg
 
 ---
 
-The IndieWeb organization decided against youtube this year, and I can understand why. However, Twitch is not easy to embed from, and youtube offers autotranscription, which is very useful and relies on sophisticated AI.. not something I can spin up from a [BASH shell](https://web-work.tools/command-line-git-ssh).
-
-So I [grabbed the audio](https://www.locoloader.com/twitch-video-downloader/) from twitch, [converted to mp4](https://windowsloop.com/download-m3u8-video-with-ffmpeg/) with `ffmpeg`, chopped it up with `kdenlive` and put it on youtube (so I could take advantage of the easy embed, and autotranscription).
-
-One thing led to another, and here we have what I find to be a useful resource for keeping track of all the cool people and linkes referenced during Day 1 of IndieWeb Summit 2019! 
-
 * [Twitch.tv - IndieWeb](https://www.twitch.tv/videos/445919345)
 * [Plaidophile -IndieWeb Summit 2019, day 1](https://beesbuzz.biz/blog/3785-IndieWeb-Summit-2019-day-1#more) - (Check out these event notes by Fuzzy, and [add yours here](https://github.com/web-work-tools/indieweb/blob/master/content/posts/indiewebsummit-2019.md).)
   
@@ -36,7 +31,7 @@ One thing led to another, and here we have what I find to be a useful resource f
 
 To begin the 2019 IndieWeb Summit, Tantek brings us to the wiki-page for the event.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X39xsIZjlRc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/indieweb-summit-2019-welcome" width="560" height="316" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 The code of conduct is presented, which while I was preparing a copy it here on my site, they were adding a new section to the the original.
 
@@ -103,7 +98,7 @@ Use this via Desktop *first* and then you will be able to access these channels 
 
 ## [State of the IndieWeb](https://indieweb.org/2019/state-of-the-indieweb)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JOk8Fmerrqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/indieweb-summit-2019-state-of-the-indieweb" width="560" height="316" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Tantek discussed mainstream attention gained with the New Yorker Article:
 
@@ -168,8 +163,7 @@ we continue to learn we expand in the
 joy of this existence and then we touch
 the hot plate coil we contract 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/59b7U6FGOno" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/indieweb-summit-2019-contractions-and-expansions" width="560" height="316" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 > journey is if we have all the parts when
 our data is siloed behind a login page
@@ -228,8 +222,7 @@ within two weeks I had four interviews I
 ended up speaking at a local meetup and
 somebody heard me and thought I was kind
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qW2uV5ZBEx4" frameborder="0" allow="accelerometer; autoplay=0&rel=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/indieweb-summit-2019-changing-my-domain" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 >I created new domain name I had to
 change my Twitter got a new Twitter new
@@ -255,7 +248,7 @@ guess that's what I'm gonna do
 
 ## Own Your Mobile Experience
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WFsmPT-SyuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/indieweb-summit-2019-own-your-mobile-experience" width="560" height="316" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Marty McGuire](https://indieweb.org/User:Martymcgui.re) opens his presentation with a discussion of the Indigenous app, and sharing photos with it.
 
@@ -320,8 +313,7 @@ This is pretty incredible!
 You'll want to hear marty describe the way shortcuts can be used to support IndieWeb functionality in a big way.
 
 >I was able to create shortcuts that can use the same IndieWeb building blocks micro pub to actually post my site and what I'm doing here is I have shared a Goodreads URL to my shortcut which is gonna post here it's asking me whether I want to mark this as something I want to read I'm a reading or finished reading I want to say it's to read and then it's 64:20
-create a little micro pub post and I often went to my site and the next time I get my site compiling it'll be up there and we can see we can see like these are things that I used to post a Goodreads but now I can track them all on my site -[1:03:50](https://youtu.be/-bBMK3Nu7fY?t=3773)
-
+create a little micro pub post and I often went to my site and the next time I get my site compiling it'll be up there and we can see we can see like these are things that I used to post a Goodreads but now I can track them all on my site
 
 * [How to Trigger Automatic Shortcuts in iOS 13](https://lifehacker.com/how-to-trigger-automatic-shortcuts-in-ios-13-1835516448)
 
@@ -352,7 +344,7 @@ create a little micro pub post and I often went to my site and the next time I g
 
 [Jacky Alciné](https://indieweb.org/User:Jacky.wtf) - [black.af](https://black.af/) - [Jacky.wtf](https://Jacky.wtf) - was gracious enough to create a presentation that is embeddable via slides.com, so it will be simple to follow along.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LyybCU6hdmU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/indieweb-summit-2019-making-the-indieweb-open-to-all" width="560" height="316" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ### Approaches
 
@@ -431,8 +423,7 @@ I'm going to re-produce part of that text, and encourage you to visit the wiki, 
 * [indieweb.org/2019/Intros](https://indieweb.org/2019/Intros)
   * [chat.indieweb.org/2019-06-29#t1561831498538100](https://chat.indieweb.org/2019-06-29#t1561831498538100) - Introductions start here.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YTOQ2gwG8uc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe src="https://archive.org/embed/indieweb-summit-2019-personal-site-demos" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Tantek has this cool, css theme switcher: 
 
