@@ -2859,19 +2859,22 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 
 &lt;h2 id=&#34;taking-back-your-content&#34;&gt;Taking Back Your Content&lt;/h2&gt;
 
-&lt;div class=&#34;h-card&#34;&gt;
-    &lt;img src=&#34;https://web-work.tools/indieweb/images/info.png&#34; class=&#34;u-photo&#34; width=&#34;40&#34;&gt;
-  &lt;a href=&#34;https://infominer.id&#34; class=&#34;u-url p-name&#34;&gt;InfoMine ⧉&lt;/a&gt;
-&lt;/div&gt;  
+&lt;p&gt;This bit of code is no longer displaying properly, so I&amp;rsquo;m going to leave it raw, until I fix it.&lt;/p&gt;
 
-&lt;div class=&#34;h-entry&#34;&gt;
-  &lt;ul&gt;&lt;li&gt;&lt;a class=&#34;u-in-reply-to&#34; href=&#34;https://aaronparecki.com/2018/12/15/14/indieweb&#34;&gt;https://aaronparecki.com/2018/12/15/14/indieweb&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;h-card&amp;quot;&amp;gt;
+	&amp;lt;img src=&amp;quot;https://web-work.tools/indieweb/images/info.png&amp;quot; class=&amp;quot;u-photo&amp;quot; width=&amp;quot;40&amp;quot;&amp;gt;
+  &amp;lt;a href=&amp;quot;https://infominer.id&amp;quot; class=&amp;quot;u-url p-name&amp;quot;&amp;gt;InfoMine ⧉&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;	
 
-  &lt;p class=&#34;e-content&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/y9FSPcmybT8&#34; frameborder=&#34;0&#34; allow=&#34;encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;br/&gt;At the end of that video, we are directed to &lt;a href=&#34;https://aaronparecki.com/2018/06/30/11/your-first-webmention&#34;&gt;Your First Webmention&lt;/a&gt;. &lt;/p&gt;
+&amp;lt;div class=&amp;quot;h-entry&amp;quot;&amp;gt;
+  &amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a class=&amp;quot;u-in-reply-to&amp;quot; href=&amp;quot;https://aaronparecki.com/2018/12/15/14/indieweb&amp;quot;&amp;gt;https://aaronparecki.com/2018/12/15/14/indieweb&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;
 
-  &lt;a href=&#34;https://web-work.tools/indieweb/indieweb-resources/&#34; class=&#34;u-url&#34;&gt;
-  &lt;time class=&#34;dt-published&#34; datetime=&#34;2019-05-19&#34;&gt;May 05, 2019&lt;/time&gt;&lt;/a&gt;
-&lt;/div&gt;
+  &amp;lt;p class=&amp;quot;e-content&amp;quot;&amp;gt;&amp;lt;iframe width=&amp;quot;560&amp;quot; height=&amp;quot;315&amp;quot; src=&amp;quot;https://www.youtube.com/embed/y9FSPcmybT8&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;encrypted-media&amp;quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;At the end of that video, we are directed to &amp;lt;a href=&amp;quot;https://aaronparecki.com/2018/06/30/11/your-first-webmention&amp;quot;&amp;gt;Your First Webmention&amp;lt;/a&amp;gt;. &amp;lt;/p&amp;gt;
+
+  &amp;lt;a href=&amp;quot;https://web-work.tools/indieweb/indieweb-resources/&amp;quot; class=&amp;quot;u-url&amp;quot;&amp;gt;
+  &amp;lt;time class=&amp;quot;dt-published&amp;quot; datetime=&amp;quot;2019-05-19&amp;quot;&amp;gt;May 05, 2019&amp;lt;/time&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
 
@@ -2985,9 +2988,15 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://aaronparecki.com/2018/07/07/7/oauth-for-the-open-web&#34;&gt;OAuth for the Open Web&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aaronparecki.com/2018/12/10/28/indieauth&#34;&gt;aaronparecki.com - indieauth&lt;/a&gt;
-&amp;gt;This morning I gave a brief talk about IndieAuth at the @W3C Strong Authentication and Identity workshop. I just finished transcribing the recording and published the slides and video!&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This morning I gave a brief talk about IndieAuth at the @W3C Strong Authentication and Identity workshop. I just finished transcribing the recording and published the slides and video!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aaronparecki.com/2018/12/10/28/indieauth&#34;&gt;aaronparecki.com - indieauth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EeCNlB7v08I&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -3073,55 +3082,67 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.w3.org/wiki/Socialwg&#34;&gt;https://www.w3.org/wiki/Socialwg&lt;/a&gt; - &lt;strong&gt;The Social Web Working Group was active 2014-07-21 to 2018-02-13.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.w3.org/2013/socialweb/social-wg-charter&#34;&gt;Social Web Working Group Charter &lt;strong&gt;CLOSED&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://indieweb.org/Social_Web_Working_Group&#34;&gt;https://indieweb.org/Social_Web_Working_Group&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/we-distribute/faces-of-the-federation-christopher-allan-webber-on-mediagoblin-and-activitypub-24bbe212867e&#34;&gt;Christopher Lemmer Webber on MediaGoblin and ActivityPub&lt;/a&gt;
-&amp;gt;Here’s a shortlist of things I think are priorities for the SocialCG:
-&amp;gt;
-&amp;gt;* Most importantly, the SocialCG is a space for implementors to talk and collaborate and to incubate new and interesting things.
-&amp;gt;* More work on anti-abuse and anti-spam tools.
-&amp;gt;* Decentralized identity. For instance, Hubzilla has “nomadic identity” in that posts are really tied to your public key fingerprint, and in a sense that’s more your username than anything else. But it would be good to be able to rotate your key, so Decentralized Identifiers are interesting work in that direction. (I actually do some work on this through my job at Digital Bazaar, though it isn’t yet connected to federated social networks.)
-&amp;gt;* Merging peer to peer networks and federated networks. I see that some people have started exploring running ActivityPub instances over Tor onion services. More stuff like that!
-&amp;gt;* I think there’s a ton to be learned from the object capability security community. Petnames, etc etc.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://news.ycombinator.com/item?id=14516923&#34;&gt;aaronpk on June 8, 2017 | on: Ask HN: What are we doing about Facebook, Google, &amp;hellip;&lt;/a&gt;
-&amp;gt; I am a member of the W3C Social Web Working Group (&lt;a href=&#34;https://www.w3.org/wiki/Socialwg&#34;&gt;https://www.w3.org/wiki/Socialwg&lt;/a&gt;), and have been organizing IndieWebCamp (&lt;a href=&#34;https://indieweb.org/&#34;&gt;https://indieweb.org/&lt;/a&gt;) conferences in this space for the last 7 years. We&amp;rsquo;ve been making a lot of progress:
-&amp;gt;* &lt;a href=&#34;https://www.w3.org/TR/webmention/&#34;&gt;https://www.w3.org/TR/webmention/&lt;/a&gt; - cross-site commenting
-&amp;gt;
-&amp;gt;* &lt;a href=&#34;https://www.w3.org/TR/micropub/&#34;&gt;https://www.w3.org/TR/micropub/&lt;/a&gt; - API for apps to create posts on various servers
-&amp;gt;
-&amp;gt;* &lt;a href=&#34;https://www.w3.org/TR/websub/&#34;&gt;https://www.w3.org/TR/websub/&lt;/a&gt; - realtime subscriptions to feeds
-&amp;gt;
-&amp;gt;* More: &lt;a href=&#34;https://indieweb.org/specs&#34;&gt;https://indieweb.org/specs&lt;/a&gt;
-&amp;gt;
-&amp;gt;We focus on making sure there are a plurality of implementations and approaches rather than trying to build a single software solution to solve everything.
-&amp;gt;
-&amp;gt;Try commenting on my copy of this post on my website by sending me a webmention! &lt;a href=&#34;https://aaronparecki.com/2017/06/08/9/indieweb&#34;&gt;https://aaronparecki.com/2017/06/08/9/indieweb&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://news.ycombinator.com/item?id=14517803&#34;&gt;aaronpk on June 8, 2017&lt;/a&gt;
-&amp;gt;
-&amp;gt; Micropub clients: &lt;a href=&#34;https://indieweb.org/Micropub/Clients&#34;&gt;https://indieweb.org/Micropub/Clients&lt;/a&gt;
-&amp;gt; Micropub servers: &lt;a href=&#34;https://indieweb.org/Micropub/Servers&#34;&gt;https://indieweb.org/Micropub/Servers&lt;/a&gt;
-&amp;gt;
-&amp;gt;Webmention implementations: &lt;a href=&#34;https://indieweb.org/Webmention&#34;&gt;https://indieweb.org/Webmention&lt;/a&gt;
-&amp;gt;
-&amp;gt; More details: &lt;a href=&#34;https://indieweb.org/indieweb_network&#34;&gt;https://indieweb.org/indieweb_network&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://news.ycombinator.com/item?id=14517884&#34;&gt;reedlaw on June 8, 2017&lt;/a&gt;
-&amp;gt; This looks like a good start for a personal blog site: &lt;a href=&#34;https://github.com/barryf/transformative&#34;&gt;https://github.com/barryf/transformative&lt;/a&gt;
-&amp;gt; I found this on the Webmention Implementation Report [1].
-&amp;gt;
-&amp;gt; 1. &lt;a href=&#34;https://webmention.net/implementation-reports/summary/&#34;&gt;https://webmention.net/implementation-reports/summary/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/Social_Web_Working_Group&#34;&gt;Social_Web_Working_Group&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Here’s a shortlist of things I think are priorities for the SocialCG:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Most importantly, the SocialCG is a space for implementors to talk and collaborate and to incubate new and interesting things.&lt;/li&gt;
+&lt;li&gt;More work on anti-abuse and anti-spam tools.&lt;/li&gt;
+&lt;li&gt;Decentralized identity. For instance, Hubzilla has “nomadic identity” in that posts are really tied to your public key fingerprint, and in a sense that’s more your username than anything else. But it would be good to be able to rotate your key, so Decentralized Identifiers are interesting work in that direction. (I actually do some work on this through my job at Digital Bazaar, though it isn’t yet connected to federated social networks.)&lt;/li&gt;
+&lt;li&gt;Merging peer to peer networks and federated networks. I see that some people have started exploring running ActivityPub instances over Tor onion services. More stuff like that!&lt;/li&gt;
+&lt;li&gt;I think there’s a ton to be learned from the object capability security community. Petnames, etc etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;-&lt;a href=&#34;https://medium.com/we-distribute/faces-of-the-federation-christopher-allan-webber-on-mediagoblin-and-activitypub-24bbe212867e&#34;&gt;Christopher Lemmer Webber on MediaGoblin and ActivityPub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a member of the W3C Social Web Working Group (&lt;a href=&#34;https://www.w3.org/wiki/Socialwg&#34;&gt;https://www.w3.org/wiki/Socialwg&lt;/a&gt;), and have been organizing IndieWebCamp (&lt;a href=&#34;https://indieweb.org/&#34;&gt;https://indieweb.org/&lt;/a&gt;) conferences in this space for the last 7 years. We&amp;rsquo;ve been making a lot of progress:
+* &lt;a href=&#34;https://www.w3.org/TR/webmention/&#34;&gt;https://www.w3.org/TR/webmention/&lt;/a&gt; - cross-site commenting&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.w3.org/TR/micropub/&#34;&gt;https://www.w3.org/TR/micropub/&lt;/a&gt; - API for apps to create posts on various servers&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.w3.org/TR/websub/&#34;&gt;https://www.w3.org/TR/websub/&lt;/a&gt; - realtime subscriptions to feeds&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;More: &lt;a href=&#34;https://indieweb.org/specs&#34;&gt;https://indieweb.org/specs&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We focus on making sure there are a plurality of implementations and approaches rather than trying to build a single software solution to solve everything.&lt;/p&gt;
+
+&lt;p&gt;Try commenting on my copy of this post on my website by sending me a webmention! &lt;a href=&#34;https://aaronparecki.com/2017/06/08/9/indieweb&#34;&gt;https://aaronparecki.com/2017/06/08/9/indieweb&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&#34;https://news.ycombinator.com/item?id=14516923&#34;&gt;[aaronpk on June 8, 2017 | on: Ask HN: What are we doing about Facebook, Google, &amp;hellip;]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Micropub clients: &lt;a href=&#34;https://indieweb.org/Micropub/Clients&#34;&gt;https://indieweb.org/Micropub/Clients&lt;/a&gt;
+Micropub servers: &lt;a href=&#34;https://indieweb.org/Micropub/Servers&#34;&gt;https://indieweb.org/Micropub/Servers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Webmention implementations: &lt;a href=&#34;https://indieweb.org/Webmention&#34;&gt;https://indieweb.org/Webmention&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More details: &lt;a href=&#34;https://indieweb.org/indieweb_network&#34;&gt;https://indieweb.org/indieweb_network&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&#34;https://news.ycombinator.com/item?id=14517803&#34;&gt;[aaronpk on June 8, 2017]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This looks like a good start for a personal blog site: &lt;a href=&#34;https://github.com/barryf/transformative&#34;&gt;https://github.com/barryf/transformative&lt;/a&gt;
+I found this on the Webmention Implementation Report [1].&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://webmention.net/implementation-reports/summary/&#34;&gt;https://webmention.net/implementation-reports/summary/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;-&lt;a href=&#34;https://news.ycombinator.com/item?id=14517884&#34;&gt;[reedlaw on June 8, 2017]&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&#34;activity-pub&#34;&gt;Activity Pub&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/activitypub-decentralized-distributed.md&#34;&gt;ActivityPub: from decentralized to distributed social networks&lt;/a&gt;
-&amp;gt; ActivityPub is a protocol being developed at the W3C for the purpose of building federated social systems. Users can use implementations of ActivityPub like Mastodon and MediaGoblin as libre alternatives to large siloed social networking systems such as Facebook, Twitter, YouTube, and Instagram.1
-&amp;gt;
-&amp;gt;In general ActivityPub follows the client-server paradigm that has been popular on the World Wide Web, while restoring some level of decentralization. Current implementations of ActivityPub go as far as to bring a level of decentralization akin to email,2 but there are many opportunities to go further.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ActivityPub is a protocol being developed at the W3C for the purpose of building federated social systems. Users can use implementations of ActivityPub like Mastodon and MediaGoblin as libre alternatives to large siloed social networking systems such as Facebook, Twitter, YouTube, and Instagram.1&lt;/p&gt;
+
+&lt;p&gt;In general ActivityPub follows the client-server paradigm that has been popular on the World Wide Web, while restoring some level of decentralization. Current implementations of ActivityPub go as far as to bring a level of decentralization akin to email,2 but there are many opportunities to go further.&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&#34;https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/activitypub-decentralized-distributed.md&#34;&gt;[ActivityPub: from decentralized to distributed social networks]&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
