@@ -86,7 +86,7 @@ This bit of code is no longer displaying properly, so I'm going to leave it raw,
 
 ## [herestomwiththeweather.com](https://herestomwiththeweather.com) 
 
-I got the Indieweb Jekyll Theme (^^^ this site uses), here:
+I got the Indieweb Jekyll Theme (^^^ this site uses v1 of), here:
 
 * [miklb/jekyll-indieweb](https://github.com/miklb/jekyll-indieweb)
   * [Jekyll-Indieweb and Micropub](https://herestomwiththeweather.com/2017/11/27/jekyll-indieweb-and-micropub/)
@@ -94,9 +94,7 @@ I got the Indieweb Jekyll Theme (^^^ this site uses), here:
   * [Blog Moved to GitHub Pages](https://herestomwiththeweather.com/2016/09/25/blog-moved-to-github-pages/)
   * [Indieweb Summit 2018](https://herestomwiththeweather.com/2018/06/28/indieweb-summit-2018-thoughts/)
 
-I'm excited too because Tom was at the [IIW where RWoT was first presented](https://herestomwiththeweather.com/2015/10/28/iiw21/), and many others. 
-
-If you're been on this site for very long, you'll notice that I'm quite passionate about [Decentralized Identity](https://infominer.id/DIDecentralized).
+Tom was at the [IIW where RWoT was first presented](https://herestomwiththeweather.com/2015/10/28/iiw21/), and many others. 
 
 ## Web Apps
 
@@ -210,6 +208,8 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 * [Social Web Working Group Charter **CLOSED**](https://www.w3.org/2013/socialweb/social-wg-charter)
 * [Social_Web_Working_Group](https://indieweb.org/Social_Web_Working_Group)
 
+---
+
 >Here’s a shortlist of things I think are priorities for the SocialCG:
 >
 >* Most importantly, the SocialCG is a space for implementors to talk and collaborate and to incubate new and interesting things.
@@ -220,6 +220,7 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 >
 >-[Christopher Lemmer Webber on MediaGoblin and ActivityPub](https://medium.com/we-distribute/faces-of-the-federation-christopher-allan-webber-on-mediagoblin-and-activitypub-24bbe212867e)
 
+---
 
 > I am a member of the W3C Social Web Working Group (https://www.w3.org/wiki/Socialwg), and have been organizing IndieWebCamp (https://indieweb.org/) conferences in this space for the last 7 years. We've been making a lot of progress:
 >* https://www.w3.org/TR/webmention/ - cross-site commenting
@@ -236,7 +237,7 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 >
 >-[[aaronpk on June 8, 2017 | on: Ask HN: What are we doing about Facebook, Google, ...]](https://news.ycombinator.com/item?id=14516923)
 
-
+---
 
 > Micropub clients: https://indieweb.org/Micropub/Clients
 > Micropub servers: https://indieweb.org/Micropub/Servers
@@ -247,6 +248,8 @@ If you're been on this site for very long, you'll notice that I'm quite passiona
 >
 >-[[aaronpk on June 8, 2017]](https://news.ycombinator.com/item?id=14517803)
 
+
+---
 
 > This looks like a good start for a personal blog site: https://github.com/barryf/transformative
 > I found this on the Webmention Implementation Report [1].

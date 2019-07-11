@@ -2910,7 +2910,7 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 
 &lt;h2 id=&#34;herestomwiththeweather-com-https-herestomwiththeweather-com&#34;&gt;&lt;a href=&#34;https://herestomwiththeweather.com&#34;&gt;herestomwiththeweather.com&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;I got the Indieweb Jekyll Theme (^^^ this site uses), here:&lt;/p&gt;
+&lt;p&gt;I got the Indieweb Jekyll Theme (^^^ this site uses v1 of), here:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/miklb/jekyll-indieweb&#34;&gt;miklb/jekyll-indieweb&lt;/a&gt;
@@ -2923,9 +2923,7 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I&amp;rsquo;m excited too because Tom was at the &lt;a href=&#34;https://herestomwiththeweather.com/2015/10/28/iiw21/&#34;&gt;IIW where RWoT was first presented&lt;/a&gt;, and many others.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re been on this site for very long, you&amp;rsquo;ll notice that I&amp;rsquo;m quite passionate about &lt;a href=&#34;https://infominer.id/DIDecentralized&#34;&gt;Decentralized Identity&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tom was at the &lt;a href=&#34;https://herestomwiththeweather.com/2015/10/28/iiw21/&#34;&gt;IIW where RWoT was first presented&lt;/a&gt;, and many others.&lt;/p&gt;
 
 &lt;h2 id=&#34;web-apps&#34;&gt;Web Apps&lt;/h2&gt;
 
@@ -3085,6 +3083,8 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://indieweb.org/Social_Web_Working_Group&#34;&gt;Social_Web_Working_Group&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;hr /&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;Here’s a shortlist of things I think are priorities for the SocialCG:&lt;/p&gt;
 
@@ -3097,7 +3097,11 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;-&lt;a href=&#34;https://medium.com/we-distribute/faces-of-the-federation-christopher-allan-webber-on-mediagoblin-and-activitypub-24bbe212867e&#34;&gt;Christopher Lemmer Webber on MediaGoblin and ActivityPub&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
 &lt;p&gt;I am a member of the W3C Social Web Working Group (&lt;a href=&#34;https://www.w3.org/wiki/Socialwg&#34;&gt;https://www.w3.org/wiki/Socialwg&lt;/a&gt;), and have been organizing IndieWebCamp (&lt;a href=&#34;https://indieweb.org/&#34;&gt;https://indieweb.org/&lt;/a&gt;) conferences in this space for the last 7 years. We&amp;rsquo;ve been making a lot of progress:
 * &lt;a href=&#34;https://www.w3.org/TR/webmention/&#34;&gt;https://www.w3.org/TR/webmention/&lt;/a&gt; - cross-site commenting&lt;/p&gt;
 
@@ -3114,7 +3118,11 @@ Forked from w3c/strong-authentication-and-identity-workshop&lt;/li&gt;
 &lt;p&gt;Try commenting on my copy of this post on my website by sending me a webmention! &lt;a href=&#34;https://aaronparecki.com/2017/06/08/9/indieweb&#34;&gt;https://aaronparecki.com/2017/06/08/9/indieweb&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;-&lt;a href=&#34;https://news.ycombinator.com/item?id=14516923&#34;&gt;[aaronpk on June 8, 2017 | on: Ask HN: What are we doing about Facebook, Google, &amp;hellip;]&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
 &lt;p&gt;Micropub clients: &lt;a href=&#34;https://indieweb.org/Micropub/Clients&#34;&gt;https://indieweb.org/Micropub/Clients&lt;/a&gt;
 Micropub servers: &lt;a href=&#34;https://indieweb.org/Micropub/Servers&#34;&gt;https://indieweb.org/Micropub/Servers&lt;/a&gt;&lt;/p&gt;
 
@@ -3123,7 +3131,11 @@ Micropub servers: &lt;a href=&#34;https://indieweb.org/Micropub/Servers&#34;&gt;
 &lt;p&gt;More details: &lt;a href=&#34;https://indieweb.org/indieweb_network&#34;&gt;https://indieweb.org/indieweb_network&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;-&lt;a href=&#34;https://news.ycombinator.com/item?id=14517803&#34;&gt;[aaronpk on June 8, 2017]&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
 &lt;p&gt;This looks like a good start for a personal blog site: &lt;a href=&#34;https://github.com/barryf/transformative&#34;&gt;https://github.com/barryf/transformative&lt;/a&gt;
 I found this on the Webmention Implementation Report [1].&lt;/p&gt;
 
