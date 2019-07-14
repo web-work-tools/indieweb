@@ -59,18 +59,12 @@ Eventually this will live along in the same site with web-work.. though I'm not 
 
 ### SEO
 
-<<<<<<< HEAD
-* [Learn-SEO](https://web-work.tools/learn-seo/)
-  * [Getting Started with Adwords Keyword Planner](https://web-work.tools/getting-started-adwords-keyword-planner/)
-* [100s of free SEO Tools](https://web-work.tools/seo-tools/)
-=======
 ![](https://web-work.tools/images/power-words.png)
 
 
 * [Learn-SEO](https://webwork.tools/learn-seo/)
   * [Getting Started with Adwords Keyword Planner](https://webwork.tools/getting-started-adwords-keyword-planner/)
 * [100s of free SEO Tools](https://webwork.tools/seo-tools/)
->>>>>>> 12f33e341de9cef3c4b15da9259e41d37436e69e
 
 
 ## Off-Site Resources
