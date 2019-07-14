@@ -1,8 +1,8 @@
+![](https://web-work.tools/images/webwork.tools.jpg)
+
+This is the old readme for web-work tools... needs updating now that indieweb is it's own separate site branching off.
+
 # [Webwork.tools](https://web-work.tools)
-
-
-![](https://web-work.tools/images/webwork-tools.png)
-
 
 This blog is where I document my journey as an independent web-worker, and will grow to include contributions from other indie workers of the web.
 
