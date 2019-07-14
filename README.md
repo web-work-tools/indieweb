@@ -1,17 +1,10 @@
-# web-work.tools
-Apparently github won't publish this from the docs, so I moved the project to GitLab, and will keep it mirrored.
-
-https://gitlab.com/infominer33/website
-
-Please see >>>>>>
-
 # [Webwork.tools](https://web-work.tools)
 
 
 ![](https://web-work.tools/images/webwork-tools.png)
 
 
-This blog is where I document my journey as an independent web-worker, and will grow to include contributions from other independent workers of the web.
+This blog is where I document my journey as an independent web-worker, and will grow to include contributions from other indie workers of the web.
 
 This page has some samples of content that I've created for others, as well as general resources for web-work.
 
