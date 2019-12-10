@@ -1,5 +1,4 @@
 ---
-type: post
 title: "FreeNode IRC #indieweb-dev on IIW RWoT and DID's"
 description: "Conversation about RWoT and DIDs at #indieweb-dev on Freenode"
 summary: What I'm hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.

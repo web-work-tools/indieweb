@@ -6,7 +6,7 @@ summary: "When you join the wiki you help our community grow and also provide do
 categories: ["participation", "wiki"]
 tags: ["IndieWebCamp"]
 date: "2019-06-26T01:13:33-23:00"
-draft: false
+draft: true
 slug: /indiewebcamp/wiki-participation/
 ---
 

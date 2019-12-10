@@ -6,7 +6,7 @@ summary: "Be respectful of other people, respectfully ask people to stop if you 
 categories: ["IndieWebCamp"]
 tags: ["code-of-conduct", "wiki", "principles"]
 date: "2019-06-26T01:13:33-23:00"
-draft: false
+draft: true
 slug: /indiewebcamp/code-of-conduct/
 ---
 

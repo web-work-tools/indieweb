@@ -1,8 +1,9 @@
 publishdir = "docs"
 enableEmoji = true
-  
+noTimes=true
+
 baseurl = "https://web-work.tools/indieweb/"
-title = "Static Sites for an IndieWeb"
+title = "Indieweb Jamstack Curated"
 copyright = "⧉ Infominer ⧉ Content: CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo ⧉"
 languageCode = "en-gb"
 theme = "indigo"

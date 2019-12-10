@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wiki on Static Sites for an IndieWeb</title>
@@ -11,15 +11,6 @@
     
 	<atom:link href="https://web-work.tools/indieweb/categories/wiki/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>IndieWebCamp - Participating with the Wiki</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp/wiki-participation/</link>
-      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/indiewebcamp/wiki-participation/</guid>
-      <description>When you join the wiki you help our community grow and also provide documentation of your journey. This helps the next person who, like you, wants to control their data in the place that they own.</description>
-    </item>
     
     <item>
       <title>IndieWebCamp - Specifications</title>

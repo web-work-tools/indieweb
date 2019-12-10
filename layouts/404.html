@@ -3,9 +3,9 @@
 {{ partial "head.html" . }}
 <body>
     <div id="sitelogo">
-        <a class="glyph" alt="Home" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}images/site-logo.svg" alt="Site Logo" height="64px" width="64px"></a>
+        <a class="glyph" alt="Home" href="{{ .Site.BaseURL }}"><img src={{ "images/site-logo.svg" | absURL }} alt="Site Logo" height="64px" width="64px"></a>
     </div>
-    <header>        
+    <header>
         {{ partial "pagenav.html" . }}
         <h1 class="post-title">404</h1>
     </header>

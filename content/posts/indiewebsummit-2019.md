@@ -1,5 +1,4 @@
 ---
-type: post
 title: "IndieWeb Summit 2019 - Day 1 Livestream Companion"
 description: "A review of IndieWeb Summit 2019 - Day 1 livestream, including relevant links and essential information."
 summary: "The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It's crucial to have independent web creators from all backgrounds...."

@@ -1,5 +1,4 @@
 ---
-type: page
 title: "Git Repos"
 description: "A Growing Collection of IndieWeb GitHub Repositories."
 summary: "A start at exploring IndieWeb Topics"

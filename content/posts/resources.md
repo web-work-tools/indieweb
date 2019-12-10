@@ -1,5 +1,4 @@
 ---
-type: post
 title: Resources
 date: "2019-05-19T11:22:33-23:00"
 categories: ["Resources","SSG4"]

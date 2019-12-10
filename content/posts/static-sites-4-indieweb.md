@@ -1,5 +1,4 @@
 ---
-type: post
 title: " SSG4"
 description: "Static Sites for an Indieweb - Open-source, public domain, educational initiative for applying indieweb principles to static site web-publishing"
 summary: "Static Sites for an Indieweb - Open-Source, Public Domain - Applying IndieWeb principles to Static Web-Publishing."

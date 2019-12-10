@@ -1,6 +1,5 @@
 ---
-type: post
-title: "Indigo "
+title: "Indigo Features"
 description: "Indigo is a A Hugo theme, designed with indieweb in mind."
 summary: "Features: The following classes are used to mark up the author bio for Indieweb parsing: h-card, u-photo, p-name, u-url, rel=me, p-locality, p-country-name, u-email, p-note."
 categories: ["indigo","specifications"]

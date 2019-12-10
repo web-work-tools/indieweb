@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Indiweb Principles: Unpacked"
 description: "To grow more familiar with the principles of IndieWeb, I present the IndieWeb Principles, as found on indiweb.org/principles/"
 summary: "The IndieWeb Community is largely based on principles (AKA tenets) such as own your data, scratch your own itches, build tools for yourself, selfdogfood, document your stuff, open source [...] remember to have fun!"

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code-of-conduct on Static Sites for an IndieWeb</title>
@@ -18,16 +18,7 @@
       <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/summit/2019/day-one/</guid>
-      <description>The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It&amp;rsquo;s crucial to have independent web creators from all backgrounds&amp;hellip;.</description>
-    </item>
-    
-    <item>
-      <title>IndieWebCamp - Code of Conduct</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</link>
-      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</guid>
-      <description>Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can&amp;rsquo;t resolve an issue, contact staff. If you are being a problem, it will be apparent and you&amp;rsquo;ll be asked to leave.</description>
+      <description>The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It&#39;s crucial to have independent web creators from all backgrounds&amp;hellip;.</description>
     </item>
     
   </channel>

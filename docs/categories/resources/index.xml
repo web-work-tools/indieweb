@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>resources on Static Sites for an IndieWeb</title>
@@ -18,7 +18,7 @@
       <pubDate>Mon, 03 Jun 2019 11:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/indieweb-dev-on-did/</guid>
-      <description>What I&amp;rsquo;m hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.</description>
+      <description>What I&#39;m hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.</description>
     </item>
     
     <item>

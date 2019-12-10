@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Static Sites for an IndieWeb</title>
@@ -27,25 +27,7 @@
       <pubDate>Sat, 29 Jun 2019 01:13:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/summit/2019/day-one/</guid>
-      <description>The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It&amp;rsquo;s crucial to have independent web creators from all backgrounds&amp;hellip;.</description>
-    </item>
-    
-    <item>
-      <title>IndieWebCamp - Code of Conduct</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</link>
-      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/indiewebcamp/code-of-conduct/</guid>
-      <description>Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can&amp;rsquo;t resolve an issue, contact staff. If you are being a problem, it will be apparent and you&amp;rsquo;ll be asked to leave.</description>
-    </item>
-    
-    <item>
-      <title>IndieWebCamp - Participating with the Wiki</title>
-      <link>https://web-work.tools/indieweb/indiewebcamp/wiki-participation/</link>
-      <pubDate>Wed, 26 Jun 2019 01:13:33 -2300</pubDate>
-      
-      <guid>https://web-work.tools/indieweb/indiewebcamp/wiki-participation/</guid>
-      <description>When you join the wiki you help our community grow and also provide documentation of your journey. This helps the next person who, like you, wants to control their data in the place that they own.</description>
+      <description>The IndieWeb community is building the foundation of a web controlled by individuals for themselves. It&#39;s crucial to have independent web creators from all backgrounds&amp;hellip;.</description>
     </item>
     
     <item>
@@ -81,7 +63,7 @@
       <pubDate>Mon, 03 Jun 2019 11:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/indieweb-dev-on-did/</guid>
-      <description>What I&amp;rsquo;m hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.</description>
+      <description>What I&#39;m hoping for is that folk in the DID community will consider integrating with IndieAuth. This would enable easy adoption for website owners, and make the logical connection between DID and IndieAuth.</description>
     </item>
     
     <item>
@@ -99,7 +81,7 @@
       <pubDate>Mon, 01 Oct 2018 11:22:33 -2300</pubDate>
       
       <guid>https://web-work.tools/indieweb/indigo/intro/</guid>
-      <description>&lt;p&gt;Indigo is a lightweight theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://indieweb.org&#34;&gt;IndieWeb&lt;/a&gt; features baked in. It&amp;rsquo;s great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Indigo is a lightweight theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://indieweb.org&#34;&gt;IndieWeb&lt;/a&gt; features baked in. It&#39;s great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.&lt;/p&gt;</description>
     </item>
     
   </channel>
