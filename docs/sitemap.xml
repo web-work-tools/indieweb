@@ -18,17 +18,17 @@
   </url>
   
   <url>
+    <loc>https://web-work.tools/indieweb/</loc>
+    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://web-work.tools/indieweb/posts/</loc>
     <lastmod>2019-06-30T01:13:33-23:00</lastmod>
   </url>
   
   <url>
     <loc>https://web-work.tools/indieweb/categories/ssg4/</loc>
-    <lastmod>2019-06-30T01:13:33-23:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://web-work.tools/indieweb/</loc>
     <lastmod>2019-06-30T01:13:33-23:00</lastmod>
   </url>
   
@@ -88,12 +88,12 @@
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/tags/indiewebcamp/</loc>
+    <loc>https://web-work.tools/indieweb/categories/indiewebcamp/</loc>
     <lastmod>2019-06-26T01:13:33-23:00</lastmod>
   </url>
   
   <url>
-    <loc>https://web-work.tools/indieweb/categories/indiewebcamp/</loc>
+    <loc>https://web-work.tools/indieweb/tags/indiewebcamp/</loc>
     <lastmod>2019-06-26T01:13:33-23:00</lastmod>
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>h-card on Static Sites for an IndieWeb</title>
+    <title>h-card on Indieweb Jamstack Curated</title>
     <link>https://web-work.tools/indieweb/tags/h-card/</link>
-    <description>Recent content in h-card on Static Sites for an IndieWeb</description>
+    <description>Recent content in h-card on Indieweb Jamstack Curated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ Content: CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo ⧉</copyright>
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Indigo </title>
+      <title>Indigo Features</title>
       <link>https://web-work.tools/indieweb/indigo/features/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       

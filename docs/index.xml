@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Static Sites for an IndieWeb</title>
+    <title>Indieweb Jamstack Curated</title>
     <link>https://web-work.tools/indieweb/</link>
-    <description>Recent content on Static Sites for an IndieWeb</description>
+    <description>Recent content on Indieweb Jamstack Curated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>⧉ Infominer ⧉ Content: CC0 - Public Domain ⧉ Powered by: themes.gohugo.io/indigo ⧉</copyright>
@@ -910,7 +910,7 @@ Søren Kierkegaard, introduction to Provocations&lt;/p&gt;
     </item>
     
     <item>
-      <title>Indigo </title>
+      <title>Indigo Features</title>
       <link>https://web-work.tools/indieweb/indigo/features/</link>
       <pubDate>Sat, 22 Jun 2019 01:22:33 -2300</pubDate>
       
