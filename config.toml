@@ -18,6 +18,7 @@ paginate = 8
   ShowBio = true
   PermalinkText = "🔗"
   images = "https://web-work.tools/indieweb/images/indieweb.jpg"
+  mainSections = ["post"]
 
   # Contact/social-network identifiers for social icons
   EmailAddress = "infominer@protonmail.com"
